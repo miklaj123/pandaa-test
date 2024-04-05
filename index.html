@@ -122,7 +122,6 @@
         <h1>Wyszukiwarka Miasta</h1>
         <div>
             <input type="text" id="fileNameInput" placeholder="Nazwa miasta">
-            <input type="text" id="streetInput" placeholder="Nazwa ulicy"> <!-- Dodany input do wprowadzania nazwy ulicy -->
             <button onclick="searchCity()">Wyszukaj</button>
         </div>
         <table id="resultsTable">
@@ -132,7 +131,7 @@
                     <th>Nazwisko</th>
                     <th>Numer Telefonu</th>
                     <th>Miasto</th>
-                    <th>Ulica</th> <!-- Dodany nagłówek kolumny dla ulicy -->
+                    <th>Ulica</th> <!-- Kolumna Ulica pojawi się tutaj -->
                     <th>Kraj</th>
                     <th>Adres Pocztowy</th>
                 </tr>
@@ -146,12 +145,11 @@
     <script>
         function searchCity() {
             const cityName = document.getElementById('fileNameInput').value.trim().toLowerCase();
-            const streetName = document.getElementById('streetInput').value.trim(); // Pobieramy wprowadzoną nazwę ulicy
-            if (!cityName && !streetName) { // Sprawdzamy, czy zostały wprowadzone nazwy miasta i ulicy
-                document.getElementById('resultsBody').innerHTML = `<tr><td colspan="7">Proszę wpisać nazwę miasta lub ulicy.</td></tr>`;
+            if (!cityName) {
+                document.getElementById('resultsBody').innerHTML = `<tr><td colspan="7">Proszę wpisać nazwę miasta.</td></tr>`;
                 return;
             }
-            
+
             clearResultsTable();
 
             const voivodeships = [
@@ -175,10 +173,7 @@
             let noDataForVoivodeships = [];
 
             voivodeships.forEach(voivodeship => {
-                let filePath = `test/${voivodeship}/${cityName}.json`;
-                if (streetName) { // Jeśli wprowadzono nazwę ulicy, modyfikujemy ścieżkę pliku
-                    filePath = `test/${voivodeship}/${cityName}/${streetName}.json`;
-                }
+                const filePath = `test/${voivodeship}/${cityName}.json`;
                 fetch(filePath)
                     .then(response => {
                         if (!response.ok) {
