@@ -68,11 +68,36 @@
             border-radius: 4px;
             font-size: 12px;
         }
+        .updates-dropdown {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            z-index: 1;
+            background-color: #fff;
+            border-radius: 4px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            display: none;
+        }
+        .updates-dropdown-content {
+            padding: 10px;
+        }
+        .updates-dropdown:hover .updates-dropdown-content {
+            display: block;
+        }
     </style>
 </head>
 <body>
     <div class="beta-tag">BETA</div>
     <div class="container">
+        <div class="updates-dropdown">
+            <span>Aktualizacje</span>
+            <div class="updates-dropdown-content">
+                <ul>
+                    <li>- Tło
+					<li>- Dodanie ulic
+                </ul>
+            </div>
+        </div>
         <h1>Wyszukiwarka Miasta</h1>
         <div>
             <input type="text" id="fileNameInput" placeholder="Nazwa miasta">
