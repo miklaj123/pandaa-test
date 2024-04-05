@@ -73,7 +73,7 @@
             position: absolute;
             top: 10px;
             left: 10px;
-            background-color: #e60b0b;
+            background-color: #d6211b;
             padding: 5px 10px;
             border-radius: 4px;
             cursor: pointer;
@@ -81,7 +81,7 @@
         .updates-dropdown-content {
             display: none;
             position: absolute;
-            background-color: #2e0202;
+            background-color: #15beb6;
             min-width: 160px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
             z-index: 1;
@@ -102,7 +102,7 @@
             color: blue;
         }
         .updates-dropdown-content ul li:hover {
-            background-color: #f2f2f2;
+            background-color: #1f969e;
         }
     </style>
 </head>
@@ -122,6 +122,7 @@
         <h1>Wyszukiwarka Miasta</h1>
         <div>
             <input type="text" id="fileNameInput" placeholder="Nazwa miasta">
+            <input type="text" id="streetInput" placeholder="Nazwa ulicy"> <!-- Dodany input do wprowadzania nazwy ulicy -->
             <button onclick="searchCity()">Wyszukaj</button>
         </div>
         <table id="resultsTable">
@@ -131,6 +132,7 @@
                     <th>Nazwisko</th>
                     <th>Numer Telefonu</th>
                     <th>Miasto</th>
+                    <th>Ulica</th> <!-- Dodany nagłówek kolumny dla ulicy -->
                     <th>Kraj</th>
                     <th>Adres Pocztowy</th>
                 </tr>
@@ -144,8 +146,9 @@
     <script>
         function searchCity() {
             const cityName = document.getElementById('fileNameInput').value.trim().toLowerCase();
-            if (!cityName) {
-                document.getElementById('resultsBody').innerHTML = `<tr><td colspan="6">Proszę wpisać nazwę miasta.</td></tr>`;
+            const streetName = document.getElementById('streetInput').value.trim(); // Pobieramy wprowadzoną nazwę ulicy
+            if (!cityName && !streetName) { // Sprawdzamy, czy zostały wprowadzone nazwy miasta i ulicy
+                document.getElementById('resultsBody').innerHTML = `<tr><td colspan="7">Proszę wpisać nazwę miasta lub ulicy.</td></tr>`;
                 return;
             }
             
@@ -172,7 +175,10 @@
             let noDataForVoivodeships = [];
 
             voivodeships.forEach(voivodeship => {
-                const filePath = `test/${voivodeship}/${cityName}.json`;
+                let filePath = `test/${voivodeship}/${cityName}.json`;
+                if (streetName) { // Jeśli wprowadzono nazwę ulicy, modyfikujemy ścieżkę pliku
+                    filePath = `test/${voivodeship}/${cityName}/${streetName}.json`;
+                }
                 fetch(filePath)
                     .then(response => {
                         if (!response.ok) {
@@ -198,7 +204,7 @@
             const resultsTable = document.getElementById('resultsBody');
             data.forEach(item => {
                 const row = document.createElement('tr');
-                row.innerHTML = `<td>${item.Imie || 'Brak'}</td><td>${item.Nazwisko || 'Brak'}</td><td>${item['Nr.Telefonu'] || 'Brak'}</td><td>${item.Miasto || 'Brak'}</td><td>${item.Kraj || 'Brak'}</td><td>${item['Adres Pocztowy'] || 'Brak'}</td>`;
+                row.innerHTML = `<td>${item.Imie || 'Brak'}</td><td>${item.Nazwisko || 'Brak'}</td><td>${item['Nr.Telefonu'] || 'Brak'}</td><td>${item.Miasto || 'Brak'}</td><td>${item.Ulica || 'Brak'}</td><td>${item.Kraj || 'Brak'}</td><td>${item['Adres Pocztowy'] || 'Brak'}</td>`;
                 resultsTable.appendChild(row);
             });
         }
@@ -207,7 +213,7 @@
             if (noDataForVoivodeships.length > 0) {
                 const resultsTable = document.getElementById('resultsBody');
                 const row = document.createElement('tr');
-                row.innerHTML = `<td colspan="6">Brak danych dla większości województw.</td>`;
+                row.innerHTML = `<td colspan="7">Brak danych dla większości województw.</td>`;
                 resultsTable.appendChild(row);
             }
         }
