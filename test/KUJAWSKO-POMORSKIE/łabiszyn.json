@@ -1,0 +1,93 @@
+[
+  {
+    "nw": "989236",
+    "nw_1": "102259212",
+    "Imie": "Emil",
+    "Nazwisko": "Śmierzchalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Łabiszyn",
+    "Ulica": "Farna 4/1",
+    "Adres Pocztowy": "89-210",
+    "Nr.Telefonu": "533883196"
+  },
+  {
+    "nw": "1621877",
+    "nw_1": "276944538",
+    "Imie": "Jarosław",
+    "Nazwisko": "Osiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Łabiszyn",
+    "Ulica": "Łabiszyn Barcińska 6",
+    "Adres Pocztowy": "89-210",
+    "Nr.Telefonu": "575722116"
+  },
+  {
+    "nw": "205695",
+    "nw_1": "478720089",
+    "Imie": "Wojtek",
+    "Nazwisko": "Nowicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Łabiszyn",
+    "Ulica": "Ojrzanowo 102A",
+    "Adres Pocztowy": "89-210",
+    "Nr.Telefonu": "532151642"
+  },
+  {
+    "nw": "353252",
+    "nw_1": "146064122",
+    "Imie": "adam",
+    "Nazwisko": "głodek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "łabiszyn",
+    "Ulica": "wielki sosnowiec 8",
+    "Adres Pocztowy": "89-210",
+    "Nr.Telefonu": "666524277"
+  },
+  {
+    "nw": "2117528",
+    "nw_1": "650489240",
+    "Imie": "Krzysztof",
+    "Nazwisko": "Wiktorowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Łabiszyn",
+    "Ulica": "Barcińska 2a",
+    "Adres Pocztowy": "89-210",
+    "Nr.Telefonu": "+48 690 273 347"
+  },
+  {
+    "nw": "2118553",
+    "nw_1": "880130097",
+    "Imie": "Michał",
+    "Nazwisko": "Gogoliński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Łabiszyn",
+    "Ulica": "Nowa 10/15",
+    "Adres Pocztowy": "89-210",
+    "Nr.Telefonu": "782035358"
+  },
+  {
+    "nw": "1895083",
+    "nw_1": "868403783",
+    "Imie": "Jakub",
+    "Nazwisko": "Białkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "łabiszyn",
+    "Ulica": "plac 1000-lecia 6/4",
+    "Adres Pocztowy": "0000",
+    "Nr.Telefonu": "725168496"
+  }
+]

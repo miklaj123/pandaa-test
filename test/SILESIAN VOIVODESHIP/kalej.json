@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "518183",
+    "nw_1": "664747388",
+    "Imie": "Marcel",
+    "Nazwisko": "Gazda",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Kalej",
+    "Ulica": "Kalej główna 74a",
+    "Adres Pocztowy": "42-130",
+    "Nr.Telefonu": "607 482 995"
+  },
+  {
+    "nw": "1842616",
+    "nw_1": "553471566",
+    "Imie": "Konrad",
+    "Nazwisko": "Walaszczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Kalej",
+    "Ulica": "Szkolna 12",
+    "Adres Pocztowy": "42-130",
+    "Nr.Telefonu": "666666746"
+  },
+  {
+    "nw": "2351557",
+    "nw_1": "431551851",
+    "Imie": "Patryk",
+    "Nazwisko": "Pandel",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Kalej",
+    "Ulica": "Kalej Polna 13",
+    "Adres Pocztowy": "42-130",
+    "Nr.Telefonu": "607091879"
+  },
+  {
+    "nw": "2330099",
+    "nw_1": "850117314",
+    "Imie": "Michał",
+    "Nazwisko": "Drewniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Kalej",
+    "Ulica": "ul. Główna 13c",
+    "Adres Pocztowy": "42-130",
+    "Nr.Telefonu": "531508408"
+  }
+]

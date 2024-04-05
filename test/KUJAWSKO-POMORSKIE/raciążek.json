@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "1228405",
+    "nw_1": "894618338",
+    "Imie": "Dawid",
+    "Nazwisko": "Baranowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Raciążek",
+    "Ulica": "Turzno 5/2",
+    "Adres Pocztowy": " Raciążek",
+    "Nr.Telefonu": "87-721",
+    "__parsed_extra": [
+      "+48502999730"
+    ]
+  },
+  {
+    "nw": "1673760",
+    "nw_1": "730549903",
+    "Imie": "wojtek",
+    "Nazwisko": "strzelecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Raciążek",
+    "Ulica": "Leśna 1b",
+    "Adres Pocztowy": "87-721",
+    "Nr.Telefonu": "782272394"
+  }
+]

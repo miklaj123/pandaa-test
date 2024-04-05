@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "217491",
+    "nw_1": "861103010",
+    "Imie": "Jakub",
+    "Nazwisko": "Kucharski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Czarny Las",
+    "Ulica": "Częstochowska 90",
+    "Adres Pocztowy": "42-233",
+    "Nr.Telefonu": "781278452"
+  },
+  {
+    "nw": "1363234",
+    "nw_1": "925629561",
+    "Imie": "Jadwiga",
+    "Nazwisko": "Soboniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Czarny Las",
+    "Ulica": "Częstochowska 137",
+    "Adres Pocztowy": "42-233",
+    "Nr.Telefonu": "+48532063614"
+  },
+  {
+    "nw": "715531",
+    "nw_1": "974987845",
+    "Imie": "Jan",
+    "Nazwisko": "Kociszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Czarny Las",
+    "Ulica": "Częstochowska"
+  }
+]

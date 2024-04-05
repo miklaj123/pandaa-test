@@ -1,0 +1,65 @@
+[
+  {
+    "nw": "1196325",
+    "nw_1": "342633993",
+    "Imie": "Marcel",
+    "Nazwisko": "Piwek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Rudniki",
+    "Ulica": "Górnicza 98",
+    "Adres Pocztowy": "42-421",
+    "Nr.Telefonu": "+48 507636975"
+  },
+  {
+    "nw": "1779908",
+    "nw_1": "901161915",
+    "Imie": "Jakub",
+    "Nazwisko": "Gawron",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Rudniki",
+    "Ulica": "Rudniki"
+  },
+  {
+    "nw": "1325877",
+    "nw_1": "820233436",
+    "Imie": "Szymon",
+    "Nazwisko": "Opydo",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Rudniki",
+    "Ulica": "ulica Cegielniana 8",
+    "Adres Pocztowy": "42-421",
+    "Nr.Telefonu": "730732004"
+  },
+  {
+    "nw": "2038858",
+    "nw_1": "768434603",
+    "Imie": "Konrad",
+    "Nazwisko": "Wnuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Rudniki",
+    "Ulica": "Brzozowa 13b",
+    "Adres Pocztowy": "42-421",
+    "Nr.Telefonu": "514457870"
+  },
+  {
+    "nw": "1141069",
+    "nw_1": "571505132",
+    "Imie": "Szymon",
+    "Nazwisko": "ROK",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Rudniki",
+    "Ulica": "Górnicza 21",
+    "Adres Pocztowy": "42-421",
+    "Nr.Telefonu": "+48 532335185"
+  }
+]

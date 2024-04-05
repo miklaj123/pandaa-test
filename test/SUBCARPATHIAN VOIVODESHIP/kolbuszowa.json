@@ -1,0 +1,80 @@
+[
+  {
+    "nw": "1297141",
+    "nw_1": "634555560",
+    "Imie": "szymon",
+    "Nazwisko": "rusin",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "kolbuszowa",
+    "Ulica": "tarnobrzeska 55",
+    "Adres Pocztowy": "36-100",
+    "Nr.Telefonu": "884607200"
+  },
+  {
+    "nw": "419752",
+    "nw_1": "955725888",
+    "Imie": "Jakub",
+    "Nazwisko": "Baran",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Kolbuszowa",
+    "Ulica": "Nowa wieś 19b",
+    "Adres Pocztowy": "36-100",
+    "Nr.Telefonu": "691629291"
+  },
+  {
+    "nw": "1297396",
+    "nw_1": "723860887",
+    "Imie": "karol",
+    "Nazwisko": "blat",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "kolbuszowa",
+    "Ulica": "Stanisława Krzaklewskiego 1e",
+    "Adres Pocztowy": "36-100",
+    "Nr.Telefonu": "881715100"
+  },
+  {
+    "nw": "1342221",
+    "nw_1": "954634760",
+    "Imie": "Albert",
+    "Nazwisko": "Opalinski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Kolbuszowa",
+    "Ulica": "Targowa 4",
+    "Adres Pocztowy": "36-100",
+    "Nr.Telefonu": "726016681"
+  },
+  {
+    "nw": "1912697",
+    "nw_1": "318029234",
+    "Imie": "Konrad",
+    "Nazwisko": "Pyra",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Kolbuszowa",
+    "Ulica": "Street Fredry 6",
+    "Adres Pocztowy": "36-100",
+    "Nr.Telefonu": "+48737840698"
+  },
+  {
+    "nw": "1508094",
+    "nw_1": "938017634",
+    "Imie": "eryk",
+    "Nazwisko": "wilk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "kolbuszowa",
+    "Ulica": "wiejska 34",
+    "Adres Pocztowy": "36-100",
+    "Nr.Telefonu": "533920433"
+  }
+]

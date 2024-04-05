@@ -1,0 +1,29 @@
+[
+  {
+    "nw": "728076",
+    "nw_1": "885909267",
+    "Imie": "Marcel",
+    "Nazwisko": "Temrowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Dolna Grupa",
+    "Ulica": "62B Dolna Grupa",
+    "Adres Pocztowy": "",
+    "Nr.Telefonu": "86-134",
+    "__parsed_extra": [
+      "07309084277"
+    ]
+  },
+  {
+    "nw": "159011",
+    "nw_1": "903003079",
+    "Imie": "Igor",
+    "Nazwisko": "August",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Dolna Grupa",
+    "Ulica": "Spacerowa 6"
+  }
+]

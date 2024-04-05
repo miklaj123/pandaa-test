@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "1064248",
+    "nw_1": "164929928",
+    "Imie": "Patryk",
+    "Nazwisko": "Pietruńko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Trzciel",
+    "Ulica": "Osiedle Jana III Sobieskiego",
+    "Adres Pocztowy": " 9",
+    "Nr.Telefonu": "66-320",
+    "__parsed_extra": [
+      "795296464"
+    ]
+  },
+  {
+    "nw": "1970930",
+    "nw_1": "887247260",
+    "Imie": "Jan",
+    "Nazwisko": "Dawidowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Trzciel",
+    "Ulica": "Os. Jana III Sobieskiego 21",
+    "Adres Pocztowy": "66-320",
+    "Nr.Telefonu": "+48784833985"
+  }
+]

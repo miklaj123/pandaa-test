@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "2221446",
+    "nw_1": "540371528",
+    "Imie": "Aleksander",
+    "Nazwisko": "Sekuła",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Domasław",
+    "Ulica": "Słoneczna 2"
+  },
+  {
+    "nw": "2247958",
+    "nw_1": "159525837",
+    "Imie": "Aleksander",
+    "Nazwisko": "Janke",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Domasław",
+    "Ulica": "Brzozowa 22a",
+    "Adres Pocztowy": "55-040",
+    "Nr.Telefonu": "733944311"
+  },
+  {
+    "nw": "484018",
+    "nw_1": "996608229",
+    "Imie": "Filip",
+    "Nazwisko": "Kamiiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Domasław",
+    "Ulica": "Brzozowa 12 Domasław",
+    "Adres Pocztowy": "55-040",
+    "Nr.Telefonu": "+48790830999"
+  }
+]

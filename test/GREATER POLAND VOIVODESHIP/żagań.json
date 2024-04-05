@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "1165539",
+    "nw_1": "531456790",
+    "Imie": "Jakub",
+    "Nazwisko": "Kubiś",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Żagań",
+    "Ulica": "Żagań Nowogródzka 26 ",
+    "Adres Pocztowy": " Lubuskie",
+    "Nr.Telefonu": "68-100",
+    "__parsed_extra": [
+      "721668588"
+    ]
+  },
+  {
+    "nw": "1754838",
+    "nw_1": "208413376",
+    "Imie": "Marcel",
+    "Nazwisko": "Bogdanowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Żagań",
+    "Ulica": "Łużycka 3/6",
+    "Adres Pocztowy": "68-100",
+    "Nr.Telefonu": "579978605"
+  },
+  {
+    "nw": "1891781",
+    "nw_1": "340638419",
+    "Imie": "wojtek",
+    "Nazwisko": "wachniewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "żagań",
+    "Ulica": "Przyjaciół żołnierza 11a/5 68-100 żagań",
+    "Adres Pocztowy": "882",
+    "Nr.Telefonu": "882898927"
+  }
+]

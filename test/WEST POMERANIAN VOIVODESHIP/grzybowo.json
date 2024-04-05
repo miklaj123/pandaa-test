@@ -1,0 +1,73 @@
+[
+  {
+    "nw": "2193897",
+    "nw_1": "683584111",
+    "Imie": "Violetta",
+    "Nazwisko": "Nitkowska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Grzybowo",
+    "Ulica": "JAGODOWA18",
+    "Adres Pocztowy": " 78-132 GRZYBOWO",
+    "Nr.Telefonu": "78-132",
+    "__parsed_extra": [
+      "+48 693023005"
+    ]
+  },
+  {
+    "nw": "1297105",
+    "nw_1": "317166111",
+    "Imie": "Jakub",
+    "Nazwisko": "Bazyliński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Grzybowo",
+    "Ulica": "Akacjowa 22",
+    "Adres Pocztowy": "78-132",
+    "Nr.Telefonu": "796345611"
+  },
+  {
+    "nw": "835943",
+    "nw_1": "548680074",
+    "Imie": "Patryk",
+    "Nazwisko": "Szulim",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Grzybowo",
+    "Ulica": "Łąkowa",
+    "Adres Pocztowy": " 1",
+    "Nr.Telefonu": "78-132",
+    "__parsed_extra": [
+      "721323023"
+    ]
+  },
+  {
+    "nw": "208672",
+    "nw_1": "459533849",
+    "Imie": "Kacper",
+    "Nazwisko": "Koczara",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Grzybowo",
+    "Ulica": "Tęczowa 32",
+    "Adres Pocztowy": "78-132",
+    "Nr.Telefonu": "507565265"
+  },
+  {
+    "nw": "2057935",
+    "nw_1": "266493316",
+    "Imie": "Jakub",
+    "Nazwisko": "Marchlewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Grzybowo",
+    "Ulica": "Nadmorska 73",
+    "Adres Pocztowy": "78-132",
+    "Nr.Telefonu": "+48733989481"
+  }
+]

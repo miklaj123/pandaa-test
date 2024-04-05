@@ -1,0 +1,28 @@
+[
+  {
+    "nw": "1495734",
+    "nw_1": "458343763",
+    "Imie": "Adam",
+    "Nazwisko": "Sierżant",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Kunowice",
+    "Ulica": "Diamentowa 30",
+    "Adres Pocztowy": "69-100",
+    "Nr.Telefonu": "537909046"
+  },
+  {
+    "nw": "1495726",
+    "nw_1": "458343763",
+    "Imie": "Adam",
+    "Nazwisko": "Sierżant",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Kunowice",
+    "Ulica": "Kunowice Diamentowa 30",
+    "Adres Pocztowy": "69-100",
+    "Nr.Telefonu": "537909046"
+  }
+]

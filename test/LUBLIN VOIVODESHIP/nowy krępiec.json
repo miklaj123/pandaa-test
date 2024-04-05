@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "801218",
+    "nw_1": "905300753",
+    "Imie": "Klara",
+    "Nazwisko": "Opalińska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Nowy Krępiec",
+    "Ulica": "  ul. kwiatowa 65E",
+    "Adres Pocztowy": "kwiatowa 65E street",
+    "Nr.Telefonu": "21-007",
+    "__parsed_extra": [
+      "691300882"
+    ]
+  },
+  {
+    "nw": "1844334",
+    "nw_1": "333729990",
+    "Imie": "Maciej",
+    "Nazwisko": "Parcheta",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Nowy Krępiec",
+    "Ulica": "Chmielna 9",
+    "Adres Pocztowy": "21-007",
+    "Nr.Telefonu": "534777962"
+  },
+  {
+    "nw": "470536",
+    "nw_1": "303344581",
+    "Imie": "Maciej",
+    "Nazwisko": "Aljabali",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Nowy Krępiec",
+    "Ulica": "Nadłączna 18",
+    "Adres Pocztowy": "21-007",
+    "Nr.Telefonu": "510864723"
+  }
+]

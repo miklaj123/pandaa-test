@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1153028",
+    "nw_1": "616046356",
+    "Imie": "Paweł",
+    "Nazwisko": "Wiśniewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Zławieś Mała",
+    "Ulica": "Bursztynowa 5",
+    "Adres Pocztowy": "87-134",
+    "Nr.Telefonu": "723844644"
+  },
+  {
+    "nw": "1460005",
+    "nw_1": "397540847",
+    "Imie": "Oliwier",
+    "Nazwisko": "Piotrowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Zławieś Mała",
+    "Ulica": "ul.Osiedlowa1/1",
+    "Adres Pocztowy": "87-134",
+    "Nr.Telefonu": "730197613"
+  },
+  {
+    "nw": "1644654",
+    "nw_1": "585756970",
+    "Imie": "Marcel",
+    "Nazwisko": "Cieśla",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Zławieś Mała",
+    "Ulica": "Kasztanowa 4",
+    "Adres Pocztowy": "87-134",
+    "Nr.Telefonu": "578302361"
+  },
+  {
+    "nw": "957097",
+    "nw_1": "607580926",
+    "Imie": "Dominik",
+    "Nazwisko": "Armiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Zławieś Mała",
+    "Ulica": "Osiedlowa 2/10",
+    "Adres Pocztowy": "87-134",
+    "Nr.Telefonu": "660063267"
+  }
+]

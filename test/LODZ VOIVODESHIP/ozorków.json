@@ -1,0 +1,110 @@
+[
+  {
+    "nw": "1221207",
+    "nw_1": "643918447",
+    "Imie": "Dawid",
+    "Nazwisko": "Kryszkiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Ozorków",
+    "Ulica": "Krótka 8",
+    "Adres Pocztowy": "95-035",
+    "Nr.Telefonu": "+48883051157"
+  },
+  {
+    "nw": "1077689",
+    "nw_1": "876202450",
+    "Imie": "Jan",
+    "Nazwisko": "Pacholski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Ozorków",
+    "Ulica": "Ozorków",
+    "Adres Pocztowy": " Krzeszewska 30",
+    "Nr.Telefonu": "95-035",
+    "__parsed_extra": [
+      "+48 666 368 469"
+    ]
+  },
+  {
+    "nw": "2154393",
+    "nw_1": "164210566",
+    "Imie": "zbigniew",
+    "Nazwisko": "lewinski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Ozorków",
+    "Ulica": "brzozowa 27",
+    "Adres Pocztowy": " 95-035 Ozorków",
+    "Nr.Telefonu": "95-035",
+    "__parsed_extra": [
+      "609044146"
+    ]
+  },
+  {
+    "nw": "803510",
+    "nw_1": "672319159",
+    "Imie": "Jakub",
+    "Nazwisko": "Skalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Ozorków",
+    "Ulica": "Ul. Konstytucji 3 maja 3/10",
+    "Adres Pocztowy": "95-035",
+    "Nr.Telefonu": "505933136"
+  },
+  {
+    "nw": "700476",
+    "nw_1": "315052859",
+    "Imie": "Kacper",
+    "Nazwisko": "Krysiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Ozorków",
+    "Ulica": "Bema 2/2",
+    "Adres Pocztowy": "95-035",
+    "Nr.Telefonu": "537922993"
+  },
+  {
+    "nw": "1232188",
+    "nw_1": "595829259",
+    "Imie": "Dorian",
+    "Nazwisko": "Bartczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Ozorków",
+    "Ulica": "Żwirki 4A",
+    "Adres Pocztowy": "95-035",
+    "Nr.Telefonu": "788037633"
+  },
+  {
+    "nw": "1747294",
+    "nw_1": "264265521",
+    "Imie": "Mazi",
+    "Nazwisko": "Mazjaz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Ozorków",
+    "Ulica": "Sierpów 84",
+    "Adres Pocztowy": "95-035",
+    "Nr.Telefonu": "884323630"
+  },
+  {
+    "nw": "1294518",
+    "nw_1": "713936267",
+    "Imie": "Dominik",
+    "Nazwisko": "Graczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Ozorków",
+    "Ulica": "Podleśna"
+  }
+]

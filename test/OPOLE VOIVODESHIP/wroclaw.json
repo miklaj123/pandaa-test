@@ -1,0 +1,46 @@
+[
+  {
+    "nw": "759198",
+    "nw_1": "126880948",
+    "Imie": "nikodem",
+    "Nazwisko": "cichosz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "wroclaw",
+    "Ulica": "wrocławska 78a",
+    "Adres Pocztowy": "55-010",
+    "Nr.Telefonu": "600361067"
+  },
+  {
+    "nw": "977221",
+    "nw_1": "695333858",
+    "Imie": "Yanina",
+    "Nazwisko": "Karetna",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Wroclaw",
+    "Ulica": "DHL 54-130",
+    "Adres Pocztowy": " Poland",
+    "Nr.Telefonu": " city of Wrocław ",
+    "__parsed_extra": [
+      " street Sterowcowa 22/2",
+      "54-130",
+      "+48883786562"
+    ]
+  },
+  {
+    "nw": "2010511",
+    "nw_1": "741907830",
+    "Imie": "Aliaksandr",
+    "Nazwisko": "Miarkulyeu",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Wroclaw",
+    "Ulica": "Rynek 52/4",
+    "Adres Pocztowy": "50-116",
+    "Nr.Telefonu": "+48577688902"
+  }
+]

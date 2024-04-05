@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "2334433",
+    "nw_1": "772144170",
+    "Imie": "Marcel",
+    "Nazwisko": "Patocki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Szczyty",
+    "Ulica": "Wielunska",
+    "Adres Pocztowy": " 2a",
+    "Nr.Telefonu": "98-355",
+    "__parsed_extra": [
+      "+48 577 671 066"
+    ]
+  },
+  {
+    "nw": "1376208",
+    "nw_1": "751252298",
+    "Imie": "Szymon",
+    "Nazwisko": "Kępiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Szczyty",
+    "Ulica": "Wieluńska 81",
+    "Adres Pocztowy": "98-355",
+    "Nr.Telefonu": "531242636"
+  }
+]

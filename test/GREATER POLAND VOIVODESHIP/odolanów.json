@@ -1,0 +1,95 @@
+[
+  {
+    "nw": "757916",
+    "nw_1": "515801259",
+    "Imie": "dominik",
+    "Nazwisko": "paus",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "odolanów",
+    "Ulica": "Dębowa 4",
+    "Adres Pocztowy": "63-430",
+    "Nr.Telefonu": "539 971 893"
+  },
+  {
+    "nw": "762539",
+    "nw_1": "309826818",
+    "Imie": "Brajan",
+    "Nazwisko": "Konik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Odolanów",
+    "Ulica": "Cofalskiego 21",
+    "Adres Pocztowy": "63-430",
+    "Nr.Telefonu": "796609527"
+  },
+  {
+    "nw": "2030237",
+    "nw_1": "455883807",
+    "Imie": "piotr",
+    "Nazwisko": "girus",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Odolanów",
+    "Ulica": "Krotoszyńska"
+  },
+  {
+    "nw": "1325737",
+    "nw_1": "938935671",
+    "Imie": "Oliwier",
+    "Nazwisko": "Ciesielczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Odolanów",
+    "Ulica": "Odolanów",
+    "Adres Pocztowy": " Wielkopolskie",
+    "Nr.Telefonu": " ul. Zamkowa 5",
+    "__parsed_extra": [
+      "63-430",
+      "536030360"
+    ]
+  },
+  {
+    "nw": "1325746",
+    "nw_1": "938935671",
+    "Imie": "Oliwier",
+    "Nazwisko": "ciesielczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Odolanów",
+    "Ulica": "Zamkowa 5",
+    "Adres Pocztowy": "63-430",
+    "Nr.Telefonu": "536030360"
+  },
+  {
+    "nw": "1280127",
+    "nw_1": "881775569",
+    "Imie": "Krystian",
+    "Nazwisko": "Ławniczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Odolanów",
+    "Ulica": "Ludomiry Namysl 6",
+    "Adres Pocztowy": "63-430",
+    "Nr.Telefonu": "570011297"
+  },
+  {
+    "nw": "774228",
+    "nw_1": "210523549",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Musiałowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Odolanów",
+    "Ulica": "wiosenna 5",
+    "Adres Pocztowy": "2137",
+    "Nr.Telefonu": "516  034 641"
+  }
+]

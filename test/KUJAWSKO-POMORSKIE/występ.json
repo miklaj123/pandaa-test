@@ -1,0 +1,40 @@
+[
+  {
+    "nw": "2351508",
+    "nw_1": "778539641",
+    "Imie": "Samuel",
+    "Nazwisko": "Sel",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "występ",
+    "Ulica": "15",
+    "Adres Pocztowy": "89-100",
+    "Nr.Telefonu": "792093599"
+  },
+  {
+    "nw": "2351527",
+    "nw_1": "778539641",
+    "Imie": "Samuel",
+    "Nazwisko": "Sel",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Występ",
+    "Ulica": "Dębowa 3/15",
+    "Adres Pocztowy": "89-100",
+    "Nr.Telefonu": "792093599"
+  },
+  {
+    "nw": "1792226",
+    "nw_1": "474003277",
+    "Imie": "Adam",
+    "Nazwisko": "Nowicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Występ",
+    "Ulica": "Występ",
+    "Adres Pocztowy": " ul. Topolowa 5-7"
+  }
+]

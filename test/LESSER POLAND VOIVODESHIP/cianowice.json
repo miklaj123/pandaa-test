@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "1093723",
+    "nw_1": "415860821",
+    "Imie": "sebastian",
+    "Nazwisko": "ruta",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Cianowice",
+    "Ulica": "ul stawowa 3",
+    "Adres Pocztowy": "32-043",
+    "Nr.Telefonu": "+48539593052"
+  },
+  {
+    "nw": "1923380",
+    "nw_1": "255620182",
+    "Imie": "Bartłomiej",
+    "Nazwisko": "Herod",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Cianowice",
+    "Ulica": "Ul.leśna 73",
+    "Adres Pocztowy": "32-043",
+    "Nr.Telefonu": "661516389"
+  },
+  {
+    "nw": "1093716",
+    "nw_1": "415860821",
+    "Imie": "sebastian",
+    "Nazwisko": "ruta",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Cianowice",
+    "Ulica": "Cianowice  ul. Stawowa 3",
+    "Adres Pocztowy": "  32-043 Skała",
+    "Nr.Telefonu": "32-043",
+    "__parsed_extra": [
+      "+48539593052"
+    ]
+  }
+]

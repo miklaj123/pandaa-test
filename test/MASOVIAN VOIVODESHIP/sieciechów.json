@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "1631683",
+    "nw_1": "758549007",
+    "Imie": "oleksandr",
+    "Nazwisko": "mituryenko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Sieciechów",
+    "Ulica": "20",
+    "Adres Pocztowy": "11 listopada",
+    "Nr.Telefonu": "26-922",
+    "__parsed_extra": [
+      "791150407"
+    ]
+  },
+  {
+    "nw": "1311506",
+    "nw_1": "644570293",
+    "Imie": "Katarzyna",
+    "Nazwisko": "Bujała",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Sieciechów",
+    "Ulica": "Paryż 17",
+    "Adres Pocztowy": "26-922",
+    "Nr.Telefonu": "694768705"
+  },
+  {
+    "nw": "858027",
+    "nw_1": "801170589",
+    "Imie": "Maciej",
+    "Nazwisko": "Czyż",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Sieciechów",
+    "Ulica": "Słowiki Nowe 24a",
+    "Adres Pocztowy": "26-922",
+    "Nr.Telefonu": "538473308"
+  }
+]

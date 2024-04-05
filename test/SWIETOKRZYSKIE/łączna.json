@@ -1,0 +1,42 @@
+[
+  {
+    "nw": "2150332",
+    "nw_1": "437790322",
+    "Imie": "Mateusz",
+    "Nazwisko": "Chrzęszczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Łączna",
+    "Ulica": "Jęgrzna 72",
+    "Adres Pocztowy": " 26-140 Łączna",
+    "Nr.Telefonu": "26-140",
+    "__parsed_extra": [
+      "791663835"
+    ]
+  },
+  {
+    "nw": "538921",
+    "nw_1": "792034951",
+    "Imie": "Bartosz",
+    "Nazwisko": "Zimowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Łączna",
+    "Ulica": "Zalezianka 54B"
+  },
+  {
+    "nw": "2335454",
+    "nw_1": "597227939",
+    "Imie": "Klaudia",
+    "Nazwisko": "Wasiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Łączna",
+    "Ulica": "Osełków 18",
+    "Adres Pocztowy": "26-140",
+    "Nr.Telefonu": "533622423"
+  }
+]

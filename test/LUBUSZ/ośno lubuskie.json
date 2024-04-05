@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "399899",
+    "nw_1": "448448474",
+    "Imie": "Igor",
+    "Nazwisko": "Tiuchtiej",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Ośno Lubuskie",
+    "Ulica": "Kościelna 11/5",
+    "Adres Pocztowy": "69-220",
+    "Nr.Telefonu": "537429406"
+  },
+  {
+    "nw": "595577",
+    "nw_1": "930685917",
+    "Imie": "Jakub",
+    "Nazwisko": "Boberski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Ośno Lubuskie",
+    "Ulica": "Świniary 48",
+    "Adres Pocztowy": "69-220",
+    "Nr.Telefonu": "+48786150906"
+  },
+  {
+    "nw": "692484",
+    "nw_1": "653294775",
+    "Imie": "Bartosz",
+    "Nazwisko": "Orman",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Ośno Lubuskie",
+    "Ulica": "Ośno Lubuskie Willowa 1",
+    "Adres Pocztowy": "69-220",
+    "Nr.Telefonu": "736087433"
+  }
+]

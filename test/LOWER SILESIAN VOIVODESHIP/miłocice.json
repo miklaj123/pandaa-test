@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "680044",
+    "nw_1": "467393891",
+    "Imie": "Adrian",
+    "Nazwisko": "Piątek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Miłocice",
+    "Ulica": "Pocztowa 7",
+    "Adres Pocztowy": "55-220",
+    "Nr.Telefonu": "792513552"
+  },
+  {
+    "nw": "1640220",
+    "nw_1": "614343102",
+    "Imie": "Miłosz",
+    "Nazwisko": "Swojnóg",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Miłocice",
+    "Ulica": "Pocztowa 7B",
+    "Adres Pocztowy": "55-220",
+    "Nr.Telefonu": "730310302"
+  },
+  {
+    "nw": "491735",
+    "nw_1": "119972041",
+    "Imie": "Mateusz",
+    "Nazwisko": "Skitek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Miłocice",
+    "Ulica": "Główna 44",
+    "Adres Pocztowy": "55-220",
+    "Nr.Telefonu": "530289676"
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "nw": "1804831",
+    "nw_1": "747686494",
+    "Imie": "Michał",
+    "Nazwisko": "Gruszka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Siewierz",
+    "Ulica": "Jeziorna 153/15"
+  },
+  {
+    "nw": "2350234",
+    "nw_1": "432645461",
+    "Imie": "Mateusz",
+    "Nazwisko": "Ziółkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Siewierz",
+    "Ulica": "Leśniaki 18",
+    "Adres Pocztowy": "42-470",
+    "Nr.Telefonu": "577181132"
+  },
+  {
+    "nw": "1746708",
+    "nw_1": "809943180",
+    "Imie": "Maciej",
+    "Nazwisko": "Śliż",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Siewierz",
+    "Ulica": "ul. Rzeczna 12a",
+    "Adres Pocztowy": "42-470",
+    "Nr.Telefonu": "576669742"
+  },
+  {
+    "nw": "1810863",
+    "nw_1": "407976511",
+    "Imie": "Erika",
+    "Nazwisko": "Gladecka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Siewierz",
+    "Ulica": "Sosnowa 14/22",
+    "Adres Pocztowy": "42470",
+    "Nr.Telefonu": "+4915753084294"
+  },
+  {
+    "nw": "2079938",
+    "nw_1": "806954287",
+    "Imie": "Oliver",
+    "Nazwisko": "Hunt",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Siewierz",
+    "Ulica": "Słowik 5b",
+    "Adres Pocztowy": "42-470",
+    "Nr.Telefonu": "787743979"
+  },
+  {
+    "nw": "670602",
+    "nw_1": "753802695",
+    "Imie": "Krzysztof",
+    "Nazwisko": "Mejsak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Siewierz",
+    "Ulica": "Warszawska 23",
+    "Adres Pocztowy": "42-470",
+    "Nr.Telefonu": "518525225"
+  },
+  {
+    "nw": "1186717",
+    "nw_1": "433735835",
+    "Imie": "Piotr",
+    "Nazwisko": "Chrzuszcz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Siewierz",
+    "Ulica": "3 maja 3",
+    "Adres Pocztowy": "42-470",
+    "Nr.Telefonu": "515 842 667"
+  }
+]

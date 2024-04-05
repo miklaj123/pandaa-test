@@ -1,0 +1,57 @@
+[
+  {
+    "nw": "1292352",
+    "nw_1": "353401250",
+    "Imie": "Yakov",
+    "Nazwisko": "Maliarenko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Darlowo",
+    "Ulica": "Emilii Plater 62",
+    "Adres Pocztowy": "76-150",
+    "Nr.Telefonu": "+48 698 152 854"
+  },
+  {
+    "nw": "1645828",
+    "nw_1": "775827931",
+    "Imie": "Yaroslav",
+    "Nazwisko": "Mahdenko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Darlowo",
+    "Ulica": "city of Darłowo",
+    "Adres Pocztowy": " ul. Stefana Żeromskiego 25",
+    "Nr.Telefonu": "76-150",
+    "__parsed_extra": [
+      "+48790803731"
+    ]
+  },
+  {
+    "nw": "333503",
+    "nw_1": "972500445",
+    "Imie": "tadeusz",
+    "Nazwisko": "zajac",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "darlowo",
+    "Ulica": "Ul. Wieniawskiego 10",
+    "Adres Pocztowy": "76-150",
+    "Nr.Telefonu": "0048601968349"
+  },
+  {
+    "nw": "1083074",
+    "nw_1": "162954403",
+    "Imie": "mariia",
+    "Nazwisko": "kniazeva",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Darlowo",
+    "Ulica": "Street:Wyspiańskiego 9E/14",
+    "Adres Pocztowy": "76-150",
+    "Nr.Telefonu": "577389768"
+  }
+]

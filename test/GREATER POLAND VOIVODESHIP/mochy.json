@@ -1,0 +1,28 @@
+[
+  {
+    "nw": "1284611",
+    "nw_1": "316638610",
+    "Imie": "Pawel",
+    "Nazwisko": "Michalczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Mochy",
+    "Ulica": "Koscielna 6",
+    "Adres Pocztowy": "64-234",
+    "Nr.Telefonu": "517979146"
+  },
+  {
+    "nw": "216843",
+    "nw_1": "316638610",
+    "Imie": "Paweł",
+    "Nazwisko": "Michalczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Mochy",
+    "Ulica": "Wolsztynska 1a",
+    "Adres Pocztowy": "64-234",
+    "Nr.Telefonu": "+48 517979146"
+  }
+]

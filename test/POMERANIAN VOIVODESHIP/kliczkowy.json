@@ -1,0 +1,52 @@
+[
+  {
+    "nw": "2139481",
+    "nw_1": "852685642",
+    "Imie": "yaroslav",
+    "Nazwisko": "kulias",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Kliczkowy",
+    "Ulica": "Województwo pomorskie",
+    "Adres Pocztowy": " gmina karsin",
+    "Nr.Telefonu": " kliczkowy 9b",
+    "__parsed_extra": [
+      "83-441",
+      "+48538428892"
+    ]
+  },
+  {
+    "nw": "1094225",
+    "nw_1": "410785379",
+    "Imie": "Jarek",
+    "Nazwisko": "Kulias",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Kliczkowy",
+    "Ulica": "Gmina Karsin",
+    "Adres Pocztowy": " Kliczkowy 9B",
+    "Nr.Telefonu": "83-441",
+    "__parsed_extra": [
+      "+48538428892"
+    ]
+  },
+  {
+    "nw": "2139480",
+    "nw_1": "852685642",
+    "Imie": "yaroslav",
+    "Nazwisko": "kulias",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Kliczkowy",
+    "Ulica": "Województwo pomorskie",
+    "Adres Pocztowy": " gmina karsin",
+    "Nr.Telefonu": " kliczkowy 9b",
+    "__parsed_extra": [
+      "83-441",
+      "+48538428892"
+    ]
+  }
+]

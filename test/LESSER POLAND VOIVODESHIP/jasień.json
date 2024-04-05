@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1993368",
+    "nw_1": "737030631",
+    "Imie": "kamil",
+    "Nazwisko": "kociołek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Jasień",
+    "Ulica": "Floriańska 20",
+    "Adres Pocztowy": "32-800",
+    "Nr.Telefonu": "+48791214211"
+  },
+  {
+    "nw": "2334533",
+    "nw_1": "692544663",
+    "Imie": "Krzysztof",
+    "Nazwisko": "Machaj",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "jasień",
+    "Ulica": "Kasprowicza 78",
+    "Adres Pocztowy": "32-800",
+    "Nr.Telefonu": "536154146"
+  },
+  {
+    "nw": "2097895",
+    "nw_1": "619133392",
+    "Imie": "Brunon",
+    "Nazwisko": "Turlej",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Jasień",
+    "Ulica": "Ks.Mazurkiweicza 157",
+    "Adres Pocztowy": "32-800",
+    "Nr.Telefonu": "735413422"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "1395111",
+    "nw_1": "651938212",
+    "Imie": "Davyd",
+    "Nazwisko": "Hruzhynskas",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Jaroslaw",
+    "Ulica": "ul. Reymonta 1",
+    "Adres Pocztowy": "37-500",
+    "Nr.Telefonu": "+48883459583"
+  },
+  {
+    "nw": "952302",
+    "nw_1": "287098083",
+    "Imie": "Małgorzata",
+    "Nazwisko": "Szarek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Jaroslaw",
+    "Ulica": "Cieszacin Wielki",
+    "Adres Pocztowy": " 201B",
+    "Nr.Telefonu": "37-500",
+    "__parsed_extra": [
+      "+48721434996"
+    ]
+  },
+  {
+    "nw": "1147780",
+    "nw_1": "410455289",
+    "Imie": "martin",
+    "Nazwisko": "Oziębło",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Jaroslaw",
+    "Ulica": "Lazy Kostkowskie 6",
+    "Adres Pocztowy": "37-500",
+    "Nr.Telefonu": "+48732754111"
+  }
+]

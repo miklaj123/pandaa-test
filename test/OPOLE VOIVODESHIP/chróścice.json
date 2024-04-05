@@ -1,0 +1,32 @@
+[
+  {
+    "nw": "2334114",
+    "nw_1": "733130141",
+    "Imie": "Szymon",
+    "Nazwisko": "Kokot",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Chróścice",
+    "Ulica": "Chróścice 46-080 ul. Kopernika 7",
+    "Adres Pocztowy": "46-080",
+    "Nr.Telefonu": "503 610 033"
+  },
+  {
+    "nw": "1619051",
+    "nw_1": "713399490",
+    "Imie": "Bartek",
+    "Nazwisko": "Grys",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Chróścice",
+    "Ulica": "Chróścice",
+    "Adres Pocztowy": " Kopiec 1",
+    "Nr.Telefonu": " 46-080",
+    "__parsed_extra": [
+      "46-080",
+      "720797477"
+    ]
+  }
+]

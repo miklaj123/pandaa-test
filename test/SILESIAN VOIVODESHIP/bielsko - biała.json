@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "1428046",
+    "nw_1": "832033348",
+    "Imie": "Jacob",
+    "Nazwisko": "Willmen",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Bielsko - Biała",
+    "Ulica": "Okrętowa 39",
+    "Adres Pocztowy": "43-300",
+    "Nr.Telefonu": "48+729979143"
+  },
+  {
+    "nw": "559026",
+    "nw_1": "580478167",
+    "Imie": "Yuliana",
+    "Nazwisko": "Shpilchuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Bielsko - Biała",
+    "Ulica": "Astrów 8",
+    "Adres Pocztowy": " Dom 1",
+    "Nr.Telefonu": "43-300",
+    "__parsed_extra": [
+      "+48 534500678"
+    ]
+  }
+]

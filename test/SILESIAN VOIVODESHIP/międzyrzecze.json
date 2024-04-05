@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1208947",
+    "nw_1": "468881754",
+    "Imie": "Wiktor",
+    "Nazwisko": "Krupka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Międzyrzecze",
+    "Ulica": "Lisia 21",
+    "Adres Pocztowy": "43-220",
+    "Nr.Telefonu": "536 400 940"
+  },
+  {
+    "nw": "2226438",
+    "nw_1": "877123437",
+    "Imie": "Patryk",
+    "Nazwisko": "Gronostaj",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Międzyrzecze",
+    "Ulica": "Międzyrzeczna 36",
+    "Adres Pocztowy": "43-220",
+    "Nr.Telefonu": "531822444"
+  },
+  {
+    "nw": "1396814",
+    "nw_1": "647166566",
+    "Imie": "Błażej",
+    "Nazwisko": "Stania",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Międzyrzecze",
+    "Ulica": "Gromadzka 49",
+    "Adres Pocztowy": "43-220",
+    "Nr.Telefonu": "733913023"
+  }
+]

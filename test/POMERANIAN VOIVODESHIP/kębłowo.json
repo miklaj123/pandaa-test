@@ -1,0 +1,110 @@
+[
+  {
+    "nw": "1810785",
+    "nw_1": "618176204",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Miotke",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Kębłowo",
+    "Ulica": "Wejherowska 14",
+    "Adres Pocztowy": "84-242",
+    "Nr.Telefonu": "780602584"
+  },
+  {
+    "nw": "1290866",
+    "nw_1": "417523039",
+    "Imie": "mateusz",
+    "Nazwisko": "marzejon",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Kębłowo",
+    "Ulica": "3-go Maja",
+    "Adres Pocztowy": "84-242",
+    "Nr.Telefonu": "881067337"
+  },
+  {
+    "nw": "522010",
+    "nw_1": "105919291",
+    "Imie": "Jakub",
+    "Nazwisko": "Galiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Kębłowo",
+    "Ulica": "łączna 3"
+  },
+  {
+    "nw": "523060",
+    "nw_1": "231800489",
+    "Imie": "Filip",
+    "Nazwisko": "Hilla",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Kębłowo",
+    "Ulica": "Solidarności 25",
+    "Adres Pocztowy": "84-242",
+    "Nr.Telefonu": "+48 793400437"
+  },
+  {
+    "nw": "1530837",
+    "nw_1": "695586862",
+    "Imie": "Dominik",
+    "Nazwisko": "Pionk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Kębłowo",
+    "Ulica": "Kębłowo Leśna Polana 2/3",
+    "Adres Pocztowy": "84-242",
+    "Nr.Telefonu": "537666527"
+  },
+  {
+    "nw": "1066475",
+    "nw_1": "875305001",
+    "Imie": "Konrad",
+    "Nazwisko": "Świniarski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Kębłowo",
+    "Ulica": "Kębłowo",
+    "Adres Pocztowy": " ul. Narcyzowa 9",
+    "Nr.Telefonu": "84-242",
+    "__parsed_extra": [
+      "794-086-007"
+    ]
+  },
+  {
+    "nw": "185183",
+    "nw_1": "809526681",
+    "Imie": "Oskar",
+    "Nazwisko": "Pruszyński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Kębłowo",
+    "Ulica": "Kębłowo",
+    "Adres Pocztowy": " Kapitańska 12",
+    "Nr.Telefonu": "84-242",
+    "__parsed_extra": [
+      "570973675"
+    ]
+  },
+  {
+    "nw": "1716312",
+    "nw_1": "451149366",
+    "Imie": "Matylda",
+    "Nazwisko": "Miotke",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Kębłowo",
+    "Ulica": "Wejherowska 14 Kębłowo",
+    "Adres Pocztowy": "84-242",
+    "Nr.Telefonu": "790720477"
+  }
+]

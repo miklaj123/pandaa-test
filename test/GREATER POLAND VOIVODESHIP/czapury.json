@@ -1,0 +1,57 @@
+[
+  {
+    "nw": "1475168",
+    "nw_1": "730833889",
+    "Imie": "Oskar",
+    "Nazwisko": "Czekaj",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Czapury",
+    "Ulica": "Czapruy ul. Poznańska 92B",
+    "Adres Pocztowy": "61-160",
+    "Nr.Telefonu": "+48732444087"
+  },
+  {
+    "nw": "530570",
+    "nw_1": "517604431",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Mielcarek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Czapury",
+    "Ulica": "25/2 Ananasowa",
+    "Adres Pocztowy": "61-160",
+    "Nr.Telefonu": "601669479"
+  },
+  {
+    "nw": "866564",
+    "nw_1": "750124196",
+    "Imie": "Igor",
+    "Nazwisko": "Pyżalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Czapury",
+    "Ulica": "Leśna 17",
+    "Adres Pocztowy": " Czapury",
+    "Nr.Telefonu": "61-160",
+    "__parsed_extra": [
+      "534535953"
+    ]
+  },
+  {
+    "nw": "1051397",
+    "nw_1": "622182599",
+    "Imie": "Jan",
+    "Nazwisko": "Parzęcki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Czapury",
+    "Ulica": "Czapury ulica Dolna 17",
+    "Adres Pocztowy": "61-160",
+    "Nr.Telefonu": "797772575"
+  }
+]

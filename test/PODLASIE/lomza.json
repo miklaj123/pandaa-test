@@ -1,0 +1,52 @@
+[
+  {
+    "nw": "293035",
+    "nw_1": "840218568",
+    "Imie": "Igor",
+    "Nazwisko": "Skrodzki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Lomza",
+    "Ulica": "Studencka"
+  },
+  {
+    "nw": "1825409",
+    "nw_1": "800683560",
+    "Imie": "Daniel",
+    "Nazwisko": "Kurzatkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Lomza",
+    "Ulica": "Kpt Skowronka 35",
+    "Adres Pocztowy": "18-400",
+    "Nr.Telefonu": "796970200"
+  },
+  {
+    "nw": "2203546",
+    "nw_1": "607887583",
+    "Imie": "Patrycja",
+    "Nazwisko": "Kowalczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Lomza",
+    "Ulica": "Ul Lukasinskiego 50",
+    "Adres Pocztowy": "18-400",
+    "Nr.Telefonu": "0048606692254"
+  },
+  {
+    "nw": "82006",
+    "nw_1": "135829312",
+    "Imie": "Maciej",
+    "Nazwisko": "Baczek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Lomza",
+    "Ulica": "ul. Polowa 35/63",
+    "Adres Pocztowy": "18-400",
+    "Nr.Telefonu": "508712513"
+  }
+]

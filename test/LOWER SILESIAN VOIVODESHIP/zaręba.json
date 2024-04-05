@@ -1,0 +1,52 @@
+[
+  {
+    "nw": "1383892",
+    "nw_1": "579248513",
+    "Imie": "Maciej",
+    "Nazwisko": "Sołtys",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Zaręba",
+    "Ulica": "61 Wyszyńskiego",
+    "Adres Pocztowy": "59-800",
+    "Nr.Telefonu": "607523519"
+  },
+  {
+    "nw": "345493",
+    "nw_1": "212518894",
+    "Imie": "Jakub",
+    "Nazwisko": "Niowicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Zaręba",
+    "Ulica": "Słowackiego"
+  },
+  {
+    "nw": "43385",
+    "nw_1": "708766437",
+    "Imie": "dominik",
+    "Nazwisko": "tęcza",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Zaręba",
+    "Ulica": "Rzeczna 9A",
+    "Adres Pocztowy": "59-800",
+    "Nr.Telefonu": "572310193"
+  },
+  {
+    "nw": "2258837",
+    "nw_1": "580338769",
+    "Imie": "Bartosz",
+    "Nazwisko": "Ziubrak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Zaręba",
+    "Ulica": "Słowackiego 40",
+    "Adres Pocztowy": "59-800",
+    "Nr.Telefonu": "664434479"
+  }
+]

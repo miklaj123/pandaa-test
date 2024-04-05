@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "1171279",
+    "nw_1": "937133788",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Ryś",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Bysina",
+    "Ulica": "Address: Bysina 230",
+    "Adres Pocztowy": " House number: 230",
+    "Nr.Telefonu": "32-400",
+    "__parsed_extra": [
+      "664852512"
+    ]
+  },
+  {
+    "nw": "1529281",
+    "nw_1": "150148317",
+    "Imie": "Karol",
+    "Nazwisko": "Bałucki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Bysina",
+    "Ulica": "Bysina 263",
+    "Adres Pocztowy": "32-400",
+    "Nr.Telefonu": "786296426"
+  }
+]

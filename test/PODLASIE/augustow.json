@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "1392414",
+    "nw_1": "458042937",
+    "Imie": "Arsenij",
+    "Nazwisko": "Lysenko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Augustow",
+    "Ulica": "mostowa",
+    "Adres Pocztowy": " 20",
+    "Nr.Telefonu": "16-300",
+    "__parsed_extra": [
+      "785905008"
+    ]
+  },
+  {
+    "nw": "854245",
+    "nw_1": "518251939",
+    "Imie": "alex wiszynski",
+    "Nazwisko": "wiszynski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Augustow",
+    "Ulica": "targowa 9",
+    "Adres Pocztowy": "16-300",
+    "Nr.Telefonu": "507052222"
+  },
+  {
+    "nw": "980701",
+    "nw_1": "688182026",
+    "Imie": "Sebastian",
+    "Nazwisko": "Rysiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Augustow",
+    "Ulica": "Sasankowa 4",
+    "Adres Pocztowy": "16-300",
+    "Nr.Telefonu": "795070744"
+  }
+]

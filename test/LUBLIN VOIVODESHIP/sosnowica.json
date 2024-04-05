@@ -1,0 +1,65 @@
+[
+  {
+    "nw": "1276857",
+    "nw_1": "147251400",
+    "Imie": "Filip",
+    "Nazwisko": "Muzyka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Sosnowica",
+    "Ulica": "Wojska Polskiego"
+  },
+  {
+    "nw": "1078985",
+    "nw_1": "824926301",
+    "Imie": "Aleksandra",
+    "Nazwisko": "Melnik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Sosnowica",
+    "Ulica": "Wojska Polskiego 120a",
+    "Adres Pocztowy": "21-230",
+    "Nr.Telefonu": "694981147"
+  },
+  {
+    "nw": "2138838",
+    "nw_1": "713798833",
+    "Imie": "Marcel",
+    "Nazwisko": "Melnik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Sosnowica",
+    "Ulica": "Wojska Polskiego 120a",
+    "Adres Pocztowy": "21-230",
+    "Nr.Telefonu": "780520134"
+  },
+  {
+    "nw": "1208855",
+    "nw_1": "554767870",
+    "Imie": "Filip",
+    "Nazwisko": "Szczepanik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Sosnowica",
+    "Ulica": "Wojska Polskiego 168",
+    "Adres Pocztowy": "21-230",
+    "Nr.Telefonu": "781208506"
+  },
+  {
+    "nw": "1534071",
+    "nw_1": "949573521",
+    "Imie": "Paweł",
+    "Nazwisko": "Jadwiżuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Sosnowica",
+    "Ulica": "Pieszowola 23",
+    "Adres Pocztowy": "21-230",
+    "Nr.Telefonu": "794747763"
+  }
+]

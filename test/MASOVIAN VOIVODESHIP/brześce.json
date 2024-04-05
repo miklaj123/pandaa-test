@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "268202",
+    "nw_1": "834579634",
+    "Imie": "Stanisław",
+    "Nazwisko": "Stańczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Brześce",
+    "Ulica": "Wilanowska 29b",
+    "Adres Pocztowy": "05-507",
+    "Nr.Telefonu": "697707228"
+  },
+  {
+    "nw": "1383994",
+    "nw_1": "118000575",
+    "Imie": "Dorota",
+    "Nazwisko": "Cebertowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Brześce",
+    "Ulica": "Brześce",
+    "Adres Pocztowy": " Wilanowska 80",
+    "Nr.Telefonu": "05-507",
+    "__parsed_extra": [
+      "+48 880 495 450"
+    ]
+  }
+]

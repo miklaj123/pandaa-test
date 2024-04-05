@@ -1,0 +1,57 @@
+[
+  {
+    "nw": "1538814",
+    "nw_1": "525939779",
+    "Imie": "Ignacy",
+    "Nazwisko": "Molenda",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Wielogóra",
+    "Ulica": "Kościelna 31a",
+    "Adres Pocztowy": "26-660",
+    "Nr.Telefonu": "573939490"
+  },
+  {
+    "nw": "1826218",
+    "nw_1": "225904244",
+    "Imie": "Mikolaj",
+    "Nazwisko": "Gierasinski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Wielogóra",
+    "Ulica": "Polna 1a",
+    "Adres Pocztowy": "26-660",
+    "Nr.Telefonu": "574987928"
+  },
+  {
+    "nw": "1292296",
+    "nw_1": "813631382",
+    "Imie": "Aleksandra",
+    "Nazwisko": "Kowalczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Wielogóra",
+    "Ulica": "Relaksowa 15bc",
+    "Adres Pocztowy": "26-660",
+    "Nr.Telefonu": "516963300"
+  },
+  {
+    "nw": "2018132",
+    "nw_1": "255215946",
+    "Imie": "Piotr",
+    "Nazwisko": "Kołodziejczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Wielogóra",
+    "Ulica": "Wielogóra",
+    "Adres Pocztowy": " ul. Ceglana 3",
+    "Nr.Telefonu": "26-660",
+    "__parsed_extra": [
+      "514093547"
+    ]
+  }
+]

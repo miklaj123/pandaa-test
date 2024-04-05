@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "556292",
+    "nw_1": "997990829",
+    "Imie": "Anna",
+    "Nazwisko": "Miłosz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Oleśnica",
+    "Ulica": "11go Listopada 25 Oleśnica",
+    "Adres Pocztowy": "56-400",
+    "Nr.Telefonu": "884058077"
+  },
+  {
+    "nw": "1158026",
+    "nw_1": "833508037",
+    "Imie": "Michał",
+    "Nazwisko": "Grabowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Oleśnica",
+    "Ulica": "wielkopolna 9",
+    "Adres Pocztowy": "56-400",
+    "Nr.Telefonu": "726369413"
+  },
+  {
+    "nw": "807209",
+    "nw_1": "649350279",
+    "Imie": "mateusz",
+    "Nazwisko": "mateo",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Oleśnica",
+    "Ulica": "Marii skłodowskiej Curie 3/4",
+    "Adres Pocztowy": "56-400",
+    "Nr.Telefonu": "530576829"
+  }
+]

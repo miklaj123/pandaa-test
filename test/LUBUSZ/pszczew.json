@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1544091",
+    "nw_1": "415365062",
+    "Imie": "Franciszek",
+    "Nazwisko": "Gudwiłowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Pszczew",
+    "Ulica": "Oś. Pow. Wlkp. 12",
+    "Adres Pocztowy": "66-330",
+    "Nr.Telefonu": "+48534126150"
+  },
+  {
+    "nw": "552031",
+    "nw_1": "168087153",
+    "Imie": "jakub",
+    "Nazwisko": "janusz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "pszczew",
+    "Ulica": "młyńska 3",
+    "Adres Pocztowy": "66-330",
+    "Nr.Telefonu": "784015474"
+  },
+  {
+    "nw": "341491",
+    "nw_1": "683282773",
+    "Imie": "Adam",
+    "Nazwisko": "Tankielun",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Pszczew",
+    "Ulica": "Władysława Sikorskiego 8/2",
+    "Adres Pocztowy": "66-330",
+    "Nr.Telefonu": "537425131"
+  },
+  {
+    "nw": "1888559",
+    "nw_1": "699615654",
+    "Imie": "Beniamin",
+    "Nazwisko": "Klaus",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "pszczew",
+    "Ulica": "poznańska 14",
+    "Adres Pocztowy": "66-330",
+    "Nr.Telefonu": "519893803"
+  }
+]

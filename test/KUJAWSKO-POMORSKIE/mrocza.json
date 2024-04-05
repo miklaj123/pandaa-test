@@ -1,0 +1,65 @@
+[
+  {
+    "nw": "522302",
+    "nw_1": "997959035",
+    "Imie": "Szymon",
+    "Nazwisko": "Czarnecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Mrocza",
+    "Ulica": "Kościuszki"
+  },
+  {
+    "nw": "2016266",
+    "nw_1": "244492199",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Bąk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Mrocza",
+    "Ulica": "Leśna 5a",
+    "Adres Pocztowy": "89-115",
+    "Nr.Telefonu": "739051004"
+  },
+  {
+    "nw": "2262625",
+    "nw_1": "804638279",
+    "Imie": "Aron",
+    "Nazwisko": "Łeszyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Mrocza",
+    "Ulica": "Wyrza 14/1",
+    "Adres Pocztowy": "89-115",
+    "Nr.Telefonu": "783016343"
+  },
+  {
+    "nw": "1464479",
+    "nw_1": "931300707",
+    "Imie": "Rafał",
+    "Nazwisko": "Warkus",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Mrocza",
+    "Ulica": "Postępu 3/t",
+    "Adres Pocztowy": "89-115",
+    "Nr.Telefonu": "783267913"
+  },
+  {
+    "nw": "801710",
+    "nw_1": "976524025",
+    "Imie": "Alan",
+    "Nazwisko": "Sobczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Mrocza",
+    "Ulica": "Postępu 2",
+    "Adres Pocztowy": "89-115",
+    "Nr.Telefonu": "665498234"
+  }
+]

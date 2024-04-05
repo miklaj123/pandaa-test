@@ -1,0 +1,71 @@
+[
+  {
+    "nw": "543997",
+    "nw_1": "955507168",
+    "Imie": "Michał",
+    "Nazwisko": "Garstka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Sulmierzyce",
+    "Ulica": "Ulica Zamolska 10",
+    "Adres Pocztowy": "98-338",
+    "Nr.Telefonu": "502 126 467"
+  },
+  {
+    "nw": "205622",
+    "nw_1": "264542636",
+    "Imie": "piotr",
+    "Nazwisko": "włódarczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "sulmierzyce",
+    "Ulica": "mickiewicza 2",
+    "Adres Pocztowy": "98-338",
+    "Nr.Telefonu": "887273004"
+  },
+  {
+    "nw": "1892455",
+    "nw_1": "686607370",
+    "Imie": "oliwier",
+    "Nazwisko": "rudzki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "sulmierzyce",
+    "Ulica": "Sulmierzyce",
+    "Adres Pocztowy": " Borowa 8",
+    "Nr.Telefonu": " 98-338",
+    "__parsed_extra": [
+      "98-338",
+      "693463186"
+    ]
+  },
+  {
+    "nw": "251472",
+    "nw_1": "955507168",
+    "Imie": "Michał",
+    "Nazwisko": "Garstka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Sulmierzyce",
+    "Ulica": "Zamolska 10",
+    "Adres Pocztowy": "98-338",
+    "Nr.Telefonu": "502 126467"
+  },
+  {
+    "nw": "1370068",
+    "nw_1": "859649484",
+    "Imie": "Jakub",
+    "Nazwisko": "Szatan",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Sulmierzyce",
+    "Ulica": "Eligiow 17/1",
+    "Adres Pocztowy": "98338",
+    "Nr.Telefonu": "724692078"
+  }
+]

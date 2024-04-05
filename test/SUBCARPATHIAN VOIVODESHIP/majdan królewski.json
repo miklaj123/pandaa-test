@@ -1,0 +1,70 @@
+[
+  {
+    "nw": "1282168",
+    "nw_1": "241426085",
+    "Imie": "Emil",
+    "Nazwisko": "Letniowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Majdan Królewski",
+    "Ulica": "Tarnobrzeska 25",
+    "Adres Pocztowy": "36-110",
+    "Nr.Telefonu": "505131507"
+  },
+  {
+    "nw": "2282974",
+    "nw_1": "759194645",
+    "Imie": "Kamil",
+    "Nazwisko": "Konefał",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Majdan Królewski",
+    "Ulica": "Sikorskiego 5B",
+    "Adres Pocztowy": "36-110",
+    "Nr.Telefonu": "+48 783 809 471"
+  },
+  {
+    "nw": "1028228",
+    "nw_1": "555638784",
+    "Imie": "Dominik",
+    "Nazwisko": "Wiśniewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Majdan Królewski",
+    "Ulica": "Krzątka 432",
+    "Adres Pocztowy": "36-110",
+    "Nr.Telefonu": "880203718"
+  },
+  {
+    "nw": "772666",
+    "nw_1": "215238238",
+    "Imie": "Maks",
+    "Nazwisko": "Kulig",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Majdan królewski",
+    "Ulica": "Bolesława chrobrego 6",
+    "Adres Pocztowy": "36110",
+    "Nr.Telefonu": "606356028"
+  },
+  {
+    "nw": "2067834",
+    "nw_1": "966293548",
+    "Imie": "Michał",
+    "Nazwisko": "Wołosz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Majdan Królewski",
+    "Ulica": "Jana III Sobieskiego",
+    "Adres Pocztowy": " 8",
+    "Nr.Telefonu": "36-110",
+    "__parsed_extra": [
+      "793372389"
+    ]
+  }
+]

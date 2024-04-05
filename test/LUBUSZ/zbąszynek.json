@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "1138929",
+    "nw_1": "677592178",
+    "Imie": "Dawid",
+    "Nazwisko": "Wilinski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Zbąszynek",
+    "Ulica": "Zbąszynek",
+    "Adres Pocztowy": " ul P.Wyszynskiego 6",
+    "Nr.Telefonu": "66-210",
+    "__parsed_extra": [
+      "791236905"
+    ]
+  },
+  {
+    "nw": "2160263",
+    "nw_1": "362912171",
+    "Imie": "klaudia",
+    "Nazwisko": "klaudia",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Zbąszynek",
+    "Ulica": "Kręcko 60",
+    "Adres Pocztowy": "66-210",
+    "Nr.Telefonu": "730059769"
+  },
+  {
+    "nw": "958386",
+    "nw_1": "993589577",
+    "Imie": "Jan",
+    "Nazwisko": "Pukacki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Zbąszynek",
+    "Ulica": "ulica Długa 42/6",
+    "Adres Pocztowy": "66-210",
+    "Nr.Telefonu": "693 802 703"
+  }
+]

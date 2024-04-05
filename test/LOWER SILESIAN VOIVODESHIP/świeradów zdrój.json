@@ -1,0 +1,58 @@
+[
+  {
+    "nw": "360740",
+    "nw_1": "518255204",
+    "Imie": "Marcel",
+    "Nazwisko": "Twardygrosz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Świeradów Zdrój",
+    "Ulica": "Świeradów Zdrój",
+    "Adres Pocztowy": " 59-850  ",
+    "Nr.Telefonu": "Mickiewicza 2/1",
+    "__parsed_extra": [
+      "59-850",
+      "881233306"
+    ]
+  },
+  {
+    "nw": "1896573",
+    "nw_1": "236806484",
+    "Imie": "Michał",
+    "Nazwisko": "Kędra",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Świeradów Zdrój",
+    "Ulica": "Leśna 9",
+    "Adres Pocztowy": "59-850",
+    "Nr.Telefonu": "+48698031282"
+  },
+  {
+    "nw": "1182646",
+    "nw_1": "707718874",
+    "Imie": "Dawid",
+    "Nazwisko": "Konczarek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Świeradów Zdrój",
+    "Ulica": "Zdrojowa 5/18",
+    "Adres Pocztowy": "59-850",
+    "Nr.Telefonu": "570925489"
+  },
+  {
+    "nw": "1394887",
+    "nw_1": "518255204",
+    "Imie": "Marcel",
+    "Nazwisko": "Twardygrosz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Świeradów Zdrój",
+    "Ulica": "mickiewicza 2/1",
+    "Adres Pocztowy": "59-850",
+    "Nr.Telefonu": "881233306"
+  }
+]

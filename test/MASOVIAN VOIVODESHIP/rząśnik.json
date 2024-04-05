@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "1319734",
+    "nw_1": "644808623",
+    "Imie": "Kamil",
+    "Nazwisko": "Mąka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Rząśnik",
+    "Ulica": "Jesionowa 99",
+    "Adres Pocztowy": " 07-205 Rząśnik",
+    "Nr.Telefonu": "07-205",
+    "__parsed_extra": [
+      "+48573325729"
+    ]
+  },
+  {
+    "nw": "410139",
+    "nw_1": "931224245",
+    "Imie": "MIłosz ",
+    "Nazwisko": "Skórzewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Rząśnik",
+    "Ulica": "Wyszkowska22A/1",
+    "Adres Pocztowy": "07-205",
+    "Nr.Telefonu": "669358076"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "nw": "2148539",
+    "nw_1": "793852421",
+    "Imie": "Kamil ",
+    "Nazwisko": "Surdziel ",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Tymbark ",
+    "Ulica": "Zawadka 9"
+  },
+  {
+    "nw": "1150779",
+    "nw_1": "128685606",
+    "Imie": "Szymon",
+    "Nazwisko": "Surdziel",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Tymbark",
+    "Ulica": "Zamieście 196",
+    "Adres Pocztowy": "34-650",
+    "Nr.Telefonu": "696686050"
+  },
+  {
+    "nw": "878240",
+    "nw_1": "697903376",
+    "Imie": "jakub",
+    "Nazwisko": "petranowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "tymbark",
+    "Ulica": "targowa 246",
+    "Adres Pocztowy": "34-650",
+    "Nr.Telefonu": "513873191"
+  },
+  {
+    "nw": "1649691",
+    "nw_1": "458240898",
+    "Imie": "Szymon",
+    "Nazwisko": "Duda",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Tymbark",
+    "Ulica": "Tymbark 298",
+    "Adres Pocztowy": "34650",
+    "Nr.Telefonu": "512725982"
+  }
+]

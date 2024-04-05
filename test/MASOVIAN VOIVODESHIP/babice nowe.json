@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2345217",
+    "nw_1": "886623571",
+    "Imie": "Mateusz",
+    "Nazwisko": "Oleba",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Babice Nowe",
+    "Ulica": "Kameralna 48/2",
+    "Adres Pocztowy": "05-082",
+    "Nr.Telefonu": "884656049"
+  },
+  {
+    "nw": "2091018",
+    "nw_1": "684461348",
+    "Imie": "Maks",
+    "Nazwisko": "Walczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Babice Nowe",
+    "Ulica": "Rubinowa 11/2",
+    "Adres Pocztowy": "05-082",
+    "Nr.Telefonu": "690320502"
+  },
+  {
+    "nw": "171948",
+    "nw_1": "976100897",
+    "Imie": "Ksawery",
+    "Nazwisko": "Szamburski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Babice Nowe",
+    "Ulica": "Rubinowa 1/1",
+    "Adres Pocztowy": "05-082",
+    "Nr.Telefonu": "48574656060"
+  }
+]

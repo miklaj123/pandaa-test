@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "1491416",
+    "nw_1": "235406644",
+    "Imie": "Oliwier",
+    "Nazwisko": "Zębala",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Cedry małe",
+    "Ulica": "ul. kolorowa 4/12",
+    "Adres Pocztowy": "83-020",
+    "Nr.Telefonu": "500100789"
+  },
+  {
+    "nw": "1360906",
+    "nw_1": "870432416",
+    "Imie": "Jakub",
+    "Nazwisko": "Kolendo",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Cedry Małe",
+    "Ulica": "2",
+    "Adres Pocztowy": " Piaskowa",
+    "Nr.Telefonu": "83-020",
+    "__parsed_extra": [
+      "731 000 469"
+    ]
+  }
+]

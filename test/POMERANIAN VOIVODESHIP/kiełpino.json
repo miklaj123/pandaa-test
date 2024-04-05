@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "428860",
+    "nw_1": "494454685",
+    "Imie": "Weronika",
+    "Nazwisko": "Puzdrowska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Kiełpino",
+    "Ulica": "Cyrpysowa 3",
+    "Adres Pocztowy": "83-307",
+    "Nr.Telefonu": "792710905"
+  },
+  {
+    "nw": "755866",
+    "nw_1": "755943760",
+    "Imie": "Michał",
+    "Nazwisko": "Stanczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Kiełpino",
+    "Ulica": "Elizy Orzeszkowej 29",
+    "Adres Pocztowy": "83-307",
+    "Nr.Telefonu": "603480574"
+  },
+  {
+    "nw": "1909699",
+    "nw_1": "441257688",
+    "Imie": "Krystian",
+    "Nazwisko": "Benka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Kiełpino",
+    "Ulica": "ul.Starowiejska 21",
+    "Adres Pocztowy": " 83-307 Kiełpino",
+    "Nr.Telefonu": "83-307",
+    "__parsed_extra": [
+      "+48667736729"
+    ]
+  }
+]

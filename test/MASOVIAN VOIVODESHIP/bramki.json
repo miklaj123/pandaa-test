@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "1340421",
+    "nw_1": "224236576",
+    "Imie": "Kacper",
+    "Nazwisko": "Wargocki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Bramki",
+    "Ulica": "Długa 44",
+    "Adres Pocztowy": " Bramki",
+    "Nr.Telefonu": "05-870",
+    "__parsed_extra": [
+      "780001754"
+    ]
+  },
+  {
+    "nw": "4971",
+    "nw_1": "63196489",
+    "Imie": "Marek",
+    "Nazwisko": "Michalik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Bramki",
+    "Ulica": "Bramki urocza 4",
+    "Adres Pocztowy": "05-870",
+    "Nr.Telefonu": "664547589"
+  },
+  {
+    "nw": "1852684",
+    "nw_1": "403611682",
+    "Imie": "Egor",
+    "Nazwisko": "Ishkov",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Bramki",
+    "Ulica": "polnocna 16",
+    "Adres Pocztowy": "05-870",
+    "Nr.Telefonu": "+48880100584"
+  }
+]

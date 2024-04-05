@@ -1,0 +1,52 @@
+[
+  {
+    "nw": "789944",
+    "nw_1": "279923601",
+    "Imie": "Patryk",
+    "Nazwisko": "Połetek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Osiek nad Wisłą",
+    "Ulica": "Jaskółcza 11",
+    "Adres Pocztowy": "87-125",
+    "Nr.Telefonu": "792048860"
+  },
+  {
+    "nw": "1167701",
+    "nw_1": "411834323",
+    "Imie": "Alicja",
+    "Nazwisko": "Bednarek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Osiek nad Wisłą",
+    "Ulica": "Skośna 14",
+    "Adres Pocztowy": "87-125",
+    "Nr.Telefonu": "690090988"
+  },
+  {
+    "nw": "37595",
+    "nw_1": "975268280",
+    "Imie": "Filip",
+    "Nazwisko": "Kamiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Osiek nad Wisłą",
+    "Ulica": "Street - Leśna"
+  },
+  {
+    "nw": "1285048",
+    "nw_1": "816905694",
+    "Imie": "Adriana",
+    "Nazwisko": "Bednarek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Osiek nad Wisłą",
+    "Ulica": "Skośna 14",
+    "Adres Pocztowy": "87-125",
+    "Nr.Telefonu": "533688332"
+  }
+]

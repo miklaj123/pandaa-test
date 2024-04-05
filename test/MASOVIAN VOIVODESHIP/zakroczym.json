@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1584997",
+    "nw_1": "338946755",
+    "Imie": "Dominik",
+    "Nazwisko": "Bacławski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Zakroczym",
+    "Ulica": "Gałachy 15g",
+    "Adres Pocztowy": "05-170",
+    "Nr.Telefonu": "577699397"
+  },
+  {
+    "nw": "1300090",
+    "nw_1": "615541632",
+    "Imie": "Milan",
+    "Nazwisko": "Kalinowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Zakroczym",
+    "Ulica": "Słoneczna 42",
+    "Adres Pocztowy": "05-170",
+    "Nr.Telefonu": "884883324"
+  },
+  {
+    "nw": "796845",
+    "nw_1": "326917188",
+    "Imie": "Paweł",
+    "Nazwisko": "Jablecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Zakroczym",
+    "Ulica": "Trebki Nowe 107A",
+    "Adres Pocztowy": "05-170",
+    "Nr.Telefonu": "696763206"
+  },
+  {
+    "nw": "1287898",
+    "nw_1": "615541632",
+    "Imie": "Milan",
+    "Nazwisko": "Kalinowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Zakroczym",
+    "Ulica": "sloneczna 42",
+    "Adres Pocztowy": "05-170",
+    "Nr.Telefonu": "884883324"
+  }
+]

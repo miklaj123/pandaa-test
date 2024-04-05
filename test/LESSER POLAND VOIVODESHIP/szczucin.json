@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1700570",
+    "nw_1": "682343446",
+    "Imie": "Eryk",
+    "Nazwisko": "Sieroń",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "szczucin",
+    "Ulica": "klonowa 2a street",
+    "Adres Pocztowy": "33-230",
+    "Nr.Telefonu": "609470955"
+  },
+  {
+    "nw": "1147419",
+    "nw_1": "223018731",
+    "Imie": "Sebastian",
+    "Nazwisko": "Kupiec",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Szczucin",
+    "Ulica": "Dąbrowica 210",
+    "Adres Pocztowy": "33-230",
+    "Nr.Telefonu": "883037652"
+  },
+  {
+    "nw": "1771379",
+    "nw_1": "538937017",
+    "Imie": "Kacper",
+    "Nazwisko": "Misiaszek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Szczucin",
+    "Ulica": "Świdrowka 120",
+    "Adres Pocztowy": "33-230",
+    "Nr.Telefonu": "737629619"
+  },
+  {
+    "nw": "2250872",
+    "nw_1": "726229073",
+    "Imie": "dawid",
+    "Nazwisko": "Misiaszek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "szczucin",
+    "Ulica": "Nowa 22",
+    "Adres Pocztowy": "33-230",
+    "Nr.Telefonu": "789190603"
+  }
+]

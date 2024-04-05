@@ -1,0 +1,61 @@
+[
+  {
+    "nw": "2276020",
+    "nw_1": "177074699",
+    "Imie": "Piotr",
+    "Nazwisko": "Cholewa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Gołuchów",
+    "Ulica": "Gołuchów Kopernika"
+  },
+  {
+    "nw": "1935248",
+    "nw_1": "741537338",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Mikołajczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Gołuchów",
+    "Ulica": "Marii Dąbrowskiej 7"
+  },
+  {
+    "nw": "526399",
+    "nw_1": "155178930",
+    "Imie": "Jakub",
+    "Nazwisko": "Zmyślony",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Gołuchów",
+    "Ulica": "Czerminek 2D",
+    "Adres Pocztowy": "63-322",
+    "Nr.Telefonu": "+48512943420"
+  },
+  {
+    "nw": "1935247",
+    "nw_1": "741537338",
+    "Imie": "Marcin",
+    "Nazwisko": "Mikołajczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Gołuchów",
+    "Ulica": "Marii Dąbrowskiej 7"
+  },
+  {
+    "nw": "885986",
+    "nw_1": "941409877",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Janiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Gołuchów",
+    "Ulica": "Macew 23B",
+    "Adres Pocztowy": "63-322",
+    "Nr.Telefonu": "578153160"
+  }
+]

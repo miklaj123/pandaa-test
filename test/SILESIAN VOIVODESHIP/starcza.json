@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "741771",
+    "nw_1": "473613120",
+    "Imie": "Julian",
+    "Nazwisko": "Nowak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Starcza",
+    "Ulica": "Szkolna 342",
+    "Adres Pocztowy": "42-261",
+    "Nr.Telefonu": "516809895"
+  },
+  {
+    "nw": "2078509",
+    "nw_1": "794832281",
+    "Imie": "Łukasz",
+    "Nazwisko": "Gągała",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Starcza",
+    "Ulica": "Szkolna 258",
+    "Adres Pocztowy": "42-261",
+    "Nr.Telefonu": "605896181"
+  },
+  {
+    "nw": "126207",
+    "nw_1": "375817261",
+    "Imie": "Łukasz",
+    "Nazwisko": "Gągała",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Starcza",
+    "Ulica": "Szkolna 258",
+    "Adres Pocztowy": "42-261",
+    "Nr.Telefonu": "605896181"
+  }
+]

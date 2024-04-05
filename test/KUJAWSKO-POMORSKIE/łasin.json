@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "2346224",
+    "nw_1": "540439503",
+    "Imie": "Ignacy",
+    "Nazwisko": "Zająkała",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Łasin",
+    "Ulica": "Rynek 9",
+    "Adres Pocztowy": "86-320",
+    "Nr.Telefonu": "669552123"
+  },
+  {
+    "nw": "2336235",
+    "nw_1": "473955224",
+    "Imie": "Michał",
+    "Nazwisko": "Mulewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Łasin",
+    "Ulica": "Radzyńska 33",
+    "Adres Pocztowy": "86-320",
+    "Nr.Telefonu": "734499333"
+  },
+  {
+    "nw": "2354911",
+    "nw_1": "893479876",
+    "Imie": "Aleksandra ",
+    "Nazwisko": "Plitt",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Łasin",
+    "Ulica": "Dworcowa 35"
+  }
+]

@@ -1,0 +1,53 @@
+[
+  {
+    "nw": "1544337",
+    "nw_1": "100307500",
+    "Imie": "Szymon",
+    "Nazwisko": "Szczesny",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "ilawa",
+    "Ulica": "sosnowa 11",
+    "Adres Pocztowy": "14-200",
+    "Nr.Telefonu": "600502354"
+  },
+  {
+    "nw": "535828",
+    "nw_1": "252972674",
+    "Imie": "Lukasz",
+    "Nazwisko": "Link",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Ilawa",
+    "Ulica": "1 Maja 20/15",
+    "Adres Pocztowy": "14-200",
+    "Nr.Telefonu": "+48668456037"
+  },
+  {
+    "nw": "1935801",
+    "nw_1": "452965057",
+    "Imie": "Patryk",
+    "Nazwisko": "Maliszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Ilawa",
+    "Ulica": "Kopernika 6a/5",
+    "Adres Pocztowy": "14-200",
+    "Nr.Telefonu": "511010403"
+  },
+  {
+    "nw": "1381042",
+    "nw_1": "300741699",
+    "Imie": "Patrycja",
+    "Nazwisko": "Malecka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Ilawa",
+    "Ulica": "Iława",
+    "Adres Pocztowy": " chełminska 3"
+  }
+]

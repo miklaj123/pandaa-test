@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "679783",
+    "nw_1": "983047203",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Szybka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Nowy Korczyn",
+    "Ulica": "Kawęczyn 40",
+    "Adres Pocztowy": "28-136",
+    "Nr.Telefonu": "519487952"
+  },
+  {
+    "nw": "942403",
+    "nw_1": "661140495",
+    "Imie": "Adrian",
+    "Nazwisko": "Kowalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Nowy Korczyn",
+    "Ulica": "Sępichów 9",
+    "Adres Pocztowy": "28-136",
+    "Nr.Telefonu": "504172440"
+  },
+  {
+    "nw": "806026",
+    "nw_1": "331100287",
+    "Imie": "Szymon",
+    "Nazwisko": "Wypych",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Nowy Korczyn",
+    "Ulica": "Zamkowa 2",
+    "Adres Pocztowy": "28-136",
+    "Nr.Telefonu": "+48721374288"
+  }
+]

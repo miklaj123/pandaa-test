@@ -1,0 +1,152 @@
+[
+  {
+    "nw": "861349",
+    "nw_1": "345179235",
+    "Imie": "Paweł",
+    "Nazwisko": "Choroś",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Szczecin",
+    "Ulica": "Marcinkowskiego 25",
+    "Adres Pocztowy": "71-160",
+    "Nr.Telefonu": "513174858"
+  },
+  {
+    "nw": "1804722",
+    "nw_1": "654008121",
+    "Imie": "Wiktor",
+    "Nazwisko": "Bagiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Szczecin",
+    "Ulica": "żupańskiego 14/17",
+    "Adres Pocztowy": "71-440",
+    "Nr.Telefonu": "534524323"
+  },
+  {
+    "nw": "1622026",
+    "nw_1": "983582532",
+    "Imie": "Ievgen",
+    "Nazwisko": "Sushkin",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Szczecin",
+    "Ulica": "Piłsudskiego 37/U1",
+    "Adres Pocztowy": " sklep Żabka",
+    "Nr.Telefonu": "70-534",
+    "__parsed_extra": [
+      "+48788738960"
+    ]
+  },
+  {
+    "nw": "2115333",
+    "nw_1": "579143226",
+    "Imie": "Jakub",
+    "Nazwisko": "Sikorski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Szczecin",
+    "Ulica": "Ruska 33F/8",
+    "Adres Pocztowy": "70-132",
+    "Nr.Telefonu": "731632701"
+  },
+  {
+    "nw": "1243367",
+    "nw_1": "882985292",
+    "Imie": "Marcin",
+    "Nazwisko": "Barczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "SZCZECIN",
+    "Ulica": "Przecław 81c/7",
+    "Adres Pocztowy": "72-005",
+    "Nr.Telefonu": "534539890"
+  },
+  {
+    "nw": "2233141",
+    "nw_1": "383287929",
+    "Imie": "Aleksander",
+    "Nazwisko": "Dąbrowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Szczecin",
+    "Ulica": "Wichrowe wzgórza 50a",
+    "Adres Pocztowy": " 72-001 kurów",
+    "Nr.Telefonu": " województwo zachodniopomorskie",
+    "__parsed_extra": [
+      "72001",
+      "517243516"
+    ]
+  },
+  {
+    "nw": "1004084",
+    "nw_1": "385495378",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Jóźwiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "szczecin",
+    "Ulica": "Jarogniewa 10/9",
+    "Adres Pocztowy": "71-664",
+    "Nr.Telefonu": "668725885"
+  },
+  {
+    "nw": "1067495",
+    "nw_1": "410320592",
+    "Imie": "Marcin",
+    "Nazwisko": "Grab",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Szczecin",
+    "Ulica": "Familijna 12",
+    "Adres Pocztowy": "71-221",
+    "Nr.Telefonu": "512328489"
+  },
+  {
+    "nw": "406521",
+    "nw_1": "108020349",
+    "Imie": "Sławomir",
+    "Nazwisko": "Wojtowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Szczecin",
+    "Ulica": "Michałowskiego 1AA/4",
+    "Adres Pocztowy": "71-343",
+    "Nr.Telefonu": "784528581"
+  },
+  {
+    "nw": "1901600",
+    "nw_1": "109377864",
+    "Imie": "mateusz",
+    "Nazwisko": "koźnicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Szczecin",
+    "Ulica": "mieszkanie 52",
+    "Adres Pocztowy": "71-548",
+    "Nr.Telefonu": "577399830"
+  },
+  {
+    "nw": "335856",
+    "nw_1": "697375280",
+    "Imie": "Jakub",
+    "Nazwisko": "Ostrowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Szczecin",
+    "Ulica": "Maciejkowa35/23",
+    "Adres Pocztowy": "71-754",
+    "Nr.Telefonu": "517109199"
+  }
+]

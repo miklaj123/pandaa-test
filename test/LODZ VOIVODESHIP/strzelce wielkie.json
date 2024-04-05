@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "449702",
+    "nw_1": "347609871",
+    "Imie": "Kamil",
+    "Nazwisko": "Jardenski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Strzelce Wielkie",
+    "Ulica": "Strzelce Wielkie 98-337 Ul. Traugutta 23",
+    "Adres Pocztowy": "98-337",
+    "Nr.Telefonu": "603427889"
+  },
+  {
+    "nw": "1924355",
+    "nw_1": "768275957",
+    "Imie": "Jakub",
+    "Nazwisko": "Sztajnert",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Strzelce Wielkie ",
+    "Ulica": "Wiewiec 82",
+    "Adres Pocztowy": "98-337",
+    "Nr.Telefonu": "536999442"
+  },
+  {
+    "nw": "1212877",
+    "nw_1": "796654667",
+    "Imie": "Franek",
+    "Nazwisko": "Wojtala",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Strzelce Wielkie",
+    "Ulica": "Wiewiec 33"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2042820",
+    "nw_1": "606415421",
+    "Imie": "Artur",
+    "Nazwisko": "Kulbaka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Łopiennik Górny",
+    "Ulica": "Łopiennik Górny 162",
+    "Adres Pocztowy": "22-351",
+    "Nr.Telefonu": "533085699"
+  },
+  {
+    "nw": "2040547",
+    "nw_1": "754006448",
+    "Imie": "Karol",
+    "Nazwisko": "Misieczko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Łopiennik Górny",
+    "Ulica": "Łopiennik Dolny-Kolonia 74",
+    "Adres Pocztowy": "22-351",
+    "Nr.Telefonu": "530009941"
+  },
+  {
+    "nw": "1958595",
+    "nw_1": "837184029",
+    "Imie": "Bartłomiej",
+    "Nazwisko": "Kowalczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Łopiennik Górny",
+    "Ulica": "Łopiennik Górny 181",
+    "Adres Pocztowy": "22-351",
+    "Nr.Telefonu": "536947987"
+  }
+]

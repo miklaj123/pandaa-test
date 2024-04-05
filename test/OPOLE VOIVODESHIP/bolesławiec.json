@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "694625",
+    "nw_1": "722278098",
+    "Imie": "Marcel",
+    "Nazwisko": "Kwaśniewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Bolesławiec",
+    "Ulica": "Street: Gdańska"
+  },
+  {
+    "nw": "2042326",
+    "nw_1": "960317724",
+    "Imie": "Yurii",
+    "Nazwisko": "Kohut",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Bolesławiec",
+    "Ulica": "Bolesława Chrobrego 10a/6",
+    "Adres Pocztowy": "59-700",
+    "Nr.Telefonu": "+48532154287"
+  },
+  {
+    "nw": "672846",
+    "nw_1": "722278098",
+    "Imie": "Marcel",
+    "Nazwisko": "Kwaśniewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Bolesławiec",
+    "Ulica": "Bolesławiec 59-700",
+    "Adres Pocztowy": " Dolnośląskie",
+    "Nr.Telefonu": " "
+  }
+]

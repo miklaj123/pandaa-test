@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "1248981",
+    "nw_1": "818146779",
+    "Imie": "Maks",
+    "Nazwisko": "Pasierbek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Krzęcin",
+    "Ulica": "kalwaryjska 36",
+    "Adres Pocztowy": " 32-051 Krzęcin",
+    "Nr.Telefonu": "32-051",
+    "__parsed_extra": [
+      "664856804"
+    ]
+  },
+  {
+    "nw": "383898",
+    "nw_1": "502132194",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Gąsior",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Krzęcin",
+    "Ulica": "Kalwaryjska 27",
+    "Adres Pocztowy": "32-051",
+    "Nr.Telefonu": "519753404"
+  }
+]

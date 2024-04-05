@@ -1,0 +1,63 @@
+[
+  {
+    "nw": "2309428",
+    "nw_1": "199284605",
+    "Imie": "krzysztof",
+    "Nazwisko": "brodowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Nikielkowo",
+    "Ulica": "Lawendowa 32",
+    "Adres Pocztowy": "10-376",
+    "Nr.Telefonu": "514041860"
+  },
+  {
+    "nw": "2278536",
+    "nw_1": "903347095",
+    "Imie": "Adam",
+    "Nazwisko": "Kątek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Nikielkowo",
+    "Ulica": "Nikielkowo",
+    "Adres Pocztowy": " Krokusowa 14",
+    "Nr.Telefonu": "10-376",
+    "__parsed_extra": [
+      "660140680"
+    ]
+  },
+  {
+    "nw": "562885",
+    "nw_1": "117175850",
+    "Imie": "Wojciech ",
+    "Nazwisko": "Jarzębiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "NIKIELKOWO",
+    "Ulica": "RUMIANKOWA 18 ",
+    "Adres Pocztowy": " 10-376 NIKIELKOWO",
+    "Nr.Telefonu": "10-376",
+    "__parsed_extra": [
+      "663764160"
+    ]
+  },
+  {
+    "nw": "572268",
+    "nw_1": "752765377",
+    "Imie": "Piotr",
+    "Nazwisko": "Niedźwiecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Nikielkowo",
+    "Ulica": "Bazyliowa 38",
+    "Adres Pocztowy": " Nikielkowo",
+    "Nr.Telefonu": "10-376",
+    "__parsed_extra": [
+      "535226680"
+    ]
+  }
+]

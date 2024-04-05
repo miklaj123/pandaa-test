@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "789325",
+    "nw_1": "370340088",
+    "Imie": "Krzysztof",
+    "Nazwisko": "Piątek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Falenty Nowe",
+    "Ulica": "Falencka 17/22",
+    "Adres Pocztowy": "05-090",
+    "Nr.Telefonu": "733450866"
+  },
+  {
+    "nw": "1461091",
+    "nw_1": "891347795",
+    "Imie": "Christopher",
+    "Nazwisko": "Johnson",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Falenty Nowe",
+    "Ulica": "Czereśniowa 3",
+    "Adres Pocztowy": "05-090",
+    "Nr.Telefonu": "+48504835465"
+  },
+  {
+    "nw": "1211661",
+    "nw_1": "384058890",
+    "Imie": "Dominik",
+    "Nazwisko": "Miłkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Falenty Nowe",
+    "Ulica": "Droga Hrabska 31 H",
+    "Adres Pocztowy": "05-090",
+    "Nr.Telefonu": "699851333"
+  }
+]

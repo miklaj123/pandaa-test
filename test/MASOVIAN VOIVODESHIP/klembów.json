@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1563576",
+    "nw_1": "267487432",
+    "Imie": "Maciej",
+    "Nazwisko": "Roguszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Klembów",
+    "Ulica": "Krzywica",
+    "Adres Pocztowy": "05-205",
+    "Nr.Telefonu": "+48729873599"
+  },
+  {
+    "nw": "1824318",
+    "nw_1": "333487725",
+    "Imie": "Ewelina",
+    "Nazwisko": "Przyborowska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Klembów",
+    "Ulica": "Wola Rasztowska ul. Warszawska 21",
+    "Adres Pocztowy": "05-205",
+    "Nr.Telefonu": "501928270"
+  },
+  {
+    "nw": "1390363",
+    "nw_1": "580789856",
+    "Imie": "Oskar",
+    "Nazwisko": "Rosa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Klembów",
+    "Ulica": "Żymirskiego 114",
+    "Adres Pocztowy": "05-205",
+    "Nr.Telefonu": "798924593"
+  }
+]

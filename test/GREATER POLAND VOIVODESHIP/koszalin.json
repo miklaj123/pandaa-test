@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1420231",
+    "nw_1": "710699145",
+    "Imie": "Adrian",
+    "Nazwisko": "Adrian",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "koszalin",
+    "Ulica": "sikorskiego 3b/12",
+    "Adres Pocztowy": "75-360",
+    "Nr.Telefonu": "459415274"
+  },
+  {
+    "nw": "2333920",
+    "nw_1": "672257478",
+    "Imie": "Bartek",
+    "Nazwisko": "Stachowiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Koszalin",
+    "Ulica": "Franciszka Ratajczaka 8/13",
+    "Adres Pocztowy": "75-104",
+    "Nr.Telefonu": "730124344"
+  },
+  {
+    "nw": "1091635",
+    "nw_1": "881715388",
+    "Imie": "joanna",
+    "Nazwisko": "kasza",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Koszalin",
+    "Ulica": "Piłsudskiego 4/4",
+    "Adres Pocztowy": "75-511",
+    "Nr.Telefonu": "506970497"
+  }
+]

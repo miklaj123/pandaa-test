@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1711525",
+    "nw_1": "195976182",
+    "Imie": "Agata",
+    "Nazwisko": "Wolko-Haszczyc",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Siemianowice",
+    "Ulica": "wróblewskiego 67",
+    "Adres Pocztowy": "41-106",
+    "Nr.Telefonu": "+48502863721"
+  },
+  {
+    "nw": "2363954",
+    "nw_1": "342355294",
+    "Imie": "Mateusz",
+    "Nazwisko": "Myga",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Siemianowice  ",
+    "Ulica": "Jagiełły 25b/5",
+    "Adres Pocztowy": "41-106",
+    "Nr.Telefonu": "508329982"
+  },
+  {
+    "nw": "319797",
+    "nw_1": "342828364",
+    "Imie": "Kasper",
+    "Nazwisko": "Rak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "siemianowice",
+    "Ulica": "Malinowa 13",
+    "Adres Pocztowy": "41-103",
+    "Nr.Telefonu": "789302605"
+  },
+  {
+    "nw": "999439",
+    "nw_1": "601746606",
+    "Imie": "Marcin",
+    "Nazwisko": "Koziołek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Siemianowice",
+    "Ulica": "Malinowa 7",
+    "Adres Pocztowy": "41-100",
+    "Nr.Telefonu": "793874464"
+  }
+]

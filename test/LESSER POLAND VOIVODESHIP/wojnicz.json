@@ -1,0 +1,68 @@
+[
+  {
+    "nw": "1907766",
+    "nw_1": "626677639",
+    "Imie": "Alan",
+    "Nazwisko": "Bąk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Wojnicz",
+    "Ulica": "Wielka Wieś 198",
+    "Adres Pocztowy": "32-830",
+    "Nr.Telefonu": "781988148"
+  },
+  {
+    "nw": "1585894",
+    "nw_1": "791240424",
+    "Imie": "Antek",
+    "Nazwisko": "Fido",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Wojnicz",
+    "Ulica": "Łukanowice 249",
+    "Adres Pocztowy": "32-830",
+    "Nr.Telefonu": "734065698"
+  },
+  {
+    "nw": "573474",
+    "nw_1": "564431844",
+    "Imie": "Kacper",
+    "Nazwisko": "Batko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "wojnicz",
+    "Ulica": "Milówka"
+  },
+  {
+    "nw": "1691666",
+    "nw_1": "272208202",
+    "Imie": "Joanna",
+    "Nazwisko": "Kuboń",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Wojnicz",
+    "Ulica": "Rynek 28",
+    "Adres Pocztowy": " Wojnicz",
+    "Nr.Telefonu": "32-830",
+    "__parsed_extra": [
+      "+48667830436"
+    ]
+  },
+  {
+    "nw": "1501101",
+    "nw_1": "564122700",
+    "Imie": "Kuba",
+    "Nazwisko": "Mąka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Wojnicz",
+    "Ulica": "Wielka Wieś 150",
+    "Adres Pocztowy": "32-830",
+    "Nr.Telefonu": "662946372"
+  }
+]

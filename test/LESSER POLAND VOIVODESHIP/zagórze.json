@@ -1,0 +1,80 @@
+[
+  {
+    "nw": "1964367",
+    "nw_1": "511831317",
+    "Imie": "Piotr",
+    "Nazwisko": "Skonieczny",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Zagórze",
+    "Ulica": "ul. Ogrodowa 6",
+    "Adres Pocztowy": "32-555",
+    "Nr.Telefonu": "536704403"
+  },
+  {
+    "nw": "2228991",
+    "nw_1": "252351596",
+    "Imie": "Mateusz",
+    "Nazwisko": "Długaj",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Zagórze",
+    "Ulica": "Wyrowcowa 36",
+    "Adres Pocztowy": "32-555",
+    "Nr.Telefonu": "530074477"
+  },
+  {
+    "nw": "2163140",
+    "nw_1": "833270427",
+    "Imie": "Mateusz",
+    "Nazwisko": "Długaj",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Zagórze",
+    "Ulica": "Wyrowcowa 36",
+    "Adres Pocztowy": "32-555",
+    "Nr.Telefonu": "530074477"
+  },
+  {
+    "nw": "1083786",
+    "nw_1": "677667123",
+    "Imie": "Szymon",
+    "Nazwisko": "Fliśnik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Zagórze",
+    "Ulica": "Zagórze 175",
+    "Adres Pocztowy": "32-005",
+    "Nr.Telefonu": "503 931 613"
+  },
+  {
+    "nw": "1495643",
+    "nw_1": "677667123",
+    "Imie": "Szymon",
+    "Nazwisko": "Fliśnik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Zagórze",
+    "Ulica": "Zagórze 175",
+    "Adres Pocztowy": "32-005",
+    "Nr.Telefonu": "503931613"
+  },
+  {
+    "nw": "1123316",
+    "nw_1": "197752164",
+    "Imie": "Karol",
+    "Nazwisko": "Bieniek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Zagórze",
+    "Ulica": "Piłsudskiego 236",
+    "Adres Pocztowy": "32-555",
+    "Nr.Telefonu": "+48609155333"
+  }
+]

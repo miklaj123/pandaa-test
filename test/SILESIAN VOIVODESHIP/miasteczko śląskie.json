@@ -1,0 +1,78 @@
+[
+  {
+    "nw": "1194328",
+    "nw_1": "506965631",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Maciejczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Miasteczko Śląskie",
+    "Ulica": "Ceramiczna 33",
+    "Adres Pocztowy": "42-610",
+    "Nr.Telefonu": "726130411"
+  },
+  {
+    "nw": "420838",
+    "nw_1": "266906954",
+    "Imie": "Michal",
+    "Nazwisko": "Bednarczuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Miasteczko śląskie",
+    "Ulica": "Śląska"
+  },
+  {
+    "nw": "126730",
+    "nw_1": "840835544",
+    "Imie": "Denis",
+    "Nazwisko": "Makarski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Miasteczko Śląskie",
+    "Ulica": "Miasteczko Śląskie ul.Srebrna 28/1/1",
+    "Adres Pocztowy": "42-610",
+    "Nr.Telefonu": "513369343"
+  },
+  {
+    "nw": "1305566",
+    "nw_1": "923569065",
+    "Imie": "pawel",
+    "Nazwisko": "ka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "miasteczko śląskie",
+    "Ulica": "Niepodległości 21",
+    "Adres Pocztowy": "42-610",
+    "Nr.Telefonu": "+48690123238"
+  },
+  {
+    "nw": "637641",
+    "nw_1": "260824557",
+    "Imie": "Tomasz",
+    "Nazwisko": "Chudzik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Miasteczko Śląskie",
+    "Ulica": "Śląska 74",
+    "Adres Pocztowy": "42-610",
+    "Nr.Telefonu": "780027578"
+  },
+  {
+    "nw": "622442",
+    "nw_1": "522664793",
+    "Imie": "Wiktor",
+    "Nazwisko": "Głogusz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Miasteczko Śląskie",
+    "Ulica": "Modrzewskiego 23",
+    "Adres Pocztowy": "42-610",
+    "Nr.Telefonu": "882 030 287"
+  }
+]

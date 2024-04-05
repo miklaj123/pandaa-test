@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1499519",
+    "nw_1": "302357809",
+    "Imie": "kacper",
+    "Nazwisko": "klos",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "kolbudy",
+    "Ulica": "Bukowskiego 23",
+    "Adres Pocztowy": "83-050",
+    "Nr.Telefonu": "507851215"
+  },
+  {
+    "nw": "1969164",
+    "nw_1": "707030063",
+    "Imie": "Jakub",
+    "Nazwisko": "Wielgomas",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Kolbudy",
+    "Ulica": "Borowikowa 3",
+    "Adres Pocztowy": "83-050",
+    "Nr.Telefonu": "511110289"
+  },
+  {
+    "nw": "1279481",
+    "nw_1": "728623454",
+    "Imie": "stanislaw",
+    "Nazwisko": "jurski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "kolbudy",
+    "Ulica": "przedszkolna 26",
+    "Adres Pocztowy": "123",
+    "Nr.Telefonu": "518713876"
+  }
+]

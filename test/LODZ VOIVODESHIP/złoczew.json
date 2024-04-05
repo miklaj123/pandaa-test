@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1125851",
+    "nw_1": "489116332",
+    "Imie": "Piotr",
+    "Nazwisko": "Gryszkiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Złoczew",
+    "Ulica": "Złoczew Sieradzka 21",
+    "Adres Pocztowy": "98-270",
+    "Nr.Telefonu": "882038399"
+  },
+  {
+    "nw": "150418",
+    "nw_1": "308861075",
+    "Imie": "Nikodem",
+    "Nazwisko": "Niciejewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Złoczew",
+    "Ulica": "ul.Kilińskiego 24 a Beauty Center",
+    "Adres Pocztowy": "98-270",
+    "Nr.Telefonu": "665411202"
+  },
+  {
+    "nw": "344507",
+    "nw_1": "289918584",
+    "Imie": "Krystian",
+    "Nazwisko": "Ścisły",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Złoczew",
+    "Ulica": "Czarna 29",
+    "Adres Pocztowy": "98-270",
+    "Nr.Telefonu": "604773570"
+  },
+  {
+    "nw": "323132",
+    "nw_1": "308861075",
+    "Imie": "Kacper",
+    "Nazwisko": "Krzywanski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Złoczew",
+    "Ulica": "Szkolna 12/20",
+    "Adres Pocztowy": "98-270",
+    "Nr.Telefonu": "575671274"
+  }
+]

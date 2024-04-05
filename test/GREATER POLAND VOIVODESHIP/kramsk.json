@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1470006",
+    "nw_1": "831454197",
+    "Imie": "Filip",
+    "Nazwisko": "Wiktorski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "kramsk",
+    "Ulica": "Konstantynów 3",
+    "Adres Pocztowy": "62-511",
+    "Nr.Telefonu": "693208121"
+  },
+  {
+    "nw": "1793347",
+    "nw_1": "675523143",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Wiktorski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Kramsk",
+    "Ulica": "Chmielnik 15A",
+    "Adres Pocztowy": "62-511",
+    "Nr.Telefonu": "784679736"
+  },
+  {
+    "nw": "199031",
+    "nw_1": "329557280",
+    "Imie": "Wojciech",
+    "Nazwisko": "Paluszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Kramsk",
+    "Ulica": "Sakłak 2B",
+    "Adres Pocztowy": "62-511",
+    "Nr.Telefonu": "731029730"
+  }
+]

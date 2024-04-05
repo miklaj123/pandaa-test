@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1897450",
+    "nw_1": "407403081",
+    "Imie": "kacper",
+    "Nazwisko": "patrak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Świerczyniec",
+    "Ulica": "grobla 6",
+    "Adres Pocztowy": "43-220",
+    "Nr.Telefonu": "720821199"
+  },
+  {
+    "nw": "667442",
+    "nw_1": "878538688",
+    "Imie": "Jonatan",
+    "Nazwisko": "Grab",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Świerczyniec",
+    "Ulica": "brawna 64b",
+    "Adres Pocztowy": "43-220",
+    "Nr.Telefonu": "661 482 762"
+  },
+  {
+    "nw": "1896221",
+    "nw_1": "544566190",
+    "Imie": "kacper",
+    "Nazwisko": "Patrak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "świerczyniec",
+    "Ulica": "grobla 6",
+    "Adres Pocztowy": "43-220",
+    "Nr.Telefonu": "720821199"
+  }
+]

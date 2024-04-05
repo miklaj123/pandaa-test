@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Wyszukiwarka Miasta</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0; /* Nowe tło */
+        }
+        .container {
+            max-width: 80%;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.8);
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        input[type="text"] {
+            padding: 8px;
+            width: 70%;
+            margin-right: 10px;
+            border-radius: 4px;
+            border: 1px solid #ccc;
+            font-size: 16px;
+        }
+        button {
+            padding: 8px 16px;
+            border-radius: 4px;
+            border: none;
+            background-color: #4caf50;
+            color: #fff;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-top: 20px;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+            font-weight: bold;
+        }
+        .beta-tag {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background-color: orange;
+            color: #fff;
+            padding: 5px 10px;
+            border-radius: 4px;
+            font-size: 12px;
+        }
+    </style>
+</head>
+<body>
+    <div class="beta-tag">BETA</div>
+    <div class="container">
+        <h1>Wyszukiwarka Miasta</h1>
+        <div>
+            <input type="text" id="fileNameInput" placeholder="Nazwa miasta">
+            <button onclick="searchCity()">Wyszukaj</button>
+        </div>
+        <table id="resultsTable">
+            <thead>
+                <tr>
+                    <th>Imię</th>
+                    <th>Nazwisko</th>
+                    <th>Numer Telefonu</th>
+                    <th>Miasto</th>
+                    <th>Kraj</th>
+                    <th>Adres Pocztowy</th>
+                </tr>
+            </thead>
+            <tbody id="resultsBody">
+                <!-- Tutaj będą wyświetlane wyniki -->
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        function searchCity() {
+            const cityName = document.getElementById('fileNameInput').value.trim().toLowerCase();
+            if (!cityName) {
+                document.getElementById('resultsBody').innerHTML = `<tr><td colspan="6">Proszę wpisać nazwę miasta.</td></tr>`;
+                return;
+            }
+            
+            clearResultsTable();
+
+            const voivodeships = [
+                'GREATER POLAND VOIVODESHIP',
+                'KUJAWSKO-POMORSKIE',
+                'LESSER POLAND VOIVODESHIP',
+                'LOWER SILESIAN VOIVODESHIP',
+                'LUBLIN VOIVODESHIP',
+                'LUBUSZ',
+                'MASOVIAN VOIVODESHIP',
+                'OPOLE VOIVODESHIP',
+                'PODLASIE',
+                'POMERANIAN VOIVODESHIP',
+                'SILESIAN VOIVODESHIP',
+                'SUBCARPATHIAN VOIVODESHIP',
+                'SWIETOKRZYSKIE',
+                'WARMIAN-MASURIAN VOIVODESHIP',
+                'WEST POMERANIAN VOIVODESHIP'
+            ];
+
+            let noDataForVoivodeships = [];
+
+            voivodeships.forEach(voivodeship => {
+                const filePath = `test/${voivodeship}/${cityName}.json`;
+                fetch(filePath)
+                    .then(response => {
+                        if (!response.ok) {
+                            throw new Error(`Brak danych dla: ${voivodeship}`);
+                        }
+                        return response.json();
+                    })
+                    .then(data => {
+                        displayResults(data);
+                    })
+                    .catch(error => {
+                        noDataForVoivodeships.push(voivodeship.replace(/-/g, ' ')); // Usuwamy myślniki dla lepszej czytelności
+                    })
+                    .finally(() => {
+                        if (noDataForVoivodeships.length === voivodeships.length) {
+                            displayNoData(noDataForVoivodeships);
+                        }
+                    });
+            });
+        }
+
+        function displayResults(data) {
+            const resultsTable = document.getElementById('resultsBody');
+            data.forEach(item => {
+                const row = document.createElement('tr');
+                row.innerHTML = `<td>${item.Imie || 'Brak'}</td><td>${item.Nazwisko || 'Brak'}</td><td>${item['Nr.Telefonu'] || 'Brak'}</td><td>${item.Miasto || 'Brak'}</td><td>${item.Kraj || 'Brak'}</td><td>${item['Adres Pocztowy'] || 'Brak'}</td>`;
+                resultsTable.appendChild(row);
+            });
+        }
+
+        function displayNoData(noDataForVoivodeships) {
+            if (noDataForVoivodeships.length > 0) {
+                const resultsTable = document.getElementById('resultsBody');
+                const row = document.createElement('tr');
+                row.innerHTML = `<td colspan="6">Brak danych dla większości województw.</td>`;
+                resultsTable.appendChild(row);
+            }
+        }
+
+        function clearResultsTable() {
+            const resultsTable = document.getElementById('resultsBody');
+            resultsTable.innerHTML = ''; // Wyczyść zawartość tabeli przed dodaniem nowych danych
+        }
+    </script>
+</body>
+</html>

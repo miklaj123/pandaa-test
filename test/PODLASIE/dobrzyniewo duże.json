@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1299870",
+    "nw_1": "732552599",
+    "Imie": "Michał",
+    "Nazwisko": "Głuszyński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Dobrzyniewo Duże",
+    "Ulica": "ełcka 31a",
+    "Adres Pocztowy": "16-002",
+    "Nr.Telefonu": "606299172"
+  },
+  {
+    "nw": "587390",
+    "nw_1": "130816500",
+    "Imie": "Miłosz",
+    "Nazwisko": "Biełaga",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Dobrzyniewo Duże",
+    "Ulica": "Small town named Krynice home number is 11.",
+    "Adres Pocztowy": "16-002",
+    "Nr.Telefonu": "536258277"
+  },
+  {
+    "nw": "2015297",
+    "nw_1": "781556005",
+    "Imie": "Bartek",
+    "Nazwisko": "Paczyński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Dobrzyniewo Duże",
+    "Ulica": "Leśna 14",
+    "Adres Pocztowy": "16-002",
+    "Nr.Telefonu": "883377272"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "17118",
+    "nw_1": "2351479",
+    "Imie": "Milosz",
+    "Nazwisko": "Pliszka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Zarzecze",
+    "Ulica": "WISNIOWA"
+  },
+  {
+    "nw": "963299",
+    "nw_1": "953268549",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Boratyn",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Zarzecze",
+    "Ulica": "Siennów 150",
+    "Adres Pocztowy": "37-205",
+    "Nr.Telefonu": "661315371"
+  },
+  {
+    "nw": "1233007",
+    "nw_1": "953878760",
+    "Imie": "Kamil",
+    "Nazwisko": "Kielar",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Zarzecze",
+    "Ulica": "Zarzecze Ul. Długa 89 37-205.",
+    "Adres Pocztowy": "37-205",
+    "Nr.Telefonu": "+48797837916"
+  }
+]

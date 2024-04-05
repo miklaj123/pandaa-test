@@ -1,0 +1,83 @@
+[
+  {
+    "nw": "1711662",
+    "nw_1": "340338038",
+    "Imie": "Slawomir",
+    "Nazwisko": "Olszanski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Ostrowiec Swietokrzyski",
+    "Ulica": "Mychów 46A",
+    "Adres Pocztowy": "27-400",
+    "Nr.Telefonu": "502773741"
+  },
+  {
+    "nw": "136274",
+    "nw_1": "810937187",
+    "Imie": "Igor",
+    "Nazwisko": "Malanowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Ostrowiec Swietokrzyski",
+    "Ulica": "Os.Sloneczne 29/24",
+    "Adres Pocztowy": "27-400",
+    "Nr.Telefonu": "730475806"
+  },
+  {
+    "nw": "688061",
+    "nw_1": "812599094",
+    "Imie": "Jakub",
+    "Nazwisko": "Prokop",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Ostrowiec Swietokrzyski",
+    "Ulica": "Os Sloneczne 44/6",
+    "Adres Pocztowy": "27-400",
+    "Nr.Telefonu": "510955798"
+  },
+  {
+    "nw": "1351042",
+    "nw_1": "509544991",
+    "Imie": "danuta",
+    "Nazwisko": "Fortuna",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "ostrowiec swietokrzyski",
+    "Ulica": "ogrody 10a/33",
+    "Adres Pocztowy": "27-400",
+    "Nr.Telefonu": "886932353"
+  },
+  {
+    "nw": "737978",
+    "nw_1": "978404603",
+    "Imie": "kuba",
+    "Nazwisko": "miernikiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Ostrowiec Swietokrzyski",
+    "Ulica": "polna 7b",
+    "Adres Pocztowy": " apartment 4",
+    "Nr.Telefonu": "27-400",
+    "__parsed_extra": [
+      "515511343"
+    ]
+  },
+  {
+    "nw": "901672",
+    "nw_1": "706892162",
+    "Imie": "Konrad",
+    "Nazwisko": "Kargul",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Ostrowiec Swietokrzyski",
+    "Ulica": "Osiedle Patronackie 32/29",
+    "Adres Pocztowy": "27-400",
+    "Nr.Telefonu": "576 218 575"
+  }
+]

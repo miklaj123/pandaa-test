@@ -1,0 +1,67 @@
+[
+  {
+    "nw": "1254682",
+    "nw_1": "488751823",
+    "Imie": "Sebastian",
+    "Nazwisko": "Żądło",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Spytkowice",
+    "Ulica": "Spytkowice 656",
+    "Adres Pocztowy": "34-745",
+    "Nr.Telefonu": "788329749"
+  },
+  {
+    "nw": "927489",
+    "nw_1": "488751823",
+    "Imie": "Bartłomiej",
+    "Nazwisko": "Porębski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Spytkowice",
+    "Ulica": "Spytkowice 207A",
+    "Adres Pocztowy": "34-745",
+    "Nr.Telefonu": "788576326"
+  },
+  {
+    "nw": "1254640",
+    "nw_1": "488751823",
+    "Imie": "Wiktor",
+    "Nazwisko": "Bala",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Spytkowice",
+    "Ulica": "Spytkowice 206",
+    "Adres Pocztowy": "34-745",
+    "Nr.Telefonu": "537060825"
+  },
+  {
+    "nw": "1393414",
+    "nw_1": "811729198",
+    "Imie": "Sebastian",
+    "Nazwisko": "Kapica",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Spytkowice",
+    "Ulica": "Spytkowice Czarnowiejska 72",
+    "Adres Pocztowy": "34-116",
+    "Nr.Telefonu": "731264271"
+  },
+  {
+    "nw": "2020960",
+    "nw_1": "202029862",
+    "Imie": "Borys",
+    "Nazwisko": "Mostowik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Spytkowice",
+    "Ulica": "Myto 6",
+    "Adres Pocztowy": "34-116",
+    "Nr.Telefonu": "514333313"
+  }
+]

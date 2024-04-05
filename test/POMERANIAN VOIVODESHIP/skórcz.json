@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1463459",
+    "nw_1": "802497765",
+    "Imie": "Hubert",
+    "Nazwisko": "Jaszczerski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Skórcz",
+    "Ulica": "83-220 Wielki Bukowiec 79",
+    "Adres Pocztowy": "83-220",
+    "Nr.Telefonu": "694953297"
+  },
+  {
+    "nw": "398726",
+    "nw_1": "164118947",
+    "Imie": "Paweł",
+    "Nazwisko": "Boulge",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Skórcz",
+    "Ulica": "Brzozowa 4",
+    "Adres Pocztowy": "83-220",
+    "Nr.Telefonu": "886 923 493"
+  },
+  {
+    "nw": "1815004",
+    "nw_1": "701901823",
+    "Imie": "Nina",
+    "Nazwisko": "Grajewska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Skórcz",
+    "Ulica": "27-go Stycznia 17",
+    "Adres Pocztowy": "83-220",
+    "Nr.Telefonu": "667820719"
+  }
+]

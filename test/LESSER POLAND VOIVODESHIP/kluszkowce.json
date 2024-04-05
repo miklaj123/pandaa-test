@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "910520",
+    "nw_1": "546244753",
+    "Imie": "Adrian",
+    "Nazwisko": "Dolinski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Kluszkowce",
+    "Ulica": "Pienińska 20",
+    "Adres Pocztowy": "34-440",
+    "Nr.Telefonu": "+48 518 402 345"
+  },
+  {
+    "nw": "1821946",
+    "nw_1": "100040486",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Wróbel",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "kluszkowce",
+    "Ulica": "Podhalańska 18",
+    "Adres Pocztowy": "34-440",
+    "Nr.Telefonu": "+48519529156"
+  },
+  {
+    "nw": "1259207",
+    "nw_1": "654403518",
+    "Imie": "Eryk",
+    "Nazwisko": "Bałuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Kluszkowce",
+    "Ulica": "Polna 24",
+    "Adres Pocztowy": "34-440",
+    "Nr.Telefonu": "513623555"
+  }
+]

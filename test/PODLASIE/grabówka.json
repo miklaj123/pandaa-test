@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2017473",
+    "nw_1": "479029508",
+    "Imie": "Jakub",
+    "Nazwisko": "Juszczuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Grabówka",
+    "Ulica": "Ciołkowskiego 4",
+    "Adres Pocztowy": "15-523",
+    "Nr.Telefonu": "577775022"
+  },
+  {
+    "nw": "2292991",
+    "nw_1": "891960724",
+    "Imie": "Marcin",
+    "Nazwisko": "Waszczuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Grabówka",
+    "Ulica": "Ottawska 10",
+    "Adres Pocztowy": "15-523",
+    "Nr.Telefonu": "537700172"
+  },
+  {
+    "nw": "1552831",
+    "nw_1": "434558200",
+    "Imie": "Wojciech",
+    "Nazwisko": "Łuksza",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Grabówka",
+    "Ulica": "Jodłowa 14/2",
+    "Adres Pocztowy": "15-523",
+    "Nr.Telefonu": "+48796606338"
+  }
+]

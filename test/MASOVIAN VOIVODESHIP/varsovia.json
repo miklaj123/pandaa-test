@@ -1,0 +1,60 @@
+[
+  {
+    "nw": "956267",
+    "nw_1": "711372019",
+    "Imie": "krystyna",
+    "Nazwisko": "Tarnas",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Varsovia",
+    "Ulica": "Wiolinowa 5/57",
+    "Adres Pocztowy": "02-785",
+    "Nr.Telefonu": "600251588"
+  },
+  {
+    "nw": "765708",
+    "nw_1": "356568249",
+    "Imie": "Krystyna",
+    "Nazwisko": "Tarnas",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Varsovia",
+    "Ulica": "Wiolinowa 5",
+    "Adres Pocztowy": " 57",
+    "Nr.Telefonu": "02-785",
+    "__parsed_extra": [
+      "600251588"
+    ]
+  },
+  {
+    "nw": "1358311",
+    "nw_1": "866798067",
+    "Imie": "Igor",
+    "Nazwisko": "Badura",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Varsovia",
+    "Ulica": "Strumykowa 26 Salon Trend",
+    "Adres Pocztowy": "03-138",
+    "Nr.Telefonu": "732-739-544"
+  },
+  {
+    "nw": "1605384",
+    "nw_1": "324028061",
+    "Imie": "José Marcos",
+    "Nazwisko": "Arcediano Consuegra",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "VARSOVIA",
+    "Ulica": "Zygmunta Modzelewskiego 54b",
+    "Adres Pocztowy": " 02-679 Warszawa",
+    "Nr.Telefonu": "02-679",
+    "__parsed_extra": [
+      "620882621"
+    ]
+  }
+]

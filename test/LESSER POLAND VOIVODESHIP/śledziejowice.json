@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "2358855",
+    "nw_1": "948929547",
+    "Imie": "Vladyslav ",
+    "Nazwisko": "Yareminetcs ",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Śledziejowice",
+    "Ulica": "Niedzielskich 224",
+    "Adres Pocztowy": "32-020",
+    "Nr.Telefonu": "48517242153"
+  },
+  {
+    "nw": "1302356",
+    "nw_1": "429147391",
+    "Imie": "kamil",
+    "Nazwisko": "trzos",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Śledziejowice",
+    "Ulica": "Śledziejowice 394",
+    "Adres Pocztowy": " ul. kokotowska",
+    "Nr.Telefonu": "32-020",
+    "__parsed_extra": [
+      "795189601"
+    ]
+  }
+]

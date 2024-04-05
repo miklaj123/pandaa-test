@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "2035723",
+    "nw_1": "486075823",
+    "Imie": "tymon",
+    "Nazwisko": "rozpedowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "świerzawa",
+    "Ulica": "59-540 Dobków",
+    "Adres Pocztowy": "59-540",
+    "Nr.Telefonu": "798302137"
+  },
+  {
+    "nw": "17575",
+    "nw_1": "32817943",
+    "Imie": "Michał",
+    "Nazwisko": "Wojdyło",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Świerzawa",
+    "Ulica": "Jeleniogórska 30/2",
+    "Adres Pocztowy": "59-540",
+    "Nr.Telefonu": "577244693"
+  },
+  {
+    "nw": "109421",
+    "nw_1": "32817943",
+    "Imie": "Michal",
+    "Nazwisko": "Wojdylo",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Świerzawa",
+    "Ulica": "Jeleniogorska 30/2",
+    "Adres Pocztowy": "59-540",
+    "Nr.Telefonu": "+48577244693"
+  },
+  {
+    "nw": "2274228",
+    "nw_1": "32817943",
+    "Imie": "Marcel",
+    "Nazwisko": "Bredicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Świerzawa",
+    "Ulica": "Jeleniogórska 54/4",
+    "Adres Pocztowy": "59-540",
+    "Nr.Telefonu": "889764503"
+  }
+]

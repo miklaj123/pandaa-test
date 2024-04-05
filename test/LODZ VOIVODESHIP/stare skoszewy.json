@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "95957",
+    "nw_1": "557115894",
+    "Imie": "Bartosz",
+    "Nazwisko": "Bogulewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Stare Skoszewy",
+    "Ulica": "Stare Skoszewy ",
+    "Adres Pocztowy": " Poziomkowa 9",
+    "Nr.Telefonu": "92-701",
+    "__parsed_extra": [
+      "+48 506 017 962"
+    ]
+  },
+  {
+    "nw": "622707",
+    "nw_1": "495681943",
+    "Imie": "Tymon",
+    "Nazwisko": "Lebiedowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Stare Skoszewy",
+    "Ulica": "Stare Skoszewy 6D",
+    "Adres Pocztowy": "92-701",
+    "Nr.Telefonu": "+48508138175"
+  }
+]

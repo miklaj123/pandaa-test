@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1332815",
+    "nw_1": "806413423",
+    "Imie": "michal",
+    "Nazwisko": "maciek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "wejherowo",
+    "Ulica": "judyckiego 11 wejherowo",
+    "Adres Pocztowy": "84-200",
+    "Nr.Telefonu": "515790428"
+  },
+  {
+    "nw": "2338504",
+    "nw_1": "620772296",
+    "Imie": "Dawid",
+    "Nazwisko": "Lademan",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Wejherowo",
+    "Ulica": "Kopernika 15/5a",
+    "Adres Pocztowy": "84-200",
+    "Nr.Telefonu": "504627985"
+  },
+  {
+    "nw": "1861126",
+    "nw_1": "293674246",
+    "Imie": "Zuza",
+    "Nazwisko": "Kreft",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Wejherowo",
+    "Ulica": "ul. Kolejowa 4a",
+    "Adres Pocztowy": "84-200",
+    "Nr.Telefonu": "518541406"
+  }
+]

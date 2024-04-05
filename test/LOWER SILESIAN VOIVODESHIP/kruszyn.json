@@ -1,0 +1,73 @@
+[
+  {
+    "nw": "2095693",
+    "nw_1": "953630825",
+    "Imie": "Bielańczuk",
+    "Nazwisko": "Filip",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kruszyn",
+    "Ulica": "Kruszyn 59-700 "
+  },
+  {
+    "nw": "1427915",
+    "nw_1": "221451244",
+    "Imie": "Adam",
+    "Nazwisko": "Rosinski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kruszyn",
+    "Ulica": "Turkusowa 8",
+    "Adres Pocztowy": " Kruszyn",
+    "Nr.Telefonu": "59-700",
+    "__parsed_extra": [
+      "799252696"
+    ]
+  },
+  {
+    "nw": "1183172",
+    "nw_1": "998789771",
+    "Imie": "Igor",
+    "Nazwisko": "Sawicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kruszyn",
+    "Ulica": "kruszyn ul.lipowa 23",
+    "Adres Pocztowy": "59-700",
+    "Nr.Telefonu": "660397505"
+  },
+  {
+    "nw": "2192402",
+    "nw_1": "282735354",
+    "Imie": "Maciej",
+    "Nazwisko": "Ziembikiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kruszyn",
+    "Ulica": "Kruszyn",
+    "Adres Pocztowy": " Klonowa 46",
+    "Nr.Telefonu": " 59-700",
+    "__parsed_extra": [
+      " Poland",
+      "59-700",
+      "793644934"
+    ]
+  },
+  {
+    "nw": "1518706",
+    "nw_1": "445701303",
+    "Imie": "Agata",
+    "Nazwisko": "Drozda",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kruszyn",
+    "Ulica": "Debowa 20A",
+    "Adres Pocztowy": "59-700",
+    "Nr.Telefonu": "+48694777643"
+  }
+]

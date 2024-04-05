@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "1434371",
+    "nw_1": "425710661",
+    "Imie": "nikola",
+    "Nazwisko": "jakus",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Koszyce",
+    "Ulica": "Rynek 3",
+    "Adres Pocztowy": " 32-130 koszyce",
+    "Nr.Telefonu": "32-130",
+    "__parsed_extra": [
+      "606310943"
+    ]
+  },
+  {
+    "nw": "2297547",
+    "nw_1": "772839229",
+    "Imie": "Jakub",
+    "Nazwisko": "Książek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Koszyce",
+    "Ulica": "Witów 76",
+    "Adres Pocztowy": "32-130",
+    "Nr.Telefonu": "725090220"
+  }
+]

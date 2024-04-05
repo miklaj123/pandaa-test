@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "2178191",
+    "nw_1": "593867549",
+    "Imie": "Filip",
+    "Nazwisko": "Chorzewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Męcinka",
+    "Ulica": "Męcinka 87b",
+    "Adres Pocztowy": " kopalnia Bazaltu Męcinka",
+    "Nr.Telefonu": "59-424",
+    "__parsed_extra": [
+      "535788424"
+    ]
+  },
+  {
+    "nw": "1673933",
+    "nw_1": "506383972",
+    "Imie": "Leonard",
+    "Nazwisko": "Szlek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Męcinka",
+    "Ulica": "Sichów 1",
+    "Adres Pocztowy": "59-424",
+    "Nr.Telefonu": "576880017"
+  }
+]

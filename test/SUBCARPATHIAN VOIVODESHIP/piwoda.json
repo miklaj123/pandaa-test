@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "933302",
+    "nw_1": "848862594",
+    "Imie": "Natalia",
+    "Nazwisko": "Piotrowska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Piwoda",
+    "Ulica": "Piwoda 100",
+    "Adres Pocztowy": "37-522",
+    "Nr.Telefonu": "+48730148675"
+  },
+  {
+    "nw": "2315462",
+    "nw_1": "839222687",
+    "Imie": "Adrian",
+    "Nazwisko": "Błajda",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Piwoda",
+    "Ulica": "Piwoda 125",
+    "Adres Pocztowy": " 37-522  Wiązownica",
+    "Nr.Telefonu": "37-522 Wiązownica",
+    "__parsed_extra": [
+      "519452741"
+    ]
+  }
+]

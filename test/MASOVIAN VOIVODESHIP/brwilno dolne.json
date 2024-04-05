@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1321988",
+    "nw_1": "769300638",
+    "Imie": "Adam",
+    "Nazwisko": "Ciechlecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Brwilno Dolne",
+    "Ulica": "Brwilno Dolne ul.wiślana 5",
+    "Adres Pocztowy": "09-506",
+    "Nr.Telefonu": "+48782-826-246"
+  },
+  {
+    "nw": "493783",
+    "nw_1": "953913849",
+    "Imie": "Bartosz",
+    "Nazwisko": "Misiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Brwilno Dolne",
+    "Ulica": "ulica Mazowiecka 19",
+    "Adres Pocztowy": "09-506",
+    "Nr.Telefonu": "790501165"
+  },
+  {
+    "nw": "1321985",
+    "nw_1": "769300638",
+    "Imie": "Adam",
+    "Nazwisko": "Ciechlecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Brwilno Dolne",
+    "Ulica": "Brwilno Dolne ul. wiślana 4",
+    "Adres Pocztowy": "09-506",
+    "Nr.Telefonu": "+48782-826-246"
+  }
+]

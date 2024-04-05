@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "892488",
+    "nw_1": "757183842",
+    "Imie": "Gracjan",
+    "Nazwisko": "Koziak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Niechlów",
+    "Ulica": "Masełkowice 18",
+    "Adres Pocztowy": "56-215",
+    "Nr.Telefonu": "572797634"
+  },
+  {
+    "nw": "2269761",
+    "nw_1": "186212202",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Kędzierski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Niechlów",
+    "Ulica": "Nowa 2",
+    "Adres Pocztowy": "56-125",
+    "Nr.Telefonu": "725967949"
+  },
+  {
+    "nw": "2204437",
+    "nw_1": "334710905",
+    "Imie": "Jan",
+    "Nazwisko": "Witczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Niechlów",
+    "Ulica": "UL.Głogowska38B Niechlów",
+    "Adres Pocztowy": "56-215",
+    "Nr.Telefonu": "509157725"
+  }
+]

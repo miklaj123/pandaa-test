@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1018495",
+    "nw_1": "465551579",
+    "Imie": "Julia",
+    "Nazwisko": "Szczepaniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Miedźno",
+    "Ulica": "Kolaczkowice Duze 98",
+    "Adres Pocztowy": "42-120",
+    "Nr.Telefonu": "+48 693270179"
+  },
+  {
+    "nw": "2193313",
+    "nw_1": "414631374",
+    "Imie": "Oliwier",
+    "Nazwisko": "Chyra",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Miedźno",
+    "Ulica": "Mokra 211",
+    "Adres Pocztowy": "42-120",
+    "Nr.Telefonu": "608 541 834"
+  },
+  {
+    "nw": "520895",
+    "nw_1": "494454685",
+    "Imie": "Maksym",
+    "Nazwisko": "Turek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Miedźno",
+    "Ulica": "kołaczkowice duże 7",
+    "Adres Pocztowy": "42-120",
+    "Nr.Telefonu": "792580016"
+  }
+]

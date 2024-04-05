@@ -1,0 +1,86 @@
+[
+  {
+    "nw": "2244697",
+    "nw_1": "950512958",
+    "Imie": "Mateusz",
+    "Nazwisko": "Cholewa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Zgorzała",
+    "Ulica": "Żurawia 1b/2",
+    "Adres Pocztowy": "05-500",
+    "Nr.Telefonu": "787085677"
+  },
+  {
+    "nw": "1438566",
+    "nw_1": "947942798",
+    "Imie": "Adrian",
+    "Nazwisko": "Ambroziak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Zgorzała",
+    "Ulica": "aleja zgody 3A",
+    "Adres Pocztowy": " Zgorzała",
+    "Nr.Telefonu": "05-500",
+    "__parsed_extra": [
+      "+48730319398"
+    ]
+  },
+  {
+    "nw": "1915947",
+    "nw_1": "208460061",
+    "Imie": "Patryk",
+    "Nazwisko": "Ambroziak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Zgorzała",
+    "Ulica": "aleja zgody 3A",
+    "Adres Pocztowy": " Zgorzała",
+    "Nr.Telefonu": "05-500",
+    "__parsed_extra": [
+      "573175402"
+    ]
+  },
+  {
+    "nw": "856683",
+    "nw_1": "924439576",
+    "Imie": "Eryk",
+    "Nazwisko": "Zelazowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Zgorzała",
+    "Ulica": "Papugi 42/2",
+    "Adres Pocztowy": "05-500",
+    "Nr.Telefonu": "886124444"
+  },
+  {
+    "nw": "1050778",
+    "nw_1": "458825216",
+    "Imie": "Konrad",
+    "Nazwisko": "Pawłowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Zgorzała",
+    "Ulica": "Pliszki 4a/1 Zgorzała",
+    "Adres Pocztowy": "05-500",
+    "Nr.Telefonu": "722199010"
+  },
+  {
+    "nw": "151912",
+    "nw_1": "738491320",
+    "Imie": "David",
+    "Nazwisko": "Oksiejuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Zgorzała",
+    "Ulica": "Kolibra 8",
+    "Adres Pocztowy": "05-500",
+    "Nr.Telefonu": "+48 505 393 242"
+  }
+]

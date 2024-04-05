@@ -1,0 +1,67 @@
+[
+  {
+    "nw": "1566770",
+    "nw_1": "641885496",
+    "Imie": "Piotr",
+    "Nazwisko": "Karczewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Skórzec",
+    "Ulica": "Dąbrówka Wyłazy ul. Klonowa 87",
+    "Adres Pocztowy": "08-114",
+    "Nr.Telefonu": "602184563"
+  },
+  {
+    "nw": "869347",
+    "nw_1": "803130323",
+    "Imie": "Mateusz",
+    "Nazwisko": "Redosz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Skórzec",
+    "Ulica": "Siedlecka 44b",
+    "Adres Pocztowy": "08-114",
+    "Nr.Telefonu": "511070446"
+  },
+  {
+    "nw": "1168611",
+    "nw_1": "491891839",
+    "Imie": "Kacper",
+    "Nazwisko": "Pietrasik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Skórzec",
+    "Ulica": "Dąbrówka Wyłazy ul. Klonowa 79",
+    "Adres Pocztowy": "08-114",
+    "Nr.Telefonu": "503 524 467"
+  },
+  {
+    "nw": "1190565",
+    "nw_1": "569633113",
+    "Imie": "Jakub",
+    "Nazwisko": "Paciorek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Skórzec",
+    "Ulica": "Żebrak 17",
+    "Adres Pocztowy": "08-114 Skórzec",
+    "Nr.Telefonu": "786-863-269"
+  },
+  {
+    "nw": "72084",
+    "nw_1": "443634761",
+    "Imie": "Michał",
+    "Nazwisko": "Nurzyński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "skórzec",
+    "Ulica": "wiatraczna 5",
+    "Adres Pocztowy": "08-114",
+    "Nr.Telefonu": "572906222"
+  }
+]

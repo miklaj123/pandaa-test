@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "2241848",
+    "nw_1": "655022701",
+    "Imie": "Dawid",
+    "Nazwisko": "Siwek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Krasocin",
+    "Ulica": "Borowiec 13A",
+    "Adres Pocztowy": "29-105",
+    "Nr.Telefonu": "605518822"
+  },
+  {
+    "nw": "1041291",
+    "nw_1": "863354798",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Walczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Krasocin",
+    "Ulica": "Lipie 45",
+    "Adres Pocztowy": "29-105",
+    "Nr.Telefonu": "732993404"
+  },
+  {
+    "nw": "595139",
+    "nw_1": "577053080",
+    "Imie": "Dawid",
+    "Nazwisko": "Mączka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Krasocin",
+    "Ulica": "Godlewskiego 2a",
+    "Adres Pocztowy": "29-105",
+    "Nr.Telefonu": "606335832"
+  },
+  {
+    "nw": "2231374",
+    "nw_1": "722822580",
+    "Imie": "Patryk",
+    "Nazwisko": "Śliwiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Krasocin ",
+    "Ulica": "Street Słoneczna 17",
+    "Adres Pocztowy": "29-105",
+    "Nr.Telefonu": "726030475"
+  }
+]

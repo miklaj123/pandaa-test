@@ -1,0 +1,80 @@
+[
+  {
+    "nw": "2028800",
+    "nw_1": "655480263",
+    "Imie": "Piotr",
+    "Nazwisko": "Kumorkiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Rudnik nad Sanem",
+    "Ulica": "ul. Asnyka 1",
+    "Adres Pocztowy": "37-420",
+    "Nr.Telefonu": "+48797052032"
+  },
+  {
+    "nw": "1226504",
+    "nw_1": "644565533",
+    "Imie": "Adrian",
+    "Nazwisko": "Kostyra",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Rudnik nad Sanem",
+    "Ulica": "Targowa 6 A",
+    "Adres Pocztowy": "37-420",
+    "Nr.Telefonu": "607213509"
+  },
+  {
+    "nw": "679199",
+    "nw_1": "526408952",
+    "Imie": "Agnieszka",
+    "Nazwisko": "Gradzki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Rudnik nad sanem",
+    "Ulica": "Stróżańska 29",
+    "Adres Pocztowy": "37-420",
+    "Nr.Telefonu": "9734051042"
+  },
+  {
+    "nw": "2074677",
+    "nw_1": "853978946",
+    "Imie": "Adam",
+    "Nazwisko": "Konior",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Rudnik nad Sanem",
+    "Ulica": "Moniuszki 20",
+    "Adres Pocztowy": "37-420",
+    "Nr.Telefonu": "+48602465243"
+  },
+  {
+    "nw": "1913264",
+    "nw_1": "973563850",
+    "Imie": "Mateusz",
+    "Nazwisko": "Sagan",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Rudnik nad Sanem",
+    "Ulica": "Kopki kwiatowa 1",
+    "Adres Pocztowy": "37-420",
+    "Nr.Telefonu": "665119487"
+  },
+  {
+    "nw": "764998",
+    "nw_1": "633715139",
+    "Imie": "Wiktor",
+    "Nazwisko": "Zając",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Rudnik nad Sanem",
+    "Ulica": "Mickiewicza 240",
+    "Adres Pocztowy": "37-420",
+    "Nr.Telefonu": "690424137"
+  }
+]

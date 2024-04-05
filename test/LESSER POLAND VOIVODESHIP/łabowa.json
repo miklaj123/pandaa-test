@@ -1,0 +1,68 @@
+[
+  {
+    "nw": "627014",
+    "nw_1": "764951982",
+    "Imie": "Hubert",
+    "Nazwisko": "Przewoznik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Łabowa",
+    "Ulica": "255A",
+    "Adres Pocztowy": "33-336",
+    "Nr.Telefonu": "608794459"
+  },
+  {
+    "nw": "1408826",
+    "nw_1": "223956182",
+    "Imie": "fabian",
+    "Nazwisko": "piskorz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "łabowa",
+    "Ulica": "Składziste 11 ",
+    "Adres Pocztowy": "",
+    "Nr.Telefonu": "33-336",
+    "__parsed_extra": [
+      "+48536260499"
+    ]
+  },
+  {
+    "nw": "625796",
+    "nw_1": "788196216",
+    "Imie": "Daniel",
+    "Nazwisko": "Kucia",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "łabowa",
+    "Ulica": "łabowa 206",
+    "Adres Pocztowy": "33-336",
+    "Nr.Telefonu": "735177676"
+  },
+  {
+    "nw": "506104",
+    "nw_1": "421869770",
+    "Imie": "Sylwia",
+    "Nazwisko": "Kubisz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Łabowa",
+    "Ulica": "Łabowa"
+  },
+  {
+    "nw": "807254",
+    "nw_1": "530214328",
+    "Imie": "Konrad",
+    "Nazwisko": "Cempa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Łabowa",
+    "Ulica": "Łabowa 71",
+    "Adres Pocztowy": "33-336",
+    "Nr.Telefonu": "+48  504107922"
+  }
+]

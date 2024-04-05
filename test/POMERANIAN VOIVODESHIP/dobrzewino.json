@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1439469",
+    "nw_1": "955040047",
+    "Imie": "kamil",
+    "Nazwisko": "sass",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "dobrzewino",
+    "Ulica": "dobrzewino Kowalska 14 Szary dom",
+    "Adres Pocztowy": "84-208",
+    "Nr.Telefonu": "509561188"
+  },
+  {
+    "nw": "959761",
+    "nw_1": "767590542",
+    "Imie": "kamil",
+    "Nazwisko": "suse",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "dobrzewino",
+    "Ulica": "Dobrzewino Kowalska 14",
+    "Adres Pocztowy": "84-208",
+    "Nr.Telefonu": "509561188"
+  },
+  {
+    "nw": "1873941",
+    "nw_1": "313266191",
+    "Imie": "Jan",
+    "Nazwisko": "Malinowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Dobrzewino",
+    "Ulica": "Rubinowa 1",
+    "Adres Pocztowy": "80-209",
+    "Nr.Telefonu": "573996234"
+  },
+  {
+    "nw": "1311600",
+    "nw_1": "718214918",
+    "Imie": "Antoni",
+    "Nazwisko": "Luty",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Dobrzewino",
+    "Ulica": "Chłopska 8A",
+    "Adres Pocztowy": "84-208",
+    "Nr.Telefonu": "735211621"
+  }
+]

@@ -1,0 +1,71 @@
+[
+  {
+    "nw": "545332",
+    "nw_1": "320385100",
+    "Imie": "Maciej",
+    "Nazwisko": "Krawczuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Górzyca",
+    "Ulica": "Polna 6A",
+    "Adres Pocztowy": "69-113",
+    "Nr.Telefonu": "507004189"
+  },
+  {
+    "nw": "2026790",
+    "nw_1": "932738251",
+    "Imie": "Szymon",
+    "Nazwisko": "Dąbrowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Górzyca",
+    "Ulica": "Robotnicza 6",
+    "Adres Pocztowy": "69-113",
+    "Nr.Telefonu": "575553024"
+  },
+  {
+    "nw": "2342251",
+    "nw_1": "456585301",
+    "Imie": "Tomasz",
+    "Nazwisko": "Dziabas",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Górzyca",
+    "Ulica": "Reja 1B",
+    "Adres Pocztowy": "69-113",
+    "Nr.Telefonu": "733899151"
+  },
+  {
+    "nw": "2186691",
+    "nw_1": "405854653",
+    "Imie": "Maciej",
+    "Nazwisko": "Krawczuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Górzyca",
+    "Ulica": "Górzyca",
+    "Adres Pocztowy": "ulica. Polna 6 a ",
+    "Nr.Telefonu": "69-113",
+    "__parsed_extra": [
+      "69-113",
+      "507004189"
+    ]
+  },
+  {
+    "nw": "2292665",
+    "nw_1": "963553415",
+    "Imie": "Michał",
+    "Nazwisko": "Kaszkowiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Górzyca",
+    "Ulica": "Różana 4",
+    "Adres Pocztowy": "69-113",
+    "Nr.Telefonu": "573068091"
+  }
+]

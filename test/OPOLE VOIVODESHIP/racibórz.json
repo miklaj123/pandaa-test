@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "479392",
+    "nw_1": "104355755",
+    "Imie": "Sebastian",
+    "Nazwisko": "Brzozowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Racibórz",
+    "Ulica": "Racibórz ul. słoneczna 3/8",
+    "Adres Pocztowy": "47-400",
+    "Nr.Telefonu": "697 028 838"
+  },
+  {
+    "nw": "586717",
+    "nw_1": "912851671",
+    "Imie": "Adriana",
+    "Nazwisko": "Drewniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Racibórz",
+    "Ulica": "Street Opawska 56/16",
+    "Adres Pocztowy": "47-400",
+    "Nr.Telefonu": "889112084"
+  },
+  {
+    "nw": "557160",
+    "nw_1": "912851671",
+    "Imie": "Julian",
+    "Nazwisko": "Drewniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Racibórz",
+    "Ulica": "Street Opawaska",
+    "Adres Pocztowy": " apartament 56/15",
+    "Nr.Telefonu": "47-400",
+    "__parsed_extra": [
+      "+48 727821140"
+    ]
+  }
+]

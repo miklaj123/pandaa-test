@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2292848",
+    "nw_1": "355967249",
+    "Imie": "igor",
+    "Nazwisko": "kmiec",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Rzeszów",
+    "Ulica": "jaspisowa 44b",
+    "Adres Pocztowy": "35-322",
+    "Nr.Telefonu": "786181008"
+  },
+  {
+    "nw": "2224754",
+    "nw_1": "172112713",
+    "Imie": "jakub",
+    "Nazwisko": "kuźniar",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Rzeszów",
+    "Ulica": "łukawiec 239",
+    "Adres Pocztowy": "36-004",
+    "Nr.Telefonu": "782189925"
+  },
+  {
+    "nw": "1040904",
+    "nw_1": "497117261",
+    "Imie": "Bartek",
+    "Nazwisko": "Kyc",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Rzeszów",
+    "Ulica": "18 lotosowa",
+    "Adres Pocztowy": "35-317",
+    "Nr.Telefonu": "793673390"
+  }
+]

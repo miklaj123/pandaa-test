@@ -1,0 +1,28 @@
+[
+  {
+    "nw": "1994010",
+    "nw_1": "535614099",
+    "Imie": "Kacper",
+    "Nazwisko": "Grochalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kamienna Gora",
+    "Ulica": "Jeleniogórska 50",
+    "Adres Pocztowy": "58-400",
+    "Nr.Telefonu": "789111162"
+  },
+  {
+    "nw": "388808",
+    "nw_1": "205601139",
+    "Imie": "oliwier",
+    "Nazwisko": "roszkowiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "kamienna gora",
+    "Ulica": "Papieza Jana Pawla II 5/11",
+    "Adres Pocztowy": "58-400",
+    "Nr.Telefonu": "798 794 471"
+  }
+]

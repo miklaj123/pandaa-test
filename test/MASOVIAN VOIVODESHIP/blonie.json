@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2163297",
+    "nw_1": "693493076",
+    "Imie": "mikolaj",
+    "Nazwisko": "sijka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Blonie",
+    "Ulica": "staszica 29",
+    "Adres Pocztowy": "05-870",
+    "Nr.Telefonu": "+48794998239"
+  },
+  {
+    "nw": "95960",
+    "nw_1": "246564697",
+    "Imie": "Bartosz",
+    "Nazwisko": "Ambroziak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Blonie",
+    "Ulica": "Bieniewicka 26",
+    "Adres Pocztowy": "05-870",
+    "Nr.Telefonu": "512643656"
+  },
+  {
+    "nw": "1853088",
+    "nw_1": "802063753",
+    "Imie": "Mykhailo",
+    "Nazwisko": "Shokurov",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "blonie",
+    "Ulica": "Grodziska 54A 12",
+    "Adres Pocztowy": "05-870",
+    "Nr.Telefonu": "+48888560616"
+  }
+]

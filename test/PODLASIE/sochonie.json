@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1231969",
+    "nw_1": "520311266",
+    "Imie": "Pawel",
+    "Nazwisko": "Wiecaszek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Sochonie",
+    "Ulica": "Kaczorowskiego 41",
+    "Adres Pocztowy": "16-010",
+    "Nr.Telefonu": "+48693121164"
+  },
+  {
+    "nw": "1637147",
+    "nw_1": "272037535",
+    "Imie": "Miłosz",
+    "Nazwisko": "Kalicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Sochonie",
+    "Ulica": "ul. Polna 26",
+    "Adres Pocztowy": "16-010",
+    "Nr.Telefonu": "886926886"
+  },
+  {
+    "nw": "1293979",
+    "nw_1": "621838353",
+    "Imie": "Paulina",
+    "Nazwisko": "Zerbst",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Sochonie",
+    "Ulica": "Dworska 2 Sochonie 16-010",
+    "Adres Pocztowy": "16-010",
+    "Nr.Telefonu": "601207199"
+  }
+]

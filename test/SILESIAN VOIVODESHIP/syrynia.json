@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1958691",
+    "nw_1": "574134408",
+    "Imie": "Jacek",
+    "Nazwisko": "Reiman",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Syrynia",
+    "Ulica": "Ul.Musioła 7",
+    "Adres Pocztowy": "44-361",
+    "Nr.Telefonu": "504018260"
+  },
+  {
+    "nw": "929129",
+    "nw_1": "711522053",
+    "Imie": "Michal",
+    "Nazwisko": "Tomanek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Syrynia",
+    "Ulica": "Bukowska 9",
+    "Adres Pocztowy": "44-361",
+    "Nr.Telefonu": "577123410"
+  },
+  {
+    "nw": "1441961",
+    "nw_1": "670869571",
+    "Imie": "Paweł",
+    "Nazwisko": "Waniek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Syrynia",
+    "Ulica": "Ul.Wodzisławska 10",
+    "Adres Pocztowy": "44-361",
+    "Nr.Telefonu": "+49662584020"
+  }
+]

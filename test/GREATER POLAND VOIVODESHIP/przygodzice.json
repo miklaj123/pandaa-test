@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1500803",
+    "nw_1": "640857178",
+    "Imie": "Alan",
+    "Nazwisko": "Walkowiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Przygodzice",
+    "Ulica": "Smardów 10",
+    "Adres Pocztowy": "63-421",
+    "Nr.Telefonu": "501022414"
+  },
+  {
+    "nw": "2062083",
+    "nw_1": "490273778",
+    "Imie": "oskar",
+    "Nazwisko": "wolinski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "przygodzice",
+    "Ulica": "trzcieliny 1/2",
+    "Adres Pocztowy": "63421",
+    "Nr.Telefonu": "696186432"
+  },
+  {
+    "nw": "1166763",
+    "nw_1": "432016640",
+    "Imie": "nikita",
+    "Nazwisko": "tereshchenko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Przygodzice",
+    "Ulica": "Wspólna 5",
+    "Adres Pocztowy": "63421",
+    "Nr.Telefonu": "691424023"
+  },
+  {
+    "nw": "1247543",
+    "nw_1": "104130988",
+    "Imie": "Witold",
+    "Nazwisko": "Mąka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Przygodzice",
+    "Ulica": "Mickiewicza 16",
+    "Adres Pocztowy": "63-421",
+    "Nr.Telefonu": "48+508068841"
+  }
+]

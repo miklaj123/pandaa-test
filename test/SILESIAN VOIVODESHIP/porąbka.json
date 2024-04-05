@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1082193",
+    "nw_1": "920650554",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Wiśniewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Porąbka",
+    "Ulica": "st. Bukowska 45",
+    "Adres Pocztowy": "43-353",
+    "Nr.Telefonu": "798891714"
+  },
+  {
+    "nw": "607250",
+    "nw_1": "933331833",
+    "Imie": "Agnieszka",
+    "Nazwisko": "Dziedzic-Zontek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Porąbka",
+    "Ulica": "Świerkowa 4",
+    "Adres Pocztowy": "43-353",
+    "Nr.Telefonu": "+48606607021"
+  },
+  {
+    "nw": "703095",
+    "nw_1": "320333371",
+    "Imie": "Antek",
+    "Nazwisko": "Gryboś",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Porąbka",
+    "Ulica": "Choinkowa 9a",
+    "Adres Pocztowy": "43-353",
+    "Nr.Telefonu": "668671227"
+  },
+  {
+    "nw": "2007411",
+    "nw_1": "468480888",
+    "Imie": "Agnieszka",
+    "Nazwisko": "Dziedzic-Zontek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Porąbka",
+    "Ulica": "ul. Świerkowa 4",
+    "Adres Pocztowy": "43-353",
+    "Nr.Telefonu": "+48606607021"
+  }
+]

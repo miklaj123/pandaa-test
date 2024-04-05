@@ -1,0 +1,47 @@
+[
+  {
+    "nw": "531103",
+    "nw_1": "745200341",
+    "Imie": "Mateusz",
+    "Nazwisko": "Chaberek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Konarzyce",
+    "Ulica": "Młynarska 38A",
+    "Adres Pocztowy": " Konarzyce",
+    "Nr.Telefonu": "18-400",
+    "__parsed_extra": [
+      "537022500"
+    ]
+  },
+  {
+    "nw": "2353752",
+    "nw_1": "846062382",
+    "Imie": "Karol",
+    "Nazwisko": "Sztachański",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Konarzyce",
+    "Ulica": "Szkolna 1a Konarzyce",
+    "Adres Pocztowy": "18-400",
+    "Nr.Telefonu": "795246374"
+  },
+  {
+    "nw": "1365918",
+    "nw_1": "356459431",
+    "Imie": "Maurycy",
+    "Nazwisko": "Taudul",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Konarzyce",
+    "Ulica": "Ładna",
+    "Adres Pocztowy": " 23",
+    "Nr.Telefonu": "18-400",
+    "__parsed_extra": [
+      "666611101"
+    ]
+  }
+]

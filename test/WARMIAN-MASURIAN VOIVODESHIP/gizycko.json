@@ -1,0 +1,67 @@
+[
+  {
+    "nw": "2264690",
+    "nw_1": "715513982",
+    "Imie": "Tomasz",
+    "Nazwisko": "Szymański",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Gizycko",
+    "Ulica": "Ul. Wodociągowa 10 m 32",
+    "Adres Pocztowy": "11-500",
+    "Nr.Telefonu": "+48503635029"
+  },
+  {
+    "nw": "1530569",
+    "nw_1": "173850539",
+    "Imie": "Oliwier",
+    "Nazwisko": "Tymecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Gizycko",
+    "Ulica": "Żeglarska 7/37",
+    "Adres Pocztowy": "11-500",
+    "Nr.Telefonu": "452984814"
+  },
+  {
+    "nw": "1044351",
+    "nw_1": "134952366",
+    "Imie": "Darek",
+    "Nazwisko": "Olszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Gizycko",
+    "Ulica": "Perkunowska 15",
+    "Adres Pocztowy": "11-500",
+    "Nr.Telefonu": "+48500285307"
+  },
+  {
+    "nw": "1530543",
+    "nw_1": "173850539",
+    "Imie": "Oliwier",
+    "Nazwisko": "Tymecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Gizycko",
+    "Ulica": "Jagielly 6/29",
+    "Adres Pocztowy": "11-500",
+    "Nr.Telefonu": "452984814"
+  },
+  {
+    "nw": "1120910",
+    "nw_1": "702473271",
+    "Imie": "marek",
+    "Nazwisko": "wyskwar",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "gizycko",
+    "Ulica": "Staszica 26/28",
+    "Adres Pocztowy": "11-500",
+    "Nr.Telefonu": "536106563"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1018956",
+    "nw_1": "178564303",
+    "Imie": "Michał",
+    "Nazwisko": "Białkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Goszczyn",
+    "Ulica": "Romanów 8A",
+    "Adres Pocztowy": "05-610",
+    "Nr.Telefonu": "507061861"
+  },
+  {
+    "nw": "2119269",
+    "nw_1": "398860363",
+    "Imie": "Adam",
+    "Nazwisko": "Jaworski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Goszczyn",
+    "Ulica": "Nowa Długowola 19",
+    "Adres Pocztowy": "05-610",
+    "Nr.Telefonu": "698578238"
+  },
+  {
+    "nw": "1931098",
+    "nw_1": "110760222",
+    "Imie": "Damian",
+    "Nazwisko": "Gontar",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Goszczyn",
+    "Ulica": "Goszczyn ul. Piekarska 54b",
+    "Adres Pocztowy": "05-610",
+    "Nr.Telefonu": "696989494"
+  }
+]

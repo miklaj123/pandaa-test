@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "873157",
+    "nw_1": "376410390",
+    "Imie": "Filip",
+    "Nazwisko": "Prokopowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Radymno",
+    "Ulica": "Zabłotce"
+  },
+  {
+    "nw": "2155306",
+    "nw_1": "300704199",
+    "Imie": "Przemysław",
+    "Nazwisko": "Kolebuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Radymno",
+    "Ulica": "Rynek 2 (dawny kiosk ruchu) ESEK SERWIS",
+    "Adres Pocztowy": "37-550",
+    "Nr.Telefonu": "723945109"
+  },
+  {
+    "nw": "2063834",
+    "nw_1": "480261611",
+    "Imie": "Mateusz",
+    "Nazwisko": "Kiełt",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Radymno",
+    "Ulica": "Ostrów 388",
+    "Adres Pocztowy": "37-550",
+    "Nr.Telefonu": "+48535623741"
+  }
+]

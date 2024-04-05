@@ -1,0 +1,80 @@
+[
+  {
+    "nw": "573999",
+    "nw_1": "397160100",
+    "Imie": "Piotr",
+    "Nazwisko": "Żaczek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Mareza",
+    "Ulica": "Mareza długa 75g",
+    "Adres Pocztowy": "82-500",
+    "Nr.Telefonu": "731686755"
+  },
+  {
+    "nw": "1912208",
+    "nw_1": "728508491",
+    "Imie": "Tymek",
+    "Nazwisko": "Dudarewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Mareza",
+    "Ulica": "Korzeniewska 11c",
+    "Adres Pocztowy": "82-500",
+    "Nr.Telefonu": "574705302"
+  },
+  {
+    "nw": "120767",
+    "nw_1": "280995010",
+    "Imie": "Cezary",
+    "Nazwisko": "Kowalewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Mareza",
+    "Ulica": "Korzeniewska 9",
+    "Adres Pocztowy": "82-500",
+    "Nr.Telefonu": "516263257"
+  },
+  {
+    "nw": "1720909",
+    "nw_1": "312051828",
+    "Imie": "Dawid",
+    "Nazwisko": "Depczyński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Mareza",
+    "Ulica": "Długa 14",
+    "Adres Pocztowy": "82-500",
+    "Nr.Telefonu": "881201076"
+  },
+  {
+    "nw": "1912210",
+    "nw_1": "728508491",
+    "Imie": "Tymek",
+    "Nazwisko": "Dudarewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Mareza",
+    "Ulica": "Korzeniewska 11c",
+    "Adres Pocztowy": "82-500",
+    "Nr.Telefonu": "+48 574705302"
+  },
+  {
+    "nw": "607731",
+    "nw_1": "461058739",
+    "Imie": "Cezary",
+    "Nazwisko": "Kowalewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Mareza",
+    "Ulica": "Korzeniewska 9",
+    "Adres Pocztowy": "82-500",
+    "Nr.Telefonu": "516263257"
+  }
+]

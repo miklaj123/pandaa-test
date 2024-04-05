@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1840865",
+    "nw_1": "998870231",
+    "Imie": "Dawid",
+    "Nazwisko": "Górniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Murowana Goślina",
+    "Ulica": "Poznańska 41/1",
+    "Adres Pocztowy": "62-095",
+    "Nr.Telefonu": "798613464"
+  },
+  {
+    "nw": "997941",
+    "nw_1": "798106608",
+    "Imie": "Tobiasz",
+    "Nazwisko": "Kulik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "murowana goślina",
+    "Ulica": "Rakownia ulica goślińska 55/1",
+    "Adres Pocztowy": "62-095",
+    "Nr.Telefonu": "720706974"
+  },
+  {
+    "nw": "2232539",
+    "nw_1": "795410420",
+    "Imie": "Tymoteusz",
+    "Nazwisko": "Gryka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Murowana Goślina",
+    "Ulica": "Pławno 9A",
+    "Adres Pocztowy": "62-095",
+    "Nr.Telefonu": "882891811"
+  }
+]

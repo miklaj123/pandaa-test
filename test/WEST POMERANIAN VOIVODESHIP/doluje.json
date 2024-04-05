@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "2251228",
+    "nw_1": "299508975",
+    "Imie": "Jakub",
+    "Nazwisko": "Swiecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Doluje",
+    "Ulica": "Blawatkowa 17",
+    "Adres Pocztowy": "72-002",
+    "Nr.Telefonu": "570780320"
+  },
+  {
+    "nw": "183653",
+    "nw_1": "105105901",
+    "Imie": "Kajetab",
+    "Nazwisko": "Ostrowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Doluje",
+    "Ulica": "Rysiowa 35",
+    "Adres Pocztowy": " Doluje",
+    "Nr.Telefonu": "72-002",
+    "__parsed_extra": [
+      "691467265"
+    ]
+  }
+]

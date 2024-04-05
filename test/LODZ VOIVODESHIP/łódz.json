@@ -1,0 +1,65 @@
+[
+  {
+    "nw": "669404",
+    "nw_1": "838844678",
+    "Imie": "Wiktor",
+    "Nazwisko": "Triki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Łódz",
+    "Ulica": "Zakładowa 143",
+    "Adres Pocztowy": "92-402 Łódź",
+    "Nr.Telefonu": "660216443"
+  },
+  {
+    "nw": "2219950",
+    "nw_1": "837533191",
+    "Imie": "Franciszek",
+    "Nazwisko": "Plesiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "łódz",
+    "Ulica": "Okoniowa"
+  },
+  {
+    "nw": "2053900",
+    "nw_1": "328695370",
+    "Imie": "Patrycja",
+    "Nazwisko": "Stefanska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Łódz",
+    "Ulica": "Konstantynowska 34 pokój 308",
+    "Adres Pocztowy": "94-303",
+    "Nr.Telefonu": "603815298"
+  },
+  {
+    "nw": "1652293",
+    "nw_1": "865028775",
+    "Imie": "marcin",
+    "Nazwisko": "fratczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "łódz",
+    "Ulica": "ul. Pomorska 97 m.25",
+    "Adres Pocztowy": "90-001",
+    "Nr.Telefonu": "739561679"
+  },
+  {
+    "nw": "420024",
+    "nw_1": "852700134",
+    "Imie": "Karol",
+    "Nazwisko": "Borowiec",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Łódz",
+    "Ulica": "Janusza Kusocińskiego 11",
+    "Adres Pocztowy": "94-054",
+    "Nr.Telefonu": "575004567"
+  }
+]

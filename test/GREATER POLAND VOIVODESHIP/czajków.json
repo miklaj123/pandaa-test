@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1608204",
+    "nw_1": "188067921",
+    "Imie": "Wiktor",
+    "Nazwisko": "Sołtysiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Czajków",
+    "Ulica": "Czajków 39",
+    "Adres Pocztowy": "62-812",
+    "Nr.Telefonu": "573962594"
+  },
+  {
+    "nw": "1667244",
+    "nw_1": "508003556",
+    "Imie": "Jakub",
+    "Nazwisko": "Filipiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Czajków",
+    "Ulica": "Czajków 2a",
+    "Adres Pocztowy": "63-524",
+    "Nr.Telefonu": "663929906"
+  },
+  {
+    "nw": "511582",
+    "nw_1": "645698559",
+    "Imie": "Maciej",
+    "Nazwisko": "Kuświk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Czajków",
+    "Ulica": "Salamony 45",
+    "Adres Pocztowy": "63-524",
+    "Nr.Telefonu": "+48667464284"
+  }
+]

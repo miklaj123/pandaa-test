@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "2326861",
+    "nw_1": "894425433",
+    "Imie": "Olgierd",
+    "Nazwisko": "Żukowiec",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Ruciane-Nida",
+    "Ulica": "Słowiańska 2",
+    "Adres Pocztowy": "12-220",
+    "Nr.Telefonu": "608708256"
+  },
+  {
+    "nw": "2183402",
+    "nw_1": "226238047",
+    "Imie": "Wojciech Kowalczyk",
+    "Nazwisko": "Wojciech",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Ruciane-Nida",
+    "Ulica": "Street. Ukta 26/2",
+    "Adres Pocztowy": "12-220",
+    "Nr.Telefonu": "608315052"
+  },
+  {
+    "nw": "1241117",
+    "nw_1": "742506718",
+    "Imie": "Aleksander",
+    "Nazwisko": "Machnowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Ruciane-Nida",
+    "Ulica": "Kolejowa 4/10",
+    "Adres Pocztowy": "12-220",
+    "Nr.Telefonu": "797166221"
+  },
+  {
+    "nw": "1382713",
+    "nw_1": "833228626",
+    "Imie": "Dominik",
+    "Nazwisko": "Bladowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Ruciane-Nida",
+    "Ulica": "Ruciane-Nida Kwiatowa 6/27",
+    "Adres Pocztowy": "12-220",
+    "Nr.Telefonu": "600910878"
+  }
+]

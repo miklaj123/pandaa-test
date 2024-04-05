@@ -1,0 +1,80 @@
+[
+  {
+    "nw": "108783",
+    "nw_1": "636009332",
+    "Imie": "Kacper",
+    "Nazwisko": "Cecko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "siemianice",
+    "Ulica": "spokojna 5",
+    "Adres Pocztowy": "76-200",
+    "Nr.Telefonu": "600880089"
+  },
+  {
+    "nw": "231354",
+    "nw_1": "242546875",
+    "Imie": "Marcin",
+    "Nazwisko": "Szczerbiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Siemianice",
+    "Ulica": "Mietowa 36 76-200 Siemianice",
+    "Adres Pocztowy": "76-200",
+    "Nr.Telefonu": "+48727517011"
+  },
+  {
+    "nw": "391893",
+    "nw_1": "762927103",
+    "Imie": "Ernest",
+    "Nazwisko": "Rakowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "siemianice",
+    "Ulica": "ziołowa 5",
+    "Adres Pocztowy": "76-200",
+    "Nr.Telefonu": "533817599"
+  },
+  {
+    "nw": "229952",
+    "nw_1": "538812615",
+    "Imie": "Maksym",
+    "Nazwisko": "Janczukowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Siemianice",
+    "Ulica": "Miętowa 16",
+    "Adres Pocztowy": "76-200",
+    "Nr.Telefonu": "+48 669315363"
+  },
+  {
+    "nw": "2022731",
+    "nw_1": "238844997",
+    "Imie": "Kacper",
+    "Nazwisko": "Dutkiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Siemianice",
+    "Ulica": "Tymiankowa 15",
+    "Adres Pocztowy": "76-200",
+    "Nr.Telefonu": "696184373"
+  },
+  {
+    "nw": "96338",
+    "nw_1": "582620871",
+    "Imie": "Marcel",
+    "Nazwisko": "Dębicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Siemianice",
+    "Ulica": "Piaskowa 12",
+    "Adres Pocztowy": "76-200",
+    "Nr.Telefonu": "666656911"
+  }
+]

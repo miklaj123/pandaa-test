@@ -1,0 +1,57 @@
+[
+  {
+    "nw": "1034019",
+    "nw_1": "714596231",
+    "Imie": "POMAK",
+    "Nazwisko": "Emilia Szumska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Czerwieńsk",
+    "Ulica": "Składowa 2",
+    "Adres Pocztowy": "66-016",
+    "Nr.Telefonu": "669511595"
+  },
+  {
+    "nw": "758935",
+    "nw_1": "374031100",
+    "Imie": "Jan",
+    "Nazwisko": "Kozak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Czerwieńsk",
+    "Ulica": "Nietków",
+    "Adres Pocztowy": " Przedszkolna 4",
+    "Nr.Telefonu": "66-016",
+    "__parsed_extra": [
+      "+48506228588"
+    ]
+  },
+  {
+    "nw": "579655",
+    "nw_1": "503927262",
+    "Imie": "Mateusz",
+    "Nazwisko": "Goździk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Czerwieńsk",
+    "Ulica": "naftowa 5",
+    "Adres Pocztowy": "66-016",
+    "Nr.Telefonu": "785575017"
+  },
+  {
+    "nw": "1127736",
+    "nw_1": "123825444",
+    "Imie": "Wiktor",
+    "Nazwisko": "Różański",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Czerwieńsk",
+    "Ulica": "kwiatowa 5",
+    "Adres Pocztowy": "66-016",
+    "Nr.Telefonu": "517209899"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "nw": "809129",
+    "nw_1": "322084133",
+    "Imie": "Bartosz",
+    "Nazwisko": "Maciejewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Starowa Góra",
+    "Ulica": "Tunelowa 12c",
+    "Adres Pocztowy": "95-030",
+    "Nr.Telefonu": "605572425"
+  },
+  {
+    "nw": "1102286",
+    "nw_1": "862398895",
+    "Imie": "Jakub",
+    "Nazwisko": "Krajewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Starowa Góra",
+    "Ulica": "Gerbery 8",
+    "Adres Pocztowy": "95-030",
+    "Nr.Telefonu": "781077058"
+  },
+  {
+    "nw": "508532",
+    "nw_1": "774195024",
+    "Imie": "Piotr",
+    "Nazwisko": "Lasoń",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Starowa Góra",
+    "Ulica": "Żwirowa 16",
+    "Adres Pocztowy": "95-030",
+    "Nr.Telefonu": "505 977 594"
+  },
+  {
+    "nw": "1113908",
+    "nw_1": "804699434",
+    "Imie": "Szymon",
+    "Nazwisko": "Skonieczny",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Starowa Góra",
+    "Ulica": "Futrynowa 41",
+    "Adres Pocztowy": "95-030",
+    "Nr.Telefonu": "882956996"
+  },
+  {
+    "nw": "214515",
+    "nw_1": "682190878",
+    "Imie": "Kacper",
+    "Nazwisko": "Golis",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Starowa Góra",
+    "Ulica": "Kasztanowa 9 B",
+    "Adres Pocztowy": "95-030",
+    "Nr.Telefonu": "733812277"
+  }
+]

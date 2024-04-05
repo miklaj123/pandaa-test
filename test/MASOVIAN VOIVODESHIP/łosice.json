@@ -1,0 +1,65 @@
+[
+  {
+    "nw": "1789333",
+    "nw_1": "479600036",
+    "Imie": "Oliwier",
+    "Nazwisko": "Parol",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Łosice",
+    "Ulica": "Traugutta 9",
+    "Adres Pocztowy": "09-200",
+    "Nr.Telefonu": "731700229"
+  },
+  {
+    "nw": "520197",
+    "nw_1": "753725826",
+    "Imie": "Bartek",
+    "Nazwisko": "Gmitruk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Łosice",
+    "Ulica": "Sosnowa 14",
+    "Adres Pocztowy": "08-200",
+    "Nr.Telefonu": "796871518"
+  },
+  {
+    "nw": "1686690",
+    "nw_1": "852258290",
+    "Imie": "Klaudiusz",
+    "Nazwisko": "Wyczółkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Łosice",
+    "Ulica": "Nowa 2"
+  },
+  {
+    "nw": "2211218",
+    "nw_1": "408823142",
+    "Imie": "Szymon",
+    "Nazwisko": "Nestioruk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Łosice",
+    "Ulica": "Kościuszki 13/20",
+    "Adres Pocztowy": "08-200",
+    "Nr.Telefonu": "575100972"
+  },
+  {
+    "nw": "317005",
+    "nw_1": "383688124",
+    "Imie": "Jakub",
+    "Nazwisko": "Łaski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Łosice",
+    "Ulica": "Tragutaa 2/20",
+    "Adres Pocztowy": "08-200",
+    "Nr.Telefonu": "537700760"
+  }
+]

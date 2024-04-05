@@ -1,0 +1,96 @@
+[
+  {
+    "nw": "700502",
+    "nw_1": "283112996",
+    "Imie": "Joanna",
+    "Nazwisko": "Różyło-Huryń",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Gromadka",
+    "Ulica": "Wierzbowa 114A",
+    "Adres Pocztowy": "5976",
+    "Nr.Telefonu": "785 545 360"
+  },
+  {
+    "nw": "861896",
+    "nw_1": "779122820",
+    "Imie": "Paweł",
+    "Nazwisko": "Złotorowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Gromadka",
+    "Ulica": "Sikorskiego 10",
+    "Adres Pocztowy": "59-706",
+    "Nr.Telefonu": "607870217"
+  },
+  {
+    "nw": "1345819",
+    "nw_1": "507368453",
+    "Imie": "Jakub",
+    "Nazwisko": "Krysa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Gromadka",
+    "Ulica": "Polna 14",
+    "Adres Pocztowy": "59-706",
+    "Nr.Telefonu": "665791240"
+  },
+  {
+    "nw": "1866221",
+    "nw_1": "249754562",
+    "Imie": "Nataniel",
+    "Nazwisko": "Papajoanu",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Gromadka",
+    "Ulica": "Gromadka",
+    "Adres Pocztowy": " Ul Gen Sikorskiego 11b/24",
+    "Nr.Telefonu": "59-706",
+    "__parsed_extra": [
+      "668760848"
+    ]
+  },
+  {
+    "nw": "1479272",
+    "nw_1": "997788034",
+    "Imie": "Paweł",
+    "Nazwisko": "Zawada",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Gromadka",
+    "Ulica": "ulica 11 Listopada 76",
+    "Adres Pocztowy": "59-706",
+    "Nr.Telefonu": "535815177"
+  },
+  {
+    "nw": "1469585",
+    "nw_1": "296370040",
+    "Imie": "Joanna",
+    "Nazwisko": "Sztandera",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Gromadka",
+    "Ulica": "Polna 14c",
+    "Adres Pocztowy": "59-706",
+    "Nr.Telefonu": "665456426"
+  },
+  {
+    "nw": "1568831",
+    "nw_1": "137861544",
+    "Imie": "Marcel",
+    "Nazwisko": "Rostkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Gromadka",
+    "Ulica": "Modła 43c",
+    "Adres Pocztowy": "59-706",
+    "Nr.Telefonu": "798557449"
+  }
+]

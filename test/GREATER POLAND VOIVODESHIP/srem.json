@@ -1,0 +1,80 @@
+[
+  {
+    "nw": "328329",
+    "nw_1": "518743783",
+    "Imie": "Ewelina",
+    "Nazwisko": "Grodek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Srem",
+    "Ulica": "Chlapowskiego 22/12",
+    "Adres Pocztowy": "63-100",
+    "Nr.Telefonu": "695090904"
+  },
+  {
+    "nw": "397506",
+    "nw_1": "526726076",
+    "Imie": "Anton",
+    "Nazwisko": "Chelombitko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Srem",
+    "Ulica": "Komorowskiego 8/35",
+    "Adres Pocztowy": "63-100",
+    "Nr.Telefonu": "+48796764404"
+  },
+  {
+    "nw": "1348763",
+    "nw_1": "292674014",
+    "Imie": "Krzysztof",
+    "Nazwisko": "Okoniewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Srem",
+    "Ulica": "Chelmonskiego 7F/20",
+    "Adres Pocztowy": "63-100",
+    "Nr.Telefonu": "501135025"
+  },
+  {
+    "nw": "1808762",
+    "nw_1": "986473107",
+    "Imie": "Aleksy",
+    "Nazwisko": "Troszczynski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Srem",
+    "Ulica": "Gawrony",
+    "Adres Pocztowy": "63-140",
+    "Nr.Telefonu": "795200651"
+  },
+  {
+    "nw": "2234138",
+    "nw_1": "498156312",
+    "Imie": "Tobiasz",
+    "Nazwisko": "Burzyński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Srem ",
+    "Ulica": "Ul. Nowowiejskiego 4/34",
+    "Adres Pocztowy": "63-100",
+    "Nr.Telefonu": "+48669376490"
+  },
+  {
+    "nw": "1278378",
+    "nw_1": "454675314",
+    "Imie": "Franciszek",
+    "Nazwisko": "Stawinski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Srem",
+    "Ulica": "Zachodnia 17 B",
+    "Adres Pocztowy": "63-100",
+    "Nr.Telefonu": "603683450"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "nw": "222560",
+    "nw_1": "605486116",
+    "Imie": "oliwier",
+    "Nazwisko": "sztryloch",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "grębocin",
+    "Ulica": "makowa 10",
+    "Adres Pocztowy": "87-162",
+    "Nr.Telefonu": "570802140"
+  },
+  {
+    "nw": "1410470",
+    "nw_1": "479656058",
+    "Imie": "Nikolas",
+    "Nazwisko": "Siekierowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Grębocin",
+    "Ulica": "ul. Łąkowa 10A",
+    "Adres Pocztowy": "87-122",
+    "Nr.Telefonu": "539966441"
+  },
+  {
+    "nw": "350254",
+    "nw_1": "107333585",
+    "Imie": "Adam",
+    "Nazwisko": "Wasiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Grębocin",
+    "Ulica": "Nowa 7",
+    "Adres Pocztowy": "87-162",
+    "Nr.Telefonu": "600540915"
+  },
+  {
+    "nw": "1153221",
+    "nw_1": "832705247",
+    "Imie": "Dawid",
+    "Nazwisko": "Szpejna",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Grębocin",
+    "Ulica": "ulica. Mostowa 21",
+    "Adres Pocztowy": "87-162",
+    "Nr.Telefonu": "737317556"
+  },
+  {
+    "nw": "1589531",
+    "nw_1": "331449506",
+    "Imie": "Szymon",
+    "Nazwisko": "Paga",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "grębocin",
+    "Ulica": "Jana Pronobisa 2",
+    "Adres Pocztowy": "87-122",
+    "Nr.Telefonu": "503928933"
+  }
+]

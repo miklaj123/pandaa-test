@@ -1,0 +1,42 @@
+[
+  {
+    "nw": "2194806",
+    "nw_1": "361705147",
+    "Imie": "Karolina",
+    "Nazwisko": "Szymańska ",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Poland",
+    "Ulica": "Marki",
+    "Adres Pocztowy": " Jacka Soplicy 12 ",
+    "Nr.Telefonu": "05-270",
+    "__parsed_extra": [
+      "+48515676447"
+    ]
+  },
+  {
+    "nw": "2211546",
+    "nw_1": "115891907",
+    "Imie": "Izabela",
+    "Nazwisko": "Sawicka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Poland",
+    "Ulica": "Ul. Szosa Jadowska 148"
+  },
+  {
+    "nw": "2181285",
+    "nw_1": "627909898",
+    "Imie": "Bartosz ",
+    "Nazwisko": "Kucharczyk ",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Poland",
+    "Ulica": "Kasinka Mała 790 ",
+    "Adres Pocztowy": "34-734",
+    "Nr.Telefonu": "794788364"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1519213",
+    "nw_1": "183931282",
+    "Imie": "Wiktor",
+    "Nazwisko": "Szczepaniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Laski",
+    "Ulica": "Piaskowa 5",
+    "Adres Pocztowy": "05-080",
+    "Nr.Telefonu": "+48732676254"
+  },
+  {
+    "nw": "205117",
+    "nw_1": "890697319",
+    "Imie": "Aleksander",
+    "Nazwisko": "Ziemiecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Laski",
+    "Ulica": "Pomidorowa 4",
+    "Adres Pocztowy": "05-080",
+    "Nr.Telefonu": "733152601"
+  },
+  {
+    "nw": "1422325",
+    "nw_1": "191091573",
+    "Imie": "Kacper",
+    "Nazwisko": "Gregorczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Laski",
+    "Ulica": "Laski 25",
+    "Adres Pocztowy": "26670",
+    "Nr.Telefonu": "+48519609429"
+  },
+  {
+    "nw": "199326",
+    "nw_1": "344508209",
+    "Imie": "Dawid",
+    "Nazwisko": "Adamski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Laski",
+    "Ulica": "laski ul zielona 34/36 kod pocztowy 05-080",
+    "Adres Pocztowy": "05-080",
+    "Nr.Telefonu": "785771234"
+  }
+]

@@ -1,0 +1,81 @@
+[
+  {
+    "nw": "2284562",
+    "nw_1": "359922869",
+    "Imie": "Kamil",
+    "Nazwisko": "Bednarczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Bukowsko",
+    "Ulica": "Bukowsko 425",
+    "Adres Pocztowy": "38-505",
+    "Nr.Telefonu": "573323235"
+  },
+  {
+    "nw": "1021218",
+    "nw_1": "576318709",
+    "Imie": "kamil",
+    "Nazwisko": "chodakowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "bukowsko",
+    "Ulica": "bukowsko 74",
+    "Adres Pocztowy": "38-505",
+    "Nr.Telefonu": "723839679"
+  },
+  {
+    "nw": "1347080",
+    "nw_1": "757804701",
+    "Imie": "Jakub",
+    "Nazwisko": "Pałys",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Bukowsko",
+    "Ulica": "street: Pobiedno 14",
+    "Adres Pocztowy": " building number: 14",
+    "Nr.Telefonu": "38-505",
+    "__parsed_extra": [
+      "+48-517-077-388"
+    ]
+  },
+  {
+    "nw": "1067570",
+    "nw_1": "725579966",
+    "Imie": "filip",
+    "Nazwisko": "bednarz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "bukowsko",
+    "Ulica": "bukowsko 1",
+    "Adres Pocztowy": "38-505",
+    "Nr.Telefonu": "695564250"
+  },
+  {
+    "nw": "1021214",
+    "nw_1": "576318709",
+    "Imie": "kamil",
+    "Nazwisko": "chodakowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "bukowsko",
+    "Ulica": "bukowsko 74",
+    "Adres Pocztowy": "38-505",
+    "Nr.Telefonu": "723839679"
+  },
+  {
+    "nw": "1648427",
+    "nw_1": "398044610",
+    "Imie": "Szymon",
+    "Nazwisko": "Rabicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Bukowsko",
+    "Ulica": "Nadolany 89"
+  }
+]

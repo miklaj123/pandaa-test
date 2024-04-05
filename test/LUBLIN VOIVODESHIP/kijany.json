@@ -1,0 +1,57 @@
+[
+  {
+    "nw": "1604182",
+    "nw_1": "273263286",
+    "Imie": "Maksym",
+    "Nazwisko": "Dombrovskyi",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Kijany",
+    "Ulica": "Kościelne 19",
+    "Adres Pocztowy": "21-077",
+    "Nr.Telefonu": "+48692687879"
+  },
+  {
+    "nw": "1276481",
+    "nw_1": "228245473",
+    "Imie": "Artur",
+    "Nazwisko": "Reutskyi",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Kijany",
+    "Ulica": "Kijany 19B",
+    "Adres Pocztowy": " 21-077 Kijany",
+    "Nr.Telefonu": "21-077",
+    "__parsed_extra": [
+      "+48570351034"
+    ]
+  },
+  {
+    "nw": "1524196",
+    "nw_1": "368804661",
+    "Imie": "Yehor",
+    "Nazwisko": "Yershov",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "kijany",
+    "Ulica": "technikom zsr kijany",
+    "Adres Pocztowy": "21-077",
+    "Nr.Telefonu": "+48666225134"
+  },
+  {
+    "nw": "1995455",
+    "nw_1": "842118782",
+    "Imie": "Tomasz",
+    "Nazwisko": "Michoń",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Kijany",
+    "Ulica": "Kijany 16",
+    "Adres Pocztowy": "21-077",
+    "Nr.Telefonu": "881760905"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1419943",
+    "nw_1": "645224880",
+    "Imie": "Kamil",
+    "Nazwisko": "Pietrzak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Marcinkowice",
+    "Ulica": "Marcinkowice 298",
+    "Adres Pocztowy": "33-393",
+    "Nr.Telefonu": "+48796364140"
+  },
+  {
+    "nw": "1616477",
+    "nw_1": "882317650",
+    "Imie": "Michal",
+    "Nazwisko": "Chmura",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Marcinkowice",
+    "Ulica": "Marcinkowice 510 33-393",
+    "Adres Pocztowy": "33-393",
+    "Nr.Telefonu": "737176125"
+  },
+  {
+    "nw": "1668121",
+    "nw_1": "323259629",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Chmura",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Marcinkowice",
+    "Ulica": "Marcinkowice 510",
+    "Adres Pocztowy": "33-393",
+    "Nr.Telefonu": "884866444"
+  },
+  {
+    "nw": "387833",
+    "nw_1": "611621465",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Łazarski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Marcinkowice",
+    "Ulica": "Marcinkowice 559",
+    "Adres Pocztowy": "33-393",
+    "Nr.Telefonu": "733000204"
+  }
+]

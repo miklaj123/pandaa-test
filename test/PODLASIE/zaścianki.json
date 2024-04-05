@@ -1,0 +1,70 @@
+[
+  {
+    "nw": "657845",
+    "nw_1": "739113899",
+    "Imie": "Bartosz",
+    "Nazwisko": "Romanowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Zaścianki",
+    "Ulica": "Bajeczna 7",
+    "Adres Pocztowy": "15-521",
+    "Nr.Telefonu": "732623029"
+  },
+  {
+    "nw": "1854163",
+    "nw_1": "538435569",
+    "Imie": "Edyta",
+    "Nazwisko": "Kiziewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Zaścianki",
+    "Ulica": "Kasztanowa 12",
+    "Adres Pocztowy": "15-521",
+    "Nr.Telefonu": "531500820"
+  },
+  {
+    "nw": "1615782",
+    "nw_1": "196108023",
+    "Imie": "Piotr",
+    "Nazwisko": "Karpiuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Zaścianki",
+    "Ulica": "Pogodna 1",
+    "Adres Pocztowy": "15-521",
+    "Nr.Telefonu": "503785053"
+  },
+  {
+    "nw": "2229757",
+    "nw_1": "672540924",
+    "Imie": "Filip",
+    "Nazwisko": "Kuczko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Zaścianki",
+    "Ulica": "Wojskiego",
+    "Adres Pocztowy": "28p",
+    "Nr.Telefonu": "15-521",
+    "__parsed_extra": [
+      "501018564"
+    ]
+  },
+  {
+    "nw": "2229763",
+    "nw_1": "672540924",
+    "Imie": "Filip",
+    "Nazwisko": "Kuczko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Zaścianki",
+    "Ulica": "Wojskiego 28p",
+    "Adres Pocztowy": "15-521",
+    "Nr.Telefonu": "501018564"
+  }
+]

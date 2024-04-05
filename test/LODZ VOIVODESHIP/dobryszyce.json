@@ -1,0 +1,63 @@
+[
+  {
+    "nw": "2244804",
+    "nw_1": "878942765",
+    "Imie": "Michał",
+    "Nazwisko": "Konieczny",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Dobryszyce",
+    "Ulica": "Biała Góra 64",
+    "Adres Pocztowy": "97-505",
+    "Nr.Telefonu": "606114849"
+  },
+  {
+    "nw": "403368",
+    "nw_1": "340331885",
+    "Imie": "Jakub",
+    "Nazwisko": "Sikora",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Dobryszyce",
+    "Ulica": "Rajska 11",
+    "Adres Pocztowy": "97-505",
+    "Nr.Telefonu": "516003427"
+  },
+  {
+    "nw": "2160456",
+    "nw_1": "704914268",
+    "Imie": "Oskar",
+    "Nazwisko": "Żurawski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Dobryszyce",
+    "Ulica": "Lodzkie 97-505 Dobryszyce Polna 1A"
+  },
+  {
+    "nw": "1022983",
+    "nw_1": "704614127",
+    "Imie": "Agnieszka",
+    "Nazwisko": "Domańska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Dobryszyce",
+    "Ulica": "Biała Góra 49a"
+  },
+  {
+    "nw": "1145101",
+    "nw_1": "530078050",
+    "Imie": "Małgorzata",
+    "Nazwisko": "Szpecińska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Dobryszyce",
+    "Ulica": "Wiewiórów 34c",
+    "Adres Pocztowy": "97-505",
+    "Nr.Telefonu": "501194568"
+  }
+]

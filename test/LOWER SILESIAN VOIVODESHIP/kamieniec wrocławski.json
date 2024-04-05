@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "2003355",
+    "nw_1": "456856312",
+    "Imie": "Tomasz",
+    "Nazwisko": "Szewc",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kamieniec Wrocławski",
+    "Ulica": "Porzeczkowa 36",
+    "Adres Pocztowy": "55-002",
+    "Nr.Telefonu": "603293193"
+  },
+  {
+    "nw": "1221602",
+    "nw_1": "278960429",
+    "Imie": "Jakub",
+    "Nazwisko": "Manuszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "kamieniec wrocławski",
+    "Ulica": "ul. wrzosowa 18 kamieniec wrocławski",
+    "Adres Pocztowy": "55-002",
+    "Nr.Telefonu": "+48 574 209 636"
+  },
+  {
+    "nw": "761833",
+    "nw_1": "615934287",
+    "Imie": "Patryk",
+    "Nazwisko": "Kozior",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kamieniec wrocławski",
+    "Ulica": "leśna 18",
+    "Adres Pocztowy": "55-002",
+    "Nr.Telefonu": "+48 886 592 941"
+  },
+  {
+    "nw": "48719",
+    "nw_1": "636484003",
+    "Imie": "Jakub",
+    "Nazwisko": "Manuszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kamieniec Wrocławski",
+    "Ulica": "ul. Wrzosowa 18",
+    "Adres Pocztowy": "55-002",
+    "Nr.Telefonu": "+48574209636"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "68008",
+    "nw_1": "952193642",
+    "Imie": "Jan",
+    "Nazwisko": "Wozniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Tarnowiec",
+    "Ulica": "Rzemieślnicza 22",
+    "Adres Pocztowy": "33-112",
+    "Nr.Telefonu": "795736438"
+  },
+  {
+    "nw": "1241081",
+    "nw_1": "361175703",
+    "Imie": "Jakub",
+    "Nazwisko": "Dudek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Tarnowiec",
+    "Ulica": "Na młyny 46b",
+    "Adres Pocztowy": "33-112",
+    "Nr.Telefonu": "577218750"
+  },
+  {
+    "nw": "1572513",
+    "nw_1": "452937380",
+    "Imie": "Krystian",
+    "Nazwisko": "Zięba",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Tarnowiec",
+    "Ulica": "Księżycowa 10",
+    "Adres Pocztowy": "33-112",
+    "Nr.Telefonu": "+48576118937"
+  }
+]

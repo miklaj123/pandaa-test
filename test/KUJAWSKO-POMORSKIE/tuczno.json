@@ -1,0 +1,28 @@
+[
+  {
+    "nw": "464252",
+    "nw_1": "935543568",
+    "Imie": "Igor",
+    "Nazwisko": "Kaszubski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Tuczno",
+    "Ulica": "Bydgoska 21/17",
+    "Adres Pocztowy": "88-180",
+    "Nr.Telefonu": "691406410"
+  },
+  {
+    "nw": "366252",
+    "nw_1": "400988771",
+    "Imie": "Nikodem",
+    "Nazwisko": "Jankowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Tuczno",
+    "Ulica": "Podgorna 12",
+    "Adres Pocztowy": "88-180",
+    "Nr.Telefonu": "539384654"
+  }
+]

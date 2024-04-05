@@ -1,0 +1,57 @@
+[
+  {
+    "nw": "257301",
+    "nw_1": "362609283",
+    "Imie": "Karol",
+    "Nazwisko": "Żelazo",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Granowo",
+    "Ulica": "Konstytucji 3 Maja 8",
+    "Adres Pocztowy": "62-066",
+    "Nr.Telefonu": "+48730752330"
+  },
+  {
+    "nw": "2309382",
+    "nw_1": "896100505",
+    "Imie": "Anita",
+    "Nazwisko": "Lemańska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Granowo",
+    "Ulica": "Granowo Ul. Michała Drzymały 9",
+    "Adres Pocztowy": "62-066",
+    "Nr.Telefonu": "574025577"
+  },
+  {
+    "nw": "879893",
+    "nw_1": "251765488",
+    "Imie": "kacper",
+    "Nazwisko": "konieczny",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "granowo",
+    "Ulica": "sportowa 44",
+    "Adres Pocztowy": "62-066",
+    "Nr.Telefonu": "605518567"
+  },
+  {
+    "nw": "2089246",
+    "nw_1": "338665510",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Pijanowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Granowo",
+    "Ulica": "Granowo",
+    "Adres Pocztowy": " Kręta-6",
+    "Nr.Telefonu": "62-066",
+    "__parsed_extra": [
+      "784861397"
+    ]
+  }
+]

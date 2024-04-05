@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1311753",
+    "nw_1": "875158231",
+    "Imie": "Krzysztof",
+    "Nazwisko": "Jenoch",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Somianka",
+    "Ulica": "Skorki 9B",
+    "Adres Pocztowy": "07-206",
+    "Nr.Telefonu": "508 431 137"
+  },
+  {
+    "nw": "1799347",
+    "nw_1": "400629387",
+    "Imie": "Jakub",
+    "Nazwisko": "Perczynski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Somianka",
+    "Ulica": "Suwin 7",
+    "Adres Pocztowy": "07-203",
+    "Nr.Telefonu": "500125454"
+  },
+  {
+    "nw": "1794034",
+    "nw_1": "811438519",
+    "Imie": "Gabriela",
+    "Nazwisko": "Szczepaniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Somianka",
+    "Ulica": "Janki 4",
+    "Adres Pocztowy": "07-203",
+    "Nr.Telefonu": "792272737"
+  }
+]

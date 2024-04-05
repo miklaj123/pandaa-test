@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1391497",
+    "nw_1": "472497638",
+    "Imie": "Jakub",
+    "Nazwisko": "Cimała",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Wisla",
+    "Ulica": "Partyzantow 7",
+    "Adres Pocztowy": "43-460",
+    "Nr.Telefonu": "729298833"
+  },
+  {
+    "nw": "1167966",
+    "nw_1": "100110545",
+    "Imie": "Piotr",
+    "Nazwisko": "Szturc",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Wisla",
+    "Ulica": "1 Maja 30",
+    "Adres Pocztowy": "43-460",
+    "Nr.Telefonu": "+48535495938"
+  },
+  {
+    "nw": "1247517",
+    "nw_1": "338382727",
+    "Imie": "Lukasz",
+    "Nazwisko": "Kulig",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Wisla",
+    "Ulica": "Osiedle Jarzebata 20",
+    "Adres Pocztowy": "43-460",
+    "Nr.Telefonu": "+48530168713"
+  }
+]

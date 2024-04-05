@@ -1,0 +1,45 @@
+[
+  {
+    "nw": "1802909",
+    "nw_1": "131483672",
+    "Imie": "Paweł",
+    "Nazwisko": "Budzowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Nowa Wies Leborska",
+    "Ulica": "Dworcowa 1A",
+    "Adres Pocztowy": "84-351",
+    "Nr.Telefonu": "+48515305122"
+  },
+  {
+    "nw": "1825122",
+    "nw_1": "131483672",
+    "Imie": "Paweł",
+    "Nazwisko": "Budzowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Nowa Wies Leborska",
+    "Ulica": "Dworcowa 1A",
+    "Adres Pocztowy": "84-351",
+    "Nr.Telefonu": "+48515305122"
+  },
+  {
+    "nw": "1925663",
+    "nw_1": "236079582",
+    "Imie": "Mateusz",
+    "Nazwisko": "Kolanczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Nowa Wies Leborska",
+    "Ulica": "Czarnowko 40",
+    "Adres Pocztowy": " 84-351",
+    "Nr.Telefonu": " Nowa Wies Leborska",
+    "__parsed_extra": [
+      "84-351",
+      "602399454"
+    ]
+  }
+]

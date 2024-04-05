@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "545636",
+    "nw_1": "686484396",
+    "Imie": "Sebastian",
+    "Nazwisko": "Świszcz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Tarnowiec",
+    "Ulica": "Nowy Glinik 57",
+    "Adres Pocztowy": "38-204",
+    "Nr.Telefonu": "575393457"
+  },
+  {
+    "nw": "1196933",
+    "nw_1": "158920257",
+    "Imie": "jakub",
+    "Nazwisko": "stepek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Tarnowiec",
+    "Ulica": "Tarnowiec 243/3",
+    "Adres Pocztowy": "38-204",
+    "Nr.Telefonu": "501962436"
+  },
+  {
+    "nw": "1455480",
+    "nw_1": "160873274",
+    "Imie": "KINGA",
+    "Nazwisko": "WÓJCIK",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "TARNOWIEC",
+    "Ulica": "ROZTOKI 127",
+    "Adres Pocztowy": "38-204",
+    "Nr.Telefonu": "502068128"
+  }
+]

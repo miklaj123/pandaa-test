@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "2177310",
+    "nw_1": "463561822",
+    "Imie": "Krystian",
+    "Nazwisko": "Bartosik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Grębocice",
+    "Ulica": "ul.Długa 38",
+    "Adres Pocztowy": "59-150 ",
+    "Nr.Telefonu": "+48577994979"
+  },
+  {
+    "nw": "453342",
+    "nw_1": "784782863",
+    "Imie": "mateusz",
+    "Nazwisko": "szadyko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "grębocice",
+    "Ulica": "parkowa 1",
+    "Adres Pocztowy": "59-150",
+    "Nr.Telefonu": "669282118"
+  },
+  {
+    "nw": "2044099",
+    "nw_1": "811443968",
+    "Imie": "Aleksandra",
+    "Nazwisko": "Bartosik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Grębocice",
+    "Ulica": "Długa 38",
+    "Adres Pocztowy": "59-150",
+    "Nr.Telefonu": "795993989"
+  },
+  {
+    "nw": "2035030",
+    "nw_1": "917640770",
+    "Imie": "Marta",
+    "Nazwisko": "Proń",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Grębocice",
+    "Ulica": "Konwaliowa 19",
+    "Adres Pocztowy": "59-150",
+    "Nr.Telefonu": "693442884"
+  }
+]

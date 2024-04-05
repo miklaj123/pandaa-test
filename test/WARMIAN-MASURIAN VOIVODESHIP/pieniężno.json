@@ -1,0 +1,69 @@
+[
+  {
+    "nw": "1712842",
+    "nw_1": "846316168",
+    "Imie": "Kacper",
+    "Nazwisko": "Bieryńdo",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Pieniężno",
+    "Ulica": "Szkolna 1D",
+    "Adres Pocztowy": "14-520",
+    "Nr.Telefonu": "574588718"
+  },
+  {
+    "nw": "920571",
+    "nw_1": "787756036",
+    "Imie": "Wojciech",
+    "Nazwisko": "Papski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Pieniężno",
+    "Ulica": "stret ornecka 2D "
+  },
+  {
+    "nw": "168230",
+    "nw_1": "153326100",
+    "Imie": "Michał",
+    "Nazwisko": "Grodź",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Pieniężno",
+    "Ulica": "Generalska 16",
+    "Adres Pocztowy": "14520",
+    "Nr.Telefonu": "+48519588812"
+  },
+  {
+    "nw": "1793459",
+    "nw_1": "168931924",
+    "Imie": "Kuba",
+    "Nazwisko": "Dec",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Pieniężno",
+    "Ulica": "Żugienie 17",
+    "Adres Pocztowy": "14-520",
+    "Nr.Telefonu": "572249622"
+  },
+  {
+    "nw": "824556",
+    "nw_1": "805612610",
+    "Imie": "Eryk",
+    "Nazwisko": "Majewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Pieniężno",
+    "Ulica": "Piotrowiec 5b ",
+    "Adres Pocztowy": "14-520",
+    "Nr.Telefonu": " Pieniężno",
+    "__parsed_extra": [
+      "14-520",
+      "725227901"
+    ]
+  }
+]

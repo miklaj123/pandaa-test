@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2328478",
+    "nw_1": "241599474",
+    "Imie": "Krzysztof",
+    "Nazwisko": "Mastalerek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Lubienia",
+    "Ulica": "Iłżecka 10C",
+    "Adres Pocztowy": "27-230",
+    "Nr.Telefonu": "+48796574033"
+  },
+  {
+    "nw": "1740927",
+    "nw_1": "394432743",
+    "Imie": "Wiktoria",
+    "Nazwisko": "Kucharska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Lubienia",
+    "Ulica": "ul. Zachodnia 70",
+    "Adres Pocztowy": "27-230",
+    "Nr.Telefonu": "513305630"
+  },
+  {
+    "nw": "342621",
+    "nw_1": "241599474",
+    "Imie": "Marek",
+    "Nazwisko": "Tomaszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Lubienia",
+    "Ulica": "Iłżecka 10C",
+    "Adres Pocztowy": "27-230",
+    "Nr.Telefonu": "+48886426494"
+  }
+]

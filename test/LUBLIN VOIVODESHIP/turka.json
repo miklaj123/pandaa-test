@@ -1,0 +1,83 @@
+[
+  {
+    "nw": "460847",
+    "nw_1": "549237340",
+    "Imie": "Jakub",
+    "Nazwisko": "Świtała",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Turka",
+    "Ulica": "Konwaliowa 1/24",
+    "Adres Pocztowy": "20-258",
+    "Nr.Telefonu": "693117800"
+  },
+  {
+    "nw": "266025",
+    "nw_1": "757735724",
+    "Imie": "Maciek",
+    "Nazwisko": "Kozar",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Turka",
+    "Ulica": "ul. Bukowa 2",
+    "Adres Pocztowy": "20-258",
+    "Nr.Telefonu": "695024502"
+  },
+  {
+    "nw": "2273317",
+    "nw_1": "440039255",
+    "Imie": "Jakub",
+    "Nazwisko": "Barcik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Turka",
+    "Ulica": "ul. Konwaliowa 3/12",
+    "Adres Pocztowy": " 20-258 Turka",
+    "Nr.Telefonu": "20-258",
+    "__parsed_extra": [
+      "724070782"
+    ]
+  },
+  {
+    "nw": "641720",
+    "nw_1": "767114561",
+    "Imie": "Maciek",
+    "Nazwisko": "Kozar",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Turka",
+    "Ulica": "Ul. Bukowa 4/5",
+    "Adres Pocztowy": "20-250",
+    "Nr.Telefonu": "695  126 063"
+  },
+  {
+    "nw": "642150",
+    "nw_1": "767114561",
+    "Imie": "Adam",
+    "Nazwisko": "Skwarek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "turka",
+    "Ulica": "Akacjowa 60",
+    "Adres Pocztowy": "20-258",
+    "Nr.Telefonu": "664 330 850"
+  },
+  {
+    "nw": "740658",
+    "nw_1": "428558385",
+    "Imie": "Grzegorz",
+    "Nazwisko": "Lipski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Turka",
+    "Ulica": "Konwaliowa 15/45",
+    "Adres Pocztowy": "20-258",
+    "Nr.Telefonu": "518716548"
+  }
+]

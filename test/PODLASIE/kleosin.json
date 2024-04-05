@@ -1,0 +1,70 @@
+[
+  {
+    "nw": "2157413",
+    "nw_1": "781615529",
+    "Imie": "Kamil ",
+    "Nazwisko": "Nowożycki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Kleosin ",
+    "Ulica": "Kleosin Zdrojowa 43 numer drzwi 3 ",
+    "Adres Pocztowy": "19-213",
+    "Nr.Telefonu": "609214936"
+  },
+  {
+    "nw": "570071",
+    "nw_1": "912984182",
+    "Imie": "Maciek",
+    "Nazwisko": "Sapieszko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Kleosin",
+    "Ulica": "Kardynała Wyszyńskiego 4A/7",
+    "Adres Pocztowy": "16-001",
+    "Nr.Telefonu": "510808860"
+  },
+  {
+    "nw": "1520117",
+    "nw_1": "889594863",
+    "Imie": "Maciej",
+    "Nazwisko": "Sapieszko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Kleosin",
+    "Ulica": "Kardynała Wyszyńskiego",
+    "Adres Pocztowy": " 4A/7",
+    "Nr.Telefonu": "16-001",
+    "__parsed_extra": [
+      "+48510808860"
+    ]
+  },
+  {
+    "nw": "1133589",
+    "nw_1": "912984182",
+    "Imie": "Michal",
+    "Nazwisko": "Rudkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Kleosin",
+    "Ulica": "kraszewsiego 8/44",
+    "Adres Pocztowy": "16-001",
+    "Nr.Telefonu": "519 314 304"
+  },
+  {
+    "nw": "399110",
+    "nw_1": "217414095",
+    "Imie": "Alan",
+    "Nazwisko": "Biżuta",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Kleosin",
+    "Ulica": "Kolonia Księżyno 23C",
+    "Adres Pocztowy": "16-001",
+    "Nr.Telefonu": "798963832"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "nw": "1083210",
+    "nw_1": "100267811",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Grzonkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Złotniki Kujawskie",
+    "Ulica": "kwiatowa 6",
+    "Adres Pocztowy": "88-180",
+    "Nr.Telefonu": "537727901"
+  },
+  {
+    "nw": "916252",
+    "nw_1": "520604795",
+    "Imie": "Piotr",
+    "Nazwisko": "Bogacz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Złotniki Kujawskie",
+    "Ulica": "Leszcze 21",
+    "Adres Pocztowy": "88-180",
+    "Nr.Telefonu": "726260308"
+  },
+  {
+    "nw": "495690",
+    "nw_1": "382517789",
+    "Imie": "igor",
+    "Nazwisko": "roguszczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Złotniki Kujawskie",
+    "Ulica": "Dworcowa 27a/11",
+    "Adres Pocztowy": "88-180",
+    "Nr.Telefonu": "+48 883 430 399"
+  },
+  {
+    "nw": "2053510",
+    "nw_1": "354745919",
+    "Imie": "Wojciech",
+    "Nazwisko": "Foint",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Złotniki Kujawskie",
+    "Ulica": "Dworcowa 39/3",
+    "Adres Pocztowy": "88-180",
+    "Nr.Telefonu": "728666596"
+  },
+  {
+    "nw": "1893269",
+    "nw_1": "767047162",
+    "Imie": "Wojtek",
+    "Nazwisko": "Foint",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "złotniki kujawskie",
+    "Ulica": "Dworcowa 39/3",
+    "Adres Pocztowy": "88-180",
+    "Nr.Telefonu": "728666596"
+  },
+  {
+    "nw": "16325",
+    "nw_1": "37884223",
+    "Imie": "Jędrzej",
+    "Nazwisko": "Kruszczyński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Złotniki Kujawskie",
+    "Ulica": "Jęczmienna 10",
+    "Adres Pocztowy": "88-180",
+    "Nr.Telefonu": "505874304"
+  },
+  {
+    "nw": "1001262",
+    "nw_1": "252699322",
+    "Imie": "Nikodem",
+    "Nazwisko": "Sulinowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Złotniki Kujawskie",
+    "Ulica": "Sezamkowa 3",
+    "Adres Pocztowy": "88-180",
+    "Nr.Telefonu": "+48 724036039"
+  }
+]

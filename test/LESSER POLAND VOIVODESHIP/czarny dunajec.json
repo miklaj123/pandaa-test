@@ -1,0 +1,67 @@
+[
+  {
+    "nw": "1486278",
+    "nw_1": "556765745",
+    "Imie": "Wojciech",
+    "Nazwisko": "Winnicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Czarny Dunajec",
+    "Ulica": "Kolejowa 35",
+    "Adres Pocztowy": "34-470",
+    "Nr.Telefonu": "720820029"
+  },
+  {
+    "nw": "2038828",
+    "nw_1": "543325111",
+    "Imie": "Dominika",
+    "Nazwisko": "Paszek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Czarny Dunajec",
+    "Ulica": "Wróblówka 125",
+    "Adres Pocztowy": "34-470",
+    "Nr.Telefonu": "+48798310059"
+  },
+  {
+    "nw": "2314218",
+    "nw_1": "270310125",
+    "Imie": "Hubert",
+    "Nazwisko": "Hodorowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "czarny dunajec",
+    "Ulica": "Czarny Dunajec Kmietowicza 225",
+    "Adres Pocztowy": "34-470",
+    "Nr.Telefonu": "881258718"
+  },
+  {
+    "nw": "2129101",
+    "nw_1": "732857252",
+    "Imie": "Hubert",
+    "Nazwisko": "Hodorowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "czarny dunajec",
+    "Ulica": "Czarny Dunajec Kmietowicza 225 ",
+    "Adres Pocztowy": "34-470",
+    "Nr.Telefonu": "881258718"
+  },
+  {
+    "nw": "2057427",
+    "nw_1": "987604764",
+    "Imie": "Jonasz",
+    "Nazwisko": "Krawczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Czarny Dunajec",
+    "Ulica": "Ojca Świetego Jana Pawła 2/ 238",
+    "Adres Pocztowy": "34-470",
+    "Nr.Telefonu": "789106755"
+  }
+]

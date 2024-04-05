@@ -1,0 +1,58 @@
+[
+  {
+    "nw": "1342265",
+    "nw_1": "152959553",
+    "Imie": "Ignacy",
+    "Nazwisko": "Wojtaszek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Iwiny",
+    "Ulica": "ulica Wiosenna 15",
+    "Adres Pocztowy": "52116",
+    "Nr.Telefonu": "795729375"
+  },
+  {
+    "nw": "1725326",
+    "nw_1": "557782745",
+    "Imie": "Igor",
+    "Nazwisko": "Kotkiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Iwiny",
+    "Ulica": "świętej rity 119",
+    "Adres Pocztowy": "52-116",
+    "Nr.Telefonu": "690077610"
+  },
+  {
+    "nw": "1530704",
+    "nw_1": "710362809",
+    "Imie": "Tymoteusz",
+    "Nazwisko": "Styrna",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Iwiny",
+    "Ulica": "Kwiatowa street",
+    "Adres Pocztowy": " house 7",
+    "Nr.Telefonu": " Iwiny",
+    "__parsed_extra": [
+      "52-116",
+      "574348313"
+    ]
+  },
+  {
+    "nw": "1537286",
+    "nw_1": "789980129",
+    "Imie": "Zakhar",
+    "Nazwisko": "Maksymyshyn",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Iwiny",
+    "Ulica": "Świętego Jacka 175A",
+    "Adres Pocztowy": "52-116",
+    "Nr.Telefonu": "790692953"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "1357169",
+    "nw_1": "218296250",
+    "Imie": "Pawel Waleskiewicz",
+    "Nazwisko": "Pawel Waleskiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Winnica",
+    "Ulica": "Szkolna 7",
+    "Adres Pocztowy": " 06-120 Winnica",
+    "Nr.Telefonu": "06-120",
+    "__parsed_extra": [
+      "+48 511411696"
+    ]
+  },
+  {
+    "nw": "1932649",
+    "nw_1": "848839606",
+    "Imie": "jakub",
+    "Nazwisko": "Kowalewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "winnica",
+    "Ulica": "winniczka leśna 21",
+    "Adres Pocztowy": "06-120",
+    "Nr.Telefonu": "500853585"
+  }
+]

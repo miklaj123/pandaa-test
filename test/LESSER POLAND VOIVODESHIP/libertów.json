@@ -1,0 +1,57 @@
+[
+  {
+    "nw": "2134072",
+    "nw_1": "789712887",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Gąsiorek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Libertów",
+    "Ulica": "Świetlista 58",
+    "Adres Pocztowy": "30-444",
+    "Nr.Telefonu": "515379221"
+  },
+  {
+    "nw": "1778375",
+    "nw_1": "291401897",
+    "Imie": "Michał",
+    "Nazwisko": "Pilch",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Libertów",
+    "Ulica": "Świetlista 52",
+    "Adres Pocztowy": "30-444",
+    "Nr.Telefonu": "531363633"
+  },
+  {
+    "nw": "1830846",
+    "nw_1": "866465341",
+    "Imie": "konrad",
+    "Nazwisko": "kuczaj",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Libertów",
+    "Ulica": "Libertów",
+    "Adres Pocztowy": " Przydworska57a",
+    "Nr.Telefonu": "30-444",
+    "__parsed_extra": [
+      "880372433"
+    ]
+  },
+  {
+    "nw": "471334",
+    "nw_1": "779864403",
+    "Imie": "Aleks",
+    "Nazwisko": "Tajs",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Libertów",
+    "Ulica": "Jabłoniowa 21",
+    "Adres Pocztowy": "30-444",
+    "Nr.Telefonu": "797457230"
+  }
+]

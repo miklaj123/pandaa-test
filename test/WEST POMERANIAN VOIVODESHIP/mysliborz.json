@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "433514",
+    "nw_1": "549291473",
+    "Imie": "alex",
+    "Nazwisko": "malczewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Mysliborz",
+    "Ulica": "ul.baltycka 15",
+    "Adres Pocztowy": "74-300",
+    "Nr.Telefonu": "720829736"
+  },
+  {
+    "nw": "17549",
+    "nw_1": "2731089",
+    "Imie": "Borys",
+    "Nazwisko": "Matuszak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Mysliborz",
+    "Ulica": "Polnocna 7",
+    "Adres Pocztowy": "74-300",
+    "Nr.Telefonu": "791134609"
+  },
+  {
+    "nw": "962835",
+    "nw_1": "345311983",
+    "Imie": "Marcel",
+    "Nazwisko": "Goldberg",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Mysliborz",
+    "Ulica": "mickiewicza 7/m2",
+    "Adres Pocztowy": "74-300",
+    "Nr.Telefonu": "721599320"
+  },
+  {
+    "nw": "394388",
+    "nw_1": "334822881",
+    "Imie": "Sebastian",
+    "Nazwisko": "Dobrowolski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Mysliborz",
+    "Ulica": "Sezamkowa 6",
+    "Adres Pocztowy": "74-300",
+    "Nr.Telefonu": "+48511953578"
+  }
+]

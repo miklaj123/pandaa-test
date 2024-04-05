@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "962377",
+    "nw_1": "608360242",
+    "Imie": "Hubert",
+    "Nazwisko": "Surowiec",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Świlcza",
+    "Ulica": "Świlcza 14",
+    "Adres Pocztowy": "36-072",
+    "Nr.Telefonu": "+48508361679"
+  },
+  {
+    "nw": "1647574",
+    "nw_1": "275490224",
+    "Imie": "Rafał",
+    "Nazwisko": "Pulewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Świlcza",
+    "Ulica": "Świlcza 749J",
+    "Adres Pocztowy": " 36-072",
+    "Nr.Telefonu": "36-072",
+    "__parsed_extra": [
+      "664488414"
+    ]
+  }
+]

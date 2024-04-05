@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2018160",
+    "nw_1": "586271675",
+    "Imie": "Jan",
+    "Nazwisko": "Dominiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Łagiewniki Nowe",
+    "Ulica": "okólna 2",
+    "Adres Pocztowy": "95-002",
+    "Nr.Telefonu": "882833845"
+  },
+  {
+    "nw": "488103",
+    "nw_1": "466360485",
+    "Imie": "iwona",
+    "Nazwisko": "Leduchowska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "łagiewniki nowe",
+    "Ulica": "smardzewska 97",
+    "Adres Pocztowy": "95-002",
+    "Nr.Telefonu": "782882468"
+  },
+  {
+    "nw": "597131",
+    "nw_1": "754229454",
+    "Imie": "Bartosz",
+    "Nazwisko": "Serafiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Łagiewniki Nowe",
+    "Ulica": "Smardzewska 140",
+    "Adres Pocztowy": "95-002",
+    "Nr.Telefonu": "793 827 467"
+  }
+]

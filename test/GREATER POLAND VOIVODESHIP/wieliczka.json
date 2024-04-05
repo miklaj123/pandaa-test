@@ -1,0 +1,52 @@
+[
+  {
+    "nw": "2355511",
+    "nw_1": "847969021",
+    "Imie": "Aleksandra",
+    "Nazwisko": "Andrzejewska ",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Wieliczka",
+    "Ulica": "Ochota 2B/12",
+    "Adres Pocztowy": "32-020",
+    "Nr.Telefonu": "+48516035541"
+  },
+  {
+    "nw": "56207",
+    "nw_1": "439735242",
+    "Imie": "Jakub",
+    "Nazwisko": "Wiśniewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Wieliczka",
+    "Ulica": "Chabrowa 28 "
+  },
+  {
+    "nw": "653747",
+    "nw_1": "260092356",
+    "Imie": "Piotr",
+    "Nazwisko": "Kozłowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Wieliczka",
+    "Ulica": "Podstolice 223",
+    "Adres Pocztowy": "32-020",
+    "Nr.Telefonu": "573477411"
+  },
+  {
+    "nw": "2134670",
+    "nw_1": "479715928",
+    "Imie": "Paweł",
+    "Nazwisko": "Gajewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Wieliczka",
+    "Ulica": "Zabłocie 76",
+    "Adres Pocztowy": "32-020",
+    "Nr.Telefonu": "+48606326639"
+  }
+]

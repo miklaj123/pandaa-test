@@ -1,0 +1,70 @@
+[
+  {
+    "nw": "2286261",
+    "nw_1": "687241193",
+    "Imie": "Kamil",
+    "Nazwisko": "Kretowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Tułowice",
+    "Ulica": "Ceramiczna 7b/9",
+    "Adres Pocztowy": "49-130",
+    "Nr.Telefonu": "796455415"
+  },
+  {
+    "nw": "498459",
+    "nw_1": "498873266",
+    "Imie": "Grzegorz ",
+    "Nazwisko": "Pokracki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Tułowice",
+    "Ulica": "ul. Szkolna",
+    "Adres Pocztowy": " 18",
+    "Nr.Telefonu": "49-130",
+    "__parsed_extra": [
+      "603 096 740"
+    ]
+  },
+  {
+    "nw": "2090386",
+    "nw_1": "642910390",
+    "Imie": "Wojciech",
+    "Nazwisko": "Klim",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Tułowice",
+    "Ulica": "ul. Ceramiczna 3a/7",
+    "Adres Pocztowy": "49-130",
+    "Nr.Telefonu": "+48 795 387 990"
+  },
+  {
+    "nw": "1064516",
+    "nw_1": "523628932",
+    "Imie": "kewin",
+    "Nazwisko": "franczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "tułowice",
+    "Ulica": "przedszkolna 1a",
+    "Adres Pocztowy": "49-130",
+    "Nr.Telefonu": "+4917687338059"
+  },
+  {
+    "nw": "470761",
+    "nw_1": "498873266",
+    "Imie": "Grzegorz",
+    "Nazwisko": "Pokracki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Tułowice",
+    "Ulica": "ul. Szkolna 18",
+    "Adres Pocztowy": "49-130",
+    "Nr.Telefonu": "603096740"
+  }
+]

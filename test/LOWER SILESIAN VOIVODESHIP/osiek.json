@@ -1,0 +1,83 @@
+[
+  {
+    "nw": "455113",
+    "nw_1": "269906018",
+    "Imie": "Szymon",
+    "Nazwisko": "Sokolowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Osiek",
+    "Ulica": "Osiek",
+    "Adres Pocztowy": " Miedziana 86",
+    "Nr.Telefonu": "59-300",
+    "__parsed_extra": [
+      "731768928"
+    ]
+  },
+  {
+    "nw": "2009387",
+    "nw_1": "284844790",
+    "Imie": "Kacper",
+    "Nazwisko": "Michaliszyn",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Osiek",
+    "Ulica": "Srebrna 6E",
+    "Adres Pocztowy": "59-300",
+    "Nr.Telefonu": "664689076"
+  },
+  {
+    "nw": "175231",
+    "nw_1": "853000001",
+    "Imie": "Dominik",
+    "Nazwisko": "Ślawski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Osiek",
+    "Ulica": "Zagajnikowa 13",
+    "Adres Pocztowy": "59-300",
+    "Nr.Telefonu": "+48664048509"
+  },
+  {
+    "nw": "2259335",
+    "nw_1": "720979838",
+    "Imie": "konrad",
+    "Nazwisko": "stysiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Osiek",
+    "Ulica": "Osiek polna 9",
+    "Adres Pocztowy": "59-300",
+    "Nr.Telefonu": "570 760 215"
+  },
+  {
+    "nw": "683259",
+    "nw_1": "387187495",
+    "Imie": "Adrian",
+    "Nazwisko": "Kot",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Osiek",
+    "Ulica": "Cicha 2",
+    "Adres Pocztowy": "59-300",
+    "Nr.Telefonu": "731745501"
+  },
+  {
+    "nw": "536381",
+    "nw_1": "590963357",
+    "Imie": "Dominik",
+    "Nazwisko": "Ślawski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Osiek",
+    "Ulica": "Zagajnikowa 13",
+    "Adres Pocztowy": "59-300",
+    "Nr.Telefonu": "664 048 509"
+  }
+]

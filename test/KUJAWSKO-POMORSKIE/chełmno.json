@@ -1,0 +1,84 @@
+[
+  {
+    "nw": "811614",
+    "nw_1": "707907198",
+    "Imie": "Sebastian",
+    "Nazwisko": "kowalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Chełmno",
+    "Ulica": "Chełmno",
+    "Adres Pocztowy": " Rynek 8/5",
+    "Nr.Telefonu": "  86-200",
+    "__parsed_extra": [
+      "86-200",
+      "123332441"
+    ]
+  },
+  {
+    "nw": "2156092",
+    "nw_1": "507585857",
+    "Imie": "Filip",
+    "Nazwisko": "Omicezynski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Chełmno",
+    "Ulica": "Chocziszewskiego",
+    "Adres Pocztowy": "Chocziszewskiego",
+    "Nr.Telefonu": "07543702828"
+  },
+  {
+    "nw": "539011",
+    "nw_1": "438760496",
+    "Imie": "Eryk",
+    "Nazwisko": "Kołata",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Chełmno",
+    "Ulica": "22 Stycznia 3",
+    "Adres Pocztowy": "86-200",
+    "Nr.Telefonu": "725706429"
+  },
+  {
+    "nw": "1480814",
+    "nw_1": "103422384",
+    "Imie": "Wojciech",
+    "Nazwisko": "Woloszyn",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Chełmno",
+    "Ulica": "Kałdus 9",
+    "Adres Pocztowy": "86-200",
+    "Nr.Telefonu": "533275388"
+  },
+  {
+    "nw": "1803928",
+    "nw_1": "986032507",
+    "Imie": "Fryderyk",
+    "Nazwisko": "Krause",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "chełmno",
+    "Ulica": "czyżykowa 10",
+    "Adres Pocztowy": "86-200",
+    "Nr.Telefonu": "517128233"
+  },
+  {
+    "nw": "417384",
+    "nw_1": "841828785",
+    "Imie": "Adam",
+    "Nazwisko": "Kukulski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Chełmno",
+    "Ulica": "Wojska Polskiego 3/6",
+    "Adres Pocztowy": "86-200",
+    "Nr.Telefonu": "691590877"
+  }
+]

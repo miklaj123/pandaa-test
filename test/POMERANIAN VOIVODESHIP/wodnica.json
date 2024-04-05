@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "968975",
+    "nw_1": "725672897",
+    "Imie": "Jakub",
+    "Nazwisko": "Moroń",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Wodnica",
+    "Ulica": "Poziomkowa",
+    "Adres Pocztowy": " 1c",
+    "Nr.Telefonu": "76-270",
+    "__parsed_extra": [
+      "535165735"
+    ]
+  },
+  {
+    "nw": "617561",
+    "nw_1": "227278214",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Konon",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Wodnica",
+    "Ulica": "Leśna 27",
+    "Adres Pocztowy": "76-270",
+    "Nr.Telefonu": "533833540"
+  }
+]

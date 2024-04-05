@@ -1,0 +1,57 @@
+[
+  {
+    "nw": "1247178",
+    "nw_1": "417687050",
+    "Imie": "Patryk",
+    "Nazwisko": "Paciorek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Wola Rasztowska",
+    "Ulica": "Wola Rasztowska",
+    "Adres Pocztowy": " Kresowa 12",
+    "Nr.Telefonu": "05-205",
+    "__parsed_extra": [
+      "669970950"
+    ]
+  },
+  {
+    "nw": "931522",
+    "nw_1": "318667234",
+    "Imie": "Ksawery",
+    "Nazwisko": "Przyborowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Wola Rasztowska",
+    "Ulica": "Warszawska 21",
+    "Adres Pocztowy": "05-205",
+    "Nr.Telefonu": "796755308"
+  },
+  {
+    "nw": "897644",
+    "nw_1": "808535462",
+    "Imie": "Alan",
+    "Nazwisko": "Slonski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Wola Rasztowska",
+    "Ulica": "kresowa 8",
+    "Adres Pocztowy": "05-205",
+    "Nr.Telefonu": "664640861"
+  },
+  {
+    "nw": "897642",
+    "nw_1": "808535462",
+    "Imie": "Alan",
+    "Nazwisko": "Slonski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Wola Rasztowska",
+    "Ulica": "kresowa 8",
+    "Adres Pocztowy": "05-205",
+    "Nr.Telefonu": "664640861"
+  }
+]

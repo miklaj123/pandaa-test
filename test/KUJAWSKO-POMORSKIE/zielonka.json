@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2071586",
+    "nw_1": "694141591",
+    "Imie": "kacper",
+    "Nazwisko": "kozlowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "zielonka",
+    "Ulica": "długa 30",
+    "Adres Pocztowy": "86-005",
+    "Nr.Telefonu": "532324009"
+  },
+  {
+    "nw": "2084982",
+    "nw_1": "404485508",
+    "Imie": "Igor",
+    "Nazwisko": "Ostrowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Zielonka",
+    "Ulica": "Rycerska 9",
+    "Adres Pocztowy": "86-005",
+    "Nr.Telefonu": "791 296 291"
+  },
+  {
+    "nw": "1347264",
+    "nw_1": "917651159",
+    "Imie": "Marcel",
+    "Nazwisko": "Kędzierski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Zielonka",
+    "Ulica": "Piniowa 1",
+    "Adres Pocztowy": "86-005",
+    "Nr.Telefonu": "662352688"
+  }
+]

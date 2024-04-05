@@ -1,0 +1,80 @@
+[
+  {
+    "nw": "1532935",
+    "nw_1": "772727972",
+    "Imie": "Mateusz",
+    "Nazwisko": "zięciak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "michałowo",
+    "Ulica": "hieronimowo 5/4",
+    "Adres Pocztowy": "16-050",
+    "Nr.Telefonu": "502740106"
+  },
+  {
+    "nw": "1463527",
+    "nw_1": "404994597",
+    "Imie": "Karolina",
+    "Nazwisko": "Szycik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Michałowo",
+    "Ulica": "ul. klonowa 4/14",
+    "Adres Pocztowy": "16-050",
+    "Nr.Telefonu": "+48534573950"
+  },
+  {
+    "nw": "2321528",
+    "nw_1": "743842563",
+    "Imie": "krystian",
+    "Nazwisko": "Kondratowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "michałowo",
+    "Ulica": "Świętojańska 3/6",
+    "Adres Pocztowy": "15-050",
+    "Nr.Telefonu": "535399429"
+  },
+  {
+    "nw": "2149420",
+    "nw_1": "621969792",
+    "Imie": "Grzegorz ",
+    "Nazwisko": "Kalinowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Michałowo ",
+    "Ulica": "Młynowa 54",
+    "Adres Pocztowy": "16-050",
+    "Nr.Telefonu": "575671133"
+  },
+  {
+    "nw": "1304280",
+    "nw_1": "404994597",
+    "Imie": "Karolina",
+    "Nazwisko": "Szycik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Michałowo",
+    "Ulica": "Klonowa 4/14 16-050 Michałowo",
+    "Adres Pocztowy": "16-050",
+    "Nr.Telefonu": "534573950"
+  },
+  {
+    "nw": "495438",
+    "nw_1": "870347125",
+    "Imie": "dawid",
+    "Nazwisko": "Faszczewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Michałowo",
+    "Ulica": "Świętojańska 4/13",
+    "Adres Pocztowy": "16-050",
+    "Nr.Telefonu": "533866934"
+  }
+]

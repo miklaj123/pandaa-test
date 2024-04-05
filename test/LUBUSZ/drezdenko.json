@@ -1,0 +1,189 @@
+[
+  {
+    "nw": "1640817",
+    "nw_1": "940059371",
+    "Imie": "bartek",
+    "Nazwisko": "bryza",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "drezdenko",
+    "Ulica": "stare bielice 24",
+    "Adres Pocztowy": "66-530",
+    "Nr.Telefonu": "665-645-355"
+  },
+  {
+    "nw": "1545831",
+    "nw_1": "865729196",
+    "Imie": "dominik",
+    "Nazwisko": "przewozny",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "drezdenko",
+    "Ulica": "Poniatowskiego 15A/1",
+    "Adres Pocztowy": "66-530",
+    "Nr.Telefonu": "730181846"
+  },
+  {
+    "nw": "1242739",
+    "nw_1": "625469089",
+    "Imie": "Aleksandra",
+    "Nazwisko": "Cupiał",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Drezdenko",
+    "Ulica": "Sienkiewicza 3C/30"
+  },
+  {
+    "nw": "2208545",
+    "nw_1": "200630172",
+    "Imie": "Karol",
+    "Nazwisko": "Ogordnik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Drezdenko",
+    "Ulica": "Leśna 5 Drezdenko ",
+    "Adres Pocztowy": "Lubuskie",
+    "Nr.Telefonu": "66-530",
+    "__parsed_extra": [
+      "Polska"
+    ]
+  },
+  {
+    "nw": "1396976",
+    "nw_1": "394108599",
+    "Imie": "Kalina",
+    "Nazwisko": "Sernik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Drezdenko",
+    "Ulica": "Poniatowskiego 26"
+  },
+  {
+    "nw": "1347582",
+    "nw_1": "720923992",
+    "Imie": "Antek",
+    "Nazwisko": "Twardowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Drezdenko",
+    "Ulica": "Goszczanówko 38",
+    "Adres Pocztowy": "66-530",
+    "Nr.Telefonu": "531771774"
+  },
+  {
+    "nw": "462516",
+    "nw_1": "230719012",
+    "Imie": "Jakub",
+    "Nazwisko": "Lenart",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Drezdenko",
+    "Ulica": "Mickiewicza 9/19",
+    "Adres Pocztowy": "66-530",
+    "Nr.Telefonu": "+48 601 537 958"
+  },
+  {
+    "nw": "488429",
+    "nw_1": "746480994",
+    "Imie": "Bartosz",
+    "Nazwisko": "Jurek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Drezdenko",
+    "Ulica": "Goszczanowiec 58",
+    "Adres Pocztowy": "66-530",
+    "Nr.Telefonu": "697232235"
+  },
+  {
+    "nw": "75941",
+    "nw_1": "251918387",
+    "Imie": "Oliwer",
+    "Nazwisko": "Lisowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Drezdenko",
+    "Ulica": "Pierwszej Brygady 28A",
+    "Adres Pocztowy": "66-530",
+    "Nr.Telefonu": "+48 882 473 771"
+  },
+  {
+    "nw": "1532972",
+    "nw_1": "411256586",
+    "Imie": "Beata",
+    "Nazwisko": "Urbaniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Drezdenko",
+    "Ulica": "drezdenko ul.koscielna 10",
+    "Adres Pocztowy": "66-530",
+    "Nr.Telefonu": "606 703 569"
+  },
+  {
+    "nw": "876262",
+    "nw_1": "749753387",
+    "Imie": "Wikotr",
+    "Nazwisko": "Horbanowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Drezdenko",
+    "Ulica": "Bagniewo 13",
+    "Adres Pocztowy": "66-530",
+    "Nr.Telefonu": "692827223"
+  },
+  {
+    "nw": "2208544",
+    "nw_1": "200630172",
+    "Imie": "Karol",
+    "Nazwisko": "Ogordnik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Drezdenko",
+    "Ulica": "Leśna 5 Drezdenko ",
+    "Adres Pocztowy": "Lubuskie",
+    "Nr.Telefonu": "66-530",
+    "__parsed_extra": [
+      "Polska"
+    ]
+  },
+  {
+    "nw": "61819",
+    "nw_1": "703974572",
+    "Imie": "Kacper",
+    "Nazwisko": "Kubiś",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Drezdenko",
+    "Ulica": "Mickiewicza 6C/35",
+    "Adres Pocztowy": "66-530",
+    "Nr.Telefonu": "666671131"
+  },
+  {
+    "nw": "90822",
+    "nw_1": "408800397",
+    "Imie": "Semir",
+    "Nazwisko": "Faberski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Drezdenko",
+    "Ulica": "Podgórna 115",
+    "Adres Pocztowy": " Drezdenko 66-530 Lubuskie",
+    "Nr.Telefonu": "66-530",
+    "__parsed_extra": [
+      "+48 503 992 769"
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1506211",
+    "nw_1": "180442413",
+    "Imie": "Mateusz",
+    "Nazwisko": "Florczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Srock",
+    "Ulica": "Łódzka 5A",
+    "Adres Pocztowy": "97-310",
+    "Nr.Telefonu": "882338094"
+  },
+  {
+    "nw": "2279095",
+    "nw_1": "461291659",
+    "Imie": "Jakub",
+    "Nazwisko": "Dybala",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Srock",
+    "Ulica": "Srock ul. Podolska 3",
+    "Adres Pocztowy": "97-310",
+    "Nr.Telefonu": "881063927"
+  },
+  {
+    "nw": "1744275",
+    "nw_1": "509586307",
+    "Imie": "Jakub",
+    "Nazwisko": "Dybala",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Srock",
+    "Ulica": "ul. Podolska 3",
+    "Adres Pocztowy": "97-310",
+    "Nr.Telefonu": "881063927"
+  }
+]

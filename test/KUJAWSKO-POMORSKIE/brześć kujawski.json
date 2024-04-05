@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2105400",
+    "nw_1": "786902763",
+    "Imie": "Antek",
+    "Nazwisko": "Walczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Brześć Kujawski",
+    "Ulica": "Kościuszki 8",
+    "Adres Pocztowy": "87-880",
+    "Nr.Telefonu": "796076509"
+  },
+  {
+    "nw": "1476543",
+    "nw_1": "623000709",
+    "Imie": "Wiktor",
+    "Nazwisko": "Goździecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Brześć Kujawski",
+    "Ulica": "Kolejowa 10/4",
+    "Adres Pocztowy": "87-880",
+    "Nr.Telefonu": "601865112"
+  },
+  {
+    "nw": "1477198",
+    "nw_1": "791641896",
+    "Imie": "Kamil",
+    "Nazwisko": "Gmurczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Brześć Kujawski",
+    "Ulica": "ulica wojska polskiego 2",
+    "Adres Pocztowy": "87-880",
+    "Nr.Telefonu": "511675080"
+  }
+]

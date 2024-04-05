@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "547741",
+    "nw_1": "550121738",
+    "Imie": "Hubert",
+    "Nazwisko": "Karlicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Opacz Kolonia",
+    "Ulica": "Aleje Jerozolimskie 247",
+    "Adres Pocztowy": "05-816",
+    "Nr.Telefonu": "664 143 992"
+  },
+  {
+    "nw": "1642398",
+    "nw_1": "329289247",
+    "Imie": "TOMEK",
+    "Nazwisko": "GRUZEWSKI",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "OPACZ KOLONIA",
+    "Ulica": "UL. ROZANA 1F/1",
+    "Adres Pocztowy": "05-816",
+    "Nr.Telefonu": "+48600024700"
+  },
+  {
+    "nw": "348666",
+    "nw_1": "363183201",
+    "Imie": "Michal",
+    "Nazwisko": "Kazmierczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "opacz kolonia",
+    "Ulica": "środkowa 30/25",
+    "Adres Pocztowy": "05-816",
+    "Nr.Telefonu": "518638588"
+  }
+]

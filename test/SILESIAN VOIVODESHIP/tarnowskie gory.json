@@ -1,0 +1,98 @@
+[
+  {
+    "nw": "587771",
+    "nw_1": "619227888",
+    "Imie": "nikodem",
+    "Nazwisko": "Siwy",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Tarnowskie gory",
+    "Ulica": "Tarnowskie Gory Szczytowa 19",
+    "Adres Pocztowy": "42-609",
+    "Nr.Telefonu": "+48 693753529"
+  },
+  {
+    "nw": "1953862",
+    "nw_1": "902222922",
+    "Imie": "Piotr",
+    "Nazwisko": "kaźmierski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Tarnowskie gory",
+    "Ulica": "Skłodowskiej-Curie",
+    "Adres Pocztowy": " 62",
+    "Nr.Telefonu": "42-600",
+    "__parsed_extra": [
+      "+48533048454"
+    ]
+  },
+  {
+    "nw": "645686",
+    "nw_1": "308517675",
+    "Imie": "franek",
+    "Nazwisko": "sobis",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "tarnowskie gory",
+    "Ulica": "jasna 25",
+    "Adres Pocztowy": "42-600",
+    "Nr.Telefonu": "883134331"
+  },
+  {
+    "nw": "41995",
+    "nw_1": "408904720",
+    "Imie": "Pascal",
+    "Nazwisko": "Karmański",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Tarnowskie Gory",
+    "Ulica": "Opolska 23c"
+  },
+  {
+    "nw": "920593",
+    "nw_1": "257705493",
+    "Imie": "kornel",
+    "Nazwisko": "pawlowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "tarnowskie gory",
+    "Ulica": "bolesława Chrobrego 24",
+    "Adres Pocztowy": "42-605",
+    "Nr.Telefonu": "607085595"
+  },
+  {
+    "nw": "1738292",
+    "nw_1": "493078988",
+    "Imie": "Piotr",
+    "Nazwisko": "Panczocha",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Tarnowskie Gory",
+    "Ulica": "Str. Narcyzów 6a",
+    "Adres Pocztowy": " Tarnowskie Gory",
+    "Nr.Telefonu": "Poland",
+    "__parsed_extra": [
+      "42-606",
+      "+48505185285"
+    ]
+  },
+  {
+    "nw": "569850",
+    "nw_1": "111212945",
+    "Imie": "Kacper",
+    "Nazwisko": "Kalinowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Tarnowskie gory",
+    "Ulica": "Zamkowa 14/1",
+    "Adres Pocztowy": "42-600",
+    "Nr.Telefonu": "+48 532 861 492"
+  }
+]

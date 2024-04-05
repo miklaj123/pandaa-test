@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "937321",
+    "nw_1": "914527166",
+    "Imie": "Sebastian",
+    "Nazwisko": "marchelewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Ryn",
+    "Ulica": "mazurska 11/4 Ryn 11-520",
+    "Adres Pocztowy": "11-520",
+    "Nr.Telefonu": "780077712"
+  },
+  {
+    "nw": "2060559",
+    "nw_1": "443299217",
+    "Imie": "Igor",
+    "Nazwisko": "Kamrowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Ryn",
+    "Ulica": "Mazurska 14/13",
+    "Adres Pocztowy": "11-520",
+    "Nr.Telefonu": "508407547"
+  },
+  {
+    "nw": "2119643",
+    "nw_1": "276644137",
+    "Imie": "Marcel",
+    "Nazwisko": "Mikołajczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Ryn",
+    "Ulica": "Sterławki Wielkie"
+  }
+]

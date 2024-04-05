@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "2143094",
+    "nw_1": "789029535",
+    "Imie": "Mateusz",
+    "Nazwisko": "Duniewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "aleksandrówka",
+    "Ulica": "Mazowiecka 62",
+    "Adres Pocztowy": "05-311",
+    "Nr.Telefonu": "535008570"
+  },
+  {
+    "nw": "130572",
+    "nw_1": "253777018",
+    "Imie": "Franek",
+    "Nazwisko": "Piekarski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Aleksandrówka",
+    "Ulica": "Złota 52",
+    "Adres Pocztowy": "26-900",
+    "Nr.Telefonu": "48739230061"
+  },
+  {
+    "nw": "1983087",
+    "nw_1": "480064266",
+    "Imie": "Olga",
+    "Nazwisko": "Plewka-Madajczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Aleksandrówka",
+    "Ulica": "Piastowska"
+  }
+]

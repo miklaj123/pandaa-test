@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "2219254",
+    "nw_1": "652623441",
+    "Imie": "PAULINA",
+    "Nazwisko": "LAL",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Bilgoraj",
+    "Ulica": "SINGERA",
+    "Adres Pocztowy": " 5 m 2",
+    "Nr.Telefonu": "23-400",
+    "__parsed_extra": [
+      "600264737"
+    ]
+  },
+  {
+    "nw": "2002336",
+    "nw_1": "914611051",
+    "Imie": "Filip",
+    "Nazwisko": "Glab",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Bilgoraj",
+    "Ulica": "Podlesie 8e",
+    "Adres Pocztowy": "23-400",
+    "Nr.Telefonu": "667204888"
+  }
+]

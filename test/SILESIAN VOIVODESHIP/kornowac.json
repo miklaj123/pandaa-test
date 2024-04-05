@@ -1,0 +1,28 @@
+[
+  {
+    "nw": "1010490",
+    "nw_1": "451328905",
+    "Imie": "Filip",
+    "Nazwisko": "Kubenka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Kornowac",
+    "Ulica": "Zacisze 17",
+    "Adres Pocztowy": "44-285",
+    "Nr.Telefonu": "+48737265188"
+  },
+  {
+    "nw": "1010489",
+    "nw_1": "451328905",
+    "Imie": "Filip",
+    "Nazwisko": "Kubenka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Kornowac",
+    "Ulica": "Zacisze 17",
+    "Adres Pocztowy": "44-285",
+    "Nr.Telefonu": "737265188"
+  }
+]

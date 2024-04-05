@@ -1,0 +1,87 @@
+[
+  {
+    "nw": "74556",
+    "nw_1": "682950070",
+    "Imie": "Monika",
+    "Nazwisko": "Ziobro",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Debica",
+    "Ulica": "ul. Drogowcow 7",
+    "Adres Pocztowy": "39-200 Debica",
+    "Nr.Telefonu": "39-200",
+    "__parsed_extra": [
+      "+48885050720"
+    ]
+  },
+  {
+    "nw": "375252",
+    "nw_1": "214627957",
+    "Imie": "Mykyta ",
+    "Nazwisko": "Fomin ",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Debica",
+    "Ulica": "ul. Metalowców",
+    "Adres Pocztowy": " 51",
+    "Nr.Telefonu": " Suite 785261",
+    "__parsed_extra": [
+      "39-200",
+      "+48146818484"
+    ]
+  },
+  {
+    "nw": "447356",
+    "nw_1": "296800944",
+    "Imie": "Konrad",
+    "Nazwisko": "Sajdak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Debica",
+    "Ulica": "Nagawczyna 70",
+    "Adres Pocztowy": "39-200",
+    "Nr.Telefonu": "690610731"
+  },
+  {
+    "nw": "1956548",
+    "nw_1": "576165976",
+    "Imie": "Natalia 888711",
+    "Nazwisko": "Kolos",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Debica",
+    "Ulica": "ul. Metalowców 51",
+    "Adres Pocztowy": "39-200",
+    "Nr.Telefonu": "+48146818484"
+  },
+  {
+    "nw": "1435854",
+    "nw_1": "182358600",
+    "Imie": "Kacper",
+    "Nazwisko": "Wójciak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Debica",
+    "Ulica": "Stobierna 26",
+    "Adres Pocztowy": "39-200 Dębica",
+    "Nr.Telefonu": "725072600"
+  },
+  {
+    "nw": "1040795",
+    "nw_1": "843891825",
+    "Imie": "Aleksander",
+    "Nazwisko": "Bolanowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Debica",
+    "Ulica": "Latoszyn 42D",
+    "Adres Pocztowy": "39-200",
+    "Nr.Telefonu": "693269501"
+  }
+]

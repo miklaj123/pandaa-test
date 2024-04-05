@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2207160",
+    "nw_1": "182695798",
+    "Imie": "Adrian",
+    "Nazwisko": "Polanek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Ryczów",
+    "Ulica": "Oświęcimska 73",
+    "Adres Pocztowy": "34-115",
+    "Nr.Telefonu": "574578048"
+  },
+  {
+    "nw": "815499",
+    "nw_1": "193437670",
+    "Imie": "maksymilian",
+    "Nazwisko": "sendera",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "ryczów",
+    "Ulica": "brzozowa 8 ryczów",
+    "Adres Pocztowy": "34-115",
+    "Nr.Telefonu": "574839515"
+  },
+  {
+    "nw": "687375",
+    "nw_1": "131023956",
+    "Imie": "Maksym",
+    "Nazwisko": "Kovalchuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Ryczów",
+    "Ulica": "kręta 14",
+    "Adres Pocztowy": "34-115",
+    "Nr.Telefonu": "+48 531 975 697"
+  }
+]

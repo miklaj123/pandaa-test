@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "730791",
+    "nw_1": "847311103",
+    "Imie": "Michał",
+    "Nazwisko": "Szymański",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Serby",
+    "Ulica": "Cicha 7",
+    "Adres Pocztowy": "67-210",
+    "Nr.Telefonu": "733739552"
+  },
+  {
+    "nw": "910473",
+    "nw_1": "396107624",
+    "Imie": "Borys",
+    "Nazwisko": "Piątek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Serby",
+    "Ulica": "Zielona 33",
+    "Adres Pocztowy": "67-210",
+    "Nr.Telefonu": "725202825"
+  },
+  {
+    "nw": "1312689",
+    "nw_1": "655585115",
+    "Imie": "Igor",
+    "Nazwisko": "Rodak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Serby",
+    "Ulica": "Parkowa 2",
+    "Adres Pocztowy": "67-210",
+    "Nr.Telefonu": "726488233"
+  }
+]

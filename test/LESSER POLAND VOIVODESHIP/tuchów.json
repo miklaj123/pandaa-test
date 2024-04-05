@@ -1,0 +1,80 @@
+[
+  {
+    "nw": "1612338",
+    "nw_1": "705260073",
+    "Imie": "Jakub",
+    "Nazwisko": "Hudyka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Tuchów",
+    "Ulica": "Dąbrówka Tuchowska 31",
+    "Adres Pocztowy": "33-170",
+    "Nr.Telefonu": "660059986"
+  },
+  {
+    "nw": "1540568",
+    "nw_1": "137433954",
+    "Imie": "Martin",
+    "Nazwisko": "Deer",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Tuchów",
+    "Ulica": "Burzyn 87",
+    "Adres Pocztowy": "33-170",
+    "Nr.Telefonu": "+48503374965"
+  },
+  {
+    "nw": "247153",
+    "nw_1": "772293322",
+    "Imie": "Przemek",
+    "Nazwisko": "Klimek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Tuchów",
+    "Ulica": "Tuchów Stawarza 15",
+    "Adres Pocztowy": "33-170",
+    "Nr.Telefonu": "602887787"
+  },
+  {
+    "nw": "690743",
+    "nw_1": "171450737",
+    "Imie": "Dawid",
+    "Nazwisko": "Szarowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Tuchów",
+    "Ulica": "Dąbrówka tuchowska 140",
+    "Adres Pocztowy": "33-170",
+    "Nr.Telefonu": "730334836"
+  },
+  {
+    "nw": "1500114",
+    "nw_1": "691495891",
+    "Imie": "Adrian",
+    "Nazwisko": "Wszołek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Tuchów",
+    "Ulica": "Słoneczna 10",
+    "Adres Pocztowy": "33-170",
+    "Nr.Telefonu": "732576525"
+  },
+  {
+    "nw": "905712",
+    "nw_1": "381775097",
+    "Imie": "Jakub",
+    "Nazwisko": "Jeleń",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Tuchów",
+    "Ulica": "M.Konopnickiej 12A",
+    "Adres Pocztowy": "33-170",
+    "Nr.Telefonu": "+48508509076"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "948446",
+    "nw_1": "172337127",
+    "Imie": "Michał",
+    "Nazwisko": "Studnicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Klecza Dolna",
+    "Ulica": "Lekawica 376",
+    "Adres Pocztowy": "34-124",
+    "Nr.Telefonu": "882342757"
+  },
+  {
+    "nw": "1009466",
+    "nw_1": "482867124",
+    "Imie": "Miłosz",
+    "Nazwisko": "Zemła",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Klecza Dolna",
+    "Ulica": "Klecza Dolna Przy Młynie 108C",
+    "Adres Pocztowy": "34-124",
+    "Nr.Telefonu": "729916309"
+  },
+  {
+    "nw": "677135",
+    "nw_1": "900516382",
+    "Imie": "Natan",
+    "Nazwisko": "stopa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Klecza Dolna",
+    "Ulica": "Klecza Dolna 29 ul.biała droga",
+    "Adres Pocztowy": "34-124",
+    "Nr.Telefonu": "780128520"
+  },
+  {
+    "nw": "510632",
+    "nw_1": "638064507",
+    "Imie": "Madoks",
+    "Nazwisko": "Filek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Klecza Dolna",
+    "Ulica": "Krakowska 154",
+    "Adres Pocztowy": "34-124",
+    "Nr.Telefonu": "+48 661 660 338"
+  }
+]

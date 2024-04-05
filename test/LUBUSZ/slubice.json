@@ -1,0 +1,62 @@
+[
+  {
+    "nw": "2273224",
+    "nw_1": "408390936",
+    "Imie": "kostia",
+    "Nazwisko": "poskrobyshev",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Slubice",
+    "Ulica": "nadodrzańska 4/7",
+    "Adres Pocztowy": "69-100",
+    "Nr.Telefonu": "579291707"
+  },
+  {
+    "nw": "1983056",
+    "nw_1": "462452661",
+    "Imie": "Diana",
+    "Nazwisko": "Antoshchak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Slubice",
+    "Ulica": "Woj. Lubuskie",
+    "Adres Pocztowy": " Slubice",
+    "Nr.Telefonu": " Piska 28",
+    "__parsed_extra": [
+      "69-100",
+      "788572392"
+    ]
+  },
+  {
+    "nw": "2088493",
+    "nw_1": "462452661",
+    "Imie": "Svitlana",
+    "Nazwisko": "Antoshchak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Slubice",
+    "Ulica": "Woj. Lubuskie",
+    "Adres Pocztowy": " Slubice 69-100",
+    "Nr.Telefonu": " Piska 28",
+    "__parsed_extra": [
+      "69-100",
+      "889265788"
+    ]
+  },
+  {
+    "nw": "2111507",
+    "nw_1": "462452661",
+    "Imie": "Angela",
+    "Nazwisko": "Skliar",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Slubice",
+    "Ulica": "Woj. Lubuskie. Slubice 69-100. ul. Piska 28",
+    "Adres Pocztowy": "69-100",
+    "Nr.Telefonu": "795014787"
+  }
+]

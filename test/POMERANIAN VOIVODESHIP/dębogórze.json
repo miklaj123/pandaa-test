@@ -1,0 +1,58 @@
+[
+  {
+    "nw": "85870",
+    "nw_1": "615952237",
+    "Imie": "bartosz",
+    "Nazwisko": "peplinski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "dębogórze",
+    "Ulica": "Oliwkowa 16",
+    "Adres Pocztowy": " Dębogórze",
+    "Nr.Telefonu": " 81-198 Poland",
+    "__parsed_extra": [
+      "81198",
+      "+48600169215"
+    ]
+  },
+  {
+    "nw": "1291156",
+    "nw_1": "804125023",
+    "Imie": "Kacper",
+    "Nazwisko": "Wilk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Dębogórze",
+    "Ulica": "Bakaliowa 10/1",
+    "Adres Pocztowy": "81-198",
+    "Nr.Telefonu": "537444392"
+  },
+  {
+    "nw": "288845",
+    "nw_1": "431139782",
+    "Imie": "Kamil",
+    "Nazwisko": "Luzny",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Dębogórze",
+    "Ulica": "Rzepakowa 21",
+    "Adres Pocztowy": "81-198",
+    "Nr.Telefonu": "+48501806067"
+  },
+  {
+    "nw": "1923951",
+    "nw_1": "162318002",
+    "Imie": "Maciej",
+    "Nazwisko": "Kowalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Dębogórze",
+    "Ulica": "Piwna 6",
+    "Adres Pocztowy": "81-198",
+    "Nr.Telefonu": "513203254"
+  }
+]

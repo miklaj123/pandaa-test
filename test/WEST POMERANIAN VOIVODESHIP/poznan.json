@@ -1,0 +1,83 @@
+[
+  {
+    "nw": "152759",
+    "nw_1": "499670458",
+    "Imie": "ihor",
+    "Nazwisko": "paskevixn",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "poznan",
+    "Ulica": "Grunwaldzka 69",
+    "Adres Pocztowy": "60-001",
+    "Nr.Telefonu": "0678609016"
+  },
+  {
+    "nw": "1132631",
+    "nw_1": "766498409",
+    "Imie": "Zuzanna",
+    "Nazwisko": "lisiecka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "poznan",
+    "Ulica": "janiny omańkowskiej 91a/4",
+    "Adres Pocztowy": "60/465",
+    "Nr.Telefonu": "515343367"
+  },
+  {
+    "nw": "1472466",
+    "nw_1": "458260491",
+    "Imie": "Nataliia",
+    "Nazwisko": "Ostrianska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Poznan",
+    "Ulica": "Gdanska",
+    "Adres Pocztowy": "12/4",
+    "Nr.Telefonu": "61-123",
+    "__parsed_extra": [
+      "+48575029776"
+    ]
+  },
+  {
+    "nw": "2087449",
+    "nw_1": "993647356",
+    "Imie": "Maksym",
+    "Nazwisko": "Bohdanov",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Poznan",
+    "Ulica": "Pobiedziska 17",
+    "Adres Pocztowy": "61-049",
+    "Nr.Telefonu": "+48782602903"
+  },
+  {
+    "nw": "1393847",
+    "nw_1": "477950494",
+    "Imie": "antek",
+    "Nazwisko": "Szymkowiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "poznan",
+    "Ulica": "nakielska 5",
+    "Adres Pocztowy": "61-038",
+    "Nr.Telefonu": "795844304"
+  },
+  {
+    "nw": "1223622",
+    "nw_1": "386148255",
+    "Imie": "Piotr",
+    "Nazwisko": "Heigenbarth",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "poznan",
+    "Ulica": "sypniewo 73",
+    "Adres Pocztowy": "61-327",
+    "Nr.Telefonu": "691604436"
+  }
+]

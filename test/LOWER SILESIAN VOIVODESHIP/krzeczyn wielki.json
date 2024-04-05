@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "467085",
+    "nw_1": "464145123",
+    "Imie": "Arkadiusz",
+    "Nazwisko": "Bihuniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Krzeczyn Wielki",
+    "Ulica": "4FA",
+    "Adres Pocztowy": "59-311",
+    "Nr.Telefonu": "+48451621637"
+  },
+  {
+    "nw": "1795607",
+    "nw_1": "399176036",
+    "Imie": "Paweł",
+    "Nazwisko": "Kotulski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Krzeczyn Wielki",
+    "Ulica": "Złota 8",
+    "Adres Pocztowy": "59-311",
+    "Nr.Telefonu": "882537965"
+  },
+  {
+    "nw": "1103940",
+    "nw_1": "725641857",
+    "Imie": "hubert",
+    "Nazwisko": "polniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Krzeczyn Wielki",
+    "Ulica": "różana 26",
+    "Adres Pocztowy": "59-311",
+    "Nr.Telefonu": "733739473"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "1488033",
+    "nw_1": "785180441",
+    "Imie": "Jakub",
+    "Nazwisko": "Adamczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Niegowa",
+    "Ulica": "Sokolniki 47",
+    "Adres Pocztowy": " 42-320 Niegowa",
+    "Nr.Telefonu": "42-320",
+    "__parsed_extra": [
+      "600137363"
+    ]
+  },
+  {
+    "nw": "2290962",
+    "nw_1": "382743232",
+    "Imie": "Wioleta",
+    "Nazwisko": "Stala",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Niegowa",
+    "Ulica": "Gorzków Nowy 2a",
+    "Adres Pocztowy": "42-320",
+    "Nr.Telefonu": "661907578"
+  }
+]

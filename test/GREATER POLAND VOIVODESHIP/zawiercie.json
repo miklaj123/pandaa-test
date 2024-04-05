@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "418483",
+    "nw_1": "220359399",
+    "Imie": "stanisław",
+    "Nazwisko": "Wnuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "zawiercie",
+    "Ulica": "sienkiewicza 60A/68",
+    "Adres Pocztowy": "42-400",
+    "Nr.Telefonu": "663902632"
+  },
+  {
+    "nw": "1823352",
+    "nw_1": "380931217",
+    "Imie": "Grzegorz",
+    "Nazwisko": "Iskierka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Zawiercie",
+    "Ulica": "woj.śląskie",
+    "Adres Pocztowy": "Jerzego Gardy 18",
+    "Nr.Telefonu": "42-400",
+    "__parsed_extra": [
+      "48784004408"
+    ]
+  }
+]

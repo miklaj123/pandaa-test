@@ -1,0 +1,107 @@
+[
+  {
+    "nw": "1115617",
+    "nw_1": "805905277",
+    "Imie": "Tymon",
+    "Nazwisko": "Kowal",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Głogów",
+    "Ulica": "Wita Stwosza 4/22",
+    "Adres Pocztowy": "67-200",
+    "Nr.Telefonu": "512377455"
+  },
+  {
+    "nw": "1118954",
+    "nw_1": "517908783",
+    "Imie": "Konrad",
+    "Nazwisko": "Koźbiał",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Głogów",
+    "Ulica": "Bolesława Krzywoustego 10/7",
+    "Adres Pocztowy": "67-200",
+    "Nr.Telefonu": "691156668"
+  },
+  {
+    "nw": "742429",
+    "nw_1": "918205714",
+    "Imie": "Konrad",
+    "Nazwisko": "Bronacki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Głogów",
+    "Ulica": "Żeglarska 9",
+    "Adres Pocztowy": " Dolnośląskie Głogów 67-200",
+    "Nr.Telefonu": "67-200",
+    "__parsed_extra": [
+      "729112052"
+    ]
+  },
+  {
+    "nw": "2117828",
+    "nw_1": "756359155",
+    "Imie": "Konrad",
+    "Nazwisko": "Cieślak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Głogów ",
+    "Ulica": "Obrońców pokoju 15c/3",
+    "Adres Pocztowy": "67-200",
+    "Nr.Telefonu": "663358300"
+  },
+  {
+    "nw": "124298",
+    "nw_1": "784744378",
+    "Imie": "Kamil",
+    "Nazwisko": "Mazur",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Głogów",
+    "Ulica": "Plutona 13/12",
+    "Adres Pocztowy": "67-200",
+    "Nr.Telefonu": "+48 881 776 747"
+  },
+  {
+    "nw": "2135982",
+    "nw_1": "871892672",
+    "Imie": "Szymon",
+    "Nazwisko": "Stojek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Głogów",
+    "Ulica": "I'm from Lower Silesia"
+  },
+  {
+    "nw": "2344961",
+    "nw_1": "702800504",
+    "Imie": "Damian",
+    "Nazwisko": "Bal",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Głogów ",
+    "Ulica": "Malinowa 10b",
+    "Adres Pocztowy": "67-200",
+    "Nr.Telefonu": "605913214"
+  },
+  {
+    "nw": "1238702",
+    "nw_1": "287509166",
+    "Imie": "Maciej",
+    "Nazwisko": "Kątny",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Głogów",
+    "Ulica": "Kosmonautów polskich 41/9",
+    "Adres Pocztowy": "67-200",
+    "Nr.Telefonu": "736877434"
+  }
+]

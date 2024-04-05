@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "1029134",
+    "nw_1": "371868272",
+    "Imie": "Jeremi",
+    "Nazwisko": "Winiarski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Myszkow",
+    "Ulica": "Ś"
+  },
+  {
+    "nw": "1479696",
+    "nw_1": "106784484",
+    "Imie": "dawid",
+    "Nazwisko": "kozacki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "myszkow",
+    "Ulica": "myszkow 42-300 kosciuszki 4/14",
+    "Adres Pocztowy": "42-300",
+    "Nr.Telefonu": "+48453458246"
+  },
+  {
+    "nw": "1760529",
+    "nw_1": "766828502",
+    "Imie": "Uliana",
+    "Nazwisko": "Cherkasov",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Myszkow",
+    "Ulica": "Near Pulaskiego 40/4 floor 1 apartment   7",
+    "Adres Pocztowy": "42-300",
+    "Nr.Telefonu": "+48734188925"
+  }
+]

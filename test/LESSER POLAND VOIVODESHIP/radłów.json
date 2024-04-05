@@ -1,0 +1,65 @@
+[
+  {
+    "nw": "1813864",
+    "nw_1": "914569475",
+    "Imie": "Maria",
+    "Nazwisko": "Trytek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Radłów",
+    "Ulica": "Glowska 24",
+    "Adres Pocztowy": "33-130",
+    "Nr.Telefonu": "518121108"
+  },
+  {
+    "nw": "1255262",
+    "nw_1": "268575194",
+    "Imie": "Karol",
+    "Nazwisko": "Kosiarski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Radłów",
+    "Ulica": "Kolejowa"
+  },
+  {
+    "nw": "493176",
+    "nw_1": "124687386",
+    "Imie": "Krystian",
+    "Nazwisko": "Jewula",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Radłów",
+    "Ulica": "Sanoka 61",
+    "Adres Pocztowy": "33-130",
+    "Nr.Telefonu": "519865447"
+  },
+  {
+    "nw": "768447",
+    "nw_1": "659176275",
+    "Imie": "Zofia",
+    "Nazwisko": "Szklanny",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Radłów",
+    "Ulica": "Kolejowa 127a",
+    "Adres Pocztowy": "33-130",
+    "Nr.Telefonu": "662155153"
+  },
+  {
+    "nw": "1366680",
+    "nw_1": "272208202",
+    "Imie": "Tomasz",
+    "Nazwisko": "Drwiła",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Radłów",
+    "Ulica": "Leśna 22",
+    "Adres Pocztowy": "33-130",
+    "Nr.Telefonu": "723831844"
+  }
+]

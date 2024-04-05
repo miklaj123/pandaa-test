@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "299385",
+    "nw_1": "703571312",
+    "Imie": "Jakub",
+    "Nazwisko": "Szynkiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "zabki",
+    "Ulica": "Chłopickiego 11",
+    "Adres Pocztowy": "05-091",
+    "Nr.Telefonu": "792880288"
+  },
+  {
+    "nw": "2183125",
+    "nw_1": "444251885",
+    "Imie": "Pawel",
+    "Nazwisko": "Rodzik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Zabki",
+    "Ulica": "Wiosenna 7/16",
+    "Adres Pocztowy": "05-091",
+    "Nr.Telefonu": "+48515898446"
+  },
+  {
+    "nw": "354232",
+    "nw_1": "844607047",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Witomski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Zabki",
+    "Ulica": "Krucza 18 G",
+    "Adres Pocztowy": "05-091",
+    "Nr.Telefonu": "694 861 697"
+  }
+]

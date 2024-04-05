@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1887334",
+    "nw_1": "622875451",
+    "Imie": "Marzena",
+    "Nazwisko": "Myszorek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Góra",
+    "Ulica": "Klonowa 4",
+    "Adres Pocztowy": "56-200",
+    "Nr.Telefonu": "695371337"
+  },
+  {
+    "nw": "1655778",
+    "nw_1": "808944294",
+    "Imie": "Adam",
+    "Nazwisko": "Banasiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Góra",
+    "Ulica": "Reymonta 19/1",
+    "Adres Pocztowy": "56-200",
+    "Nr.Telefonu": "888 652 888"
+  },
+  {
+    "nw": "498074",
+    "nw_1": "769775850",
+    "Imie": "mateusz",
+    "Nazwisko": "kożyczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "góra",
+    "Ulica": "Jastrzębia 4",
+    "Adres Pocztowy": "56-200",
+    "Nr.Telefonu": "667804590"
+  }
+]

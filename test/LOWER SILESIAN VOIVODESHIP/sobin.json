@@ -1,0 +1,80 @@
+[
+  {
+    "nw": "1011929",
+    "nw_1": "598577880",
+    "Imie": "Oskar",
+    "Nazwisko": "Piekarz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Sobin",
+    "Ulica": "Grafitowa 11",
+    "Adres Pocztowy": "59-101",
+    "Nr.Telefonu": "608302192"
+  },
+  {
+    "nw": "620727",
+    "nw_1": "197961514",
+    "Imie": "Marcel",
+    "Nazwisko": "Boczek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "sobin",
+    "Ulica": "orla 18",
+    "Adres Pocztowy": "59-101",
+    "Nr.Telefonu": "534705195"
+  },
+  {
+    "nw": "643502",
+    "nw_1": "197961514",
+    "Imie": "Marcin",
+    "Nazwisko": "loczek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "sobin",
+    "Ulica": "sobin orla 18",
+    "Adres Pocztowy": "59-101",
+    "Nr.Telefonu": "534705195"
+  },
+  {
+    "nw": "637907",
+    "nw_1": "553417274",
+    "Imie": "Dawid",
+    "Nazwisko": "Opyrchał",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Sobin",
+    "Ulica": "Gaikowa 12a street",
+    "Adres Pocztowy": "59-101",
+    "Nr.Telefonu": "534110095"
+  },
+  {
+    "nw": "1711897",
+    "nw_1": "870344720",
+    "Imie": "Filip",
+    "Nazwisko": "Szewczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Sobin",
+    "Ulica": "Bursztynowa 18A",
+    "Adres Pocztowy": "59-101",
+    "Nr.Telefonu": "534613449"
+  },
+  {
+    "nw": "2018447",
+    "nw_1": "811443968",
+    "Imie": "Dawid",
+    "Nazwisko": "Wyraz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Sobin",
+    "Ulica": "Polkowicka 35",
+    "Adres Pocztowy": "59-101",
+    "Nr.Telefonu": "723032910"
+  }
+]

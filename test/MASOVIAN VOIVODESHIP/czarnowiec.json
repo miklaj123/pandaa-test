@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "2172265",
+    "nw_1": "336048436",
+    "Imie": "Piotr",
+    "Nazwisko": "ciecierski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "czarnowiec",
+    "Ulica": "Wierzbowa 3",
+    "Adres Pocztowy": "07-411",
+    "Nr.Telefonu": "512191786"
+  },
+  {
+    "nw": "2273596",
+    "nw_1": "773698680",
+    "Imie": "Amelia",
+    "Nazwisko": "Sikora",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Czarnowiec ",
+    "Ulica": "ulica Wspólna 4 "
+  },
+  {
+    "nw": "1403358",
+    "nw_1": "715443323",
+    "Imie": "Krzysztof",
+    "Nazwisko": "Lipka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Czarnowiec",
+    "Ulica": "Kasztanowa 16",
+    "Adres Pocztowy": "07-411",
+    "Nr.Telefonu": "608089422"
+  }
+]

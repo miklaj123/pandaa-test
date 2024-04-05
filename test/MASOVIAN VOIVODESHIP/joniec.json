@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "2269988",
+    "nw_1": "396690669",
+    "Imie": "Andrzej",
+    "Nazwisko": "krzemiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Joniec",
+    "Ulica": "Królewo 32",
+    "Adres Pocztowy": "09-131",
+    "Nr.Telefonu": "667799443"
+  },
+  {
+    "nw": "2144068",
+    "nw_1": "875755624",
+    "Imie": "Maciej",
+    "Nazwisko": "Hojda",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Joniec",
+    "Ulica": "Joniec 143",
+    "Adres Pocztowy": "09-131",
+    "Nr.Telefonu": "577080506"
+  },
+  {
+    "nw": "149269",
+    "nw_1": "967867797",
+    "Imie": "Oliwier",
+    "Nazwisko": "Romanski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Joniec",
+    "Ulica": "Omięciny 38"
+  }
+]

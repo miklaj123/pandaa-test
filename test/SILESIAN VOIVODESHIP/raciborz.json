@@ -1,0 +1,67 @@
+[
+  {
+    "nw": "1436106",
+    "nw_1": "683591793",
+    "Imie": "Piotr",
+    "Nazwisko": "Duda",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Raciborz",
+    "Ulica": "Słoneczny Stok 7",
+    "Adres Pocztowy": "47-400",
+    "Nr.Telefonu": "+48723358997"
+  },
+  {
+    "nw": "1097399",
+    "nw_1": "375253709",
+    "Imie": "Patryk",
+    "Nazwisko": "Kremer",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Raciborz",
+    "Ulica": "Odrzanska 2/2c  Swiat Prezentow",
+    "Adres Pocztowy": "47-400",
+    "Nr.Telefonu": "511304041"
+  },
+  {
+    "nw": "1247602",
+    "nw_1": "661562009",
+    "Imie": "Karol",
+    "Nazwisko": "Gladkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Raciborz",
+    "Ulica": "Starowiejska 48A",
+    "Adres Pocztowy": "47-400",
+    "Nr.Telefonu": "666019190"
+  },
+  {
+    "nw": "1689938",
+    "nw_1": "346667123",
+    "Imie": "Kuba",
+    "Nazwisko": "Piszczatowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Raciborz",
+    "Ulica": "Litewska2/4",
+    "Adres Pocztowy": "47-400",
+    "Nr.Telefonu": "537262888"
+  },
+  {
+    "nw": "1785624",
+    "nw_1": "951773054",
+    "Imie": "Oskar",
+    "Nazwisko": "Zawojski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Raciborz",
+    "Ulica": "Drzewieckiego 1",
+    "Adres Pocztowy": "47-400",
+    "Nr.Telefonu": "885201979"
+  }
+]

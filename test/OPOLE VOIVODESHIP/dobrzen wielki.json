@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "2232261",
+    "nw_1": "268002327",
+    "Imie": "Monika",
+    "Nazwisko": "Marsolek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Dobrzen wielki",
+    "Ulica": "Powstańców śląskich 58",
+    "Adres Pocztowy": "PI23203817782",
+    "Nr.Telefonu": "574059405"
+  },
+  {
+    "nw": "2296857",
+    "nw_1": "236818788",
+    "Imie": "Agnieszka",
+    "Nazwisko": "Dec",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Dobrzen Wielki",
+    "Ulica": "46081. Dobrzen Wielki",
+    "Adres Pocztowy": " Ul. Strzelcow Bytomskich 91",
+    "Nr.Telefonu": "46-081",
+    "__parsed_extra": [
+      "608175944"
+    ]
+  }
+]

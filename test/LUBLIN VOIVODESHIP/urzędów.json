@@ -1,0 +1,67 @@
+[
+  {
+    "nw": "357185",
+    "nw_1": "515526009",
+    "Imie": "Jakub",
+    "Nazwisko": "Ambrożkiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Urzędów",
+    "Ulica": "Bęczyn 109",
+    "Adres Pocztowy": "23-250 Urzędów",
+    "Nr.Telefonu": "733649547"
+  },
+  {
+    "nw": "1889081",
+    "nw_1": "146695325",
+    "Imie": "Szymon",
+    "Nazwisko": "Cieślik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "urzędów",
+    "Ulica": "Wierzbica 50",
+    "Adres Pocztowy": "23-250",
+    "Nr.Telefonu": "570577353"
+  },
+  {
+    "nw": "2072602",
+    "nw_1": "700802322",
+    "Imie": "Mateusz",
+    "Nazwisko": "Gajewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Urzędów",
+    "Ulica": "Majdan Bobowski 33",
+    "Adres Pocztowy": "23-250",
+    "Nr.Telefonu": "607132610"
+  },
+  {
+    "nw": "1013322",
+    "nw_1": "542038302",
+    "Imie": "Patryk",
+    "Nazwisko": "Sanetra",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Urzędów",
+    "Ulica": "Rankowskie 88",
+    "Adres Pocztowy": "23-250",
+    "Nr.Telefonu": "533475516"
+  },
+  {
+    "nw": "2054695",
+    "nw_1": "130880287",
+    "Imie": "Marcel",
+    "Nazwisko": "Dzięsław",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "urzędów",
+    "Ulica": "Skorczyce 79a/2",
+    "Adres Pocztowy": "23-250",
+    "Nr.Telefonu": "574471974"
+  }
+]

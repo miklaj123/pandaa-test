@@ -1,0 +1,52 @@
+[
+  {
+    "nw": "2045784",
+    "nw_1": "467361237",
+    "Imie": "Dominik",
+    "Nazwisko": "Tymiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Krasnosielc",
+    "Ulica": "Krasnosielc Rynek 24",
+    "Adres Pocztowy": "06-212",
+    "Nr.Telefonu": "500503378"
+  },
+  {
+    "nw": "1804557",
+    "nw_1": "587291752",
+    "Imie": "Paweł",
+    "Nazwisko": "Kardaś",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Krasnosielc",
+    "Ulica": "Grądy 22",
+    "Adres Pocztowy": "06-212",
+    "Nr.Telefonu": "739040699"
+  },
+  {
+    "nw": "1493742",
+    "nw_1": "417874438",
+    "Imie": "Dominik",
+    "Nazwisko": "Tyminski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Krasnosielc",
+    "Ulica": "rynek"
+  },
+  {
+    "nw": "1277783",
+    "nw_1": "600055003",
+    "Imie": "Iwona",
+    "Nazwisko": "Kołodziejczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Krasnosielc",
+    "Ulica": "Rynek 26",
+    "Adres Pocztowy": "06-212",
+    "Nr.Telefonu": "517784226"
+  }
+]

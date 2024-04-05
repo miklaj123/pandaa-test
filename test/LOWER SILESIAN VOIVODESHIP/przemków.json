@@ -1,0 +1,83 @@
+[
+  {
+    "nw": "1996531",
+    "nw_1": "213407407",
+    "Imie": "Marcin",
+    "Nazwisko": "kozłowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Przemków",
+    "Ulica": "lipowa 22/1 prosto na końcu w lewo",
+    "Adres Pocztowy": "59-170",
+    "Nr.Telefonu": "+48798427984"
+  },
+  {
+    "nw": "146693",
+    "nw_1": "971023801",
+    "Imie": "Oskar",
+    "Nazwisko": "Kaczor",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Przemków",
+    "Ulica": "owcza 6",
+    "Adres Pocztowy": "59-170",
+    "Nr.Telefonu": "506904009"
+  },
+  {
+    "nw": "1948813",
+    "nw_1": "591405304",
+    "Imie": "Artur",
+    "Nazwisko": "Masełko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Przemków",
+    "Ulica": "Dolnyśląsk Przemków Dworcowa 5/1",
+    "Adres Pocztowy": "59-170",
+    "Nr.Telefonu": "534419644"
+  },
+  {
+    "nw": "2345493",
+    "nw_1": "734813859",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Kukiełka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Przemków",
+    "Ulica": "Wiśniowa 3a",
+    "Adres Pocztowy": " 59-170 Przemków",
+    "Nr.Telefonu": "59-170",
+    "__parsed_extra": [
+      "729873066"
+    ]
+  },
+  {
+    "nw": "1398612",
+    "nw_1": "110820033",
+    "Imie": "Igor",
+    "Nazwisko": "Pilarek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Przemków",
+    "Ulica": "Kamienna 1",
+    "Adres Pocztowy": "59-170",
+    "Nr.Telefonu": "881204092"
+  },
+  {
+    "nw": "625988",
+    "nw_1": "251722302",
+    "Imie": "Kuba",
+    "Nazwisko": "Świdiznski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Przemków",
+    "Ulica": "Piotrowice 43",
+    "Adres Pocztowy": "59-170",
+    "Nr.Telefonu": "+48505162462"
+  }
+]

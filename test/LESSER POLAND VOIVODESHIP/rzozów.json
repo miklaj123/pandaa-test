@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "839234",
+    "nw_1": "155854463",
+    "Imie": "Eryk",
+    "Nazwisko": "Kierzkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Rzozów",
+    "Ulica": "Rzozów 460",
+    "Adres Pocztowy": "32-052",
+    "Nr.Telefonu": "604264518"
+  },
+  {
+    "nw": "2066203",
+    "nw_1": "142526701",
+    "Imie": "Mariusz",
+    "Nazwisko": "Marcisz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Rzozów",
+    "Ulica": "Rzozów 285",
+    "Adres Pocztowy": "32-052",
+    "Nr.Telefonu": "693842347"
+  },
+  {
+    "nw": "1992538",
+    "nw_1": "178224610",
+    "Imie": "Kacper",
+    "Nazwisko": "Pieron",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Rzozów",
+    "Ulica": "Rzozów 20",
+    "Adres Pocztowy": "32-052",
+    "Nr.Telefonu": "572478289"
+  }
+]

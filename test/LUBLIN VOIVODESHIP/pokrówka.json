@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1393217",
+    "nw_1": "233965777",
+    "Imie": "Maciej",
+    "Nazwisko": "Ogrodnik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Pokrówka",
+    "Ulica": "Pokrówka Sportowa 7",
+    "Adres Pocztowy": "22-100",
+    "Nr.Telefonu": "+48 884 272 234"
+  },
+  {
+    "nw": "941842",
+    "nw_1": "187998821",
+    "Imie": "Antoni",
+    "Nazwisko": "Dudziak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Pokrówka",
+    "Ulica": "Spokojna 4",
+    "Adres Pocztowy": "22-100",
+    "Nr.Telefonu": "883003912"
+  },
+  {
+    "nw": "2028210",
+    "nw_1": "605909129",
+    "Imie": "Maciej",
+    "Nazwisko": "Brzyszko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Pokrówka",
+    "Ulica": "Ul. Zielona 17 22-100 Pokrówka",
+    "Adres Pocztowy": "22-100",
+    "Nr.Telefonu": "+48517168911"
+  }
+]

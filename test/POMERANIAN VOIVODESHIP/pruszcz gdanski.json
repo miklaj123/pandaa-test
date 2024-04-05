@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1239163",
+    "nw_1": "343053086",
+    "Imie": "Patryk",
+    "Nazwisko": "Marcinkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "pruszcz gdanski",
+    "Ulica": "domeyki 13a/4",
+    "Adres Pocztowy": "83-000",
+    "Nr.Telefonu": "505078168"
+  },
+  {
+    "nw": "1417045",
+    "nw_1": "968709162",
+    "Imie": "Dominik",
+    "Nazwisko": "Banach",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Pruszcz Gdanski",
+    "Ulica": "Dabrowskiego 1/43",
+    "Adres Pocztowy": "83-000",
+    "Nr.Telefonu": "+48501042933"
+  },
+  {
+    "nw": "1860056",
+    "nw_1": "667556046",
+    "Imie": "maksym",
+    "Nazwisko": "savchenko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Pruszcz gdanski",
+    "Ulica": "Czesława Miłosza 12/b 2",
+    "Adres Pocztowy": "83-005",
+    "Nr.Telefonu": "459310210"
+  }
+]

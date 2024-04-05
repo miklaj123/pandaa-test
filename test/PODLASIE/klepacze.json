@@ -1,0 +1,57 @@
+[
+  {
+    "nw": "2129672",
+    "nw_1": "367035935",
+    "Imie": "kamil",
+    "Nazwisko": "grabowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "klepacze",
+    "Ulica": "mokra 13",
+    "Adres Pocztowy": "15-635",
+    "Nr.Telefonu": "797663760"
+  },
+  {
+    "nw": "1569973",
+    "nw_1": "480981975",
+    "Imie": "Sebastian",
+    "Nazwisko": "Falkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Klepacze",
+    "Ulica": "ul.Wierzbowa 34",
+    "Adres Pocztowy": "15-635",
+    "Nr.Telefonu": "539662575"
+  },
+  {
+    "nw": "1605561",
+    "nw_1": "424552843",
+    "Imie": "Oliwier",
+    "Nazwisko": "Biryłko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Klepacze",
+    "Ulica": "Świerkowa 7",
+    "Adres Pocztowy": "15635",
+    "Nr.Telefonu": "721077616"
+  },
+  {
+    "nw": "1187212",
+    "nw_1": "612591180",
+    "Imie": "Julia",
+    "Nazwisko": "Grygo",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Klepacze",
+    "Ulica": "klepacze",
+    "Adres Pocztowy": " graniczna 53",
+    "Nr.Telefonu": "15-635",
+    "__parsed_extra": [
+      "533075861"
+    ]
+  }
+]

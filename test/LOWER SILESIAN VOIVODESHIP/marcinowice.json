@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2055897",
+    "nw_1": "826580458",
+    "Imie": "Jakub",
+    "Nazwisko": "Satała",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Marcinowice",
+    "Ulica": "Mickiewicza 1",
+    "Adres Pocztowy": "58-124",
+    "Nr.Telefonu": "785938117"
+  },
+  {
+    "nw": "642031",
+    "nw_1": "133358034",
+    "Imie": "Michal",
+    "Nazwisko": "Pasiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Marcinowice",
+    "Ulica": "Wirki 52d",
+    "Adres Pocztowy": "58-124",
+    "Nr.Telefonu": "535375595"
+  },
+  {
+    "nw": "486205",
+    "nw_1": "350388792",
+    "Imie": "Anna",
+    "Nazwisko": "Janas",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Marcinowice",
+    "Ulica": "Mickiewicza 3",
+    "Adres Pocztowy": "58-124",
+    "Nr.Telefonu": "0948509002999"
+  }
+]

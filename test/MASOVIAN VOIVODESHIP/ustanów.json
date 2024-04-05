@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1782117",
+    "nw_1": "384144699",
+    "Imie": "Tomasz",
+    "Nazwisko": "Szymański",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Ustanów",
+    "Ulica": "Ustanów Graniczna 51",
+    "Adres Pocztowy": "05-540",
+    "Nr.Telefonu": "509 921 473"
+  },
+  {
+    "nw": "495709",
+    "nw_1": "844967181",
+    "Imie": "Mateusz",
+    "Nazwisko": "Stężycki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "ustanów",
+    "Ulica": "ustanów kolejowa 2b",
+    "Adres Pocztowy": "05-540",
+    "Nr.Telefonu": "570055890"
+  },
+  {
+    "nw": "1487147",
+    "nw_1": "354244420",
+    "Imie": "Oskar",
+    "Nazwisko": "Morawski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Ustanów",
+    "Ulica": "Ustanów Sadowa 11A",
+    "Adres Pocztowy": "05-540",
+    "Nr.Telefonu": "722132032"
+  },
+  {
+    "nw": "860680",
+    "nw_1": "423730067",
+    "Imie": "Kacper",
+    "Nazwisko": "Niziołek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "ustanów",
+    "Ulica": "Kasztanów 13a",
+    "Adres Pocztowy": "05/540",
+    "Nr.Telefonu": "508999827"
+  }
+]

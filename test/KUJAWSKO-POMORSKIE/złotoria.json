@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "2343699",
+    "nw_1": "364818830",
+    "Imie": "Maks",
+    "Nazwisko": "Bielecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "złotoria",
+    "Ulica": "miłosna 12",
+    "Adres Pocztowy": "87-162",
+    "Nr.Telefonu": "791999566"
+  },
+  {
+    "nw": "1746331",
+    "nw_1": "296869660",
+    "Imie": "Miłosz",
+    "Nazwisko": "Dytkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Złotoria",
+    "Ulica": "Toruńska 112",
+    "Adres Pocztowy": "87-162",
+    "Nr.Telefonu": "696513483"
+  },
+  {
+    "nw": "343564",
+    "nw_1": "489430494",
+    "Imie": "Maksym",
+    "Nazwisko": "Malinowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Złotoria",
+    "Ulica": "Konwaliowa 17",
+    "Adres Pocztowy": "87-162",
+    "Nr.Telefonu": "531601503"
+  },
+  {
+    "nw": "1412039",
+    "nw_1": "879319408",
+    "Imie": "Jan",
+    "Nazwisko": "Więciokowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Złotoria",
+    "Ulica": "Leśna 70",
+    "Adres Pocztowy": "87-162",
+    "Nr.Telefonu": "519653056"
+  }
+]

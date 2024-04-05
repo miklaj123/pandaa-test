@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1730603",
+    "nw_1": "795287561",
+    "Imie": "Kacper",
+    "Nazwisko": "Ostapiuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Biała Podlaska",
+    "Ulica": "Świerkowa 9A",
+    "Adres Pocztowy": "21-500",
+    "Nr.Telefonu": "732066643"
+  },
+  {
+    "nw": "2347439",
+    "nw_1": "457725512",
+    "Imie": "Igor",
+    "Nazwisko": "Toboła",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Biała Podlaska",
+    "Ulica": "Terebela 14. Terebela is a village in the Lublin Voivodeship",
+    "Adres Pocztowy": "21-500",
+    "Nr.Telefonu": "513 509 825"
+  },
+  {
+    "nw": "309405",
+    "nw_1": "125598504",
+    "Imie": "Dawid",
+    "Nazwisko": "Ceniuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Biała Podlaska",
+    "Ulica": "Name street „Stanisława Moniuszki 27/3”",
+    "Adres Pocztowy": "21-500",
+    "Nr.Telefonu": "530013628"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2298630",
+    "nw_1": "286301618",
+    "Imie": "Monika",
+    "Nazwisko": "siewierska-ignasiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "chociwel",
+    "Ulica": "Armii Krajowej 27/3",
+    "Adres Pocztowy": "73-120",
+    "Nr.Telefonu": "799788553"
+  },
+  {
+    "nw": "1792433",
+    "nw_1": "202821002",
+    "Imie": "Dawid",
+    "Nazwisko": "Cieliński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Chociwel",
+    "Ulica": "Dąbrowskiego 7c/9",
+    "Adres Pocztowy": "73-120",
+    "Nr.Telefonu": "782483648"
+  },
+  {
+    "nw": "1868300",
+    "nw_1": "783000510",
+    "Imie": "Błażej",
+    "Nazwisko": "Szymczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Chociwel",
+    "Ulica": "Partyzantów 5",
+    "Adres Pocztowy": "73-120",
+    "Nr.Telefonu": "530852436"
+  }
+]

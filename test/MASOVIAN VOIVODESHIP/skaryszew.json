@@ -1,0 +1,112 @@
+[
+  {
+    "nw": "1668160",
+    "nw_1": "261038102",
+    "Imie": "Dawid",
+    "Nazwisko": "Łoboda",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Skaryszew",
+    "Ulica": "Słowackiego 70",
+    "Adres Pocztowy": "26-640",
+    "Nr.Telefonu": "577523373"
+  },
+  {
+    "nw": "1429700",
+    "nw_1": "996062138",
+    "Imie": "Igor",
+    "Nazwisko": "Gajdziński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Skaryszew",
+    "Ulica": "Odechów 54A",
+    "Adres Pocztowy": "26-640",
+    "Nr.Telefonu": "881668009"
+  },
+  {
+    "nw": "63562",
+    "nw_1": "674048599",
+    "Imie": "Piotr",
+    "Nazwisko": "Gonciara",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Skaryszew",
+    "Ulica": "Skaryszew",
+    "Adres Pocztowy": " złota 9 ",
+    "Nr.Telefonu": "26-640",
+    "__parsed_extra": [
+      "883 227 249"
+    ]
+  },
+  {
+    "nw": "1280576",
+    "nw_1": "182357805",
+    "Imie": "kuba",
+    "Nazwisko": "Boguszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "skaryszew",
+    "Ulica": "63",
+    "Adres Pocztowy": "26640",
+    "Nr.Telefonu": "519411860"
+  },
+  {
+    "nw": "934216",
+    "nw_1": "756363470",
+    "Imie": "Patryk",
+    "Nazwisko": "Murawski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Skaryszew",
+    "Ulica": "Janów 47",
+    "Adres Pocztowy": "26-640",
+    "Nr.Telefonu": "690512731"
+  },
+  {
+    "nw": "1004005",
+    "nw_1": "722780821",
+    "Imie": "Bartosz",
+    "Nazwisko": "Bossy",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Skaryszew",
+    "Ulica": "Skaryszew",
+    "Adres Pocztowy": " Wyszyńskiego 27/3",
+    "Nr.Telefonu": "26-640",
+    "__parsed_extra": [
+      "530844822"
+    ]
+  },
+  {
+    "nw": "929223",
+    "nw_1": "320003066",
+    "Imie": "Patryk",
+    "Nazwisko": "Murawski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Skaryszew",
+    "Ulica": "Janów 47",
+    "Adres Pocztowy": "26-640",
+    "Nr.Telefonu": "690512731"
+  },
+  {
+    "nw": "1248764",
+    "nw_1": "390035063",
+    "Imie": "dawid",
+    "Nazwisko": "Permekow",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "skaryszew",
+    "Ulica": "piaseckiego 13",
+    "Adres Pocztowy": "26640",
+    "Nr.Telefonu": "794299257"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "456620",
+    "nw_1": "879852413",
+    "Imie": "Karolina",
+    "Nazwisko": "Jasińska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Mirosławiec",
+    "Ulica": "wąska 4",
+    "Adres Pocztowy": "78-650",
+    "Nr.Telefonu": "667097796"
+  },
+  {
+    "nw": "1398176",
+    "nw_1": "802574408",
+    "Imie": "Marcel",
+    "Nazwisko": "Siejko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Mirosławiec",
+    "Ulica": "Kościelna 5",
+    "Adres Pocztowy": "78-650",
+    "Nr.Telefonu": "607194557"
+  },
+  {
+    "nw": "1810937",
+    "nw_1": "588616571",
+    "Imie": "Miłosz",
+    "Nazwisko": "Palubicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Mirosławiec",
+    "Ulica": "Mirosławiec",
+    "Adres Pocztowy": " Zamkowa 41/2",
+    "Nr.Telefonu": "78-650",
+    "__parsed_extra": [
+      "692240914"
+    ]
+  }
+]

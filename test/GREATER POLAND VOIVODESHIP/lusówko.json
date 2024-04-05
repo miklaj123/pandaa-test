@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "1761203",
+    "nw_1": "361912116",
+    "Imie": "Jan",
+    "Nazwisko": "Bednarek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Lusówko",
+    "Ulica": "wiazowa 74",
+    "Adres Pocztowy": "62-080",
+    "Nr.Telefonu": "511766976"
+  },
+  {
+    "nw": "336798",
+    "nw_1": "702259157",
+    "Imie": "Bruno",
+    "Nazwisko": "Surdyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Lusówko",
+    "Ulica": "Iskierki"
+  },
+  {
+    "nw": "540372",
+    "nw_1": "971357630",
+    "Imie": "wojtek",
+    "Nazwisko": "putowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Lusówko",
+    "Ulica": "piwonii 10",
+    "Adres Pocztowy": "62-080",
+    "Nr.Telefonu": "504643799"
+  }
+]

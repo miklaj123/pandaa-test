@@ -1,0 +1,70 @@
+[
+  {
+    "nw": "1746066",
+    "nw_1": "996188339",
+    "Imie": "dawid",
+    "Nazwisko": "marczuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Sawin",
+    "Ulica": "Chełmska 34",
+    "Adres Pocztowy": "22-107",
+    "Nr.Telefonu": "451684565"
+  },
+  {
+    "nw": "622890",
+    "nw_1": "252105124",
+    "Imie": "Jacek",
+    "Nazwisko": "Kondziela",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Sawin",
+    "Ulica": "Kątek 8",
+    "Adres Pocztowy": "22-107",
+    "Nr.Telefonu": "516028116"
+  },
+  {
+    "nw": "1846016",
+    "nw_1": "774320697",
+    "Imie": "Dominik",
+    "Nazwisko": "Łątkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Sawin",
+    "Ulica": "Sawin Wygon 45",
+    "Adres Pocztowy": "22-107",
+    "Nr.Telefonu": "531656944"
+  },
+  {
+    "nw": "771849",
+    "nw_1": "851706482",
+    "Imie": "Jakub",
+    "Nazwisko": "Ostrowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Sawin",
+    "Ulica": "Chutecka 28",
+    "Adres Pocztowy": "22-107",
+    "Nr.Telefonu": "516501032"
+  },
+  {
+    "nw": "1190694",
+    "nw_1": "761327302",
+    "Imie": "Jacek",
+    "Nazwisko": "Kondziela",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Sawin",
+    "Ulica": "Sawin",
+    "Adres Pocztowy": " Kątek 8",
+    "Nr.Telefonu": "22-107",
+    "__parsed_extra": [
+      "573070599"
+    ]
+  }
+]

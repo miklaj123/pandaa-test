@@ -1,0 +1,57 @@
+[
+  {
+    "nw": "2270323",
+    "nw_1": "285274212",
+    "Imie": "Dmytrii",
+    "Nazwisko": "Pinkulskyi ",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Malbork ",
+    "Ulica": "Milenijna 2 Malbork 82-200 ",
+    "Adres Pocztowy": " nowa-wieś ",
+    "Nr.Telefonu": "82-200",
+    "__parsed_extra": [
+      "+48510618038"
+    ]
+  },
+  {
+    "nw": "1724264",
+    "nw_1": "474443098",
+    "Imie": "Maciej",
+    "Nazwisko": "Maczyszyn",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Malbork",
+    "Ulica": "Kotarbińskiego 2f/9",
+    "Adres Pocztowy": "82 200",
+    "Nr.Telefonu": "796 357 098"
+  },
+  {
+    "nw": "2164306",
+    "nw_1": "908011996",
+    "Imie": "Benito",
+    "Nazwisko": "Groß",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Malbork ",
+    "Ulica": "Tuwima 15 ",
+    "Adres Pocztowy": "82-200",
+    "Nr.Telefonu": "726290886"
+  },
+  {
+    "nw": "1123884",
+    "nw_1": "195329372",
+    "Imie": "kacper",
+    "Nazwisko": "kacper",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Malbork",
+    "Ulica": "Sikorskiego 26/6 malbork",
+    "Adres Pocztowy": "82-200",
+    "Nr.Telefonu": "604812634"
+  }
+]

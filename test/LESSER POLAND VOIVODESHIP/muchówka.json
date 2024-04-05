@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "2277870",
+    "nw_1": "519800796",
+    "Imie": "Jarek",
+    "Nazwisko": "Piech",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Muchówka",
+    "Ulica": "103 Muchówka",
+    "Adres Pocztowy": "32-722 Królówka",
+    "Nr.Telefonu": "514467892"
+  },
+  {
+    "nw": "1552287",
+    "nw_1": "244743789",
+    "Imie": "Artur",
+    "Nazwisko": "Dąbroś",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Muchówka",
+    "Ulica": "Muchówka"
+  },
+  {
+    "nw": "2127666",
+    "nw_1": "946050995",
+    "Imie": "filip",
+    "Nazwisko": "jakub",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "muchówka",
+    "Ulica": "muchówka 4",
+    "Adres Pocztowy": "32-722",
+    "Nr.Telefonu": "+48883450042"
+  }
+]

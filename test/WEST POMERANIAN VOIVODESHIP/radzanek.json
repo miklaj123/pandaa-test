@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1276541",
+    "nw_1": "301376403",
+    "Imie": "seweryn",
+    "Nazwisko": "wikowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "radzanek",
+    "Ulica": "radzanek 32/3",
+    "Adres Pocztowy": "72-130",
+    "Nr.Telefonu": "531646325"
+  },
+  {
+    "nw": "452200",
+    "nw_1": "301376403",
+    "Imie": "filip",
+    "Nazwisko": "zawadzki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "radzanek",
+    "Ulica": "radzanek 39/3",
+    "Adres Pocztowy": "72.130",
+    "Nr.Telefonu": "519125347"
+  },
+  {
+    "nw": "452199",
+    "nw_1": "301376403",
+    "Imie": "filip",
+    "Nazwisko": "zawadzki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "radzanek",
+    "Ulica": "radzanek 39/3",
+    "Adres Pocztowy": "72.130",
+    "Nr.Telefonu": "519125347"
+  }
+]

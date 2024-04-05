@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "617839",
+    "nw_1": "950375569",
+    "Imie": "Dawid",
+    "Nazwisko": "Mikolajczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Mysłakowice",
+    "Ulica": "nowa 4",
+    "Adres Pocztowy": "58-533",
+    "Nr.Telefonu": "723 194 960"
+  },
+  {
+    "nw": "225024",
+    "nw_1": "394057291",
+    "Imie": "patryk",
+    "Nazwisko": "simoniuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "mysłakowice",
+    "Ulica": "łomnicka 16c",
+    "Adres Pocztowy": "58-533",
+    "Nr.Telefonu": "533411977"
+  },
+  {
+    "nw": "1464871",
+    "nw_1": "516291818",
+    "Imie": "Marlena piatek",
+    "Nazwisko": "ksiazczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Mysłakowice",
+    "Ulica": "Górska 3",
+    "Adres Pocztowy": "58-533",
+    "Nr.Telefonu": "+48 (22) 392 27 43"
+  }
+]

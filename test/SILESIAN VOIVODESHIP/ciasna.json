@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2007256",
+    "nw_1": "160109913",
+    "Imie": "Oliver",
+    "Nazwisko": "Dylong",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Ciasna",
+    "Ulica": "Ul.Krótka 1",
+    "Adres Pocztowy": "42-793",
+    "Nr.Telefonu": "696776298"
+  },
+  {
+    "nw": "2204301",
+    "nw_1": "924808057",
+    "Imie": "Dominik",
+    "Nazwisko": "Bystrzycki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Ciasna",
+    "Ulica": "Ciasna Zjednoczenia 119",
+    "Adres Pocztowy": "42-793",
+    "Nr.Telefonu": "607886116"
+  },
+  {
+    "nw": "466812",
+    "nw_1": "725081570",
+    "Imie": "Joanna",
+    "Nazwisko": "Gajek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Ciasna",
+    "Ulica": "Zjednoczenia 119B",
+    "Adres Pocztowy": "42-793",
+    "Nr.Telefonu": "+48 692481518"
+  }
+]

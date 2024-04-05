@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2117316",
+    "nw_1": "435122569",
+    "Imie": "Rafal",
+    "Nazwisko": "Wysoczynski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Lubartow",
+    "Ulica": "Powstancow Warszawy 52",
+    "Adres Pocztowy": "21-100",
+    "Nr.Telefonu": "790590248"
+  },
+  {
+    "nw": "136230",
+    "nw_1": "836953974",
+    "Imie": "Maciej",
+    "Nazwisko": "Fiutka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Lubartow",
+    "Ulica": "Jasna 6",
+    "Adres Pocztowy": "21-100",
+    "Nr.Telefonu": "509922093"
+  },
+  {
+    "nw": "1762277",
+    "nw_1": "562355240",
+    "Imie": "Kewin",
+    "Nazwisko": "Kalinski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Lubartow",
+    "Ulica": "W. Sliwiny 6",
+    "Adres Pocztowy": "21-100",
+    "Nr.Telefonu": "731017452"
+  }
+]

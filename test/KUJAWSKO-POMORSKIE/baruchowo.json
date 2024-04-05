@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "858682",
+    "nw_1": "583089593",
+    "Imie": "Paweł",
+    "Nazwisko": "Dobiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Baruchowo",
+    "Ulica": "Baruchowo 50",
+    "Adres Pocztowy": "87-821",
+    "Nr.Telefonu": "+48 696 956 431"
+  },
+  {
+    "nw": "1419862",
+    "nw_1": "984272189",
+    "Imie": "Jan",
+    "Nazwisko": "Chojnacki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Baruchowo",
+    "Ulica": "Skrzynki 21",
+    "Adres Pocztowy": "87-821",
+    "Nr.Telefonu": "735082524"
+  },
+  {
+    "nw": "1753045",
+    "nw_1": "583089593",
+    "Imie": "Pawel",
+    "Nazwisko": "Dobinski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Baruchowo",
+    "Ulica": "Baruchowo 50",
+    "Adres Pocztowy": "87-821",
+    "Nr.Telefonu": "+48696956431"
+  }
+]

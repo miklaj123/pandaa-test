@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "809431",
+    "nw_1": "326258245",
+    "Imie": "Tobiasz",
+    "Nazwisko": "Ruszczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Biała Piska",
+    "Ulica": "Witosa 8/18",
+    "Adres Pocztowy": "12-230",
+    "Nr.Telefonu": "518903664"
+  },
+  {
+    "nw": "1600882",
+    "nw_1": "160316957",
+    "Imie": "Michał",
+    "Nazwisko": "Ostry",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Biała Piska",
+    "Ulica": "Komorowo 1/1 12-230 Biała Piska",
+    "Adres Pocztowy": "12-230",
+    "Nr.Telefonu": "510477021"
+  },
+  {
+    "nw": "671414",
+    "nw_1": "528012514",
+    "Imie": "nikola",
+    "Nazwisko": "sakowska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Biała Piska",
+    "Ulica": "Sienkiewicza 21a/3",
+    "Adres Pocztowy": "12-230",
+    "Nr.Telefonu": "782291204"
+  }
+]

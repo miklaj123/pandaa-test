@@ -1,0 +1,57 @@
+[
+  {
+    "nw": "1187574",
+    "nw_1": "186505132",
+    "Imie": "Kamil",
+    "Nazwisko": "Rodzewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Czernica",
+    "Ulica": "Kolejowa 4",
+    "Adres Pocztowy": "55-003",
+    "Nr.Telefonu": "601319593"
+  },
+  {
+    "nw": "1608676",
+    "nw_1": "299020616",
+    "Imie": "Marcin",
+    "Nazwisko": "Marczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Czernica",
+    "Ulica": "Reja 4",
+    "Adres Pocztowy": "55-003",
+    "Nr.Telefonu": "+48732826363"
+  },
+  {
+    "nw": "1446974",
+    "nw_1": "671422144",
+    "Imie": "Patryk",
+    "Nazwisko": "Chalecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Czernica",
+    "Ulica": "ul. Wrocławska 3",
+    "Adres Pocztowy": " Nadolice Małe",
+    "Nr.Telefonu": "55-003",
+    "__parsed_extra": [
+      "570161114"
+    ]
+  },
+  {
+    "nw": "677867",
+    "nw_1": "910173639",
+    "Imie": "Michał",
+    "Nazwisko": "Kruk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Czernica",
+    "Ulica": "8 Miła",
+    "Adres Pocztowy": "55-003",
+    "Nr.Telefonu": "791782750"
+  }
+]

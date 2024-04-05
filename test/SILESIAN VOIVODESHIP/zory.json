@@ -1,0 +1,96 @@
+[
+  {
+    "nw": "23799",
+    "nw_1": "97462891",
+    "Imie": "JAROSLAW",
+    "Nazwisko": "SZCZERBO",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "ZORY",
+    "Ulica": "BORYNSKA 42",
+    "Adres Pocztowy": "44-240",
+    "Nr.Telefonu": "606414159"
+  },
+  {
+    "nw": "809521",
+    "nw_1": "306830869",
+    "Imie": "Tom",
+    "Nazwisko": "Kajdana",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Zory",
+    "Ulica": "Jarzebinowa 105",
+    "Adres Pocztowy": "44-240",
+    "Nr.Telefonu": "+447479264192"
+  },
+  {
+    "nw": "8093",
+    "nw_1": "42119215",
+    "Imie": "Michal",
+    "Nazwisko": "Smogorzewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Zory",
+    "Ulica": "Osiedle Powstancow Slaskich 4E/38",
+    "Adres Pocztowy": "44-241",
+    "Nr.Telefonu": "785582030"
+  },
+  {
+    "nw": "2056150",
+    "nw_1": "870831791",
+    "Imie": "Rafa",
+    "Nazwisko": "Januszek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Zory",
+    "Ulica": "Bursztynowa 2a",
+    "Adres Pocztowy": "44-240",
+    "Nr.Telefonu": "+48605760433"
+  },
+  {
+    "nw": "436353",
+    "nw_1": "87679881",
+    "Imie": "Rafal",
+    "Nazwisko": "Koscielski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Zory",
+    "Ulica": "Wakacyjna 1",
+    "Adres Pocztowy": "44-245",
+    "Nr.Telefonu": "517179233"
+  },
+  {
+    "nw": "647979",
+    "nw_1": "435705105",
+    "Imie": "Rafal",
+    "Nazwisko": "Koscielski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Zory",
+    "Ulica": "Wakacyjna",
+    "Adres Pocztowy": " 1",
+    "Nr.Telefonu": "44-245",
+    "__parsed_extra": [
+      "517179233"
+    ]
+  },
+  {
+    "nw": "535549",
+    "nw_1": "638115048",
+    "Imie": "Jakub",
+    "Nazwisko": "Teczarski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Zory",
+    "Ulica": "osiedle Powstancow slaskich 12L/9",
+    "Adres Pocztowy": "44-240",
+    "Nr.Telefonu": "607804742"
+  }
+]

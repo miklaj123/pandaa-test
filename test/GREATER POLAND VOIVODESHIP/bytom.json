@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "1514761",
+    "nw_1": "945946998",
+    "Imie": "Barbara",
+    "Nazwisko": "Minkina",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Bytom",
+    "Ulica": "Hlonda 99/32",
+    "Adres Pocztowy": "41-933 Poland",
+    "Nr.Telefonu": "41-933",
+    "__parsed_extra": [
+      "797548665"
+    ]
+  },
+  {
+    "nw": "520120",
+    "nw_1": "408765035",
+    "Imie": "Bartosz",
+    "Nazwisko": "Abramowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Bytom",
+    "Ulica": "Adolfa piatka 25/17",
+    "Adres Pocztowy": "41-907",
+    "Nr.Telefonu": "799936069"
+  }
+]

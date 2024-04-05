@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1462569",
+    "nw_1": "944246897",
+    "Imie": "Radoslaw",
+    "Nazwisko": "Iwanek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Piastow",
+    "Ulica": "Zbikowska 30/16",
+    "Adres Pocztowy": "05-820",
+    "Nr.Telefonu": "+48794580064"
+  },
+  {
+    "nw": "1156869",
+    "nw_1": "519546940",
+    "Imie": "Lukasz",
+    "Nazwisko": "Lukasiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Piastow",
+    "Ulica": "ul. Lisa-Kuli 4b",
+    "Adres Pocztowy": "05-820",
+    "Nr.Telefonu": "502727218"
+  },
+  {
+    "nw": "744579",
+    "nw_1": "815081577",
+    "Imie": "Aleksandra",
+    "Nazwisko": "Wasilewska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Piastow",
+    "Ulica": "aleja Krakowska 26/6",
+    "Adres Pocztowy": "05-820",
+    "Nr.Telefonu": "+48692805858"
+  }
+]

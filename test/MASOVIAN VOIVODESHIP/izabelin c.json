@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "657115",
+    "nw_1": "86741845",
+    "Imie": "Kacper",
+    "Nazwisko": "Łukaszewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Izabelin C",
+    "Ulica": "Orła Białego 34",
+    "Adres Pocztowy": "05-080",
+    "Nr.Telefonu": "+48 732 639 133"
+  },
+  {
+    "nw": "851234",
+    "nw_1": "228526154",
+    "Imie": "adam",
+    "Nazwisko": "bessi",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Izabelin c",
+    "Ulica": "ulica krótka",
+    "Adres Pocztowy": "05-080",
+    "Nr.Telefonu": "+34 744 62 28 21"
+  },
+  {
+    "nw": "1904079",
+    "nw_1": "466892287",
+    "Imie": "Alan",
+    "Nazwisko": "Toboła",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "izabelin c",
+    "Ulica": "chełmońskiego 2b",
+    "Adres Pocztowy": "05-080",
+    "Nr.Telefonu": "514858695"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1927297",
+    "nw_1": "203046287",
+    "Imie": "Jakub",
+    "Nazwisko": "Wolinski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Czajowice",
+    "Ulica": "Łokietka 122",
+    "Adres Pocztowy": "32-089",
+    "Nr.Telefonu": "668201009"
+  },
+  {
+    "nw": "2313652",
+    "nw_1": "804032159",
+    "Imie": "Joshpehp",
+    "Nazwisko": "Haratań",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Czajowice",
+    "Ulica": "Łokietka 164",
+    "Adres Pocztowy": "32-089",
+    "Nr.Telefonu": "883343617"
+  },
+  {
+    "nw": "1618445",
+    "nw_1": "203046287",
+    "Imie": "Jakub",
+    "Nazwisko": "Kowalik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Czajowice",
+    "Ulica": "Czajowice ulica Słoneczna 86",
+    "Adres Pocztowy": "32-089",
+    "Nr.Telefonu": "668201009"
+  }
+]

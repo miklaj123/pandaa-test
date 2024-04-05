@@ -1,0 +1,60 @@
+[
+  {
+    "nw": "1446410",
+    "nw_1": "938639927",
+    "Imie": "Piotr",
+    "Nazwisko": "Ruta",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Czacz",
+    "Ulica": "Bloki 3/46",
+    "Adres Pocztowy": "64-030",
+    "Nr.Telefonu": "736656546"
+  },
+  {
+    "nw": "2339395",
+    "nw_1": "946688510",
+    "Imie": "ola",
+    "Nazwisko": "flis",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Czacz",
+    "Ulica": "Czacz",
+    "Adres Pocztowy": " ulica.polna. 1B",
+    "Nr.Telefonu": "64-030",
+    "__parsed_extra": [
+      "510768456"
+    ]
+  },
+  {
+    "nw": "2339394",
+    "nw_1": "946688510",
+    "Imie": "ola",
+    "Nazwisko": "flis",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Czacz",
+    "Ulica": "Czacz",
+    "Adres Pocztowy": " ulica.polna. 1B",
+    "Nr.Telefonu": "64-030",
+    "__parsed_extra": [
+      "510768456"
+    ]
+  },
+  {
+    "nw": "1139799",
+    "nw_1": "191491119",
+    "Imie": "Filip",
+    "Nazwisko": "Skorupski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Czacz",
+    "Ulica": "ul.Fieldorfa 71c/4",
+    "Adres Pocztowy": "64-030",
+    "Nr.Telefonu": "+48 736843336"
+  }
+]

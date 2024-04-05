@@ -1,0 +1,57 @@
+[
+  {
+    "nw": "1520016",
+    "nw_1": "449472244",
+    "Imie": "Radek",
+    "Nazwisko": "Wysoglad",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Oswiecim",
+    "Ulica": "Tyszkiewicza 46",
+    "Adres Pocztowy": "32-600",
+    "Nr.Telefonu": "+48537607873"
+  },
+  {
+    "nw": "1353479",
+    "nw_1": "292526576",
+    "Imie": "Mikolaj",
+    "Nazwisko": "Wanat",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Oswiecim",
+    "Ulica": "Mendelejewa 12/1",
+    "Adres Pocztowy": "32-600",
+    "Nr.Telefonu": "0048512403027"
+  },
+  {
+    "nw": "529229",
+    "nw_1": "875781606",
+    "Imie": "Seweryn",
+    "Nazwisko": "Nycz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Oswiecim",
+    "Ulica": "Nad Mlynowka 2D",
+    "Adres Pocztowy": "32-600",
+    "Nr.Telefonu": "511225535"
+  },
+  {
+    "nw": "90760",
+    "nw_1": "135463493",
+    "Imie": "Jakub",
+    "Nazwisko": "Broda",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Oswiecim",
+    "Ulica": " Babice",
+    "Adres Pocztowy": "Spacerowa 16L",
+    "Nr.Telefonu": "32-600",
+    "__parsed_extra": [
+      "576389946"
+    ]
+  }
+]

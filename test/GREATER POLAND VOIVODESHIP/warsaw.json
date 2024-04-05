@@ -1,0 +1,139 @@
+[
+  {
+    "nw": "1536400",
+    "nw_1": "725066420",
+    "Imie": "Kacper",
+    "Nazwisko": "Ciepal",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Warsaw",
+    "Ulica": "Aleja Armii Ludowej 6/146",
+    "Adres Pocztowy": " 00-571 Warsaw",
+    "Nr.Telefonu": "00-571",
+    "__parsed_extra": [
+      "517069398"
+    ]
+  },
+  {
+    "nw": "1409235",
+    "nw_1": "851107734",
+    "Imie": "Igor",
+    "Nazwisko": "Rosa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Warsaw",
+    "Ulica": "Grochowska 341/309",
+    "Adres Pocztowy": "03-822",
+    "Nr.Telefonu": "+48 790 664 001"
+  },
+  {
+    "nw": "785963",
+    "nw_1": "897645830",
+    "Imie": "Borys",
+    "Nazwisko": "Liwacz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "warsaw",
+    "Ulica": "wolczynska 299 b/3",
+    "Adres Pocztowy": "01-919",
+    "Nr.Telefonu": "513709760"
+  },
+  {
+    "nw": "2257971",
+    "nw_1": "867297860",
+    "Imie": "Zoriana",
+    "Nazwisko": "Zoriana",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Warsaw",
+    "Ulica": "Sierpnia 1",
+    "Adres Pocztowy": " house 40A",
+    "Nr.Telefonu": " apartment number 61",
+    "__parsed_extra": [
+      "02-134",
+      "+48724302166"
+    ]
+  },
+  {
+    "nw": "1395392",
+    "nw_1": "851107734",
+    "Imie": "Adrian",
+    "Nazwisko": "Lutowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Warsaw",
+    "Ulica": "Żegańska 28A m.6",
+    "Adres Pocztowy": "04-713",
+    "Nr.Telefonu": "535242903"
+  },
+  {
+    "nw": "1937828",
+    "nw_1": "135921955",
+    "Imie": "Vladyslav",
+    "Nazwisko": "Tsvietkov",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Warsaw",
+    "Ulica": "ul. Dulczyńska 20",
+    "Adres Pocztowy": "04948",
+    "Nr.Telefonu": "+48885029077"
+  },
+  {
+    "nw": "1406441",
+    "nw_1": "542027380",
+    "Imie": "Davyd",
+    "Nazwisko": "Prokopchuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Warsaw",
+    "Ulica": "Kasprowicza 12/5",
+    "Adres Pocztowy": "01-871",
+    "Nr.Telefonu": "796049741"
+  },
+  {
+    "nw": "1674840",
+    "nw_1": "491025048",
+    "Imie": "Daniel",
+    "Nazwisko": "Demidov",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Warsaw",
+    "Ulica": "Wielicka 40/48",
+    "Adres Pocztowy": "02-657",
+    "Nr.Telefonu": "+48502276275"
+  },
+  {
+    "nw": "1464764",
+    "nw_1": "177656640",
+    "Imie": "Ema",
+    "Nazwisko": "Peteraityte",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Warsaw",
+    "Ulica": "Syta 116F 1",
+    "Adres Pocztowy": "02-987",
+    "Nr.Telefonu": "+48690595770"
+  },
+  {
+    "nw": "1737058",
+    "nw_1": "980465644",
+    "Imie": "Lucia",
+    "Nazwisko": "Zachar Nincak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Warsaw",
+    "Ulica": "litewska 6 embassy of Slovak Republic",
+    "Adres Pocztowy": "00-581",
+    "Nr.Telefonu": "+48600961636"
+  }
+]

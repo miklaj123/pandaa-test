@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1363361",
+    "nw_1": "805942306",
+    "Imie": "Igor",
+    "Nazwisko": "Horowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Karpicko",
+    "Ulica": "Sosnowa 8",
+    "Adres Pocztowy": "64-200",
+    "Nr.Telefonu": "+48 694 071 352"
+  },
+  {
+    "nw": "1544103",
+    "nw_1": "813596951",
+    "Imie": "Piotr",
+    "Nazwisko": "Adamczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Karpicko",
+    "Ulica": "Wczasowa 22",
+    "Adres Pocztowy": "64-200",
+    "Nr.Telefonu": "730202911"
+  },
+  {
+    "nw": "1309425",
+    "nw_1": "267543818",
+    "Imie": "Alan",
+    "Nazwisko": "Olszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Karpicko",
+    "Ulica": "Karpicko wczasowa 23",
+    "Adres Pocztowy": "64-200",
+    "Nr.Telefonu": "532606214"
+  }
+]

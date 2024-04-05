@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "1357494",
+    "nw_1": "272695169",
+    "Imie": "Victor",
+    "Nazwisko": "Veletnik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Krzeptów",
+    "Ulica": "Majerankowa 1",
+    "Adres Pocztowy": "55-080",
+    "Nr.Telefonu": "604132313"
+  },
+  {
+    "nw": "1987316",
+    "nw_1": "730298221",
+    "Imie": "Filip",
+    "Nazwisko": "Kowalewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Krzeptów",
+    "Ulica": "Krzeptów",
+    "Adres Pocztowy": " Lawendowa 49",
+    "Nr.Telefonu": "55-080",
+    "__parsed_extra": [
+      "514512929"
+    ]
+  }
+]

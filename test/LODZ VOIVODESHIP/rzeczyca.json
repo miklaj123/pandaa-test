@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "678158",
+    "nw_1": "667024616",
+    "Imie": "Jan",
+    "Nazwisko": "krzystof",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Rzeczyca",
+    "Ulica": "Kitowicza 50",
+    "Adres Pocztowy": "97-220",
+    "Nr.Telefonu": "575731643"
+  },
+  {
+    "nw": "2266264",
+    "nw_1": "456524161",
+    "Imie": "Wioletta",
+    "Nazwisko": "Kasprzak-Bender",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Rzeczyca",
+    "Ulica": "Tomaszowska 17",
+    "Adres Pocztowy": "97-220",
+    "Nr.Telefonu": "509220698"
+  },
+  {
+    "nw": "2122725",
+    "nw_1": "555954271",
+    "Imie": "Maciej ",
+    "Nazwisko": "Karwat",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Rzeczyca ",
+    "Ulica": "Sadykierz 7",
+    "Adres Pocztowy": "97-220",
+    "Nr.Telefonu": "505002267"
+  }
+]

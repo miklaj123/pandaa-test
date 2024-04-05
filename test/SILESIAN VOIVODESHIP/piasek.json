@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "728290",
+    "nw_1": "802667743",
+    "Imie": "Jakub",
+    "Nazwisko": "Szczotka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Piasek",
+    "Ulica": "Szkolna",
+    "Adres Pocztowy": " 36",
+    "Nr.Telefonu": "43-211",
+    "__parsed_extra": [
+      "606583665"
+    ]
+  },
+  {
+    "nw": "437428",
+    "nw_1": "927759281",
+    "Imie": "Oliwier",
+    "Nazwisko": "Kasperek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Piasek",
+    "Ulica": "ul.Katowicka 132b",
+    "Adres Pocztowy": "43-211",
+    "Nr.Telefonu": "606500607"
+  }
+]

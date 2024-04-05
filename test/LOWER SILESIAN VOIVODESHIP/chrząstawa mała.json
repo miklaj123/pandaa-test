@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "1338617",
+    "nw_1": "400292173",
+    "Imie": "Dominik",
+    "Nazwisko": "Majchrowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Chrząstawa mała",
+    "Ulica": "Chrząstawa mała"
+  },
+  {
+    "nw": "1536610",
+    "nw_1": "207082133",
+    "Imie": "Magdalena",
+    "Nazwisko": "Witkowska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Chrząstawa Mała",
+    "Ulica": "Pogodna 2",
+    "Adres Pocztowy": "55-003",
+    "Nr.Telefonu": "+48502301207"
+  },
+  {
+    "nw": "1212949",
+    "nw_1": "442515251",
+    "Imie": "dima",
+    "Nazwisko": "seniv",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Chrząstawa Mała",
+    "Ulica": "Malinowa 11B",
+    "Adres Pocztowy": "55-003",
+    "Nr.Telefonu": "+48691662799"
+  }
+]

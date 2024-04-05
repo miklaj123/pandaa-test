@@ -1,0 +1,114 @@
+[
+  {
+    "nw": "1953854",
+    "nw_1": "503924243",
+    "Imie": "eryk",
+    "Nazwisko": "kałdon",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "gorzyce",
+    "Ulica": "wrzawy 70",
+    "Adres Pocztowy": "39-432",
+    "Nr.Telefonu": "790369926"
+  },
+  {
+    "nw": "530173",
+    "nw_1": "146382730",
+    "Imie": "Kacper",
+    "Nazwisko": "Skuza",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Gorzyce",
+    "Ulica": "Zakole",
+    "Adres Pocztowy": " 2/6",
+    "Nr.Telefonu": "39-432",
+    "__parsed_extra": [
+      "530800052"
+    ]
+  },
+  {
+    "nw": "527302",
+    "nw_1": "105002414",
+    "Imie": "Wiktor",
+    "Nazwisko": "Zieliński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Gorzyce",
+    "Ulica": "Tuwima 15",
+    "Adres Pocztowy": "39-432",
+    "Nr.Telefonu": "695503605"
+  },
+  {
+    "nw": "1501545",
+    "nw_1": "464332468",
+    "Imie": "filip",
+    "Nazwisko": "szul",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "gorzyce",
+    "Ulica": "chopina 1",
+    "Adres Pocztowy": "39-432",
+    "Nr.Telefonu": "665304373"
+  },
+  {
+    "nw": "1504756",
+    "nw_1": "206621706",
+    "Imie": "Oleksandr",
+    "Nazwisko": "Kyrchenko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Gorzyce",
+    "Ulica": "Listopada 11",
+    "Adres Pocztowy": " Internat",
+    "Nr.Telefonu": " 2 floor",
+    "__parsed_extra": [
+      " Room 211",
+      "39-432",
+      "+48453266812"
+    ]
+  },
+  {
+    "nw": "1630386",
+    "nw_1": "561185652",
+    "Imie": "Patryk",
+    "Nazwisko": "Mączka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Gorzyce",
+    "Ulica": "11 Listopada 8/18",
+    "Adres Pocztowy": "39-432",
+    "Nr.Telefonu": "+48600585667"
+  },
+  {
+    "nw": "1219564",
+    "nw_1": "823910436",
+    "Imie": "Konrad",
+    "Nazwisko": "Kulpa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Gorzyce",
+    "Ulica": "Gorzyce 338",
+    "Adres Pocztowy": "37-204",
+    "Nr.Telefonu": "48660344282"
+  },
+  {
+    "nw": "476397",
+    "nw_1": "603897990",
+    "Imie": "Maksymillian",
+    "Nazwisko": "Ćwik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Gorzyce",
+    "Ulica": "Zakole 10/28",
+    "Adres Pocztowy": "30-432",
+    "Nr.Telefonu": "691224464"
+  }
+]

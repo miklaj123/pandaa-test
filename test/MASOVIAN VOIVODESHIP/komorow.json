@@ -1,0 +1,28 @@
+[
+  {
+    "nw": "1103732",
+    "nw_1": "513939460",
+    "Imie": "Piotr",
+    "Nazwisko": "Jachimowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Komorow",
+    "Ulica": "Berylowa 26",
+    "Adres Pocztowy": "05-806",
+    "Nr.Telefonu": "+48603155945"
+  },
+  {
+    "nw": "84521",
+    "nw_1": "369994346",
+    "Imie": "Lukasz",
+    "Nazwisko": "Kochel",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "komorow",
+    "Ulica": "Szeroka 12B",
+    "Adres Pocztowy": "05-806",
+    "Nr.Telefonu": "+48507219508"
+  }
+]

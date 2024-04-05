@@ -1,0 +1,122 @@
+[
+  {
+    "nw": "451825",
+    "nw_1": "336155480",
+    "Imie": "Patryk",
+    "Nazwisko": "Moroń",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Grodków",
+    "Ulica": "Kopice 50/2",
+    "Adres Pocztowy": "49-200",
+    "Nr.Telefonu": "506565726"
+  },
+  {
+    "nw": "398565",
+    "nw_1": "953993931",
+    "Imie": "Filip",
+    "Nazwisko": "Wilk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Grodków",
+    "Ulica": "Kolnica 27c",
+    "Adres Pocztowy": "49-200",
+    "Nr.Telefonu": "502245173"
+  },
+  {
+    "nw": "929138",
+    "nw_1": "768293351",
+    "Imie": "Karol",
+    "Nazwisko": "Sobstel",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Grodków",
+    "Ulica": "Sadowa 2",
+    "Adres Pocztowy": "49-200",
+    "Nr.Telefonu": "513711558"
+  },
+  {
+    "nw": "1575657",
+    "nw_1": "572670653",
+    "Imie": "michał",
+    "Nazwisko": "pawlus",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "grodków",
+    "Ulica": "wiejska 4",
+    "Adres Pocztowy": "49-200",
+    "Nr.Telefonu": "608382216"
+  },
+  {
+    "nw": "1799863",
+    "nw_1": "624483676",
+    "Imie": "aleksander",
+    "Nazwisko": "hulbój",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Grodków",
+    "Ulica": "Grodków Wojsław 35",
+    "Adres Pocztowy": "49-200",
+    "Nr.Telefonu": "570621726"
+  },
+  {
+    "nw": "2042284",
+    "nw_1": "612516081",
+    "Imie": "Bartek",
+    "Nazwisko": "Lewandowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Grodków",
+    "Ulica": "Ulica",
+    "Adres Pocztowy": " Morcinka 10/1",
+    "Nr.Telefonu": "49-200",
+    "__parsed_extra": [
+      "570153581"
+    ]
+  },
+  {
+    "nw": "1925174",
+    "nw_1": "838387948",
+    "Imie": "Krystian",
+    "Nazwisko": "Śleboda",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "grodków",
+    "Ulica": "szpitalna 2a",
+    "Adres Pocztowy": "49-200",
+    "Nr.Telefonu": "691626173"
+  },
+  {
+    "nw": "1414911",
+    "nw_1": "188036769",
+    "Imie": "Kacper",
+    "Nazwisko": "Twardowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Grodków",
+    "Ulica": "Morcinka 17/15",
+    "Adres Pocztowy": "49-200",
+    "Nr.Telefonu": "570350466"
+  },
+  {
+    "nw": "1281321",
+    "nw_1": "547386015",
+    "Imie": "Dawid",
+    "Nazwisko": "Lach",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Grodków",
+    "Ulica": "Zawadzkiego 21",
+    "Adres Pocztowy": "49-200",
+    "Nr.Telefonu": "+48506365667"
+  }
+]

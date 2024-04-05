@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1564444",
+    "nw_1": "281168534",
+    "Imie": "Mateusz",
+    "Nazwisko": "Ryś",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Studzienice",
+    "Ulica": "Studzienice Ulica Wilcza 31c",
+    "Adres Pocztowy": "43-215",
+    "Nr.Telefonu": "797414907"
+  },
+  {
+    "nw": "734793",
+    "nw_1": "438841238",
+    "Imie": "Karol",
+    "Nazwisko": "Łakota",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Studzienice",
+    "Ulica": "Kukułek 54",
+    "Adres Pocztowy": "43-215",
+    "Nr.Telefonu": "533964979"
+  },
+  {
+    "nw": "1494516",
+    "nw_1": "639545016",
+    "Imie": "Boguś",
+    "Nazwisko": "Stencel",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Studzienice",
+    "Ulica": "Czyżyków 59",
+    "Adres Pocztowy": "43-215",
+    "Nr.Telefonu": "695022443"
+  },
+  {
+    "nw": "1620599",
+    "nw_1": "547754163",
+    "Imie": "Karol",
+    "Nazwisko": "Copija",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Studzienice",
+    "Ulica": "Drozdów 17",
+    "Adres Pocztowy": "43-215",
+    "Nr.Telefonu": "736243894"
+  }
+]

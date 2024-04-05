@@ -1,0 +1,34 @@
+[
+  {
+    "nw": "1119246",
+    "nw_1": "244173042",
+    "Imie": "Oliwier",
+    "Nazwisko": "Jurga",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Gołuchów",
+    "Ulica": "Gołuchów",
+    "Adres Pocztowy": " Zachodnia 18",
+    "Nr.Telefonu": "63-322",
+    "__parsed_extra": [
+      "799131472"
+    ]
+  },
+  {
+    "nw": "2364365",
+    "nw_1": "244173042",
+    "Imie": "Oliwier",
+    "Nazwisko": "Jurga",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Gołuchów",
+    "Ulica": "Gołuchów",
+    "Adres Pocztowy": " Zachodnia 18",
+    "Nr.Telefonu": "63-322",
+    "__parsed_extra": [
+      "+48799131472"
+    ]
+  }
+]

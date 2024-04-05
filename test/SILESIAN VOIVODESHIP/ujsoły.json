@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "471144",
+    "nw_1": "537306879",
+    "Imie": "Kacper",
+    "Nazwisko": "Gizicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Ujsoły",
+    "Ulica": "Bystra 8/8",
+    "Adres Pocztowy": "34-371",
+    "Nr.Telefonu": "737 161 108"
+  },
+  {
+    "nw": "1085746",
+    "nw_1": "127991709",
+    "Imie": "Karol",
+    "Nazwisko": "Kocoń",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Ujsoły",
+    "Ulica": "Cicha 5",
+    "Adres Pocztowy": "34-371",
+    "Nr.Telefonu": "797237546"
+  },
+  {
+    "nw": "178267",
+    "nw_1": "278685005",
+    "Imie": "Krzysztof",
+    "Nazwisko": "Jurczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Ujsoły",
+    "Ulica": "Turystyczna 69",
+    "Adres Pocztowy": "34-371",
+    "Nr.Telefonu": "519499888"
+  }
+]

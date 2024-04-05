@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "820557",
+    "nw_1": "682897234",
+    "Imie": "Kacper",
+    "Nazwisko": "Woźniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Dąbrowa Biskupia",
+    "Ulica": "Konary 37",
+    "Adres Pocztowy": "88-133",
+    "Nr.Telefonu": "+48512741924"
+  },
+  {
+    "nw": "1667977",
+    "nw_1": "937887680",
+    "Imie": "Jan",
+    "Nazwisko": "Urbański",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Dąbrowa Biskupia",
+    "Ulica": "Pieranie 44a",
+    "Adres Pocztowy": "88-133",
+    "Nr.Telefonu": "508302444"
+  },
+  {
+    "nw": "670439",
+    "nw_1": "945966373",
+    "Imie": "Dawid",
+    "Nazwisko": "Stolarski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Dąbrowa Biskupia",
+    "Ulica": "Wonorze 23",
+    "Adres Pocztowy": "88-133",
+    "Nr.Telefonu": "507341983"
+  },
+  {
+    "nw": "2293510",
+    "nw_1": "827600587",
+    "Imie": "Filip",
+    "Nazwisko": "Walczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Dąbrowa Biskupia",
+    "Ulica": "Wonorze 10",
+    "Adres Pocztowy": "88133",
+    "Nr.Telefonu": "536422761"
+  }
+]

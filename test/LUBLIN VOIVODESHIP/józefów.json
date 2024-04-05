@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "618719",
+    "nw_1": "471309193",
+    "Imie": "Jakub",
+    "Nazwisko": "Biernacki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Józefów",
+    "Ulica": "Leśna 13",
+    "Adres Pocztowy": "23-460",
+    "Nr.Telefonu": "+48793070854"
+  },
+  {
+    "nw": "1384572",
+    "nw_1": "206610582",
+    "Imie": "Aleksandra",
+    "Nazwisko": "Cieplak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Józefów",
+    "Ulica": "Górniki 7",
+    "Adres Pocztowy": "23-460",
+    "Nr.Telefonu": "534081855"
+  },
+  {
+    "nw": "1795576",
+    "nw_1": "920643594",
+    "Imie": "Bartłomiej",
+    "Nazwisko": "Bździuch",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Józefów",
+    "Ulica": "józefów cicha1",
+    "Adres Pocztowy": "23-460",
+    "Nr.Telefonu": "695631561"
+  }
+]

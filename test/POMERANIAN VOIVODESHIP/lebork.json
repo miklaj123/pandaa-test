@@ -1,0 +1,52 @@
+[
+  {
+    "nw": "72762",
+    "nw_1": "21371564",
+    "Imie": "Marcus",
+    "Nazwisko": "Thomassen",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Lebork",
+    "Ulica": "Podchorazych"
+  },
+  {
+    "nw": "947046",
+    "nw_1": "433839066",
+    "Imie": "Kacper",
+    "Nazwisko": "Maszkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Lebork",
+    "Ulica": "Stryjewskiego 47ca/4",
+    "Adres Pocztowy": "84-300",
+    "Nr.Telefonu": "575951888"
+  },
+  {
+    "nw": "2224212",
+    "nw_1": "674462912",
+    "Imie": "Andrei",
+    "Nazwisko": "Bardachov",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Lebork",
+    "Ulica": "Gdańska 82/4",
+    "Adres Pocztowy": "84-300",
+    "Nr.Telefonu": "+48796121361"
+  },
+  {
+    "nw": "1233028",
+    "nw_1": "544385021",
+    "Imie": "Mikolaj",
+    "Nazwisko": "Tolas",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Lebork",
+    "Ulica": "Pulaskiego 20E/4",
+    "Adres Pocztowy": "84-300",
+    "Nr.Telefonu": "608046814"
+  }
+]

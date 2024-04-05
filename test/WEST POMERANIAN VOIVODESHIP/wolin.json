@@ -1,0 +1,37 @@
+[
+  {
+    "nw": "1109331",
+    "nw_1": "618470595",
+    "Imie": "kacper",
+    "Nazwisko": "wolski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "wolin",
+    "Ulica": "mickiewicza"
+  },
+  {
+    "nw": "212949",
+    "nw_1": "738187579",
+    "Imie": "Alan",
+    "Nazwisko": "Wiśniewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Wolin",
+    "Ulica": "Spokojna 6",
+    "Adres Pocztowy": "72-510",
+    "Nr.Telefonu": "537411005"
+  },
+  {
+    "nw": "255918",
+    "nw_1": "834377060",
+    "Imie": "Maciej",
+    "Nazwisko": "Malina",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Wolin",
+    "Ulica": "Ul. Dargobądz 19/m1"
+  }
+]

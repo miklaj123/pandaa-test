@@ -1,0 +1,29 @@
+[
+  {
+    "nw": "347030",
+    "nw_1": "905953277",
+    "Imie": "Michal",
+    "Nazwisko": "Stodolny",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Ostrow Wielkopolski",
+    "Ulica": "Obrzeze",
+    "Adres Pocztowy": " 9",
+    "Nr.Telefonu": "63-400",
+    "__parsed_extra": [
+      "665472286"
+    ]
+  },
+  {
+    "nw": "2101679",
+    "nw_1": "803759860",
+    "Imie": "Jakub",
+    "Nazwisko": "Kościelny",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Ostrow Wielkopolski",
+    "Ulica": "Ostrów Wielkopolski"
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "nw": "2187495",
+    "nw_1": "395841638",
+    "Imie": "Bartosz",
+    "Nazwisko": "Żurek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Klimontów",
+    "Ulica": "ul. Staffa 2E",
+    "Adres Pocztowy": "27-640",
+    "Nr.Telefonu": "511450190"
+  },
+  {
+    "nw": "1480982",
+    "nw_1": "246817949",
+    "Imie": "Maciej",
+    "Nazwisko": "Witkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Klimontów",
+    "Ulica": "Klimontów 142",
+    "Adres Pocztowy": "28-340",
+    "Nr.Telefonu": "883666925"
+  },
+  {
+    "nw": "1754344",
+    "nw_1": "368257398",
+    "Imie": "Filip",
+    "Nazwisko": "Baran",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Klimontów",
+    "Ulica": "Sandomierska 40",
+    "Adres Pocztowy": "27-640",
+    "Nr.Telefonu": "+48791051945"
+  },
+  {
+    "nw": "2263586",
+    "nw_1": "721466608",
+    "Imie": "Michał",
+    "Nazwisko": "Rączkiewicz ",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Klimontów",
+    "Ulica": "Nasławice 17"
+  },
+  {
+    "nw": "1485075",
+    "nw_1": "208049869",
+    "Imie": "Adrian",
+    "Nazwisko": "Górczyński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Klimontów",
+    "Ulica": "Górki 19",
+    "Adres Pocztowy": "27-640",
+    "Nr.Telefonu": "669808656"
+  },
+  {
+    "nw": "1077726",
+    "nw_1": "852998426",
+    "Imie": "Kacper",
+    "Nazwisko": "Nowak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Klimontów",
+    "Ulica": "Rogacz 10",
+    "Adres Pocztowy": "27-640",
+    "Nr.Telefonu": "511055001"
+  },
+  {
+    "nw": "1221612",
+    "nw_1": "590441845",
+    "Imie": "Kacper",
+    "Nazwisko": "Nowakowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Klimontów",
+    "Ulica": "Wilkowice 7",
+    "Adres Pocztowy": " 27-640 Klimontów",
+    "Nr.Telefonu": "27-640",
+    "__parsed_extra": [
+      "+48605944349"
+    ]
+  }
+]

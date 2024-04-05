@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "409615",
+    "nw_1": "343421188",
+    "Imie": "Adrian",
+    "Nazwisko": "Gnyp",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Puchaczów",
+    "Ulica": "Turowola Kolonia 3",
+    "Adres Pocztowy": "21-013",
+    "Nr.Telefonu": "660590337"
+  },
+  {
+    "nw": "1499586",
+    "nw_1": "661397136",
+    "Imie": "Patryk",
+    "Nazwisko": "Baran",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Puchaczów",
+    "Ulica": "Wesołówka 59a",
+    "Adres Pocztowy": "21-013",
+    "Nr.Telefonu": "+447397563733"
+  },
+  {
+    "nw": "2007257",
+    "nw_1": "303601279",
+    "Imie": "Jakub",
+    "Nazwisko": "Karasiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Puchaczów",
+    "Ulica": "Nadrybie Dwór 12",
+    "Adres Pocztowy": "21-013",
+    "Nr.Telefonu": "+48661737254"
+  }
+]

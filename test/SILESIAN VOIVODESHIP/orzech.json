@@ -1,0 +1,99 @@
+[
+  {
+    "nw": "861110",
+    "nw_1": "695914930",
+    "Imie": "Roman",
+    "Nazwisko": "Poloczek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Orzech",
+    "Ulica": "ul. łąkowa 7",
+    "Adres Pocztowy": " Orzech",
+    "Nr.Telefonu": "42-622",
+    "__parsed_extra": [
+      "+48731655885"
+    ]
+  },
+  {
+    "nw": "957885",
+    "nw_1": "932632568",
+    "Imie": "Bartosz",
+    "Nazwisko": "Soboczeński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Orzech",
+    "Ulica": "Krzywa 9",
+    "Adres Pocztowy": "42-622",
+    "Nr.Telefonu": "517399051"
+  },
+  {
+    "nw": "1535531",
+    "nw_1": "831764564",
+    "Imie": "iwo",
+    "Nazwisko": "witek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "orzech",
+    "Ulica": "Malinowa 8",
+    "Adres Pocztowy": "42-622",
+    "Nr.Telefonu": "510978591"
+  },
+  {
+    "nw": "383835",
+    "nw_1": "539772068",
+    "Imie": "Kevin",
+    "Nazwisko": "Szołtysik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "orzech",
+    "Ulica": "sobolaków 10",
+    "Adres Pocztowy": "42-622",
+    "Nr.Telefonu": "733271382"
+  },
+  {
+    "nw": "529364",
+    "nw_1": "932632568",
+    "Imie": "Kevin",
+    "Nazwisko": "Szołtysik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Orzech",
+    "Ulica": "Sobalaków 10",
+    "Adres Pocztowy": "42-622",
+    "Nr.Telefonu": "733271382"
+  },
+  {
+    "nw": "1560617",
+    "nw_1": "295877314",
+    "Imie": "Iwo",
+    "Nazwisko": "witek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "orzech",
+    "Ulica": "malinowa 8",
+    "Adres Pocztowy": "42-622",
+    "Nr.Telefonu": "510978591"
+  },
+  {
+    "nw": "2346989",
+    "nw_1": "146466323",
+    "Imie": "Karol",
+    "Nazwisko": "Ślązok",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Orzech",
+    "Ulica": "Orzech",
+    "Adres Pocztowy": " Wieczorków 77a",
+    "Nr.Telefonu": "42-622",
+    "__parsed_extra": [
+      "886452050"
+    ]
+  }
+]

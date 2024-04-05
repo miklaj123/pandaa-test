@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "977415",
+    "nw_1": "499526104",
+    "Imie": "Miłosz",
+    "Nazwisko": "Olejniczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Drzonów",
+    "Ulica": "Drzonów 11",
+    "Adres Pocztowy": " 11",
+    "Nr.Telefonu": "66-014",
+    "__parsed_extra": [
+      "510189751"
+    ]
+  },
+  {
+    "nw": "165068",
+    "nw_1": "509082848",
+    "Imie": "Marcel",
+    "Nazwisko": "Szyngiel",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Drzonów",
+    "Ulica": "Drzonów 31A",
+    "Adres Pocztowy": "66-014",
+    "Nr.Telefonu": "798277364"
+  }
+]

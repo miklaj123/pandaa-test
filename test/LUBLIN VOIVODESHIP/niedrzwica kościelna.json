@@ -1,0 +1,96 @@
+[
+  {
+    "nw": "1194095",
+    "nw_1": "448283954",
+    "Imie": "kacper",
+    "Nazwisko": "kuna",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "niedrzwica kościelna",
+    "Ulica": "krakowska 45",
+    "Adres Pocztowy": "24-220",
+    "Nr.Telefonu": "511640984"
+  },
+  {
+    "nw": "1221895",
+    "nw_1": "485857056",
+    "Imie": "Szymon",
+    "Nazwisko": "Wierzchowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Niedrzwica Kościelna",
+    "Ulica": "Krakowska 104",
+    "Adres Pocztowy": "24-220",
+    "Nr.Telefonu": "575617161"
+  },
+  {
+    "nw": "2344459",
+    "nw_1": "594973471",
+    "Imie": "Szymon",
+    "Nazwisko": "Murlak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Niedrzwica Kościelna",
+    "Ulica": "Niedrzwica Kościelna",
+    "Adres Pocztowy": " Kandydaty 14",
+    "Nr.Telefonu": "24-220",
+    "__parsed_extra": [
+      "797999314"
+    ]
+  },
+  {
+    "nw": "2044994",
+    "nw_1": "748425682",
+    "Imie": "Rafał",
+    "Nazwisko": "Kuśmierz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Niedrzwica Kościelna",
+    "Ulica": "Ul.Kandydaty37",
+    "Adres Pocztowy": "24-220",
+    "Nr.Telefonu": "511017632"
+  },
+  {
+    "nw": "1937013",
+    "nw_1": "705993958",
+    "Imie": "Kamil",
+    "Nazwisko": "Cielma",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Niedrzwica Kościelna",
+    "Ulica": "Krakowska 35",
+    "Adres Pocztowy": "24-220",
+    "Nr.Telefonu": "538527262"
+  },
+  {
+    "nw": "194152",
+    "nw_1": "191066409",
+    "Imie": "Jan",
+    "Nazwisko": "Oleszek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Niedrzwica Kościelna",
+    "Ulica": "Niedrzwica Kościelna Krakowska 102B",
+    "Adres Pocztowy": "24-220",
+    "Nr.Telefonu": "737519888"
+  },
+  {
+    "nw": "2097632",
+    "nw_1": "736631273",
+    "Imie": "Olivier",
+    "Nazwisko": "Bolko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Niedrzwica Kościelna",
+    "Ulica": "ul.krakowska 103c",
+    "Adres Pocztowy": "22-220",
+    "Nr.Telefonu": "666697079"
+  }
+]

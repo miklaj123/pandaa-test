@@ -1,0 +1,67 @@
+[
+  {
+    "nw": "1684807",
+    "nw_1": "694239204",
+    "Imie": "Tomasz",
+    "Nazwisko": "Jaroszkiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Radziejów",
+    "Ulica": "ul. Kościuszki 5",
+    "Adres Pocztowy": "88-200",
+    "Nr.Telefonu": "+48535353963"
+  },
+  {
+    "nw": "1232034",
+    "nw_1": "245634568",
+    "Imie": "jakub",
+    "Nazwisko": "daniel",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Radziejów",
+    "Ulica": "Radziejów Żwirna 10",
+    "Adres Pocztowy": "88-200",
+    "Nr.Telefonu": "697114225"
+  },
+  {
+    "nw": "502474",
+    "nw_1": "940475706",
+    "Imie": "Fabian",
+    "Nazwisko": "Andrzejewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Radziejów",
+    "Ulica": "Szostka 43",
+    "Adres Pocztowy": "88-200",
+    "Nr.Telefonu": "602685377"
+  },
+  {
+    "nw": "398340",
+    "nw_1": "292758907",
+    "Imie": "Fabian",
+    "Nazwisko": "Andrzejewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Radziejów",
+    "Ulica": "Szostka 45",
+    "Adres Pocztowy": "88-200",
+    "Nr.Telefonu": "601735316"
+  },
+  {
+    "nw": "1213625",
+    "nw_1": "291147684",
+    "Imie": "Antoni",
+    "Nazwisko": "Jaroszkiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Radziejów",
+    "Ulica": "kościuszki  5",
+    "Adres Pocztowy": "88-200",
+    "Nr.Telefonu": "530525650"
+  }
+]

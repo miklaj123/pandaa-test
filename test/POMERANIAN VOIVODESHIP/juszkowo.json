@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "170470",
+    "nw_1": "651597861",
+    "Imie": "Aleksander",
+    "Nazwisko": "Walczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Juszkowo",
+    "Ulica": "modrzewiowa 7",
+    "Adres Pocztowy": "83-000",
+    "Nr.Telefonu": "+48 535 356 415"
+  },
+  {
+    "nw": "626677",
+    "nw_1": "197062816",
+    "Imie": "Filip",
+    "Nazwisko": "Grzana",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Juszkowo",
+    "Ulica": "Rumiankowa 15",
+    "Adres Pocztowy": "83-000",
+    "Nr.Telefonu": "507926798"
+  },
+  {
+    "nw": "1247456",
+    "nw_1": "833900910",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Warmowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Juszkowo",
+    "Ulica": "Sadowa 5",
+    "Adres Pocztowy": "83-000",
+    "Nr.Telefonu": "791047396"
+  },
+  {
+    "nw": "1409270",
+    "nw_1": "913536072",
+    "Imie": "dawid",
+    "Nazwisko": "Górecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Juszkowo",
+    "Ulica": "Wodna 11A",
+    "Adres Pocztowy": "83-000",
+    "Nr.Telefonu": "+48728367604"
+  }
+]

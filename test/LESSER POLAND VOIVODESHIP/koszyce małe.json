@@ -1,0 +1,55 @@
+[
+  {
+    "nw": "1953348",
+    "nw_1": "861321698",
+    "Imie": "Jan",
+    "Nazwisko": "Heleniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Koszyce Małe",
+    "Ulica": "Cicha 27",
+    "Adres Pocztowy": "33-111",
+    "Nr.Telefonu": "515415112"
+  },
+  {
+    "nw": "1525590",
+    "nw_1": "657750289",
+    "Imie": "Kacper",
+    "Nazwisko": "Ordyczyński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Koszyce Małe",
+    "Ulica": "Wolska 138",
+    "Adres Pocztowy": "33-111",
+    "Nr.Telefonu": "515648228"
+  },
+  {
+    "nw": "919696",
+    "nw_1": "756011427",
+    "Imie": "Paweł",
+    "Nazwisko": "pasula",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Koszyce małe",
+    "Ulica": "Koszyce małe "
+  },
+  {
+    "nw": "1670183",
+    "nw_1": "129958203",
+    "Imie": "David",
+    "Nazwisko": "Witaszek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Koszyce Małe",
+    "Ulica": "Koszyce Małe",
+    "Adres Pocztowy": " Źródlana 7",
+    "Nr.Telefonu": "33-111",
+    "__parsed_extra": [
+      "574972002"
+    ]
+  }
+]

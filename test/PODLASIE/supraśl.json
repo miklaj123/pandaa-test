@@ -1,0 +1,96 @@
+[
+  {
+    "nw": "1968727",
+    "nw_1": "524651829",
+    "Imie": "Kamil",
+    "Nazwisko": "Świętochowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Supraśl",
+    "Ulica": "brzozówka 25a",
+    "Adres Pocztowy": "16-030",
+    "Nr.Telefonu": "883123220"
+  },
+  {
+    "nw": "1267269",
+    "nw_1": "999773472",
+    "Imie": "Franek",
+    "Nazwisko": "Zdanowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Supraśl",
+    "Ulica": "ul. Brzozówka 31",
+    "Adres Pocztowy": "16-030",
+    "Nr.Telefonu": "533932632"
+  },
+  {
+    "nw": "1488025",
+    "nw_1": "702826208",
+    "Imie": "Jakub",
+    "Nazwisko": "Kwasiborski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Supraśl",
+    "Ulica": "Orla 22 Supraśl",
+    "Adres Pocztowy": "16-030",
+    "Nr.Telefonu": "533 915 821"
+  },
+  {
+    "nw": "1265059",
+    "nw_1": "108450537",
+    "Imie": "Maciek",
+    "Nazwisko": "Pasich",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Supraśl",
+    "Ulica": "Spółdzielcza 19",
+    "Adres Pocztowy": "16-030",
+    "Nr.Telefonu": "516755546"
+  },
+  {
+    "nw": "1624131",
+    "nw_1": "158488541",
+    "Imie": "Wiktor",
+    "Nazwisko": "Żuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Supraśl",
+    "Ulica": "Ul. Słowackiego 16A",
+    "Adres Pocztowy": "16-030",
+    "Nr.Telefonu": "574 216 358"
+  },
+  {
+    "nw": "154354",
+    "nw_1": "473720760",
+    "Imie": "Adam",
+    "Nazwisko": "Laskowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Supraśl",
+    "Ulica": "Ul. Zielona",
+    "Adres Pocztowy": " 16",
+    "Nr.Telefonu": "16-030",
+    "__parsed_extra": [
+      "504837799"
+    ]
+  },
+  {
+    "nw": "852524",
+    "nw_1": "738935824",
+    "Imie": "Kacper",
+    "Nazwisko": "Bajgus",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Supraśl",
+    "Ulica": "Sokołda house nr.25",
+    "Adres Pocztowy": "16-030",
+    "Nr.Telefonu": "0735093323"
+  }
+]

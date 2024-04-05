@@ -1,0 +1,57 @@
+[
+  {
+    "nw": "650549",
+    "nw_1": "294466821",
+    "Imie": "Jakub",
+    "Nazwisko": "Udalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Lututów",
+    "Ulica": "Słoneczna 4",
+    "Adres Pocztowy": "98-360",
+    "Nr.Telefonu": "+48882615047"
+  },
+  {
+    "nw": "603318",
+    "nw_1": "923192940",
+    "Imie": "Nikola",
+    "Nazwisko": "Tokarska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Lututów",
+    "Ulica": "Ostrycharze 15",
+    "Adres Pocztowy": "98-360",
+    "Nr.Telefonu": "609626030"
+  },
+  {
+    "nw": "1991162",
+    "nw_1": "830909074",
+    "Imie": "Karol",
+    "Nazwisko": "Pichlak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Lututów",
+    "Ulica": "Lututów",
+    "Adres Pocztowy": " Wieluńska 44",
+    "Nr.Telefonu": "98-360",
+    "__parsed_extra": [
+      "783444058"
+    ]
+  },
+  {
+    "nw": "1269774",
+    "nw_1": "201025534",
+    "Imie": "Jakub",
+    "Nazwisko": "Golińczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Lututów",
+    "Ulica": "Klonowska 8a/8",
+    "Adres Pocztowy": "98-360",
+    "Nr.Telefonu": "724844395"
+  }
+]

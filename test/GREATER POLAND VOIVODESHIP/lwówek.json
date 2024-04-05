@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2149565",
+    "nw_1": "991941981",
+    "Imie": "Kacper",
+    "Nazwisko": "Pacholak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Lwówek",
+    "Ulica": "ul Powstańców Wielkopolskich 26A",
+    "Adres Pocztowy": "64-310",
+    "Nr.Telefonu": "698698144"
+  },
+  {
+    "nw": "473433",
+    "nw_1": "223147173",
+    "Imie": "Jakub",
+    "Nazwisko": "Tomaszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Lwówek",
+    "Ulica": "Rynek 24/2",
+    "Adres Pocztowy": "64-310",
+    "Nr.Telefonu": "535997668"
+  },
+  {
+    "nw": "194156",
+    "nw_1": "148765895",
+    "Imie": "Kornel",
+    "Nazwisko": "Maciejewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Lwówek",
+    "Ulica": "Rynek 25",
+    "Adres Pocztowy": "64-310",
+    "Nr.Telefonu": "887807452"
+  }
+]

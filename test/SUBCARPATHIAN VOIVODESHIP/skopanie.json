@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "721495",
+    "nw_1": "290764570",
+    "Imie": "Adrian",
+    "Nazwisko": "Pasek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Skopanie",
+    "Ulica": "Malinowa 2",
+    "Adres Pocztowy": "39-451",
+    "Nr.Telefonu": "+48793662811"
+  },
+  {
+    "nw": "1238592",
+    "nw_1": "901007841",
+    "Imie": "Norbert",
+    "Nazwisko": "gradowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "skopanie",
+    "Ulica": "Mickiewicza 4/21",
+    "Adres Pocztowy": "39-451",
+    "Nr.Telefonu": "534498641"
+  },
+  {
+    "nw": "976189",
+    "nw_1": "383612378",
+    "Imie": "Nikodem",
+    "Nazwisko": "Czaykowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Skopanie",
+    "Ulica": "Słowackiego 3/2",
+    "Adres Pocztowy": "39-451",
+    "Nr.Telefonu": "692266067"
+  }
+]

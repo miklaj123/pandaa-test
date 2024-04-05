@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "1846598",
+    "nw_1": "782384893",
+    "Imie": "kacper",
+    "Nazwisko": "zawadzki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Policzna",
+    "Ulica": "Jadwinów 23",
+    "Adres Pocztowy": "26-720",
+    "Nr.Telefonu": "605115620"
+  },
+  {
+    "nw": "1240190",
+    "nw_1": "718138375",
+    "Imie": "Dawid",
+    "Nazwisko": "Sosiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Policzna",
+    "Ulica": "Dąbrowa-Las",
+    "Adres Pocztowy": " 6B",
+    "Nr.Telefonu": "26-720",
+    "__parsed_extra": [
+      "516367695"
+    ]
+  },
+  {
+    "nw": "1403877",
+    "nw_1": "101548473",
+    "Imie": "Krystian",
+    "Nazwisko": "Lentas",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Policzna",
+    "Ulica": "Piątków 44",
+    "Adres Pocztowy": "26-720",
+    "Nr.Telefonu": "517326258"
+  }
+]

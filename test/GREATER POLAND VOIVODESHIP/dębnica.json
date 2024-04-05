@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "79986",
+    "nw_1": "68942048",
+    "Imie": "Kamil",
+    "Nazwisko": "Kopczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Dębnica",
+    "Ulica": "Litewska 39",
+    "Adres Pocztowy": "63-421",
+    "Nr.Telefonu": "530152629"
+  },
+  {
+    "nw": "1497613",
+    "nw_1": "562634850",
+    "Imie": "Dariusz",
+    "Nazwisko": "Adamski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Dębnica",
+    "Ulica": "Dębnica 22 62-271",
+    "Adres Pocztowy": "62-271",
+    "Nr.Telefonu": "728762429"
+  },
+  {
+    "nw": "1471150",
+    "nw_1": "236270450",
+    "Imie": "Paweł",
+    "Nazwisko": "Matysiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Dębnica",
+    "Ulica": "Ostrowska 39",
+    "Adres Pocztowy": "63-421",
+    "Nr.Telefonu": "575751440"
+  }
+]

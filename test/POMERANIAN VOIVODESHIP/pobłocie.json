@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1044633",
+    "nw_1": "122193582",
+    "Imie": "Bartosz",
+    "Nazwisko": "Kwidziński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Pobłocie",
+    "Ulica": "Pobłocie Złota Góra 18",
+    "Adres Pocztowy": "84-223",
+    "Nr.Telefonu": "724097984"
+  },
+  {
+    "nw": "532203",
+    "nw_1": "676565137",
+    "Imie": "Piotr",
+    "Nazwisko": "Rzepa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Pobłocie",
+    "Ulica": "Pobłocie Luzińska 10",
+    "Adres Pocztowy": "84-223 Linia",
+    "Nr.Telefonu": "668950124"
+  },
+  {
+    "nw": "1807603",
+    "nw_1": "890645693",
+    "Imie": "Bartek",
+    "Nazwisko": "Miotk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Pobłocie",
+    "Ulica": "Pobłocie",
+    "Adres Pocztowy": "76-220",
+    "Nr.Telefonu": "+48517248331"
+  }
+]

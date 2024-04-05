@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1681227",
+    "nw_1": "658308094",
+    "Imie": "Robert",
+    "Nazwisko": "Markowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Kalinowo",
+    "Ulica": "Mazurska 16",
+    "Adres Pocztowy": "19-314",
+    "Nr.Telefonu": "518804306"
+  },
+  {
+    "nw": "2107245",
+    "nw_1": "366398821",
+    "Imie": "Bartosz",
+    "Nazwisko": "Andruk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Kalinowo",
+    "Ulica": "Pisanica 26",
+    "Adres Pocztowy": "19-314",
+    "Nr.Telefonu": "+48 500 523 515"
+  },
+  {
+    "nw": "1290070",
+    "nw_1": "319096538",
+    "Imie": "Dominik",
+    "Nazwisko": "Chilicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "kalinowo",
+    "Ulica": "czyńcze 4",
+    "Adres Pocztowy": "19-314",
+    "Nr.Telefonu": "517055034"
+  }
+]

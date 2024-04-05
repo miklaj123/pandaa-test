@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1446511",
+    "nw_1": "501201151",
+    "Imie": "Karol",
+    "Nazwisko": "Hamerski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kudowa Zdrój",
+    "Ulica": "Pogodna 11/19",
+    "Adres Pocztowy": "57-350",
+    "Nr.Telefonu": "730396192"
+  },
+  {
+    "nw": "1862193",
+    "nw_1": "126344055",
+    "Imie": "Jan",
+    "Nazwisko": "Jędrzejewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kudowa Zdrój",
+    "Ulica": "Jasna 1G",
+    "Adres Pocztowy": "57-350",
+    "Nr.Telefonu": "884050004"
+  },
+  {
+    "nw": "1732973",
+    "nw_1": "454586171",
+    "Imie": "Kacper",
+    "Nazwisko": "Dutkiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "kudowa Zdrój",
+    "Ulica": "Bolesława Chrobrego 17",
+    "Adres Pocztowy": "57-350",
+    "Nr.Telefonu": "534088999"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "nw": "1111569",
+    "nw_1": "603058875",
+    "Imie": "Miłosz",
+    "Nazwisko": "Moczulski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Ciechanowiec",
+    "Ulica": "Koce Basie 47",
+    "Adres Pocztowy": "18-230",
+    "Nr.Telefonu": "789438032"
+  },
+  {
+    "nw": "1992507",
+    "nw_1": "895384260",
+    "Imie": "Ewa",
+    "Nazwisko": "Tymińska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "ciechanowiec",
+    "Ulica": "mickiewicza 17/1",
+    "Adres Pocztowy": "18-230",
+    "Nr.Telefonu": "666656807"
+  },
+  {
+    "nw": "534107",
+    "nw_1": "900777271",
+    "Imie": "kuba",
+    "Nazwisko": "kosinski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "ciechanowiec",
+    "Ulica": "street: sienkiewicza 3",
+    "Adres Pocztowy": "18-230",
+    "Nr.Telefonu": "515678367"
+  },
+  {
+    "nw": "405071",
+    "nw_1": "230659695",
+    "Imie": "patryk",
+    "Nazwisko": "slizak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Ciechanowiec",
+    "Ulica": "Akacjowa 29",
+    "Adres Pocztowy": "18230",
+    "Nr.Telefonu": "518410663"
+  },
+  {
+    "nw": "1043128",
+    "nw_1": "411481394",
+    "Imie": "miłosz",
+    "Nazwisko": "Raczkowskj",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Ciechanowiec",
+    "Ulica": "mickiewicza 17",
+    "Adres Pocztowy": "18-230",
+    "Nr.Telefonu": "511876952"
+  }
+]

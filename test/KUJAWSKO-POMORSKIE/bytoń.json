@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1261229",
+    "nw_1": "972712165",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Wojewoda",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Bytoń",
+    "Ulica": "Morzyce 35",
+    "Adres Pocztowy": "88-231",
+    "Nr.Telefonu": "721 230 997"
+  },
+  {
+    "nw": "1511147",
+    "nw_1": "468608024",
+    "Imie": "Maria",
+    "Nazwisko": "Kowalska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Bytoń",
+    "Ulica": "64H",
+    "Adres Pocztowy": "88-231",
+    "Nr.Telefonu": "+48695322123"
+  },
+  {
+    "nw": "1145291",
+    "nw_1": "167378887",
+    "Imie": "Oskar",
+    "Nazwisko": "Krysiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Bytoń",
+    "Ulica": "Świesz 29",
+    "Adres Pocztowy": "88-231",
+    "Nr.Telefonu": "697853153"
+  }
+]

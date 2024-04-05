@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "700287",
+    "nw_1": "674724503",
+    "Imie": "Nikodem",
+    "Nazwisko": "Podolski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Józefow",
+    "Ulica": "jesiotrowa 2a",
+    "Adres Pocztowy": "05-420",
+    "Nr.Telefonu": "503611997"
+  },
+  {
+    "nw": "1977849",
+    "nw_1": "468559347",
+    "Imie": "Czarek",
+    "Nazwisko": "Kurek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Józefow",
+    "Ulica": "Marszałka Józefa Piłsudskiego 116a",
+    "Adres Pocztowy": "05-420",
+    "Nr.Telefonu": "690540059"
+  },
+  {
+    "nw": "513587",
+    "nw_1": "430459880",
+    "Imie": "Rafał",
+    "Nazwisko": "Dyszlewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Józefow",
+    "Ulica": "3 maja 68",
+    "Adres Pocztowy": "05-420",
+    "Nr.Telefonu": "518458975"
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "nw": "1367615",
+    "nw_1": "507222352",
+    "Imie": "Miłosz",
+    "Nazwisko": "Szudy",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Jasło",
+    "Ulica": "ul.Bednarska"
+  },
+  {
+    "nw": "1428799",
+    "nw_1": "906760114",
+    "Imie": "Kacper",
+    "Nazwisko": "Korczykowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Jasło",
+    "Ulica": "Jasło",
+    "Adres Pocztowy": " Mickiewicza 14",
+    "Nr.Telefonu": "38-200",
+    "__parsed_extra": [
+      "504164896"
+    ]
+  }
+]

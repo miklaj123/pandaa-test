@@ -1,0 +1,91 @@
+[
+  {
+    "nw": "433704",
+    "nw_1": "848552451",
+    "Imie": "Dawid",
+    "Nazwisko": "Białek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Debrzno",
+    "Ulica": "kwiatowa"
+  },
+  {
+    "nw": "279882",
+    "nw_1": "386004273",
+    "Imie": "alan",
+    "Nazwisko": "miszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Debrzno",
+    "Ulica": "ul.witosa 3/1",
+    "Adres Pocztowy": "77-310",
+    "Nr.Telefonu": "48785600719"
+  },
+  {
+    "nw": "2199492",
+    "nw_1": "298594123",
+    "Imie": "olek",
+    "Nazwisko": "chyła",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "debrzno",
+    "Ulica": "przechodnia 3/19",
+    "Adres Pocztowy": "19*1607",
+    "Nr.Telefonu": "781004140"
+  },
+  {
+    "nw": "1010240",
+    "nw_1": "191848548",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Olkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "debrzno",
+    "Ulica": "ul. brzozowa 3",
+    "Adres Pocztowy": "77-310",
+    "Nr.Telefonu": "+48603756632"
+  },
+  {
+    "nw": "966404",
+    "nw_1": "390157524",
+    "Imie": "Tomasz",
+    "Nazwisko": "Nakielski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Debrzno",
+    "Ulica": "7/38 Przechodnia",
+    "Adres Pocztowy": "77-310",
+    "Nr.Telefonu": "513095206"
+  },
+  {
+    "nw": "2150843",
+    "nw_1": "962253476",
+    "Imie": "Fabian",
+    "Nazwisko": "Wójtowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Debrzno",
+    "Ulica": "Mickiewicza 7H",
+    "Adres Pocztowy": "77-310",
+    "Nr.Telefonu": "788662333"
+  },
+  {
+    "nw": "406127",
+    "nw_1": "931568152",
+    "Imie": "Filip",
+    "Nazwisko": "Lange",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Debrzno",
+    "Ulica": "Okrzei 13",
+    "Adres Pocztowy": "77-310",
+    "Nr.Telefonu": "513937468"
+  }
+]

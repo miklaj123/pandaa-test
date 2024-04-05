@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "72322",
+    "nw_1": "18572445",
+    "Imie": "Patryk",
+    "Nazwisko": "Lesiecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Szymanów",
+    "Ulica": "ZIMOWA 8",
+    "Adres Pocztowy": "51-180",
+    "Nr.Telefonu": "660223322"
+  },
+  {
+    "nw": "755786",
+    "nw_1": "110179302",
+    "Imie": "Jakub",
+    "Nazwisko": "Dula",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "szymanów",
+    "Ulica": "Szymanów łakowa 27",
+    "Adres Pocztowy": "51-180",
+    "Nr.Telefonu": "572736361"
+  },
+  {
+    "nw": "1121872",
+    "nw_1": "287725074",
+    "Imie": "Łukasz",
+    "Nazwisko": "Duk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Szymanów",
+    "Ulica": "Średzka 10a/2",
+    "Adres Pocztowy": "55-320",
+    "Nr.Telefonu": "518333066"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "nw": "375979",
+    "nw_1": "762246791",
+    "Imie": "Kamil",
+    "Nazwisko": "Sim",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Jenin",
+    "Ulica": "Gorzowska 115a",
+    "Adres Pocztowy": "66-450",
+    "Nr.Telefonu": "533778485"
+  },
+  {
+    "nw": "720329",
+    "nw_1": "262072707",
+    "Imie": "Jakub",
+    "Nazwisko": "Popkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Jenin",
+    "Ulica": "Lipowa 31",
+    "Adres Pocztowy": "66-450",
+    "Nr.Telefonu": "575 872 776"
+  },
+  {
+    "nw": "1131489",
+    "nw_1": "307408422",
+    "Imie": "Filip",
+    "Nazwisko": "Kosiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Jenin",
+    "Ulica": "Osiedlowa"
+  },
+  {
+    "nw": "2000660",
+    "nw_1": "890680078",
+    "Imie": "Michał",
+    "Nazwisko": "Żylewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Jenin",
+    "Ulica": "Akacjowa 12b",
+    "Adres Pocztowy": "66-450",
+    "Nr.Telefonu": "665037666"
+  }
+]

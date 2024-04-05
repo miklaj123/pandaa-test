@@ -1,0 +1,67 @@
+[
+  {
+    "nw": "1500517",
+    "nw_1": "838297098",
+    "Imie": "Robert",
+    "Nazwisko": "Krentusz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Gołkowice",
+    "Ulica": "Jana III Sobieskiego 17",
+    "Adres Pocztowy": "44-341",
+    "Nr.Telefonu": "788947704"
+  },
+  {
+    "nw": "1321095",
+    "nw_1": "645578782",
+    "Imie": "Błażej",
+    "Nazwisko": "Potysz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Gołkowice",
+    "Ulica": "Podlaska 1",
+    "Adres Pocztowy": "44-341",
+    "Nr.Telefonu": "694089891"
+  },
+  {
+    "nw": "2095204",
+    "nw_1": "281275889",
+    "Imie": "Mateusz",
+    "Nazwisko": "Pietroszek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Gołkowice",
+    "Ulica": "Borowicka 80",
+    "Adres Pocztowy": "44-341",
+    "Nr.Telefonu": "783083734"
+  },
+  {
+    "nw": "1433850",
+    "nw_1": "566453982",
+    "Imie": "paweł",
+    "Nazwisko": "szkatuła",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "gołkowice",
+    "Ulica": "podlaska 14",
+    "Adres Pocztowy": "44-341",
+    "Nr.Telefonu": "731496101"
+  },
+  {
+    "nw": "2079351",
+    "nw_1": "967267367",
+    "Imie": "Kacper",
+    "Nazwisko": "Gruszka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Gołkowice",
+    "Ulica": "1 maja 313",
+    "Adres Pocztowy": "44-341",
+    "Nr.Telefonu": "789489640"
+  }
+]

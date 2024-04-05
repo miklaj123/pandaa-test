@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1508131",
+    "nw_1": "963964262",
+    "Imie": "Igor",
+    "Nazwisko": "Mirzojan",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Ostrówek",
+    "Ulica": "Okalew 125",
+    "Adres Pocztowy": "98-311",
+    "Nr.Telefonu": "603376506"
+  },
+  {
+    "nw": "1505128",
+    "nw_1": "749735717",
+    "Imie": "Samuel",
+    "Nazwisko": "Sobota",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Ostrówek",
+    "Ulica": "Rudlice 8",
+    "Adres Pocztowy": "98-311",
+    "Nr.Telefonu": "729608323"
+  },
+  {
+    "nw": "1798103",
+    "nw_1": "205533461",
+    "Imie": "dominik",
+    "Nazwisko": "rudnicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Ostrówek",
+    "Ulica": "98a Ostrówek",
+    "Adres Pocztowy": "98-311",
+    "Nr.Telefonu": "698904610"
+  }
+]

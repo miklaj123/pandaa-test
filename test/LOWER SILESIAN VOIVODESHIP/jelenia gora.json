@@ -1,0 +1,118 @@
+[
+  {
+    "nw": "2047832",
+    "nw_1": "682434531",
+    "Imie": "kacper",
+    "Nazwisko": "kasprzyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Jelenia Gora",
+    "Ulica": "Poznańska"
+  },
+  {
+    "nw": "1795505",
+    "nw_1": "319972122",
+    "Imie": "Olgierd",
+    "Nazwisko": "Banasiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Jelenia Gora",
+    "Ulica": "Noskowskiego 1/3",
+    "Adres Pocztowy": "58-506",
+    "Nr.Telefonu": "514 379 077"
+  },
+  {
+    "nw": "1395524",
+    "nw_1": "810467631",
+    "Imie": "Patryk",
+    "Nazwisko": "Zaradniewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Jelenia Gora",
+    "Ulica": "Wiśniowa"
+  },
+  {
+    "nw": "1612478",
+    "nw_1": "560598057",
+    "Imie": "Iryna",
+    "Nazwisko": "Hortman",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Jelenia Gora",
+    "Ulica": "Bartek the Winner 5",
+    "Adres Pocztowy": "apartment 7",
+    "Nr.Telefonu": ""
+  },
+  {
+    "nw": "920515",
+    "nw_1": "831636388",
+    "Imie": "Bartek",
+    "Nazwisko": "Suchecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Jelenia Gora",
+    "Ulica": "Małcużyńskiego 62",
+    "Adres Pocztowy": "58-506",
+    "Nr.Telefonu": "533687851"
+  },
+  {
+    "nw": "2316841",
+    "nw_1": "124229519",
+    "Imie": "Daniel",
+    "Nazwisko": "Ksiazek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Jelenia Gora",
+    "Ulica": "Działkowicza 39a",
+    "Adres Pocztowy": "58-506",
+    "Nr.Telefonu": "730237271"
+  },
+  {
+    "nw": "107314",
+    "nw_1": "873941702",
+    "Imie": "Mateusz",
+    "Nazwisko": "Kowal",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Jelenia Gora",
+    "Ulica": "Bolesława Prusa 4"
+  },
+  {
+    "nw": "1952171",
+    "nw_1": "421586087",
+    "Imie": "Viola",
+    "Nazwisko": "Palinichka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Jelenia Gora",
+    "Ulica": "58-506",
+    "Adres Pocztowy": " city Jelenia Gora",
+    "Nr.Telefonu": " street Wiejska 52",
+    "__parsed_extra": [
+      "9",
+      "58-506",
+      "+48510318379"
+    ]
+  },
+  {
+    "nw": "330385",
+    "nw_1": "423534176",
+    "Imie": "Dominik",
+    "Nazwisko": "Gorski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Jelenia Gora",
+    "Ulica": "Slowackiego 36",
+    "Adres Pocztowy": "58-500",
+    "Nr.Telefonu": "511136636"
+  }
+]

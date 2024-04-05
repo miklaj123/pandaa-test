@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "549504",
+    "nw_1": "821452805",
+    "Imie": "Izabela",
+    "Nazwisko": "Miler",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Bełk",
+    "Ulica": "ul. Dworcowa 14",
+    "Adres Pocztowy": "44-230",
+    "Nr.Telefonu": "+48606282842"
+  },
+  {
+    "nw": "131210",
+    "nw_1": "461789209",
+    "Imie": "Jakub",
+    "Nazwisko": "Kamiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Bełk",
+    "Ulica": "Główna 7a/7",
+    "Adres Pocztowy": "44-237",
+    "Nr.Telefonu": "724131442"
+  },
+  {
+    "nw": "561090",
+    "nw_1": "107192755",
+    "Imie": "Szymon",
+    "Nazwisko": "Słupik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Bełk",
+    "Ulica": "ul. Ramży 62c",
+    "Adres Pocztowy": "44-230",
+    "Nr.Telefonu": "698263450"
+  },
+  {
+    "nw": "320394",
+    "nw_1": "900181446",
+    "Imie": "Tymoteusz",
+    "Nazwisko": "Wrona",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Bełk",
+    "Ulica": "Palowicka 155D",
+    "Adres Pocztowy": "44-237",
+    "Nr.Telefonu": "661733339"
+  }
+]

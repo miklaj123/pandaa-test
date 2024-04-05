@@ -1,0 +1,70 @@
+[
+  {
+    "nw": "1245223",
+    "nw_1": "297001567",
+    "Imie": "Jorge luis",
+    "Nazwisko": "cuba solano",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Rabka Zdrój",
+    "Ulica": "ul orkana 18C/43",
+    "Adres Pocztowy": "34-700",
+    "Nr.Telefonu": "699714379"
+  },
+  {
+    "nw": "1508279",
+    "nw_1": "447356994",
+    "Imie": "karolina",
+    "Nazwisko": "jasińska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Rabka Zdrój",
+    "Ulica": "Rabka Zdrój",
+    "Adres Pocztowy": " Nowy Świat 34a",
+    "Nr.Telefonu": "34-700",
+    "__parsed_extra": [
+      "698409531"
+    ]
+  },
+  {
+    "nw": "1528266",
+    "nw_1": "184914494",
+    "Imie": "jakub",
+    "Nazwisko": "Andrzej",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Rabka Zdrój",
+    "Ulica": "jakub.wojtowicz@o2.pl",
+    "Adres Pocztowy": "34-700",
+    "Nr.Telefonu": "735807660"
+  },
+  {
+    "nw": "1043841",
+    "nw_1": "940237654",
+    "Imie": "Wiktor",
+    "Nazwisko": "Sienko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Rabka Zdrój",
+    "Ulica": "6 krótka",
+    "Adres Pocztowy": "34-700",
+    "Nr.Telefonu": "798112212"
+  },
+  {
+    "nw": "1818868",
+    "nw_1": "775469726",
+    "Imie": "Antoni",
+    "Nazwisko": "Pintscher",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Rabka Zdrój",
+    "Ulica": "Podhalańska 36c",
+    "Adres Pocztowy": "34-700",
+    "Nr.Telefonu": "665333308"
+  }
+]

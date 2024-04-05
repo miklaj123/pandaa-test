@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "202801",
+    "nw_1": "747164481",
+    "Imie": "Natan",
+    "Nazwisko": "Smogor",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Rosnówko",
+    "Ulica": "1 maja 61",
+    "Adres Pocztowy": "62-052",
+    "Nr.Telefonu": "+48602572976"
+  },
+  {
+    "nw": "1733412",
+    "nw_1": "107248791",
+    "Imie": "Mateusz",
+    "Nazwisko": "Szafranski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Rosnówko",
+    "Ulica": "Wichrowa",
+    "Adres Pocztowy": " 7",
+    "Nr.Telefonu": "62-052",
+    "__parsed_extra": [
+      "514771193"
+    ]
+  },
+  {
+    "nw": "32813",
+    "nw_1": "296894530",
+    "Imie": "Artem",
+    "Nazwisko": "Dolbin",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Rosnówko",
+    "Ulica": "Dworcowa 15",
+    "Adres Pocztowy": "62-052",
+    "Nr.Telefonu": "+48 452 705 593"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "nw": "1855534",
+    "nw_1": "821889715",
+    "Imie": "Bartosz",
+    "Nazwisko": "Borowy",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Kryspinów",
+    "Ulica": "Kryspinów"
+  },
+  {
+    "nw": "1555137",
+    "nw_1": "709218374",
+    "Imie": "Jakub",
+    "Nazwisko": "Koszycki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Kryspinów",
+    "Ulica": "Pod Borem 3",
+    "Adres Pocztowy": "32-060",
+    "Nr.Telefonu": "665997220"
+  },
+  {
+    "nw": "1643139",
+    "nw_1": "907902658",
+    "Imie": "Konrad",
+    "Nazwisko": "Sit",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Kryspinów",
+    "Ulica": "Kryspinów",
+    "Adres Pocztowy": " Błonia 17",
+    "Nr.Telefonu": "32-060",
+    "__parsed_extra": [
+      "798189596"
+    ]
+  }
+]

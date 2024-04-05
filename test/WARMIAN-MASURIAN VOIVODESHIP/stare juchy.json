@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2208525",
+    "nw_1": "982219543",
+    "Imie": "Hubert",
+    "Nazwisko": "Karwowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Stare Juchy",
+    "Ulica": "Olszewo 6",
+    "Adres Pocztowy": "19-330",
+    "Nr.Telefonu": "603241781"
+  },
+  {
+    "nw": "1273603",
+    "nw_1": "453281071",
+    "Imie": "Patryk",
+    "Nazwisko": "Sosnowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Stare Juchy",
+    "Ulica": "Kętrzyńskiego 11",
+    "Adres Pocztowy": "19-330",
+    "Nr.Telefonu": "504967333"
+  },
+  {
+    "nw": "2313476",
+    "nw_1": "814460726",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Skowroński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Stare juchy",
+    "Ulica": "Liski 55",
+    "Adres Pocztowy": "19-330",
+    "Nr.Telefonu": "579924305"
+  }
+]

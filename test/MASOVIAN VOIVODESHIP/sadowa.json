@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "845829",
+    "nw_1": "492446673",
+    "Imie": "Mikolaj",
+    "Nazwisko": "Kozdeba",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Sadowa",
+    "Ulica": "Lipińskiego 15a",
+    "Adres Pocztowy": "05-092",
+    "Nr.Telefonu": "+48 788 808 288"
+  },
+  {
+    "nw": "1626521",
+    "nw_1": "494888831",
+    "Imie": "Milosz",
+    "Nazwisko": "Cichewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Sadowa",
+    "Ulica": "13",
+    "Adres Pocztowy": " Biedronki",
+    "Nr.Telefonu": "05-092",
+    "__parsed_extra": [
+      "881921341"
+    ]
+  }
+]

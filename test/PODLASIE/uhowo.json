@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "1153381",
+    "nw_1": "415492253",
+    "Imie": "Hubert",
+    "Nazwisko": "Kozłowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Uhowo",
+    "Ulica": "Mickiewicza"
+  },
+  {
+    "nw": "831105",
+    "nw_1": "581431250",
+    "Imie": "Dawid",
+    "Nazwisko": "Janowik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Uhowo",
+    "Ulica": "Kolejowa 14",
+    "Adres Pocztowy": "18-100",
+    "Nr.Telefonu": "533705741"
+  },
+  {
+    "nw": "831104",
+    "nw_1": "581431250",
+    "Imie": "Dawid",
+    "Nazwisko": "Janowik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Uhowo",
+    "Ulica": "Kolejowa 14",
+    "Adres Pocztowy": "18-100",
+    "Nr.Telefonu": "533705741"
+  }
+]

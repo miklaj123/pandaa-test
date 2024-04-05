@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "1292461",
+    "nw_1": "866683828",
+    "Imie": "Jakub",
+    "Nazwisko": "Pancerz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Księginice",
+    "Ulica": "Łabędzia 7",
+    "Adres Pocztowy": "55-100",
+    "Nr.Telefonu": "+48782764545"
+  },
+  {
+    "nw": "383439",
+    "nw_1": "388509374",
+    "Imie": "Nikodem",
+    "Nazwisko": "Golonka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Księginice",
+    "Ulica": "Owocowa 8",
+    "Adres Pocztowy": "55-330",
+    "Nr.Telefonu": "794915347"
+  },
+  {
+    "nw": "88813",
+    "nw_1": "50767653",
+    "Imie": "Gracjan",
+    "Nazwisko": "Wawruszczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Księginice",
+    "Ulica": "Łabędzia"
+  }
+]

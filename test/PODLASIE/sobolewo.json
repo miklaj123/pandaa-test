@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2282593",
+    "nw_1": "852820713",
+    "Imie": "Marcel ",
+    "Nazwisko": "Trochonowicz ",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Sobolewo",
+    "Ulica": "Ulica zajęcza 8/4 ",
+    "Adres Pocztowy": "15-509",
+    "Nr.Telefonu": "534591569"
+  },
+  {
+    "nw": "1033594",
+    "nw_1": "888140834",
+    "Imie": "Dawid",
+    "Nazwisko": "Klebus",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Sobolewo",
+    "Ulica": "ul. Sójki 8",
+    "Adres Pocztowy": "15-509",
+    "Nr.Telefonu": "537105767"
+  },
+  {
+    "nw": "2014623",
+    "nw_1": "640015033",
+    "Imie": "Franciszek",
+    "Nazwisko": "Łapiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Sobolewo",
+    "Ulica": "Szkolna 16",
+    "Adres Pocztowy": "15-509",
+    "Nr.Telefonu": "518045700"
+  }
+]

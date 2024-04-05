@@ -1,0 +1,83 @@
+[
+  {
+    "nw": "1085796",
+    "nw_1": "759018431",
+    "Imie": "Natalia",
+    "Nazwisko": "mazur",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Glogow",
+    "Ulica": "Orzechowa 92",
+    "Adres Pocztowy": "67-200",
+    "Nr.Telefonu": "572224522"
+  },
+  {
+    "nw": "2102701",
+    "nw_1": "591348119",
+    "Imie": "Basia",
+    "Nazwisko": "Czart",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Glogow",
+    "Ulica": "Rynek 105",
+    "Adres Pocztowy": " park home",
+    "Nr.Telefonu": "67-200",
+    "__parsed_extra": [
+      "536142444"
+    ]
+  },
+  {
+    "nw": "2067029",
+    "nw_1": "381141524",
+    "Imie": "Alan",
+    "Nazwisko": "kosiedowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Glogow",
+    "Ulica": "Galileusza 16c/9",
+    "Adres Pocztowy": "67-200",
+    "Nr.Telefonu": "+49792305309"
+  },
+  {
+    "nw": "2252857",
+    "nw_1": "764084704",
+    "Imie": "Pawel",
+    "Nazwisko": "Kozl",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Glogow ",
+    "Ulica": "Niedzialkowskiego 19/22",
+    "Adres Pocztowy": "67-200",
+    "Nr.Telefonu": "+48733438046"
+  },
+  {
+    "nw": "1459711",
+    "nw_1": "312764368",
+    "Imie": "Tomasz",
+    "Nazwisko": "Jaroszek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Glogow",
+    "Ulica": "Ustronna 1",
+    "Adres Pocztowy": "67-200",
+    "Nr.Telefonu": "533461939"
+  },
+  {
+    "nw": "2351398",
+    "nw_1": "734055196",
+    "Imie": "Filip",
+    "Nazwisko": "Stempin",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Glogow",
+    "Ulica": "Grodzienska 62",
+    "Adres Pocztowy": "67-200",
+    "Nr.Telefonu": "48+693775936"
+  }
+]

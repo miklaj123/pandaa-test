@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1515161",
+    "nw_1": "705273966",
+    "Imie": "Marzena",
+    "Nazwisko": "Michalak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Ozarow",
+    "Ulica": "Zawada 4c",
+    "Adres Pocztowy": "27-530",
+    "Nr.Telefonu": "607801648"
+  },
+  {
+    "nw": "1782212",
+    "nw_1": "191136339",
+    "Imie": "Hubert",
+    "Nazwisko": "Muszynski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Ozarow",
+    "Ulica": "Karsy 7A",
+    "Adres Pocztowy": "27-530",
+    "Nr.Telefonu": "665654631"
+  },
+  {
+    "nw": "406089",
+    "nw_1": "695572343",
+    "Imie": "Jakub",
+    "Nazwisko": "Buglewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Ozarow",
+    "Ulica": "Zawada 1d",
+    "Adres Pocztowy": "27-530 Ozarow",
+    "Nr.Telefonu": "574750436"
+  }
+]

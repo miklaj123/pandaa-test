@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "588156",
+    "nw_1": "680672224",
+    "Imie": "Agnieszka",
+    "Nazwisko": "Zdun",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Pyzdry",
+    "Ulica": "krótka 1",
+    "Adres Pocztowy": "62-310",
+    "Nr.Telefonu": "661920285"
+  },
+  {
+    "nw": "2198108",
+    "nw_1": "794701129",
+    "Imie": "Iryna",
+    "Nazwisko": "Boisiuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Pyzdry ",
+    "Ulica": "Pyzdry",
+    "Adres Pocztowy": " ul. Farna 36/19",
+    "Nr.Telefonu": "62-310",
+    "__parsed_extra": [
+      "+48575273285"
+    ]
+  }
+]

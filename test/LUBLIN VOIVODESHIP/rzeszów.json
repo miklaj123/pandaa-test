@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "548936",
+    "nw_1": "727359406",
+    "Imie": "Ernest",
+    "Nazwisko": "Kiczek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Rzeszów",
+    "Ulica": "Lewakowskiego 5/22",
+    "Adres Pocztowy": "35-119",
+    "Nr.Telefonu": "+48793766445"
+  },
+  {
+    "nw": "1942580",
+    "nw_1": "784610969",
+    "Imie": "Martyna",
+    "Nazwisko": "Michalewska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Rzeszów",
+    "Ulica": "Ignacego Solarza 6/53",
+    "Adres Pocztowy": "35-111",
+    "Nr.Telefonu": "+48791927333"
+  },
+  {
+    "nw": "1685632",
+    "nw_1": "808253681",
+    "Imie": "Antoni",
+    "Nazwisko": "Kubejko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Rzeszów",
+    "Ulica": "Słocińska 98 J",
+    "Adres Pocztowy": "35-330",
+    "Nr.Telefonu": "514370664"
+  }
+]

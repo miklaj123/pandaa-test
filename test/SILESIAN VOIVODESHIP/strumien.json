@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "1161096",
+    "nw_1": "443724280",
+    "Imie": "Patryk",
+    "Nazwisko": "Zakrzewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Strumien",
+    "Ulica": "Cicha 11 43-246 Strumien",
+    "Adres Pocztowy": " Slask",
+    "Nr.Telefonu": "43-246",
+    "__parsed_extra": [
+      "513768079"
+    ]
+  },
+  {
+    "nw": "364501",
+    "nw_1": "695004760",
+    "Imie": "oliwier",
+    "Nazwisko": "grabowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Strumien",
+    "Ulica": "legowa 4",
+    "Adres Pocztowy": "43-246",
+    "Nr.Telefonu": "530619090"
+  }
+]

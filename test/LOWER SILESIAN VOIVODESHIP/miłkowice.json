@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "934382",
+    "nw_1": "385825187",
+    "Imie": "Ewelina",
+    "Nazwisko": "Plebaniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Miłkowice",
+    "Ulica": "Lipce 16"
+  },
+  {
+    "nw": "1383774",
+    "nw_1": "835674974",
+    "Imie": "Konrad",
+    "Nazwisko": "Jeżewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Miłkowice",
+    "Ulica": "Siedliska 16",
+    "Adres Pocztowy": "59-222",
+    "Nr.Telefonu": "517029762"
+  },
+  {
+    "nw": "1834969",
+    "nw_1": "634473741",
+    "Imie": "Michał",
+    "Nazwisko": "Balicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Miłkowice",
+    "Ulica": "91E",
+    "Adres Pocztowy": "59-222",
+    "Nr.Telefonu": "516995257"
+  }
+]

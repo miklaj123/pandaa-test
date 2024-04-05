@@ -1,0 +1,81 @@
+[
+  {
+    "nw": "249975",
+    "nw_1": "65464957",
+    "Imie": "Jakub",
+    "Nazwisko": "Kościański",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Bojanowo",
+    "Ulica": "Ogrodowa 9"
+  },
+  {
+    "nw": "2143267",
+    "nw_1": "202405586",
+    "Imie": "Gabriel",
+    "Nazwisko": "Winiarski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "bojanowo",
+    "Ulica": "Czechnów 46",
+    "Adres Pocztowy": "63-940",
+    "Nr.Telefonu": "730007439"
+  },
+  {
+    "nw": "353435",
+    "nw_1": "528662024",
+    "Imie": "Szymon",
+    "Nazwisko": "Sienkiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Bojanowo",
+    "Ulica": "Drzymały 4/2",
+    "Adres Pocztowy": "63-940",
+    "Nr.Telefonu": "695093690"
+  },
+  {
+    "nw": "1183561",
+    "nw_1": "439460183",
+    "Imie": "Mateusz",
+    "Nazwisko": "Marach",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Bojanowo",
+    "Ulica": "Gołaszyn 119a ",
+    "Adres Pocztowy": " Bojanowo 63-940",
+    "Nr.Telefonu": "63-940",
+    "__parsed_extra": [
+      "+48 537 402 273"
+    ]
+  },
+  {
+    "nw": "1615429",
+    "nw_1": "549987705",
+    "Imie": "Mateusz",
+    "Nazwisko": "Neter",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Bojanowo",
+    "Ulica": "Golina Wielka 92c/5",
+    "Adres Pocztowy": "63-940",
+    "Nr.Telefonu": "731509438"
+  },
+  {
+    "nw": "1396194",
+    "nw_1": "449195728",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Chwiłkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Bojanowo",
+    "Ulica": "Tarchalin 15",
+    "Adres Pocztowy": "63-940",
+    "Nr.Telefonu": "794225393"
+  }
+]

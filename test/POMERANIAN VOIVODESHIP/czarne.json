@@ -1,0 +1,102 @@
+[
+  {
+    "nw": "2236243",
+    "nw_1": "317098446",
+    "Imie": "Maciej",
+    "Nazwisko": "Jańczuk ",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Czarne",
+    "Ulica": "Cicha 2/13"
+  },
+  {
+    "nw": "1341571",
+    "nw_1": "652904172",
+    "Imie": "szymon",
+    "Nazwisko": "lemańczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "czarne",
+    "Ulica": "wesoła 10",
+    "Adres Pocztowy": "77-330",
+    "Nr.Telefonu": "690056441"
+  },
+  {
+    "nw": "83655",
+    "nw_1": "299122911",
+    "Imie": "Kuba",
+    "Nazwisko": "Czępiński ",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Czarne",
+    "Ulica": "Wojska Polskiego"
+  },
+  {
+    "nw": "411427",
+    "nw_1": "448090363",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Jaśkiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Czarne",
+    "Ulica": "Sokole-33",
+    "Adres Pocztowy": "77-330",
+    "Nr.Telefonu": "721 774 321"
+  },
+  {
+    "nw": "1010366",
+    "nw_1": "539536392",
+    "Imie": "Jakub",
+    "Nazwisko": "Bah",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Czarne",
+    "Ulica": "Lipowa 3",
+    "Adres Pocztowy": "77-330",
+    "Nr.Telefonu": "+4792974338"
+  },
+  {
+    "nw": "2244928",
+    "nw_1": "205051288",
+    "Imie": "Jakub",
+    "Nazwisko": "Margilt",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "czarne",
+    "Ulica": "zamkowa 5/2",
+    "Adres Pocztowy": "77-330",
+    "Nr.Telefonu": "697356446"
+  },
+  {
+    "nw": "904055",
+    "nw_1": "265163593",
+    "Imie": "wiktoria",
+    "Nazwisko": "winnicka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "czarne",
+    "Ulica": "strzelecka 16/4",
+    "Adres Pocztowy": "77-330",
+    "Nr.Telefonu": "530138256"
+  },
+  {
+    "nw": "658573",
+    "nw_1": "496116836",
+    "Imie": "Jakub",
+    "Nazwisko": "Wąsikowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "czarne",
+    "Ulica": "jagodowa 6",
+    "Adres Pocztowy": "77-330",
+    "Nr.Telefonu": "530542042"
+  }
+]

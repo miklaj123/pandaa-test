@@ -1,0 +1,80 @@
+[
+  {
+    "nw": "2094087",
+    "nw_1": "612074615",
+    "Imie": "Mateusz",
+    "Nazwisko": "Kasyna",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Nowy Staw",
+    "Ulica": "Nowy Staw słowackiego 10B/12",
+    "Adres Pocztowy": "82-230",
+    "Nr.Telefonu": "533975882"
+  },
+  {
+    "nw": "1136946",
+    "nw_1": "498066907",
+    "Imie": "Paulina",
+    "Nazwisko": "Rojewska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Nowy Staw",
+    "Ulica": "ul.Gdańska 7/2",
+    "Adres Pocztowy": "82-230",
+    "Nr.Telefonu": "+48 784218888"
+  },
+  {
+    "nw": "4542",
+    "nw_1": "66771531",
+    "Imie": "Dawid",
+    "Nazwisko": "Frontczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Nowy Staw",
+    "Ulica": "Jana Pawla II 1B/14",
+    "Adres Pocztowy": "82230",
+    "Nr.Telefonu": "797996529"
+  },
+  {
+    "nw": "2152684",
+    "nw_1": "838474442",
+    "Imie": "Marcin",
+    "Nazwisko": "Głuszkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Nowy Staw",
+    "Ulica": "Wita Stwosza 21b/12",
+    "Adres Pocztowy": "82-230",
+    "Nr.Telefonu": "508733459"
+  },
+  {
+    "nw": "843142",
+    "nw_1": "114363717",
+    "Imie": "Hubert",
+    "Nazwisko": "Siwicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Nowy Staw",
+    "Ulica": "Chopina 5",
+    "Adres Pocztowy": "82-230",
+    "Nr.Telefonu": "695070296"
+  },
+  {
+    "nw": "2305400",
+    "nw_1": "637144264",
+    "Imie": "Arek",
+    "Nazwisko": "Starzyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "nowy staw",
+    "Ulica": "Kościuszki 16 c/5",
+    "Adres Pocztowy": "82230",
+    "Nr.Telefonu": "+48501476479"
+  }
+]

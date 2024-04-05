@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "2279588",
+    "nw_1": "430747948",
+    "Imie": "Radosław",
+    "Nazwisko": "Grzelak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Jutrosin",
+    "Ulica": "Piskornia 1A",
+    "Adres Pocztowy": "63-930",
+    "Nr.Telefonu": "604169262"
+  },
+  {
+    "nw": "181282",
+    "nw_1": "539013623",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Mańka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Jutrosin",
+    "Ulica": "Rogożewo 29"
+  },
+  {
+    "nw": "375594",
+    "nw_1": "434858875",
+    "Imie": "Mateusz",
+    "Nazwisko": "Barteczka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Jutrosin",
+    "Ulica": "Szkaradowo 92",
+    "Adres Pocztowy": "63-930",
+    "Nr.Telefonu": "570920243"
+  }
+]

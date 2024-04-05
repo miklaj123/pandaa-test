@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1370150",
+    "nw_1": "929009989",
+    "Imie": "Wojciech",
+    "Nazwisko": "Szwedka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Tychy",
+    "Ulica": "Piłsudskiego 56/124",
+    "Adres Pocztowy": "43-100",
+    "Nr.Telefonu": "513374189"
+  },
+  {
+    "nw": "629611",
+    "nw_1": "666260085",
+    "Imie": "Jakub",
+    "Nazwisko": "bratuszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Tychy",
+    "Ulica": "Kubicy 25/36",
+    "Adres Pocztowy": "43-100",
+    "Nr.Telefonu": "573 919 393"
+  },
+  {
+    "nw": "522387",
+    "nw_1": "563119008",
+    "Imie": "Mateusz",
+    "Nazwisko": "Owczarski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Tychy",
+    "Ulica": "Śląsk",
+    "Adres Pocztowy": "43-100",
+    "Nr.Telefonu": "+48574523588"
+  }
+]

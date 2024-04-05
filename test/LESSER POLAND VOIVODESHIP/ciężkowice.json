@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1992003",
+    "nw_1": "947380919",
+    "Imie": "Filip",
+    "Nazwisko": "Truchan",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Ciężkowice",
+    "Ulica": "Bogoniowice 56b",
+    "Adres Pocztowy": "33-190",
+    "Nr.Telefonu": "+48731558793"
+  },
+  {
+    "nw": "644799",
+    "nw_1": "286465953",
+    "Imie": "Mateusz",
+    "Nazwisko": "Zwolenik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Ciężkowice",
+    "Ulica": "Słoneczna 6",
+    "Adres Pocztowy": "33-190",
+    "Nr.Telefonu": "518257297"
+  },
+  {
+    "nw": "1150262",
+    "nw_1": "286141654",
+    "Imie": "Jakub",
+    "Nazwisko": "Mirek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Ciężkowice",
+    "Ulica": "Sw.Andrzeja 7",
+    "Adres Pocztowy": "33-190",
+    "Nr.Telefonu": "504831162"
+  }
+]

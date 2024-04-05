@@ -1,0 +1,76 @@
+[
+  {
+    "nw": "2042822",
+    "nw_1": "716577923",
+    "Imie": "Karolina",
+    "Nazwisko": "Domańska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Bierkowo",
+    "Ulica": "Aleja Lipowa 10L",
+    "Adres Pocztowy": "76-200",
+    "Nr.Telefonu": "792509603"
+  },
+  {
+    "nw": "14363",
+    "nw_1": "51620866",
+    "Imie": "Oskar",
+    "Nazwisko": "Ławrynowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Bierkowo",
+    "Ulica": "Bukowa",
+    "Adres Pocztowy": " 20",
+    "Nr.Telefonu": "76-200",
+    "__parsed_extra": [
+      "+48570532333"
+    ]
+  },
+  {
+    "nw": "2256631",
+    "nw_1": "414757534",
+    "Imie": "Adam",
+    "Nazwisko": "Kosna",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Bierkowo",
+    "Ulica": "Słoneczna 23",
+    "Adres Pocztowy": "76-200",
+    "Nr.Telefonu": "666290422"
+  },
+  {
+    "nw": "14365",
+    "nw_1": "51620866",
+    "Imie": "Oskar",
+    "Nazwisko": "Ławrynowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Bierkowo",
+    "Ulica": "Bukowa",
+    "Adres Pocztowy": " 20",
+    "Nr.Telefonu": "76-200",
+    "__parsed_extra": [
+      "+48570532333"
+    ]
+  },
+  {
+    "nw": "14364",
+    "nw_1": "51620866",
+    "Imie": "Oskar",
+    "Nazwisko": "Ławrynowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Bierkowo",
+    "Ulica": "Bukowa",
+    "Adres Pocztowy": " 20",
+    "Nr.Telefonu": "76-200",
+    "__parsed_extra": [
+      "+48570532333"
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "647998",
+    "nw_1": "270504136",
+    "Imie": "Miłosz",
+    "Nazwisko": "Molek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Nowa Wieś",
+    "Ulica": "Łąkowa 2A",
+    "Adres Pocztowy": "44-295",
+    "Nr.Telefonu": "663195456"
+  },
+  {
+    "nw": "2233001",
+    "nw_1": "398346248",
+    "Imie": "Karol",
+    "Nazwisko": "Certa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Nowa Wieś",
+    "Ulica": "Zawadzkiego 4",
+    "Adres Pocztowy": "42-460",
+    "Nr.Telefonu": "883220499"
+  },
+  {
+    "nw": "1246093",
+    "nw_1": "501395936",
+    "Imie": "Hubert",
+    "Nazwisko": "Kociszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Nowa Wieś",
+    "Ulica": "Lipowa 81",
+    "Adres Pocztowy": "42-125",
+    "Nr.Telefonu": "514641124"
+  },
+  {
+    "nw": "1973285",
+    "nw_1": "152733710",
+    "Imie": "Karol",
+    "Nazwisko": "Certa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Nowa wieś",
+    "Ulica": "Zawadzkiego 4",
+    "Adres Pocztowy": "42-460",
+    "Nr.Telefonu": "883220499"
+  }
+]

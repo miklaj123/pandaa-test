@@ -1,0 +1,28 @@
+[
+  {
+    "nw": "2062331",
+    "nw_1": "704624315",
+    "Imie": "Igor",
+    "Nazwisko": "Mesjasz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Gozdnica",
+    "Ulica": "Robotnicza 22",
+    "Adres Pocztowy": "68-130",
+    "Nr.Telefonu": "500398899"
+  },
+  {
+    "nw": "2139166",
+    "nw_1": "500309140",
+    "Imie": "Kacper",
+    "Nazwisko": "Kuśmierz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Gozdnica",
+    "Ulica": "Kościelna 1/1",
+    "Adres Pocztowy": "68-130",
+    "Nr.Telefonu": "+48505583336"
+  }
+]

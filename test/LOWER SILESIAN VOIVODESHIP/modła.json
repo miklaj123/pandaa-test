@@ -1,0 +1,46 @@
+[
+  {
+    "nw": "84746",
+    "nw_1": "773077075",
+    "Imie": "Oliwier",
+    "Nazwisko": "Chudzik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Modła",
+    "Ulica": "Alpejska 14",
+    "Adres Pocztowy": "67-210",
+    "Nr.Telefonu": "+48 575992307"
+  },
+  {
+    "nw": "2351685",
+    "nw_1": "565128684",
+    "Imie": "Krzysztof",
+    "Nazwisko": "Kozakowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "MODŁA",
+    "Ulica": "Modła",
+    "Adres Pocztowy": " ul. Tulipanowa 8",
+    "Nr.Telefonu": " 67-210 Jerzmanowa",
+    "__parsed_extra": [
+      " woj. Dolnośląskie POLAND",
+      "67-210",
+      "663116395"
+    ]
+  },
+  {
+    "nw": "1260840",
+    "nw_1": "961985472",
+    "Imie": "Marcel",
+    "Nazwisko": "Chudzik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Modła",
+    "Ulica": "Modła Alpejska 14",
+    "Adres Pocztowy": "67-210",
+    "Nr.Telefonu": "722121305"
+  }
+]

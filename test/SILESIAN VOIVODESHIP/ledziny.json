@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2200658",
+    "nw_1": "483504158",
+    "Imie": "Bartosz",
+    "Nazwisko": "Wit",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Ledziny",
+    "Ulica": "Zakole 70e",
+    "Adres Pocztowy": "43-140",
+    "Nr.Telefonu": "+48732009617"
+  },
+  {
+    "nw": "1371567",
+    "nw_1": "456660669",
+    "Imie": "Oliwier",
+    "Nazwisko": "Otawa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Ledziny",
+    "Ulica": "Golawiecka 54",
+    "Adres Pocztowy": "43-144",
+    "Nr.Telefonu": "735197721"
+  },
+  {
+    "nw": "1427936",
+    "nw_1": "601159028",
+    "Imie": "Filip",
+    "Nazwisko": "Morkisz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Ledziny",
+    "Ulica": "Lipowa 43",
+    "Adres Pocztowy": "43-144",
+    "Nr.Telefonu": "510648470"
+  }
+]

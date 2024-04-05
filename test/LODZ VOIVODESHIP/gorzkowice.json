@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1405229",
+    "nw_1": "810655645",
+    "Imie": "Maciej",
+    "Nazwisko": "Ślęzak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Gorzkowice",
+    "Ulica": "Rynek 33",
+    "Adres Pocztowy": "97-350",
+    "Nr.Telefonu": "+48882686666"
+  },
+  {
+    "nw": "965214",
+    "nw_1": "989927024",
+    "Imie": "Marlena",
+    "Nazwisko": "Orska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Gorzkowice",
+    "Ulica": "Gościnna 79",
+    "Adres Pocztowy": "97-350",
+    "Nr.Telefonu": "+48 508 091 346"
+  },
+  {
+    "nw": "617147",
+    "nw_1": "668054255",
+    "Imie": "Patryk",
+    "Nazwisko": "Banaszczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Gorzkowice",
+    "Ulica": "Cieszanowice 32A",
+    "Adres Pocztowy": "97-350",
+    "Nr.Telefonu": "+48 726451378"
+  },
+  {
+    "nw": "1206893",
+    "nw_1": "668054255",
+    "Imie": "Kuba",
+    "Nazwisko": "Karliński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Gorzkowice",
+    "Ulica": "Szczepanowice 56B",
+    "Adres Pocztowy": "97-350",
+    "Nr.Telefonu": "530685616"
+  }
+]

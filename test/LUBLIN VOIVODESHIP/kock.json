@@ -1,0 +1,28 @@
+[
+  {
+    "nw": "1083852",
+    "nw_1": "643625476",
+    "Imie": "Paweł",
+    "Nazwisko": "Białecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Kock",
+    "Ulica": "Anny jabłonowskiej 4",
+    "Adres Pocztowy": "21-150",
+    "Nr.Telefonu": "508695412"
+  },
+  {
+    "nw": "856205",
+    "nw_1": "586660091",
+    "Imie": "Adam",
+    "Nazwisko": "Jurkiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Kock",
+    "Ulica": "street: Ogrodowa number:10",
+    "Adres Pocztowy": "21-150",
+    "Nr.Telefonu": "661490510"
+  }
+]

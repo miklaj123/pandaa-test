@@ -1,0 +1,63 @@
+[
+  {
+    "nw": "571313",
+    "nw_1": "508809063",
+    "Imie": "Dawid",
+    "Nazwisko": "Maciata",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Biały Dunajec",
+    "Ulica": "Ul.Skupniowa 24",
+    "Adres Pocztowy": "34-425",
+    "Nr.Telefonu": "662215328"
+  },
+  {
+    "nw": "188911",
+    "nw_1": "206436033",
+    "Imie": "Dawid",
+    "Nazwisko": "Mrowiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Biały Dunajec",
+    "Ulica": "ul.Jana Pawła II 34b",
+    "Adres Pocztowy": " Biały Dunajec",
+    "Nr.Telefonu": "34-425",
+    "__parsed_extra": [
+      "667134917"
+    ]
+  },
+  {
+    "nw": "522827",
+    "nw_1": "206436033",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Sikoń",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Biały Dunajec",
+    "Ulica": "ul.Jana Pawła II 21",
+    "Adres Pocztowy": " Biały Dunajec 34-425",
+    "Nr.Telefonu": "34-425",
+    "__parsed_extra": [
+      "537855387"
+    ]
+  },
+  {
+    "nw": "26502",
+    "nw_1": "974617619",
+    "Imie": "Dawid",
+    "Nazwisko": "Mrowiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Biały Dunajec",
+    "Ulica": "UL. Jana Pawła 2",
+    "Adres Pocztowy": " 34",
+    "Nr.Telefonu": "34-425",
+    "__parsed_extra": [
+      "+48 690809921"
+    ]
+  }
+]

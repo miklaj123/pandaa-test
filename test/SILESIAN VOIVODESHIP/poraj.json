@@ -1,0 +1,47 @@
+[
+  {
+    "nw": "1520630",
+    "nw_1": "499229319",
+    "Imie": "Dawid",
+    "Nazwisko": "Jabłoński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Poraj",
+    "Ulica": "Sosnowa 10 Poraj ",
+    "Adres Pocztowy": " Śląsk",
+    "Nr.Telefonu": "42-360",
+    "__parsed_extra": [
+      "+48 732 934 747"
+    ]
+  },
+  {
+    "nw": "1542843",
+    "nw_1": "732272777",
+    "Imie": "Iryna",
+    "Nazwisko": "Kalashnikova",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Poraj",
+    "Ulica": "st.Zielona 24",
+    "Adres Pocztowy": "house 4",
+    "Nr.Telefonu": "42-360",
+    "__parsed_extra": [
+      "+48727847573"
+    ]
+  },
+  {
+    "nw": "2088085",
+    "nw_1": "550593854",
+    "Imie": "Piotr",
+    "Nazwisko": "Rynkiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Poraj",
+    "Ulica": "Piłsudskiego 5",
+    "Adres Pocztowy": "42-360",
+    "Nr.Telefonu": "511094272"
+  }
+]

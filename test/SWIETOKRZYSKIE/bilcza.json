@@ -1,0 +1,57 @@
+[
+  {
+    "nw": "1877196",
+    "nw_1": "928238161",
+    "Imie": "Anna",
+    "Nazwisko": "Barycka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Bilcza",
+    "Ulica": "Szafirowa 23A",
+    "Adres Pocztowy": "26-026",
+    "Nr.Telefonu": "570994004"
+  },
+  {
+    "nw": "1957206",
+    "nw_1": "241656686",
+    "Imie": "Anna",
+    "Nazwisko": "Dziewięcka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Bilcza",
+    "Ulica": "ul.Podgórze 38a",
+    "Adres Pocztowy": " 26-026 Morawica",
+    "Nr.Telefonu": "26-026",
+    "__parsed_extra": [
+      "691276353"
+    ]
+  },
+  {
+    "nw": "2358111",
+    "nw_1": "855755840",
+    "Imie": "Franciszek",
+    "Nazwisko": "Pakuła",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Bilcza",
+    "Ulica": "Ul Żurawinowa 1",
+    "Adres Pocztowy": "26-026",
+    "Nr.Telefonu": "+48690990181"
+  },
+  {
+    "nw": "1695818",
+    "nw_1": "304497351",
+    "Imie": "Bartosz",
+    "Nazwisko": "Francikiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Bilcza",
+    "Ulica": "Ul.Tesli 10",
+    "Adres Pocztowy": "26-026",
+    "Nr.Telefonu": "791599104"
+  }
+]

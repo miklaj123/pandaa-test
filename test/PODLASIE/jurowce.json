@@ -1,0 +1,65 @@
+[
+  {
+    "nw": "1969362",
+    "nw_1": "428535351",
+    "Imie": "Kasper",
+    "Nazwisko": "Konon",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "jurowce",
+    "Ulica": "polna 10b",
+    "Adres Pocztowy": "16-010",
+    "Nr.Telefonu": "504210291"
+  },
+  {
+    "nw": "1442298",
+    "nw_1": "158288120",
+    "Imie": "Bartosz",
+    "Nazwisko": "Rodzik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Jurowce",
+    "Ulica": "Dębowa"
+  },
+  {
+    "nw": "1423746",
+    "nw_1": "801537767",
+    "Imie": "Miłosz",
+    "Nazwisko": "Chadukiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Jurowce",
+    "Ulica": "Malinowa 44",
+    "Adres Pocztowy": "16-010",
+    "Nr.Telefonu": "+48 730836799"
+  },
+  {
+    "nw": "1112282",
+    "nw_1": "787633577",
+    "Imie": "Piotr",
+    "Nazwisko": "Szmurło",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Jurowce",
+    "Ulica": "ulica: Wiązowa 4",
+    "Adres Pocztowy": "16-010",
+    "Nr.Telefonu": "574705993"
+  },
+  {
+    "nw": "1460746",
+    "nw_1": "497098755",
+    "Imie": "Piotr",
+    "Nazwisko": "Szmurło",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Jurowce",
+    "Ulica": "Wiązowa 4",
+    "Adres Pocztowy": "16-010",
+    "Nr.Telefonu": "695377775"
+  }
+]

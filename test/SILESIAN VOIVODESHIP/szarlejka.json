@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "518194",
+    "nw_1": "364319494",
+    "Imie": "Łukasz",
+    "Nazwisko": "Wizner",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Szarlejka",
+    "Ulica": "Szarlejka ul.sportowa 5",
+    "Adres Pocztowy": "42-130",
+    "Nr.Telefonu": "782271337"
+  },
+  {
+    "nw": "518203",
+    "nw_1": "364319494",
+    "Imie": "Łukasz",
+    "Nazwisko": "Wizner",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Szarlejka",
+    "Ulica": "Szarlejka ul.Sportowa 5",
+    "Adres Pocztowy": "42-130",
+    "Nr.Telefonu": "782271337"
+  },
+  {
+    "nw": "2218500",
+    "nw_1": "530948398",
+    "Imie": "Sylwester",
+    "Nazwisko": "Olszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Szarlejka",
+    "Ulica": "Łukaszewicza 80",
+    "Adres Pocztowy": "42-130",
+    "Nr.Telefonu": "607600498"
+  }
+]

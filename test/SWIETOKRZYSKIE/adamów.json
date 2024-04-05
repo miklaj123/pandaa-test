@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "690790",
+    "nw_1": "679012879",
+    "Imie": "Jakub",
+    "Nazwisko": "Pocheć",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Adamów",
+    "Ulica": "Szkolna 125",
+    "Adres Pocztowy": "27-230",
+    "Nr.Telefonu": "811411734"
+  },
+  {
+    "nw": "1038363",
+    "nw_1": "813850822",
+    "Imie": "Aneta",
+    "Nazwisko": "Żelazny",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Adamów",
+    "Ulica": "Górna",
+    "Adres Pocztowy": " 54",
+    "Nr.Telefonu": "27-230",
+    "__parsed_extra": [
+      "501921154"
+    ]
+  }
+]

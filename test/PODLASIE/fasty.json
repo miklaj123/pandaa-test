@@ -1,0 +1,47 @@
+[
+  {
+    "nw": "1433789",
+    "nw_1": "446635125",
+    "Imie": "Filip",
+    "Nazwisko": "Mosiej",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Fasty",
+    "Ulica": "Białostocka 20/2",
+    "Adres Pocztowy": "15-694",
+    "Nr.Telefonu": "530 233 846"
+  },
+  {
+    "nw": "1673710",
+    "nw_1": "330300160",
+    "Imie": "Gabriel",
+    "Nazwisko": "Ignaciuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Fasty",
+    "Ulica": "Lesna 2u",
+    "Adres Pocztowy": " Fasty 15-694",
+    "Nr.Telefonu": "15-694",
+    "__parsed_extra": [
+      "737952998"
+    ]
+  },
+  {
+    "nw": "876202",
+    "nw_1": "492537862",
+    "Imie": "Gabriel",
+    "Nazwisko": "Ignaciuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Fasty",
+    "Ulica": "Leśna 2u",
+    "Adres Pocztowy": " Fasty",
+    "Nr.Telefonu": "15-694",
+    "__parsed_extra": [
+      "737952998"
+    ]
+  }
+]

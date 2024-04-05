@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1143236",
+    "nw_1": "831220893",
+    "Imie": "Filip",
+    "Nazwisko": "Jakubowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Bodzanów",
+    "Ulica": "Fryderyka Chopina 6",
+    "Adres Pocztowy": "09-470",
+    "Nr.Telefonu": "511193876"
+  },
+  {
+    "nw": "1314109",
+    "nw_1": "350728030",
+    "Imie": "Filip",
+    "Nazwisko": "Kopeć",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Bodzanów",
+    "Ulica": "Cieśle 73",
+    "Adres Pocztowy": "09-470",
+    "Nr.Telefonu": "535411438"
+  },
+  {
+    "nw": "2360133",
+    "nw_1": "856588773",
+    "Imie": "Rafał ",
+    "Nazwisko": "Wysocki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Bodzanów",
+    "Ulica": "Peplowo 15",
+    "Adres Pocztowy": "09-470",
+    "Nr.Telefonu": "698186398"
+  }
+]

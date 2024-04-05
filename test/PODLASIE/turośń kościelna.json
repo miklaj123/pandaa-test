@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "328021",
+    "nw_1": "884333605",
+    "Imie": "igor",
+    "Nazwisko": "makowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "turośń kościelna",
+    "Ulica": "baciuty kolonia 4a",
+    "Adres Pocztowy": "18-106",
+    "Nr.Telefonu": "+48 539 990 797"
+  },
+  {
+    "nw": "2266411",
+    "nw_1": "904292752",
+    "Imie": "Ksawery",
+    "Nazwisko": "Dzienis",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Turośń Kościelna",
+    "Ulica": "Lipowa 78a",
+    "Adres Pocztowy": "18-106",
+    "Nr.Telefonu": "530324700"
+  },
+  {
+    "nw": "71642",
+    "nw_1": "62992271",
+    "Imie": "Kacper",
+    "Nazwisko": "Karłowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Turośń Kościelna",
+    "Ulica": "Lubejki Wiossena 3",
+    "Adres Pocztowy": "18-106",
+    "Nr.Telefonu": "503766275"
+  },
+  {
+    "nw": "406811",
+    "nw_1": "184710777",
+    "Imie": "Maciej",
+    "Nazwisko": "Sulkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Turośń Kościelna",
+    "Ulica": "Markowszczyzna 45A",
+    "Adres Pocztowy": "18-106",
+    "Nr.Telefonu": "507089660"
+  }
+]

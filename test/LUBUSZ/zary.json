@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "1699080",
+    "nw_1": "773898372",
+    "Imie": "Patryk",
+    "Nazwisko": "Syguda",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Zary",
+    "Ulica": "Powstancow Wielkopolskich 10a",
+    "Adres Pocztowy": "68-200",
+    "Nr.Telefonu": "+48888672713"
+  },
+  {
+    "nw": "2038414",
+    "nw_1": "376870955",
+    "Imie": "Marta",
+    "Nazwisko": "Rogowska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Zary",
+    "Ulica": "Marta Rogowska"
+  },
+  {
+    "nw": "498299",
+    "nw_1": "351760204",
+    "Imie": "Rafal",
+    "Nazwisko": "Broja",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Zary",
+    "Ulica": "Ulica Gospodarcza 1768",
+    "Adres Pocztowy": "68-200",
+    "Nr.Telefonu": "48789296181"
+  }
+]

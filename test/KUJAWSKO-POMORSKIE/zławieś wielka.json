@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "867418",
+    "nw_1": "246568953",
+    "Imie": "Bartek",
+    "Nazwisko": "Ciechowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Zławieś Wielka",
+    "Ulica": "Długa 18",
+    "Adres Pocztowy": "87-134",
+    "Nr.Telefonu": "+4915175185021"
+  },
+  {
+    "nw": "556676",
+    "nw_1": "208214964",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Trębacki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Zławieś Wielka",
+    "Ulica": "Ul. Aleja Orzechowa 9",
+    "Adres Pocztowy": " Czarne Błoto",
+    "Nr.Telefonu": "87-134",
+    "__parsed_extra": [
+      "+48 572 695 060"
+    ]
+  },
+  {
+    "nw": "753786",
+    "nw_1": "759158261",
+    "Imie": "Karol",
+    "Nazwisko": "Zakszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Zławieś Wielka",
+    "Ulica": "Rozgarty ul.Wróblowa 4",
+    "Adres Pocztowy": "87-134",
+    "Nr.Telefonu": "607864831"
+  }
+]

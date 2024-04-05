@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1620052",
+    "nw_1": "519685393",
+    "Imie": "Filip",
+    "Nazwisko": "bętkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Ligota",
+    "Ulica": "Ul. Kaliska 22",
+    "Adres Pocztowy": "63440",
+    "Nr.Telefonu": "663400011"
+  },
+  {
+    "nw": "1267095",
+    "nw_1": "678313166",
+    "Imie": "Kasper",
+    "Nazwisko": "Rudzky",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Ligota",
+    "Ulica": "Ligota 70 = house number",
+    "Adres Pocztowy": "63-507",
+    "Nr.Telefonu": "+48788025441"
+  },
+  {
+    "nw": "1664466",
+    "nw_1": "339183413",
+    "Imie": "Maksym",
+    "Nazwisko": "Shuhalevych",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Ligota",
+    "Ulica": "Ligota 82B",
+    "Adres Pocztowy": "63-507",
+    "Nr.Telefonu": "+48881454460"
+  }
+]

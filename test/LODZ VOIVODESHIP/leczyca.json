@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1429070",
+    "nw_1": "822327861",
+    "Imie": "Szymon",
+    "Nazwisko": "Zieliński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Leczyca",
+    "Ulica": "Topola Królewska 71",
+    "Adres Pocztowy": "99-100",
+    "Nr.Telefonu": "51540621"
+  },
+  {
+    "nw": "2187962",
+    "nw_1": "500857215",
+    "Imie": "katarzyna",
+    "Nazwisko": "milewska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "leczyca",
+    "Ulica": "ozorkowskie przedmiescie 9/7",
+    "Adres Pocztowy": "99-100",
+    "Nr.Telefonu": "788771027"
+  },
+  {
+    "nw": "1695235",
+    "nw_1": "808185392",
+    "Imie": "Marcel",
+    "Nazwisko": "Czajkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Leczyca",
+    "Ulica": "Thugutta 3",
+    "Adres Pocztowy": "99-100",
+    "Nr.Telefonu": "535913382"
+  },
+  {
+    "nw": "364432",
+    "nw_1": "147861958",
+    "Imie": "Pawel",
+    "Nazwisko": "Powierza",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Leczyca",
+    "Ulica": "Bitwy nad Bzura 13",
+    "Adres Pocztowy": "99-100",
+    "Nr.Telefonu": "+48 505724333"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "1363859",
+    "nw_1": "167041708",
+    "Imie": "Tymon",
+    "Nazwisko": "Krakowksi",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Szklarska Poreba",
+    "Ulica": "Partyzantow 9",
+    "Adres Pocztowy": "4",
+    "Nr.Telefonu": "58-580",
+    "__parsed_extra": [
+      "514860509"
+    ]
+  },
+  {
+    "nw": "2283798",
+    "nw_1": "681413163",
+    "Imie": "Denys",
+    "Nazwisko": "Rodin",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Szklarska Poreba",
+    "Ulica": "Turystyczna 26a ",
+    "Adres Pocztowy": "58-580",
+    "Nr.Telefonu": "+48539789456"
+  }
+]

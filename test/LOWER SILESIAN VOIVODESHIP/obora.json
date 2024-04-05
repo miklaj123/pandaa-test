@@ -1,0 +1,58 @@
+[
+  {
+    "nw": "901193",
+    "nw_1": "477928610",
+    "Imie": "Karol",
+    "Nazwisko": "Stołowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "OBORA",
+    "Ulica": "UL",
+    "Adres Pocztowy": "Turkusowa 5",
+    "Nr.Telefonu": "OBORA",
+    "__parsed_extra": [
+      "59-300",
+      "0048534088102"
+    ]
+  },
+  {
+    "nw": "159463",
+    "nw_1": "932043092",
+    "Imie": "Filip",
+    "Nazwisko": "Bawarczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Obora",
+    "Ulica": "Bursztynowa 2A",
+    "Adres Pocztowy": "59-335",
+    "Nr.Telefonu": "+48 504450175"
+  },
+  {
+    "nw": "1838910",
+    "nw_1": "619642041",
+    "Imie": "Aleksander",
+    "Nazwisko": "Mikołajczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Obora",
+    "Ulica": "Bursztynowa 38",
+    "Adres Pocztowy": "59-335",
+    "Nr.Telefonu": "735259759"
+  },
+  {
+    "nw": "1581543",
+    "nw_1": "961072541",
+    "Imie": "Marcin",
+    "Nazwisko": "Domasiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Obora",
+    "Ulica": "Turkusowa 5",
+    "Adres Pocztowy": "59-335",
+    "Nr.Telefonu": "725193781"
+  }
+]

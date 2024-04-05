@@ -1,0 +1,110 @@
+[
+  {
+    "nw": "1386495",
+    "nw_1": "220921571",
+    "Imie": "Damian",
+    "Nazwisko": "Biskup",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Niemce",
+    "Ulica": "Niemce ul.Spacerowa 15",
+    "Adres Pocztowy": "21-025",
+    "Nr.Telefonu": "515061368"
+  },
+  {
+    "nw": "1456258",
+    "nw_1": "286834459",
+    "Imie": "Kinga",
+    "Nazwisko": "Bydler",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Niemce",
+    "Ulica": "Wola krasienińska 26 b",
+    "Adres Pocztowy": "21_025",
+    "Nr.Telefonu": "508128071"
+  },
+  {
+    "nw": "1205604",
+    "nw_1": "622328407",
+    "Imie": "Adam",
+    "Nazwisko": "Mould",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Niemce",
+    "Ulica": "Rudka Kozłowiecka 215b",
+    "Adres Pocztowy": "21-025",
+    "Nr.Telefonu": "+48724424414"
+  },
+  {
+    "nw": "2081099",
+    "nw_1": "809430419",
+    "Imie": "Leonard",
+    "Nazwisko": "Goś",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Niemce",
+    "Ulica": "Jodłowa 12",
+    "Adres Pocztowy": "21-003",
+    "Nr.Telefonu": "884896572"
+  },
+  {
+    "nw": "2000526",
+    "nw_1": "794205686",
+    "Imie": "Patryk",
+    "Nazwisko": "Snopkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Niemce",
+    "Ulica": "Rudka Kozłowiecka 136C",
+    "Adres Pocztowy": "21-025",
+    "Nr.Telefonu": "+48785433444"
+  },
+  {
+    "nw": "1236904",
+    "nw_1": "505487913",
+    "Imie": "Łukasz",
+    "Nazwisko": "Gdula",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Niemce",
+    "Ulica": "Rudka Kozłowiecka 52",
+    "Adres Pocztowy": "21-025",
+    "Nr.Telefonu": "783076387"
+  },
+  {
+    "nw": "1221691",
+    "nw_1": "871875014",
+    "Imie": "Filip",
+    "Nazwisko": "Kwolkiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Niemce",
+    "Ulica": "Niemce",
+    "Adres Pocztowy": " Ul. Kręta 21",
+    "Nr.Telefonu": " 21-025",
+    "__parsed_extra": [
+      "21-025",
+      "601794374"
+    ]
+  },
+  {
+    "nw": "2204603",
+    "nw_1": "418305968",
+    "Imie": "Bartosz",
+    "Nazwisko": "Rachwał",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Niemce",
+    "Ulica": "Leonów 66",
+    "Adres Pocztowy": "21-025",
+    "Nr.Telefonu": "+48 503-169-227"
+  }
+]

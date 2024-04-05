@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "2188967",
+    "nw_1": "199060940",
+    "Imie": "Maks",
+    "Nazwisko": "Kłosowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Kajkowo",
+    "Ulica": "Kajkowo ul. Widok 97/23",
+    "Adres Pocztowy": "14-100",
+    "Nr.Telefonu": "792946346"
+  },
+  {
+    "nw": "1804159",
+    "nw_1": "572273789",
+    "Imie": "maks",
+    "Nazwisko": "Kłosowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Kajkowo",
+    "Ulica": "Kajkowo",
+    "Adres Pocztowy": " widok 97/23",
+    "Nr.Telefonu": "14-100",
+    "__parsed_extra": [
+      "792946346"
+    ]
+  }
+]

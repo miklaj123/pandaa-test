@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "308398",
+    "nw_1": "895195029",
+    "Imie": "Franciszek",
+    "Nazwisko": "Kiełbik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Włodzimierzów",
+    "Ulica": "Spacerowa 22",
+    "Adres Pocztowy": "97-330",
+    "Nr.Telefonu": "+48 693294080"
+  },
+  {
+    "nw": "1557004",
+    "nw_1": "304441801",
+    "Imie": "Adam",
+    "Nazwisko": "Budzicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Włodzimierzów",
+    "Ulica": "Słoneczna 3 Włodzimierzów",
+    "Adres Pocztowy": "",
+    "Nr.Telefonu": "97-330",
+    "__parsed_extra": [
+      "+48 570566422"
+    ]
+  },
+  {
+    "nw": "2263579",
+    "nw_1": "377731994",
+    "Imie": "Igor",
+    "Nazwisko": "Ortyl",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Włodzimierzów",
+    "Ulica": "Zdrowie 26A",
+    "Adres Pocztowy": "97-330",
+    "Nr.Telefonu": "660221174"
+  }
+]

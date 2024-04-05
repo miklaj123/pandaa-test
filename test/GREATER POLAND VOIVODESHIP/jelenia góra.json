@@ -1,0 +1,57 @@
+[
+  {
+    "nw": "1716256",
+    "nw_1": "433097868",
+    "Imie": "Konrad",
+    "Nazwisko": "Klein",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Jelenia Góra",
+    "Ulica": "Graniczna 6/2",
+    "Adres Pocztowy": "58-560",
+    "Nr.Telefonu": "663568964"
+  },
+  {
+    "nw": "953917",
+    "nw_1": "743866509",
+    "Imie": "manssur",
+    "Nazwisko": "ba",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Jelenia góra",
+    "Ulica": "jelenia góra",
+    "Adres Pocztowy": "58-506",
+    "Nr.Telefonu": "733903815"
+  },
+  {
+    "nw": "1473787",
+    "nw_1": "607124967",
+    "Imie": "Adriana",
+    "Nazwisko": "Pająk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Jelenia Góra",
+    "Ulica": "Hirszfelda 23",
+    "Adres Pocztowy": "58-560",
+    "Nr.Telefonu": "798-203-344"
+  },
+  {
+    "nw": "1137481",
+    "nw_1": "556781854",
+    "Imie": "Igor",
+    "Nazwisko": "Pindelski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Jelenia Góra",
+    "Ulica": "Karkonoska 106d",
+    "Adres Pocztowy": " Łomnica",
+    "Nr.Telefonu": "58-531",
+    "__parsed_extra": [
+      "533060826"
+    ]
+  }
+]

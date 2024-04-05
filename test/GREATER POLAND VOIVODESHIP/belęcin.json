@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2334854",
+    "nw_1": "879724182",
+    "Imie": "Miłosz",
+    "Nazwisko": "Antkowiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Belęcin",
+    "Ulica": "Belęcin 7",
+    "Adres Pocztowy": "64-231",
+    "Nr.Telefonu": "+48534120143"
+  },
+  {
+    "nw": "1623549",
+    "nw_1": "192293178",
+    "Imie": "Kuba",
+    "Nazwisko": "Wasiek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "belęcin",
+    "Ulica": "belęcin 79/6",
+    "Adres Pocztowy": "64-231",
+    "Nr.Telefonu": "607454283"
+  },
+  {
+    "nw": "1623542",
+    "nw_1": "192293178",
+    "Imie": "kuba",
+    "Nazwisko": "wasiek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Belęcin",
+    "Ulica": "Belęcin 79/6",
+    "Adres Pocztowy": "64-231",
+    "Nr.Telefonu": "607453283"
+  }
+]

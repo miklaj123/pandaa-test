@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "907084",
+    "nw_1": "130171358",
+    "Imie": "Norbert",
+    "Nazwisko": "Szurek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Osobnica",
+    "Ulica": "Osobnica 1140",
+    "Adres Pocztowy": "38-241",
+    "Nr.Telefonu": "730540999"
+  },
+  {
+    "nw": "719987",
+    "nw_1": "579749390",
+    "Imie": "Miłosz",
+    "Nazwisko": "Trzeciak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Osobnica",
+    "Ulica": "Osobnica 58",
+    "Adres Pocztowy": "38-241",
+    "Nr.Telefonu": "669592932"
+  },
+  {
+    "nw": "861847",
+    "nw_1": "783491205",
+    "Imie": "Dawid",
+    "Nazwisko": "Gliwa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Osobnica",
+    "Ulica": "Osobnica 1077",
+    "Adres Pocztowy": "38-241",
+    "Nr.Telefonu": "731 241 160"
+  }
+]

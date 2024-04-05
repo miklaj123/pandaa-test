@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1487084",
+    "nw_1": "118237644",
+    "Imie": "Bartek",
+    "Nazwisko": "Bartyś",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Jakubowice Konińskie",
+    "Ulica": "Jakubowice konińskie jodłowa 22",
+    "Adres Pocztowy": "21-003",
+    "Nr.Telefonu": "530120744"
+  },
+  {
+    "nw": "1764429",
+    "nw_1": "631492428",
+    "Imie": "Oskar",
+    "Nazwisko": "Solowiej",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Jakubowice Konińskie",
+    "Ulica": "Akacjowa 46A",
+    "Adres Pocztowy": "21003",
+    "Nr.Telefonu": "604610974"
+  },
+  {
+    "nw": "792917",
+    "nw_1": "531553725",
+    "Imie": "Krzysztof",
+    "Nazwisko": "Hojda",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Jakubowice konińskie",
+    "Ulica": "Świerkowa 78",
+    "Adres Pocztowy": "20-153",
+    "Nr.Telefonu": "572984971"
+  },
+  {
+    "nw": "810204",
+    "nw_1": "465898353",
+    "Imie": "Igor",
+    "Nazwisko": "Miłobog",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Jakubowice Konińskie",
+    "Ulica": "Starowiejska 115",
+    "Adres Pocztowy": "21-003",
+    "Nr.Telefonu": "535323769"
+  }
+]

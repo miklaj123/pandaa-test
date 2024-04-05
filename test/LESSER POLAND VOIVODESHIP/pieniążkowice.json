@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "256398",
+    "nw_1": "371636566",
+    "Imie": "Wojciech",
+    "Nazwisko": "Słodyczka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Pieniążkowice",
+    "Ulica": "Pieniążkowice 150",
+    "Adres Pocztowy": "34-408",
+    "Nr.Telefonu": "574224079"
+  },
+  {
+    "nw": "1239681",
+    "nw_1": "753047537",
+    "Imie": "Maks",
+    "Nazwisko": "Urjasz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Pieniążkowice",
+    "Ulica": "Pieniążkowice 49A",
+    "Adres Pocztowy": "34-408",
+    "Nr.Telefonu": "797367464"
+  },
+  {
+    "nw": "152766",
+    "nw_1": "847486838",
+    "Imie": "Oskar",
+    "Nazwisko": "Luberda",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Pieniążkowice",
+    "Ulica": "Pieniążkowice 144",
+    "Adres Pocztowy": "34-408",
+    "Nr.Telefonu": "790624156"
+  }
+]

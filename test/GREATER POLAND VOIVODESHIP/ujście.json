@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "96239",
+    "nw_1": "762201489",
+    "Imie": "Filip",
+    "Nazwisko": "Gil",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Ujście",
+    "Ulica": "ul. Plac Wiosny Ludów 6A m. 12",
+    "Adres Pocztowy": "64-850",
+    "Nr.Telefonu": "787980073"
+  },
+  {
+    "nw": "197477",
+    "nw_1": "118996957",
+    "Imie": "Antoni",
+    "Nazwisko": "Gryka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Ujście",
+    "Ulica": "Staszica 54",
+    "Adres Pocztowy": "64-850",
+    "Nr.Telefonu": "721470977"
+  },
+  {
+    "nw": "610117",
+    "nw_1": "567739263",
+    "Imie": "Maciej",
+    "Nazwisko": "Nowakowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Ujście",
+    "Ulica": "Notecka 11",
+    "Adres Pocztowy": "64850",
+    "Nr.Telefonu": "505827541"
+  }
+]

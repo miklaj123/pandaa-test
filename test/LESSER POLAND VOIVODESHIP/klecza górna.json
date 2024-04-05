@@ -1,0 +1,51 @@
+[
+  {
+    "nw": "494049",
+    "nw_1": "697013093",
+    "Imie": "dominik",
+    "Nazwisko": "mydlarz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Klecza Górna",
+    "Ulica": "71a",
+    "Adres Pocztowy": "ul.Dębowa",
+    "Nr.Telefonu": "34-124",
+    "__parsed_extra": [
+      "721373563"
+    ]
+  },
+  {
+    "nw": "764352",
+    "nw_1": "697013093",
+    "Imie": "Dominik",
+    "Nazwisko": "Mydlarz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Klecza Górna",
+    "Ulica": "31",
+    "Adres Pocztowy": "Ul.Dębowa",
+    "Nr.Telefonu": "34-124",
+    "__parsed_extra": [
+      "721373563"
+    ]
+  },
+  {
+    "nw": "494065",
+    "nw_1": "697013093",
+    "Imie": "Dominik",
+    "Nazwisko": "Mydlarz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Klecza Górna",
+    "Ulica": "71a",
+    "Adres Pocztowy": "Klecza Górna",
+    "Nr.Telefonu": "Ulica Dębowa",
+    "__parsed_extra": [
+      "34-124",
+      "721 373 563"
+    ]
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "nw": "2251900",
+    "nw_1": "578845898",
+    "Imie": "Kamil",
+    "Nazwisko": "Domin",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Lipnica Mała",
+    "Ulica": "Lipnica Mała 423a"
+  },
+  {
+    "nw": "2214892",
+    "nw_1": "906927892",
+    "Imie": "Kamil",
+    "Nazwisko": "Pakos",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Lipnica Mała",
+    "Ulica": "Lipnica Mała 544b",
+    "Adres Pocztowy": "34-482",
+    "Nr.Telefonu": "721385866"
+  },
+  {
+    "nw": "1801322",
+    "nw_1": "123150365",
+    "Imie": "Karol",
+    "Nazwisko": "Bochaczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Lipnica Mała",
+    "Ulica": "Lipnica Mała 482a",
+    "Adres Pocztowy": "34-482",
+    "Nr.Telefonu": "669746383"
+  },
+  {
+    "nw": "362462",
+    "nw_1": "295392584",
+    "Imie": "Kacper",
+    "Nazwisko": "Zubrzycki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Lipnica Mała",
+    "Ulica": "Lipnica Mała 275a",
+    "Adres Pocztowy": "34-482",
+    "Nr.Telefonu": "721184428"
+  },
+  {
+    "nw": "1765077",
+    "nw_1": "642929565",
+    "Imie": "Rafał",
+    "Nazwisko": "Cech",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Lipnica Mała",
+    "Ulica": "Lipnica Mała 245",
+    "Adres Pocztowy": "34-482",
+    "Nr.Telefonu": "669631831"
+  },
+  {
+    "nw": "1945652",
+    "nw_1": "632538584",
+    "Imie": "Hubert",
+    "Nazwisko": "Ferenc",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Lipnica Mała",
+    "Ulica": "Lipnica Mała 379a",
+    "Adres Pocztowy": "34-482",
+    "Nr.Telefonu": "575687905"
+  },
+  {
+    "nw": "1818452",
+    "nw_1": "735391267",
+    "Imie": "Bartek",
+    "Nazwisko": "Bandyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Lipnica Mała",
+    "Ulica": "Lipnica Mała 214",
+    "Adres Pocztowy": "34-482",
+    "Nr.Telefonu": "723632350"
+  }
+]

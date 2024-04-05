@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "705653",
+    "nw_1": "526051179",
+    "Imie": "Tymoteusz",
+    "Nazwisko": "Dąbk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Chwarzno",
+    "Ulica": "Chwarzno 18",
+    "Adres Pocztowy": "83-430",
+    "Nr.Telefonu": "731080266"
+  },
+  {
+    "nw": "1737507",
+    "nw_1": "677373989",
+    "Imie": "Mateusz",
+    "Nazwisko": "Mollin",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Chwarzno",
+    "Ulica": "Chwarzno 24B",
+    "Adres Pocztowy": " 83-430",
+    "Nr.Telefonu": "83-430",
+    "__parsed_extra": [
+      "733227129"
+    ]
+  }
+]

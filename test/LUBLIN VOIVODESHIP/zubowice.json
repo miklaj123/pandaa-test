@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "1274811",
+    "nw_1": "153223340",
+    "Imie": "Bartłomiej",
+    "Nazwisko": "Ostrowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Zubowice",
+    "Ulica": "Zubowice 116"
+  },
+  {
+    "nw": "790157",
+    "nw_1": "374205903",
+    "Imie": "Bartłomiej",
+    "Nazwisko": "Ostrowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Zubowice",
+    "Ulica": "Zubowice 116",
+    "Adres Pocztowy": "22-435",
+    "Nr.Telefonu": "504099104"
+  },
+  {
+    "nw": "1652589",
+    "nw_1": "111344875",
+    "Imie": "Bartlomiej",
+    "Nazwisko": "Ostrowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Zubowice",
+    "Ulica": "zubowice 116",
+    "Adres Pocztowy": "22-435",
+    "Nr.Telefonu": "504099104"
+  }
+]

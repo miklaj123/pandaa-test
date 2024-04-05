@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "1489672",
+    "nw_1": "844516208",
+    "Imie": "Polna 4D",
+    "Nazwisko": "2",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Nochowo",
+    "Ulica": "Polna 4D/2",
+    "Adres Pocztowy": "63-100",
+    "Nr.Telefonu": "697694879"
+  },
+  {
+    "nw": "2239019",
+    "nw_1": "390201670",
+    "Imie": "Patryk",
+    "Nazwisko": "Szajber",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Nochowo",
+    "Ulica": "Nochowo Polna 14B 63-100 Śrem",
+    "Adres Pocztowy": "63-100",
+    "Nr.Telefonu": "726545955"
+  },
+  {
+    "nw": "432832",
+    "nw_1": "371615018",
+    "Imie": "Bartek",
+    "Nazwisko": "Mikołajek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Nochowo",
+    "Ulica": "Nochowo",
+    "Adres Pocztowy": " Świerkowa 15",
+    "Nr.Telefonu": "63-100",
+    "__parsed_extra": [
+      "+48 733000951"
+    ]
+  }
+]

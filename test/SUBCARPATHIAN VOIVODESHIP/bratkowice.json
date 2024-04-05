@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2082667",
+    "nw_1": "239104016",
+    "Imie": "Kamil",
+    "Nazwisko": "Nowak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Bratkowice",
+    "Ulica": "Bratkowice 548",
+    "Adres Pocztowy": "36-055",
+    "Nr.Telefonu": "731133525"
+  },
+  {
+    "nw": "2328030",
+    "nw_1": "905095719",
+    "Imie": "Michał",
+    "Nazwisko": "Franczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Bratkowice",
+    "Ulica": "Bratkowice 575",
+    "Adres Pocztowy": "36-055",
+    "Nr.Telefonu": "531057188"
+  },
+  {
+    "nw": "355866",
+    "nw_1": "447852536",
+    "Imie": "Bartosz",
+    "Nazwisko": "Ziółkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Bratkowice",
+    "Ulica": "Bratkowice 663a",
+    "Adres Pocztowy": "36-055",
+    "Nr.Telefonu": "574159495"
+  }
+]

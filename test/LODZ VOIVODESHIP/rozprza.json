@@ -1,0 +1,96 @@
+[
+  {
+    "nw": "2069918",
+    "nw_1": "145182874",
+    "Imie": "Mateusz",
+    "Nazwisko": "Jakubiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Rozprza",
+    "Ulica": "Milejów Szkolna 7",
+    "Adres Pocztowy": "97-340",
+    "Nr.Telefonu": "+48 695914848"
+  },
+  {
+    "nw": "1987311",
+    "nw_1": "743961500",
+    "Imie": "Igor",
+    "Nazwisko": "Sokołowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Rozprza",
+    "Ulica": "Wola Niechcicka Stara 10B",
+    "Adres Pocztowy": "97-340",
+    "Nr.Telefonu": "576969797"
+  },
+  {
+    "nw": "874137",
+    "nw_1": "619308457",
+    "Imie": "Milosz",
+    "Nazwisko": "Kabzinski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Rozprza",
+    "Ulica": "aleja 900-lecia",
+    "Adres Pocztowy": " 6a",
+    "Nr.Telefonu": "97-340",
+    "__parsed_extra": [
+      "730825955"
+    ]
+  },
+  {
+    "nw": "2199175",
+    "nw_1": "471702998",
+    "Imie": "Filip",
+    "Nazwisko": "Jeż",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Rozprza",
+    "Ulica": "Polna 9",
+    "Adres Pocztowy": "97-340",
+    "Nr.Telefonu": "788774352"
+  },
+  {
+    "nw": "2219457",
+    "nw_1": "323051016",
+    "Imie": "Julia",
+    "Nazwisko": "Kejdrowska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Rozprza",
+    "Ulica": "Rozprza 97-340 ul.Słoneczna 6",
+    "Adres Pocztowy": "97-340",
+    "Nr.Telefonu": "503463173"
+  },
+  {
+    "nw": "670516",
+    "nw_1": "279273014",
+    "Imie": "Wiktor",
+    "Nazwisko": "Kurowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Rozprza",
+    "Ulica": "Rynek Piastowski 3",
+    "Adres Pocztowy": "97-340",
+    "Nr.Telefonu": "500321145"
+  },
+  {
+    "nw": "472231",
+    "nw_1": "368737324",
+    "Imie": "Jakub",
+    "Nazwisko": "Bartosiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Rozprza",
+    "Ulica": "Cekanów 31",
+    "Adres Pocztowy": "97-340",
+    "Nr.Telefonu": "511414211"
+  }
+]

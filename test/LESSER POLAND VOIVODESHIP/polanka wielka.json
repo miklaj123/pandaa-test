@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "289602",
+    "nw_1": "478753810",
+    "Imie": "Krystian",
+    "Nazwisko": "Kordek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Polanka Wielka",
+    "Ulica": "Wiśniowa 3",
+    "Adres Pocztowy": "32-607",
+    "Nr.Telefonu": "505686843"
+  },
+  {
+    "nw": "264824",
+    "nw_1": "410153260",
+    "Imie": "Olek",
+    "Nazwisko": "Orlanka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Polanka Wielka",
+    "Ulica": "Długa 157",
+    "Adres Pocztowy": "32-607",
+    "Nr.Telefonu": "570109308"
+  },
+  {
+    "nw": "703240",
+    "nw_1": "843650144",
+    "Imie": "Konrad",
+    "Nazwisko": "Drabczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Polanka Wielka",
+    "Ulica": "Długa 314",
+    "Adres Pocztowy": "32-607",
+    "Nr.Telefonu": "510163598"
+  }
+]

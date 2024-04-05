@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "1768681",
+    "nw_1": "381359341",
+    "Imie": "Artur",
+    "Nazwisko": "Lipowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Łukta",
+    "Ulica": "Wynki 19",
+    "Adres Pocztowy": "14-105",
+    "Nr.Telefonu": "600527312"
+  },
+  {
+    "nw": "1690549",
+    "nw_1": "537397679",
+    "Imie": "Artur",
+    "Nazwisko": "Lipowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Łukta",
+    "Ulica": "Wynki 19",
+    "Adres Pocztowy": " 14-105 Łukta",
+    "Nr.Telefonu": "14-105",
+    "__parsed_extra": [
+      "787036387"
+    ]
+  },
+  {
+    "nw": "825046",
+    "nw_1": "535334575",
+    "Imie": "Krystyna",
+    "Nazwisko": "Helmik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Łukta",
+    "Ulica": "Wynki 2a",
+    "Adres Pocztowy": "14-105",
+    "Nr.Telefonu": "+48668695150"
+  }
+]

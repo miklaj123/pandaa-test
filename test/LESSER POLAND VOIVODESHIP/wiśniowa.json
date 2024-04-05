@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "2284917",
+    "nw_1": "849246947",
+    "Imie": "Kacper",
+    "Nazwisko": "Szymoniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Wiśniowa",
+    "Ulica": "Wiśniowa",
+    "Adres Pocztowy": " 608",
+    "Nr.Telefonu": "32-412",
+    "__parsed_extra": [
+      "791331829"
+    ]
+  },
+  {
+    "nw": "1914971",
+    "nw_1": "903890366",
+    "Imie": "Michal",
+    "Nazwisko": "Jamróz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "wiśniowa",
+    "Ulica": "421 wiśniowa",
+    "Adres Pocztowy": "32 -412",
+    "Nr.Telefonu": "782354580"
+  },
+  {
+    "nw": "1329082",
+    "nw_1": "125064335",
+    "Imie": "Michal",
+    "Nazwisko": "Drozdz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Wiśniowa",
+    "Ulica": "Wiśniowa 48",
+    "Adres Pocztowy": "32-412",
+    "Nr.Telefonu": "518120752"
+  }
+]

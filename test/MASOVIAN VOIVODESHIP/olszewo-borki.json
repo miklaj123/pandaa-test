@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1062554",
+    "nw_1": "182272765",
+    "Imie": "Szymon",
+    "Nazwisko": "Abramczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Olszewo-borki",
+    "Ulica": "Miła 4",
+    "Adres Pocztowy": "07-415",
+    "Nr.Telefonu": "+48731254214"
+  },
+  {
+    "nw": "2013491",
+    "nw_1": "494172855",
+    "Imie": "Oliwier",
+    "Nazwisko": "Fonk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Olszewo-Borki",
+    "Ulica": "Grabnik 55",
+    "Adres Pocztowy": "07-416",
+    "Nr.Telefonu": "794101301"
+  },
+  {
+    "nw": "2312673",
+    "nw_1": "311597528",
+    "Imie": "Jakub",
+    "Nazwisko": "Żebrowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Olszewo-Borki",
+    "Ulica": "Juliusza Słowackiego 1",
+    "Adres Pocztowy": "07-415",
+    "Nr.Telefonu": "518677769"
+  }
+]

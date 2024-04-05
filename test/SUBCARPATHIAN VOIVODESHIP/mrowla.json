@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "1963072",
+    "nw_1": "755869404",
+    "Imie": "Stanisław",
+    "Nazwisko": "uliasz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "MROWLA",
+    "Ulica": "250b",
+    "Adres Pocztowy": "36-054",
+    "Nr.Telefonu": "533524669"
+  },
+  {
+    "nw": "752479",
+    "nw_1": "421290358",
+    "Imie": "Kacper",
+    "Nazwisko": "Szczęch",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Mrowla",
+    "Ulica": "Rudna Wielka 18",
+    "Adres Pocztowy": "36-054",
+    "Nr.Telefonu": "576083826"
+  },
+  {
+    "nw": "67752",
+    "nw_1": "380291528",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Kluz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Mrowla",
+    "Ulica": "Podkarpacie",
+    "Adres Pocztowy": " Mrowla 262a",
+    "Nr.Telefonu": "36-054",
+    "__parsed_extra": [
+      "574308158"
+    ]
+  }
+]

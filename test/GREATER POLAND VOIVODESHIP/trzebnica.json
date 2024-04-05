@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1860490",
+    "nw_1": "838658408",
+    "Imie": "Andrzej",
+    "Nazwisko": "sochacki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Trzebnica",
+    "Ulica": "Polna 15/2",
+    "Adres Pocztowy": "55-100",
+    "Nr.Telefonu": "517387016"
+  },
+  {
+    "nw": "1440557",
+    "nw_1": "722102733",
+    "Imie": "Tomasz",
+    "Nazwisko": "Miela",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Trzebnica",
+    "Ulica": "Trzebnica ul.Korczaka 2D/19",
+    "Adres Pocztowy": "55-100",
+    "Nr.Telefonu": "535777187"
+  },
+  {
+    "nw": "2041271",
+    "nw_1": "449098515",
+    "Imie": "Wlad",
+    "Nazwisko": "Wlad",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Trzebnica",
+    "Ulica": "Bochenka 43/6",
+    "Adres Pocztowy": "55-100",
+    "Nr.Telefonu": "694218459"
+  }
+]

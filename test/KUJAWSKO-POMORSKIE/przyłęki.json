@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1638582",
+    "nw_1": "226360314",
+    "Imie": "Kacper",
+    "Nazwisko": "Głowik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Przyłęki",
+    "Ulica": "Przyłęki gm Białe Błota  ul .Dymna 6C",
+    "Adres Pocztowy": "86-005",
+    "Nr.Telefonu": "+48 694 971 574"
+  },
+  {
+    "nw": "1408387",
+    "nw_1": "321662215",
+    "Imie": "Julia",
+    "Nazwisko": "Józefowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Przyłęki",
+    "Ulica": "26",
+    "Adres Pocztowy": "86-005",
+    "Nr.Telefonu": "736201352"
+  },
+  {
+    "nw": "1636084",
+    "nw_1": "521946005",
+    "Imie": "Dawid",
+    "Nazwisko": "Koronowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Przyłęki",
+    "Ulica": "Cicha 24",
+    "Adres Pocztowy": "86-005",
+    "Nr.Telefonu": "795948774"
+  },
+  {
+    "nw": "2118252",
+    "nw_1": "963486234",
+    "Imie": "Jakub",
+    "Nazwisko": "Wojnowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Przyłęki",
+    "Ulica": "Willowa 8",
+    "Adres Pocztowy": "86-005",
+    "Nr.Telefonu": "531070811"
+  }
+]

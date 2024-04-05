@@ -1,0 +1,83 @@
+[
+  {
+    "nw": "1241760",
+    "nw_1": "521506657",
+    "Imie": "Mateusz",
+    "Nazwisko": "Winiecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Szubin",
+    "Ulica": "Dąbrowskiego 17/1",
+    "Adres Pocztowy": "89-200",
+    "Nr.Telefonu": "531231063"
+  },
+  {
+    "nw": "376890",
+    "nw_1": "643395020",
+    "Imie": "Filip",
+    "Nazwisko": "Pyszczyński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Szubin",
+    "Ulica": "Szubin  Henryka",
+    "Adres Pocztowy": "Sienkiewicza 24",
+    "Nr.Telefonu": "89-200",
+    "__parsed_extra": [
+      "533 146 173"
+    ]
+  },
+  {
+    "nw": "649006",
+    "nw_1": "933759435",
+    "Imie": "Filip",
+    "Nazwisko": "Świtała",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Szubin",
+    "Ulica": "Łabiszyńska 13",
+    "Adres Pocztowy": "89-200",
+    "Nr.Telefonu": "730269064"
+  },
+  {
+    "nw": "2292399",
+    "nw_1": "108563712",
+    "Imie": "Kacper",
+    "Nazwisko": "Wyrzykowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Szubin",
+    "Ulica": "Dworcowa 9B",
+    "Adres Pocztowy": "89-200",
+    "Nr.Telefonu": "535276290"
+  },
+  {
+    "nw": "854712",
+    "nw_1": "861422315",
+    "Imie": "Dariusz",
+    "Nazwisko": "Pawlak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Szubin",
+    "Ulica": "Samoklęski Małe 23",
+    "Adres Pocztowy": "89-200",
+    "Nr.Telefonu": "+48511963129"
+  },
+  {
+    "nw": "1166720",
+    "nw_1": "793469244",
+    "Imie": "Oskar",
+    "Nazwisko": "Chudzyński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Szubin",
+    "Ulica": "21/18 Nakielska",
+    "Adres Pocztowy": "89-200",
+    "Nr.Telefonu": "533704365"
+  }
+]

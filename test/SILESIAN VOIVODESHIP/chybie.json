@@ -1,0 +1,96 @@
+[
+  {
+    "nw": "2166554",
+    "nw_1": "442840983",
+    "Imie": "Artur",
+    "Nazwisko": "Doronin",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Chybie",
+    "Ulica": "Frelichów Targowa 28a",
+    "Adres Pocztowy": "43-520",
+    "Nr.Telefonu": "+48 736 223 738"
+  },
+  {
+    "nw": "2307167",
+    "nw_1": "673213770",
+    "Imie": "Jakub",
+    "Nazwisko": "Wiewióra",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Chybie",
+    "Ulica": "Teligi 6",
+    "Adres Pocztowy": "43-520",
+    "Nr.Telefonu": "730627489"
+  },
+  {
+    "nw": "1058652",
+    "nw_1": "651376178",
+    "Imie": "Filip",
+    "Nazwisko": "Moskwa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Chybie",
+    "Ulica": "Krucza 31",
+    "Adres Pocztowy": "43-520",
+    "Nr.Telefonu": "+48578900093"
+  },
+  {
+    "nw": "1597136",
+    "nw_1": "951416902",
+    "Imie": "Patryk",
+    "Nazwisko": "Piętka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Chybie",
+    "Ulica": "Nowa Osada 13a",
+    "Adres Pocztowy": "43-520",
+    "Nr.Telefonu": "791066181"
+  },
+  {
+    "nw": "1413329",
+    "nw_1": "680882825",
+    "Imie": "jakub",
+    "Nazwisko": "wiewiora",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Chybie",
+    "Ulica": "teligi 6",
+    "Adres Pocztowy": "43-520",
+    "Nr.Telefonu": "730627489"
+  },
+  {
+    "nw": "495912",
+    "nw_1": "641994384",
+    "Imie": "Aleksander",
+    "Nazwisko": "Przybycin",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Chybie",
+    "Ulica": "Mnich",
+    "Adres Pocztowy": " ul.Topolowa 31a",
+    "Nr.Telefonu": "43-520",
+    "__parsed_extra": [
+      "500765256"
+    ]
+  },
+  {
+    "nw": "1265143",
+    "nw_1": "399619038",
+    "Imie": "Bartłomiej",
+    "Nazwisko": "Szczyrba",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Chybie",
+    "Ulica": "wyzwolenia 70",
+    "Adres Pocztowy": "43-520",
+    "Nr.Telefonu": "729538435"
+  }
+]

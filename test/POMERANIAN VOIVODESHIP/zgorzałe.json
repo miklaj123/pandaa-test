@@ -1,0 +1,34 @@
+[
+  {
+    "nw": "2213122",
+    "nw_1": "551772869",
+    "Imie": "Wojtek",
+    "Nazwisko": "Dmochowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Zgorzałe",
+    "Ulica": "Kapliczna ",
+    "Adres Pocztowy": " 2c ",
+    "Nr.Telefonu": "83-322",
+    "__parsed_extra": [
+      "+48606525109"
+    ]
+  },
+  {
+    "nw": "2213114",
+    "nw_1": "551772869",
+    "Imie": "Wojtek",
+    "Nazwisko": "Dmochowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Zgorzałe",
+    "Ulica": "Kapliczna ",
+    "Adres Pocztowy": "2c",
+    "Nr.Telefonu": "83-322",
+    "__parsed_extra": [
+      " +48 606525109"
+    ]
+  }
+]

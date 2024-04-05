@@ -1,0 +1,55 @@
+[
+  {
+    "nw": "677717",
+    "nw_1": "542821510",
+    "Imie": "Marcin",
+    "Nazwisko": "Woliński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Zielona Łąka",
+    "Ulica": "City:Zielona łąka "
+  },
+  {
+    "nw": "2209518",
+    "nw_1": "857950033",
+    "Imie": "Marceli",
+    "Nazwisko": "Kotarak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Zielona łąka",
+    "Ulica": "Ostrowska 15",
+    "Adres Pocztowy": "63-300",
+    "Nr.Telefonu": "690341103"
+  },
+  {
+    "nw": "478193",
+    "nw_1": "606494363",
+    "Imie": "Hubert",
+    "Nazwisko": "Janczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Zielona Łąka",
+    "Ulica": "Zielona Łąka 63-300",
+    "Adres Pocztowy": " Ostrowska 11",
+    "Nr.Telefonu": "63-300",
+    "__parsed_extra": [
+      "+48 784 055 489"
+    ]
+  },
+  {
+    "nw": "2209519",
+    "nw_1": "857950033",
+    "Imie": "Marceli",
+    "Nazwisko": "Kotarak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Zielona łąka",
+    "Ulica": "Ostrowska 15",
+    "Adres Pocztowy": "63-300",
+    "Nr.Telefonu": "690341103"
+  }
+]

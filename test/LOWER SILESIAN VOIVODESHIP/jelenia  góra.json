@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "398637",
+    "nw_1": "550831349",
+    "Imie": "Krzysztof",
+    "Nazwisko": "Szafraniec",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Jelenia  Góra",
+    "Ulica": "Wrocławska104a",
+    "Adres Pocztowy": "58-506",
+    "Nr.Telefonu": "576952100"
+  },
+  {
+    "nw": "1311837",
+    "nw_1": "876404971",
+    "Imie": "Marcel",
+    "Nazwisko": "Małunowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Jelenia  Góra",
+    "Ulica": "Kruszwicka 10",
+    "Adres Pocztowy": "58-500",
+    "Nr.Telefonu": "+48785391469"
+  },
+  {
+    "nw": "944564",
+    "nw_1": "252890998",
+    "Imie": "Marcel",
+    "Nazwisko": "Głowienke",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Jelenia  Góra",
+    "Ulica": "Grudziądzka 9",
+    "Adres Pocztowy": "58-500",
+    "Nr.Telefonu": "883200032"
+  }
+]

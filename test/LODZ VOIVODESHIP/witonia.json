@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "878948",
+    "nw_1": "559033692",
+    "Imie": "Jan",
+    "Nazwisko": "Przybysz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Witonia",
+    "Ulica": "Stefana Starzyńskiego 9",
+    "Adres Pocztowy": "99-335",
+    "Nr.Telefonu": "+48660825328"
+  },
+  {
+    "nw": "1040230",
+    "nw_1": "163036528",
+    "Imie": "Adam",
+    "Nazwisko": "Kaczorowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Witonia",
+    "Ulica": "Anusin 20",
+    "Adres Pocztowy": "99-335",
+    "Nr.Telefonu": "889 052 634"
+  },
+  {
+    "nw": "721510",
+    "nw_1": "586496150",
+    "Imie": "Bartosz",
+    "Nazwisko": "Krysztofiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Witonia",
+    "Ulica": "Witonia",
+    "Adres Pocztowy": " cicha 5",
+    "Nr.Telefonu": "99-335",
+    "__parsed_extra": [
+      "506193968"
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2222837",
+    "nw_1": "984669767",
+    "Imie": "Franek",
+    "Nazwisko": "Langowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Wegrzce",
+    "Ulica": "C11 / 111",
+    "Adres Pocztowy": "32086",
+    "Nr.Telefonu": "+48606802288"
+  },
+  {
+    "nw": "1680680",
+    "nw_1": "770320222",
+    "Imie": "paweł",
+    "Nazwisko": "przeginiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "wegrzce",
+    "Ulica": "Węgrze warszawska 39a",
+    "Adres Pocztowy": "32-086",
+    "Nr.Telefonu": "501877737"
+  },
+  {
+    "nw": "1739473",
+    "nw_1": "984669767",
+    "Imie": "Marcin",
+    "Nazwisko": "Langowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Wegrzce",
+    "Ulica": "C11/111",
+    "Adres Pocztowy": "32-086",
+    "Nr.Telefonu": "+48606802288"
+  }
+]

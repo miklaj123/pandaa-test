@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "1458041",
+    "nw_1": "603285655",
+    "Imie": "Mateusz",
+    "Nazwisko": "Walasik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Sławno",
+    "Ulica": "Bratków 30B",
+    "Adres Pocztowy": "26-332",
+    "Nr.Telefonu": "609978668"
+  },
+  {
+    "nw": "840344",
+    "nw_1": "413699143",
+    "Imie": "Maks",
+    "Nazwisko": "Mieszczankowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Sławno",
+    "Ulica": "Kozenin 12D",
+    "Adres Pocztowy": "26-332",
+    "Nr.Telefonu": "502154799"
+  },
+  {
+    "nw": "2143820",
+    "nw_1": "316978248",
+    "Imie": "jakub",
+    "Nazwisko": "pazurek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Sławno",
+    "Ulica": "Antoninów"
+  }
+]

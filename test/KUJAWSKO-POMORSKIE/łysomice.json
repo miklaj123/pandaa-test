@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "336769",
+    "nw_1": "487293139",
+    "Imie": "Michał",
+    "Nazwisko": "Lewandowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Łysomice",
+    "Ulica": "Klonowa 11",
+    "Adres Pocztowy": "87-148",
+    "Nr.Telefonu": "+48 519678783"
+  },
+  {
+    "nw": "1600782",
+    "nw_1": "152759419",
+    "Imie": "Aleksander",
+    "Nazwisko": "Zagacki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Łysomice",
+    "Ulica": "Kamionki Małe 14A",
+    "Adres Pocztowy": "87-148",
+    "Nr.Telefonu": "736869198"
+  },
+  {
+    "nw": "2292477",
+    "nw_1": "469603300",
+    "Imie": "Hubert",
+    "Nazwisko": "Flak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "łysomice",
+    "Ulica": "leśna 51c",
+    "Adres Pocztowy": "87-148",
+    "Nr.Telefonu": "514 174 883"
+  },
+  {
+    "nw": "602367",
+    "nw_1": "784016010",
+    "Imie": "Miłosz",
+    "Nazwisko": "Łagodzinski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "łysomice",
+    "Ulica": "zęgwirt 15",
+    "Adres Pocztowy": "87-148",
+    "Nr.Telefonu": "783007686"
+  }
+]

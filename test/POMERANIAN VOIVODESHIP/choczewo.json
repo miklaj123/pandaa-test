@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "863050",
+    "nw_1": "364176796",
+    "Imie": "Tytus",
+    "Nazwisko": "Garski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Choczewo",
+    "Ulica": "Ul. Pierwszych Osadników 37a",
+    "Adres Pocztowy": "84-210",
+    "Nr.Telefonu": "575613139"
+  },
+  {
+    "nw": "1481897",
+    "nw_1": "374980568",
+    "Imie": "Klaudiusz",
+    "Nazwisko": "Glowienke",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Choczewo",
+    "Ulica": "Pucka 14a/4",
+    "Adres Pocztowy": "84-210",
+    "Nr.Telefonu": "732131214"
+  },
+  {
+    "nw": "1229284",
+    "nw_1": "416733517",
+    "Imie": "Stanisław",
+    "Nazwisko": "Dawidowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Choczewo",
+    "Ulica": "Wojska Polskiego 1",
+    "Adres Pocztowy": "84-210",
+    "Nr.Telefonu": "518454999"
+  }
+]

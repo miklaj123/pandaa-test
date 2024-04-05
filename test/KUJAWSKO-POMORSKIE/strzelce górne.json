@@ -1,0 +1,28 @@
+[
+  {
+    "nw": "1200379",
+    "nw_1": "226982719",
+    "Imie": "Mateusz",
+    "Nazwisko": "Wiese",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Strzelce Górne",
+    "Ulica": "st. Brzozowa 11",
+    "Adres Pocztowy": "86-022",
+    "Nr.Telefonu": "509040232"
+  },
+  {
+    "nw": "712636",
+    "nw_1": "982247482",
+    "Imie": "Sylwester",
+    "Nazwisko": "Kopaczewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Strzelce Górne",
+    "Ulica": "Dębowa 21",
+    "Adres Pocztowy": "86-022",
+    "Nr.Telefonu": "609312822"
+  }
+]

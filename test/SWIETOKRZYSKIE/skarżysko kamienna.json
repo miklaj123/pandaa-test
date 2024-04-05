@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1887961",
+    "nw_1": "479011973",
+    "Imie": "Damian",
+    "Nazwisko": "Fąfara",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Skarżysko Kamienna",
+    "Ulica": "Paryska 221/9",
+    "Adres Pocztowy": "26-110",
+    "Nr.Telefonu": "881373231"
+  },
+  {
+    "nw": "1625409",
+    "nw_1": "332240567",
+    "Imie": "Mariola",
+    "Nazwisko": "Saja",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Skarżysko Kamienna",
+    "Ulica": "75 Mikołaja Reja",
+    "Adres Pocztowy": "26-110",
+    "Nr.Telefonu": "+48508961122"
+  },
+  {
+    "nw": "1379617",
+    "nw_1": "269565352",
+    "Imie": "Kacper",
+    "Nazwisko": "Wolski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Skarżysko Kamienna",
+    "Ulica": "Konopnickiej 12/9",
+    "Adres Pocztowy": "26-120",
+    "Nr.Telefonu": "667643779"
+  }
+]

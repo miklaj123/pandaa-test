@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "2328016",
+    "nw_1": "918659275",
+    "Imie": "Piotr",
+    "Nazwisko": "Pieluzek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Wola Krzysztoporska",
+    "Ulica": "spacerowa"
+  },
+  {
+    "nw": "1106853",
+    "nw_1": "364053904",
+    "Imie": "Szymon",
+    "Nazwisko": "Maciążak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Wola Krzysztoporska",
+    "Ulica": "Majków Duży 44",
+    "Adres Pocztowy": "97-371",
+    "Nr.Telefonu": "729889413"
+  },
+  {
+    "nw": "1638367",
+    "nw_1": "957343539",
+    "Imie": "Filip",
+    "Nazwisko": "Pawłowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Wola Krzysztoporska",
+    "Ulica": "ul.Poludniowa 31b/1",
+    "Adres Pocztowy": "97-371",
+    "Nr.Telefonu": "+48518029548"
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "nw": "565034",
+    "nw_1": "446989917",
+    "Imie": "Paweł",
+    "Nazwisko": "Ryś",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Jaworze",
+    "Ulica": "Cisowa"
+  },
+  {
+    "nw": "1342536",
+    "nw_1": "773151965",
+    "Imie": "Michał",
+    "Nazwisko": "Gwóźdź",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Jaworze",
+    "Ulica": "Pod Harendą 499",
+    "Adres Pocztowy": "43384",
+    "Nr.Telefonu": "882466668"
+  },
+  {
+    "nw": "2321131",
+    "nw_1": "268897504",
+    "Imie": "Korneliusz",
+    "Nazwisko": "Piaskowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Jaworze",
+    "Ulica": "Turystyczna 192",
+    "Adres Pocztowy": "43-384",
+    "Nr.Telefonu": "726731997"
+  },
+  {
+    "nw": "1417323",
+    "nw_1": "897619338",
+    "Imie": "Maciej",
+    "Nazwisko": "Kuczmierczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Jaworze",
+    "Ulica": "Południowa 311",
+    "Adres Pocztowy": "43-384",
+    "Nr.Telefonu": "506025880"
+  },
+  {
+    "nw": "1895813",
+    "nw_1": "363352250",
+    "Imie": "Anna",
+    "Nazwisko": "Szpok-Wasilewska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Jaworze",
+    "Ulica": "Jaworze ul.Stokrotek 16",
+    "Adres Pocztowy": "43-384",
+    "Nr.Telefonu": "576638245"
+  },
+  {
+    "nw": "740408",
+    "nw_1": "658416823",
+    "Imie": "Timo",
+    "Nazwisko": "Arndt",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Jaworze",
+    "Ulica": "Zielona 12",
+    "Adres Pocztowy": "43-384",
+    "Nr.Telefonu": "508373774"
+  },
+  {
+    "nw": "2333900",
+    "nw_1": "256822930",
+    "Imie": "Sylwester ",
+    "Nazwisko": "Kulpa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Jaworze ",
+    "Ulica": "Podgórska 14",
+    "Adres Pocztowy": " Jaworze ",
+    "Nr.Telefonu": "43-384",
+    "__parsed_extra": [
+      "794601382"
+    ]
+  }
+]

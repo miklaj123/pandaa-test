@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2197712",
+    "nw_1": "344667710",
+    "Imie": "Jakub",
+    "Nazwisko": "Michalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Sośnie",
+    "Ulica": "Sośnie ul.(street) Kościelna 12B",
+    "Adres Pocztowy": "63-435",
+    "Nr.Telefonu": "784598433"
+  },
+  {
+    "nw": "2132505",
+    "nw_1": "627023007",
+    "Imie": "Michał",
+    "Nazwisko": "Graja",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Sośnie",
+    "Ulica": "Sosnowa 4",
+    "Adres Pocztowy": "63-435",
+    "Nr.Telefonu": "881329885"
+  },
+  {
+    "nw": "525539",
+    "nw_1": "445816357",
+    "Imie": "Igor",
+    "Nazwisko": "Jurga",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Sośnie",
+    "Ulica": "Brzozowa 17",
+    "Adres Pocztowy": "63-435",
+    "Nr.Telefonu": "500389249"
+  }
+]

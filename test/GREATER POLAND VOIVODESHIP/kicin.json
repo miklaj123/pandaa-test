@@ -1,0 +1,57 @@
+[
+  {
+    "nw": "2043414",
+    "nw_1": "768773727",
+    "Imie": "michal",
+    "Nazwisko": "swiatek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Kicin",
+    "Ulica": "Zbożowa 6",
+    "Adres Pocztowy": "62-004",
+    "Nr.Telefonu": "535 623 554"
+  },
+  {
+    "nw": "375419",
+    "nw_1": "961770547",
+    "Imie": "Piotr",
+    "Nazwisko": "Smuszkiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Kicin",
+    "Ulica": "Rumiankowa 1",
+    "Adres Pocztowy": "62-004",
+    "Nr.Telefonu": "+48 537322073"
+  },
+  {
+    "nw": "62669",
+    "nw_1": "13252593",
+    "Imie": "Jacek ",
+    "Nazwisko": "Gemski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Kicin",
+    "Ulica": "Sosnowa 2",
+    "Adres Pocztowy": " Kicin 62-004",
+    "Nr.Telefonu": "62-004",
+    "__parsed_extra": [
+      "+48607818050"
+    ]
+  },
+  {
+    "nw": "2055324",
+    "nw_1": "222881865",
+    "Imie": "Norbert",
+    "Nazwisko": "Szulczewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Kicin",
+    "Ulica": "Ul. Szkolna 14a ",
+    "Adres Pocztowy": "62-004",
+    "Nr.Telefonu": "570-558-533"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "676671",
+    "nw_1": "815482982",
+    "Imie": "Santiago",
+    "Nazwisko": "Olszowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Bochnia",
+    "Ulica": "8/6",
+    "Adres Pocztowy": "32-700",
+    "Nr.Telefonu": "888260125"
+  },
+  {
+    "nw": "1676445",
+    "nw_1": "538748343",
+    "Imie": "maciek",
+    "Nazwisko": "walega",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "bochnia",
+    "Ulica": "majora bacy 22",
+    "Adres Pocztowy": "32-700",
+    "Nr.Telefonu": "781478532"
+  },
+  {
+    "nw": "1428576",
+    "nw_1": "372956802",
+    "Imie": "Gabriel",
+    "Nazwisko": "Łucyków",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Bochnia",
+    "Ulica": "Na buczków 8/1",
+    "Adres Pocztowy": "32-700",
+    "Nr.Telefonu": "797513162"
+  }
+]

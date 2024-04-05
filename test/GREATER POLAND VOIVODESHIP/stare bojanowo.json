@@ -1,0 +1,70 @@
+[
+  {
+    "nw": "2225994",
+    "nw_1": "421737533",
+    "Imie": "Oskar",
+    "Nazwisko": "Krauze",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Stare Bojanowo",
+    "Ulica": "Stare Bojanowo",
+    "Adres Pocztowy": " Główna 60 64-040",
+    "Nr.Telefonu": "64-040",
+    "__parsed_extra": [
+      "669147196"
+    ]
+  },
+  {
+    "nw": "827871",
+    "nw_1": "402945905",
+    "Imie": "Wiktor",
+    "Nazwisko": "Kurzawski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Stare Bojanowo",
+    "Ulica": "Kwiatowa 15",
+    "Adres Pocztowy": "64-030",
+    "Nr.Telefonu": "786 295 190"
+  },
+  {
+    "nw": "304886",
+    "nw_1": "542162571",
+    "Imie": "Michał",
+    "Nazwisko": "Kasprzak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Stare Bojanowo",
+    "Ulica": "Szkolna 8a",
+    "Adres Pocztowy": "64-030",
+    "Nr.Telefonu": "+48534867260"
+  },
+  {
+    "nw": "98337",
+    "nw_1": "402945905",
+    "Imie": "Aleksander",
+    "Nazwisko": "Kochmański",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Stare Bojanowo",
+    "Ulica": "Dworcowa 3/2",
+    "Adres Pocztowy": "64-030",
+    "Nr.Telefonu": "534677382"
+  },
+  {
+    "nw": "747793",
+    "nw_1": "402945905",
+    "Imie": "Włodzimierz",
+    "Nazwisko": "Kochmański",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Stare Bojanowo",
+    "Ulica": "Przemysłowa 2",
+    "Adres Pocztowy": "64-030",
+    "Nr.Telefonu": "534686838"
+  }
+]

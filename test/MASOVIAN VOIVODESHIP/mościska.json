@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1138858",
+    "nw_1": "172677526",
+    "Imie": "Antoni",
+    "Nazwisko": "Poliszczuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Mościska",
+    "Ulica": "Chabrowa 34",
+    "Adres Pocztowy": "05-080",
+    "Nr.Telefonu": "728383596"
+  },
+  {
+    "nw": "1385147",
+    "nw_1": "711903130",
+    "Imie": "Marta",
+    "Nazwisko": "Bogdańska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Mościska",
+    "Ulica": "Postępu 1A",
+    "Adres Pocztowy": "05-080",
+    "Nr.Telefonu": "501468030"
+  },
+  {
+    "nw": "848797",
+    "nw_1": "265405338",
+    "Imie": "Aleksander",
+    "Nazwisko": "Rajchert",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Mościska",
+    "Ulica": "street: Jodłowa 27",
+    "Adres Pocztowy": "05-080",
+    "Nr.Telefonu": "+48608541079"
+  }
+]

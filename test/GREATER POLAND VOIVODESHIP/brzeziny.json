@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "973349",
+    "nw_1": "996284024",
+    "Imie": "Miłosz",
+    "Nazwisko": "Olszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Brzeziny",
+    "Ulica": "Dzięcioły 20",
+    "Adres Pocztowy": "62-874",
+    "Nr.Telefonu": "668187924"
+  },
+  {
+    "nw": "712903",
+    "nw_1": "520325890",
+    "Imie": "Wiktor",
+    "Nazwisko": "Flas",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Brzeziny",
+    "Ulica": "ul.Ks Józefa Kurzawy 11",
+    "Adres Pocztowy": "62-874",
+    "Nr.Telefonu": "536459442"
+  },
+  {
+    "nw": "1527205",
+    "nw_1": "736825438",
+    "Imie": "Aron",
+    "Nazwisko": "Wozniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Brzeziny",
+    "Ulica": "Moczalec 3A",
+    "Adres Pocztowy": "62-874",
+    "Nr.Telefonu": "663546054"
+  }
+]

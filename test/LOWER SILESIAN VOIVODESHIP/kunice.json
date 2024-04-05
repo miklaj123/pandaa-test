@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1161372",
+    "nw_1": "431151422",
+    "Imie": "Oliwia",
+    "Nazwisko": "Zborowska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kunice",
+    "Ulica": "Bieniowice 17",
+    "Adres Pocztowy": "59-216",
+    "Nr.Telefonu": "511658098"
+  },
+  {
+    "nw": "2296584",
+    "nw_1": "450682847",
+    "Imie": "Maciek",
+    "Nazwisko": "Olszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kunice ",
+    "Ulica": "11 listopada 13",
+    "Adres Pocztowy": "59-216",
+    "Nr.Telefonu": "531567966"
+  },
+  {
+    "nw": "251134",
+    "nw_1": "817539746",
+    "Imie": "Maks",
+    "Nazwisko": "Tutaj",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kunice",
+    "Ulica": "Pogodna 10",
+    "Adres Pocztowy": "59-216",
+    "Nr.Telefonu": "576 342 480"
+  }
+]

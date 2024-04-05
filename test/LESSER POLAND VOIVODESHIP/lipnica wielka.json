@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1274363",
+    "nw_1": "118121836",
+    "Imie": "Wiktor",
+    "Nazwisko": "Lach",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Lipnica Wielka",
+    "Ulica": "Lipnica Wielka 509a",
+    "Adres Pocztowy": "34-483",
+    "Nr.Telefonu": "691566974"
+  },
+  {
+    "nw": "979208",
+    "nw_1": "625550837",
+    "Imie": "Katarzyna",
+    "Nazwisko": "Węgrzyn",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Lipnica Wielka",
+    "Ulica": "1147A",
+    "Adres Pocztowy": "34-483",
+    "Nr.Telefonu": "510664425"
+  },
+  {
+    "nw": "1168044",
+    "nw_1": "841666729",
+    "Imie": "Jakub",
+    "Nazwisko": "Górnicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Lipnica Wielka",
+    "Ulica": "Lipnica Wielka 100",
+    "Adres Pocztowy": "34-483",
+    "Nr.Telefonu": "507184487"
+  }
+]

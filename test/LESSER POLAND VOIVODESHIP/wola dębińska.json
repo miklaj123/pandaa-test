@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2213086",
+    "nw_1": "335661422",
+    "Imie": "Nikodem",
+    "Nazwisko": "Salamon",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Wola Dębińska",
+    "Ulica": "Wola Dębińska 494",
+    "Adres Pocztowy": "32-828",
+    "Nr.Telefonu": "884163906"
+  },
+  {
+    "nw": "1297988",
+    "nw_1": "731654758",
+    "Imie": "Dominik",
+    "Nazwisko": "Pawluk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Wola Dębińska",
+    "Ulica": "Wola Dębińska 310",
+    "Adres Pocztowy": "32-852",
+    "Nr.Telefonu": "570022758"
+  },
+  {
+    "nw": "538998",
+    "nw_1": "807684679",
+    "Imie": "Karol",
+    "Nazwisko": "Karol",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Wola Dębińska",
+    "Ulica": "Wola Dębińska 108",
+    "Adres Pocztowy": "32-852",
+    "Nr.Telefonu": "797282011"
+  }
+]

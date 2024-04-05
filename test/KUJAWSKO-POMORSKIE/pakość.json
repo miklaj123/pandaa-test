@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1649085",
+    "nw_1": "319718469",
+    "Imie": "Jan",
+    "Nazwisko": "Tomaszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Pakość",
+    "Ulica": "kościelec 36A",
+    "Adres Pocztowy": "88-170",
+    "Nr.Telefonu": "667682250"
+  },
+  {
+    "nw": "1232817",
+    "nw_1": "105990033",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Ziółkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Pakość",
+    "Ulica": "Jankowo 5",
+    "Adres Pocztowy": "88-170",
+    "Nr.Telefonu": "570474875"
+  },
+  {
+    "nw": "916473",
+    "nw_1": "826108369",
+    "Imie": "Adrian",
+    "Nazwisko": "Gajecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Pakość",
+    "Ulica": "Kościelec 53",
+    "Adres Pocztowy": "88-170",
+    "Nr.Telefonu": "+48575260206"
+  },
+  {
+    "nw": "1004060",
+    "nw_1": "972704219",
+    "Imie": "Jakub",
+    "Nazwisko": "Hermann",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Pakość",
+    "Ulica": "Kościelec 8B",
+    "Adres Pocztowy": "88-170",
+    "Nr.Telefonu": "603521183"
+  }
+]

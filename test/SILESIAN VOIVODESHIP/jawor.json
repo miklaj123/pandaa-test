@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "1878994",
+    "nw_1": "695348426",
+    "Imie": "dorian",
+    "Nazwisko": "malinowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "jawor",
+    "Ulica": "robotnicza 11a",
+    "Adres Pocztowy": "59-400",
+    "Nr.Telefonu": "605893899"
+  },
+  {
+    "nw": "2001198",
+    "nw_1": "325235866",
+    "Imie": "Vladyslav",
+    "Nazwisko": "Karskyi",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Jawor",
+    "Ulica": "Strzegomska 10",
+    "Adres Pocztowy": "1",
+    "Nr.Telefonu": "59-400",
+    "__parsed_extra": [
+      "500612682"
+    ]
+  }
+]

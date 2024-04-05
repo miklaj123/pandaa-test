@@ -1,0 +1,57 @@
+[
+  {
+    "nw": "1348087",
+    "nw_1": "109658087",
+    "Imie": "Nikodem",
+    "Nazwisko": "Marciniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Robakowo",
+    "Ulica": "Forsycjowa 9/1",
+    "Adres Pocztowy": "62023",
+    "Nr.Telefonu": "537422543"
+  },
+  {
+    "nw": "9908",
+    "nw_1": "35297241",
+    "Imie": "Jakub",
+    "Nazwisko": "Kobierski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Robakowo",
+    "Ulica": "Jasminowa 16/1",
+    "Adres Pocztowy": "62023",
+    "Nr.Telefonu": "+48578425102"
+  },
+  {
+    "nw": "1833323",
+    "nw_1": "220922090",
+    "Imie": "Mateusz",
+    "Nazwisko": "Tomczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Robakowo",
+    "Ulica": "Robakowo",
+    "Adres Pocztowy": " Polna 17a",
+    "Nr.Telefonu": "62-023",
+    "__parsed_extra": [
+      "504720810"
+    ]
+  },
+  {
+    "nw": "1998762",
+    "nw_1": "821352930",
+    "Imie": "Szymon",
+    "Nazwisko": "Sznigir",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Robakowo",
+    "Ulica": "Jaśminowa 38/2 Robakowo",
+    "Adres Pocztowy": "62-023",
+    "Nr.Telefonu": "880989739"
+  }
+]

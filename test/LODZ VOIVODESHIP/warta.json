@@ -1,0 +1,80 @@
+[
+  {
+    "nw": "1019813",
+    "nw_1": "442030819",
+    "Imie": "Bartłomiej",
+    "Nazwisko": "Szymczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Warta",
+    "Ulica": "Słoneczna 1",
+    "Adres Pocztowy": "98-290",
+    "Nr.Telefonu": "500385177"
+  },
+  {
+    "nw": "843266",
+    "nw_1": "408161314",
+    "Imie": "Oskar",
+    "Nazwisko": "Michalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Warta",
+    "Ulica": "Baszków 19a",
+    "Adres Pocztowy": "98-290",
+    "Nr.Telefonu": "534981633"
+  },
+  {
+    "nw": "776310",
+    "nw_1": "408161314",
+    "Imie": "Oskar",
+    "Nazwisko": "Michalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Warta",
+    "Ulica": "Baszków 19a",
+    "Adres Pocztowy": "98-290",
+    "Nr.Telefonu": "534981633"
+  },
+  {
+    "nw": "1795580",
+    "nw_1": "592001258",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Juszczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Warta",
+    "Ulica": "Cielce 125",
+    "Adres Pocztowy": "98-290",
+    "Nr.Telefonu": "884888341"
+  },
+  {
+    "nw": "2067890",
+    "nw_1": "445306309",
+    "Imie": "Dawid",
+    "Nazwisko": "Wawrzyniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Warta",
+    "Ulica": "Maszew 30",
+    "Adres Pocztowy": "98-290",
+    "Nr.Telefonu": "669105166"
+  },
+  {
+    "nw": "260548",
+    "nw_1": "767989841",
+    "Imie": "Igor",
+    "Nazwisko": "Szczygiecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Warta",
+    "Ulica": "Wola Zadąbrowska Stara 20",
+    "Adres Pocztowy": "98-290",
+    "Nr.Telefonu": "791222310"
+  }
+]

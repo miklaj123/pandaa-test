@@ -1,0 +1,28 @@
+[
+  {
+    "nw": "944200",
+    "nw_1": "705863815",
+    "Imie": "Hubert",
+    "Nazwisko": "Kozlowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Znin",
+    "Ulica": "ZNIN Zamknieta 3",
+    "Adres Pocztowy": "88-400 Znin",
+    "Nr.Telefonu": "732626068"
+  },
+  {
+    "nw": "798540",
+    "nw_1": "698935382",
+    "Imie": "Wiktor",
+    "Nazwisko": "Chutek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Znin",
+    "Ulica": "Klemensa Janickiego 2/4",
+    "Adres Pocztowy": "88-400",
+    "Nr.Telefonu": "666213304"
+  }
+]

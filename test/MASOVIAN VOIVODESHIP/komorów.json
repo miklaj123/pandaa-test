@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1864454",
+    "nw_1": "823444414",
+    "Imie": "Mateusz",
+    "Nazwisko": "Dudkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Komorów",
+    "Ulica": "Tęczowa 24",
+    "Adres Pocztowy": "05-806",
+    "Nr.Telefonu": "533578245"
+  },
+  {
+    "nw": "1317918",
+    "nw_1": "721680057",
+    "Imie": "Maciej",
+    "Nazwisko": "Leśniewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Komorów",
+    "Ulica": "Mikołaja Reja 6a",
+    "Adres Pocztowy": "05-806",
+    "Nr.Telefonu": "533681770"
+  },
+  {
+    "nw": "577760",
+    "nw_1": "724131984",
+    "Imie": "patryk",
+    "Nazwisko": "kawycz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "komorów",
+    "Ulica": "północna 2",
+    "Adres Pocztowy": "05-806",
+    "Nr.Telefonu": "792400102"
+  }
+]

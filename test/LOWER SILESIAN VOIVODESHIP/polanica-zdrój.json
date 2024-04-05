@@ -1,0 +1,120 @@
+[
+  {
+    "nw": "241357",
+    "nw_1": "861932154",
+    "Imie": "Błażej",
+    "Nazwisko": "Wiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Polanica-Zdrój",
+    "Ulica": "ul.zdrojowa 3               ul.zdrojowa 3/6",
+    "Adres Pocztowy": "57-320",
+    "Nr.Telefonu": "664174482"
+  },
+  {
+    "nw": "2168061",
+    "nw_1": "718497518",
+    "Imie": "Norbert",
+    "Nazwisko": "Nowak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Polanica-Zdrój",
+    "Ulica": "Aleja Wojska Polskiego 22",
+    "Adres Pocztowy": "57-320",
+    "Nr.Telefonu": "695433675"
+  },
+  {
+    "nw": "2145782",
+    "nw_1": "719812183",
+    "Imie": "Szymon",
+    "Nazwisko": "Najderek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Polanica-Zdrój",
+    "Ulica": "Stary Wielisław 231",
+    "Adres Pocztowy": " 57-320 Polanica-Zdrój",
+    "Nr.Telefonu": "57-313",
+    "__parsed_extra": [
+      "665580201"
+    ]
+  },
+  {
+    "nw": "2089344",
+    "nw_1": "798875929",
+    "Imie": "antonina",
+    "Nazwisko": "michalek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Polanica-zdrój",
+    "Ulica": "Wybickiego 10",
+    "Adres Pocztowy": "57-320",
+    "Nr.Telefonu": "799079710"
+  },
+  {
+    "nw": "2075722",
+    "nw_1": "341038703",
+    "Imie": "Kamil",
+    "Nazwisko": "Chołuj",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Polanica-Zdrój",
+    "Ulica": "Wojska Polskiego"
+  },
+  {
+    "nw": "452477",
+    "nw_1": "942394934",
+    "Imie": "Antoni",
+    "Nazwisko": "Cygoń",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Polanica-Zdrój",
+    "Ulica": "Marii Dąbrowskiej 2",
+    "Adres Pocztowy": "57-320",
+    "Nr.Telefonu": "696813306"
+  },
+  {
+    "nw": "215087",
+    "nw_1": "672173892",
+    "Imie": "Marcin",
+    "Nazwisko": "Kowalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Polanica-Zdrój",
+    "Ulica": "Baczyńskiego 8",
+    "Adres Pocztowy": "57-320",
+    "Nr.Telefonu": "736768671"
+  },
+  {
+    "nw": "532867",
+    "nw_1": "538742597",
+    "Imie": "Olivier",
+    "Nazwisko": "Broszko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Polanica-zdrój",
+    "Ulica": "Kaźimierza Płaskiego2",
+    "Adres Pocztowy": "57-320",
+    "Nr.Telefonu": "‭+48 510 978 250"
+  },
+  {
+    "nw": "476311",
+    "nw_1": "280488515",
+    "Imie": "Adam",
+    "Nazwisko": "Mokrycki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "polanica-zdrój",
+    "Ulica": "Warszawska 23A",
+    "Adres Pocztowy": "57-320",
+    "Nr.Telefonu": "+48576722010"
+  }
+]

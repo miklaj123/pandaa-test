@@ -1,0 +1,96 @@
+[
+  {
+    "nw": "1735146",
+    "nw_1": "119842043",
+    "Imie": "Jan",
+    "Nazwisko": "Szeremeta",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Warzymice",
+    "Ulica": "Warzymice 161",
+    "Adres Pocztowy": "72-005",
+    "Nr.Telefonu": "504063939"
+  },
+  {
+    "nw": "2171071",
+    "nw_1": "308071555",
+    "Imie": "Mateusz",
+    "Nazwisko": "Depczynski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "warzymice ",
+    "Ulica": "warzymice 176/10",
+    "Adres Pocztowy": "72-005",
+    "Nr.Telefonu": "509938660"
+  },
+  {
+    "nw": "1862447",
+    "nw_1": "565147387",
+    "Imie": "Monika",
+    "Nazwisko": "Rak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Warzymice",
+    "Ulica": "Warzymice",
+    "Adres Pocztowy": " ul.Teczowe Ogrody 17/4",
+    "Nr.Telefonu": "72-005",
+    "__parsed_extra": [
+      "696424437"
+    ]
+  },
+  {
+    "nw": "1957337",
+    "nw_1": "168303952",
+    "Imie": "Kuba",
+    "Nazwisko": "Grzech",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Warzymice",
+    "Ulica": "ul. Szafirowa 23a/2",
+    "Adres Pocztowy": "72-005",
+    "Nr.Telefonu": "507480790"
+  },
+  {
+    "nw": "2335359",
+    "nw_1": "432426917",
+    "Imie": "Kacper",
+    "Nazwisko": "Szajewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Warzymice",
+    "Ulica": "Warzymice 14T",
+    "Adres Pocztowy": "72-005",
+    "Nr.Telefonu": "797343212"
+  },
+  {
+    "nw": "602969",
+    "nw_1": "171927826",
+    "Imie": "Antek",
+    "Nazwisko": "Wscisel",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Warzymice",
+    "Ulica": "Warzymice 4/2",
+    "Adres Pocztowy": "72-005",
+    "Nr.Telefonu": "733119675"
+  },
+  {
+    "nw": "94678",
+    "nw_1": "690963128",
+    "Imie": "Aleksander",
+    "Nazwisko": "Makaruś",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "West Pomeranian Voivodeship",
+    "Miasto": "Warzymice",
+    "Ulica": "Szafirowa 2",
+    "Adres Pocztowy": "72-005",
+    "Nr.Telefonu": "+48 607 347 456"
+  }
+]

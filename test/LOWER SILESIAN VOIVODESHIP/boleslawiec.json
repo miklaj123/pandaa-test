@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "957849",
+    "nw_1": "543681369",
+    "Imie": "Maria",
+    "Nazwisko": "Kopec",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Boleslawiec",
+    "Ulica": "Brzozowa 35",
+    "Adres Pocztowy": "59-700",
+    "Nr.Telefonu": "601258081"
+  },
+  {
+    "nw": "616924",
+    "nw_1": "929302216",
+    "Imie": "Karol",
+    "Nazwisko": "Kasprzyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Boleslawiec",
+    "Ulica": "Rakowice 1K",
+    "Adres Pocztowy": "59-700",
+    "Nr.Telefonu": "782535844"
+  },
+  {
+    "nw": "523813",
+    "nw_1": "846555722",
+    "Imie": "Gabriel",
+    "Nazwisko": "Piwowar",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Boleslawiec",
+    "Ulica": "Zwirki i Wigury 1/16",
+    "Adres Pocztowy": "59-700",
+    "Nr.Telefonu": "+48530218228"
+  }
+]

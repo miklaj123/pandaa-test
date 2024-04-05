@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "2003870",
+    "nw_1": "711858991",
+    "Imie": "Piotr",
+    "Nazwisko": "Szpyt",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Cmolas",
+    "Ulica": "40",
+    "Adres Pocztowy": "stara",
+    "Nr.Telefonu": "36-105",
+    "__parsed_extra": [
+      "691507725"
+    ]
+  },
+  {
+    "nw": "2131218",
+    "nw_1": "646930834",
+    "Imie": "Jakub",
+    "Nazwisko": "Paluch",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Cmolas",
+    "Ulica": "Cmolas 292",
+    "Adres Pocztowy": "36-105",
+    "Nr.Telefonu": "667868320"
+  },
+  {
+    "nw": "893796",
+    "nw_1": "997337262",
+    "Imie": "Pawel",
+    "Nazwisko": "Lewandowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Cmolas",
+    "Ulica": "Trzesowka 157A",
+    "Adres Pocztowy": "36-105",
+    "Nr.Telefonu": "+48 605 350 023"
+  }
+]

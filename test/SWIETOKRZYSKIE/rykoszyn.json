@@ -1,0 +1,52 @@
+[
+  {
+    "nw": "2194208",
+    "nw_1": "468990829",
+    "Imie": "Mateusz",
+    "Nazwisko": "Porzuczek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Rykoszyn",
+    "Ulica": "Świętokrzyska"
+  },
+  {
+    "nw": "2049697",
+    "nw_1": "690867075",
+    "Imie": "Paulina",
+    "Nazwisko": "Obara",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Rykoszyn",
+    "Ulica": "Kniaziowa 12",
+    "Adres Pocztowy": "26-065",
+    "Nr.Telefonu": "668905589"
+  },
+  {
+    "nw": "877797",
+    "nw_1": "119587644",
+    "Imie": "Paweł",
+    "Nazwisko": "Sadowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "rykoszyn",
+    "Ulica": "Radosna 8",
+    "Adres Pocztowy": "26-065",
+    "Nr.Telefonu": "533 932 894"
+  },
+  {
+    "nw": "877796",
+    "nw_1": "119587644",
+    "Imie": "Paweł",
+    "Nazwisko": "Sadowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "rykoszyn",
+    "Ulica": "Radosna 8",
+    "Adres Pocztowy": "26-065",
+    "Nr.Telefonu": "533 932 894"
+  }
+]

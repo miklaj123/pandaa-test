@@ -1,0 +1,42 @@
+[
+  {
+    "nw": "499580",
+    "nw_1": "323008588",
+    "Imie": "Jakub",
+    "Nazwisko": "Hreniak ",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Wojcieszyce",
+    "Ulica": "Osiedlowa"
+  },
+  {
+    "nw": "1332203",
+    "nw_1": "415644570",
+    "Imie": "Jakub",
+    "Nazwisko": "Sonnek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Wojcieszyce",
+    "Ulica": "Ul.Osiedlowa9a/1",
+    "Adres Pocztowy": "66-416",
+    "Nr.Telefonu": "514079951"
+  },
+  {
+    "nw": "1084295",
+    "nw_1": "629598387",
+    "Imie": "Adam",
+    "Nazwisko": "Batura",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Wojcieszyce",
+    "Ulica": "Wojcieszyce",
+    "Adres Pocztowy": " ul: Osiedlowa 3b/2",
+    "Nr.Telefonu": "66-416",
+    "__parsed_extra": [
+      "576817145"
+    ]
+  }
+]

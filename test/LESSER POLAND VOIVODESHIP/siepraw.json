@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "655804",
+    "nw_1": "489102328",
+    "Imie": "Jakub",
+    "Nazwisko": "Śliwa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Siepraw",
+    "Ulica": "Lipowa 40",
+    "Adres Pocztowy": "32-447",
+    "Nr.Telefonu": "511 793 561"
+  },
+  {
+    "nw": "160649",
+    "nw_1": "95556894",
+    "Imie": "Miłosz",
+    "Nazwisko": "Bazyl",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Siepraw",
+    "Ulica": "Ks. Jana Przytockiego 62",
+    "Adres Pocztowy": "32-447",
+    "Nr.Telefonu": "536921363"
+  },
+  {
+    "nw": "1753321",
+    "nw_1": "384814113",
+    "Imie": "Piotr",
+    "Nazwisko": "Synowiec",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Siepraw",
+    "Ulica": "Kwiatowa 2",
+    "Adres Pocztowy": "32-447",
+    "Nr.Telefonu": "+48690050938"
+  }
+]

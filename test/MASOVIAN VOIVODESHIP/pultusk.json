@@ -1,0 +1,36 @@
+[
+  {
+    "nw": "809579",
+    "nw_1": "181849047",
+    "Imie": "Yaroslav",
+    "Nazwisko": "Kobzeiv",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Pultusk",
+    "Ulica": "Pultusk ",
+    "Adres Pocztowy": "Aleja Wojska Polskiego 13a",
+    "Nr.Telefonu": "06-100",
+    "__parsed_extra": [
+      "513 585 481"
+    ]
+  },
+  {
+    "nw": "2354125",
+    "nw_1": "222054197",
+    "Imie": "Yuliia",
+    "Nazwisko": "Tiukh",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Pultusk",
+    "Ulica": "06-100",
+    "Adres Pocztowy": " Pultusk",
+    "Nr.Telefonu": " Jana Pawla ||",
+    "__parsed_extra": [
+      " 42",
+      "06-100",
+      "+48881594316"
+    ]
+  }
+]

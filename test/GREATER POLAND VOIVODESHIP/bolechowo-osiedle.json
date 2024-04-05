@@ -1,0 +1,37 @@
+[
+  {
+    "nw": "1896040",
+    "nw_1": "330134679",
+    "Imie": "Norbert",
+    "Nazwisko": "Chlebowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Bolechowo-osiedle",
+    "Ulica": "Obornicka"
+  },
+  {
+    "nw": "1259016",
+    "nw_1": "817773274",
+    "Imie": "Adam",
+    "Nazwisko": "Ciezki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Bolechowo-Osiedle",
+    "Ulica": "Norwida"
+  },
+  {
+    "nw": "2289398",
+    "nw_1": "763310938",
+    "Imie": "Adam",
+    "Nazwisko": "Ratajczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Bolechowo-Osiedle",
+    "Ulica": "Modra 1",
+    "Adres Pocztowy": "62-005",
+    "Nr.Telefonu": "572221744"
+  }
+]

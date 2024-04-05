@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "1325405",
+    "nw_1": "484276854",
+    "Imie": "Michał",
+    "Nazwisko": "Nyściuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Byczyna",
+    "Ulica": "Paruszowice 12P "
+  },
+  {
+    "nw": "1021354",
+    "nw_1": "808733004",
+    "Imie": "Ksawery",
+    "Nazwisko": "Maślanka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Byczyna",
+    "Ulica": "Roszkowice 48",
+    "Adres Pocztowy": "46-220",
+    "Nr.Telefonu": "882081682"
+  },
+  {
+    "nw": "2250150",
+    "nw_1": "422600428",
+    "Imie": "Patryk",
+    "Nazwisko": "Altman ",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Byczyna",
+    "Ulica": "Sadowa 15",
+    "Adres Pocztowy": "46-220",
+    "Nr.Telefonu": "534595202"
+  }
+]

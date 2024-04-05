@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1818552",
+    "nw_1": "117292945",
+    "Imie": "Paweł",
+    "Nazwisko": "Hamczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Milejów",
+    "Ulica": "Konopnickiej 5/1",
+    "Adres Pocztowy": "97-340",
+    "Nr.Telefonu": "737483686"
+  },
+  {
+    "nw": "2065085",
+    "nw_1": "680223147",
+    "Imie": "Damian",
+    "Nazwisko": "Jonczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Milejów",
+    "Ulica": "Warszawska 8",
+    "Adres Pocztowy": "97-340",
+    "Nr.Telefonu": "733434608"
+  },
+  {
+    "nw": "1238782",
+    "nw_1": "500562050",
+    "Imie": "Tobiasz",
+    "Nazwisko": "Pasek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Milejów",
+    "Ulica": "ul.Słoneczna 8",
+    "Adres Pocztowy": "97-340",
+    "Nr.Telefonu": "790575512"
+  }
+]

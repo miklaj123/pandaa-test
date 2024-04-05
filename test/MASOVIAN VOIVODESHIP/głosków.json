@@ -1,0 +1,52 @@
+[
+  {
+    "nw": "17693",
+    "nw_1": "81156278",
+    "Imie": "Hubert",
+    "Nazwisko": "Materek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Głosków",
+    "Ulica": "Millenium 42"
+  },
+  {
+    "nw": "394601",
+    "nw_1": "291175983",
+    "Imie": "wiktor",
+    "Nazwisko": "gos",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Głosków",
+    "Ulica": "korczunkowa 9f",
+    "Adres Pocztowy": "05-503",
+    "Nr.Telefonu": "537900586"
+  },
+  {
+    "nw": "2352202",
+    "nw_1": "466742706",
+    "Imie": "szymon",
+    "Nazwisko": "zielinski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "głosków",
+    "Ulica": "derkacza 6",
+    "Adres Pocztowy": "05-503",
+    "Nr.Telefonu": "798444109"
+  },
+  {
+    "nw": "894782",
+    "nw_1": "193154452",
+    "Imie": "Bartek",
+    "Nazwisko": "Suter",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Głosków",
+    "Ulica": "Nasza 3",
+    "Adres Pocztowy": "05-503",
+    "Nr.Telefonu": "666148703"
+  }
+]

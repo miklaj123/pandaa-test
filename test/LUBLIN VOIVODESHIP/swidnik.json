@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "2213252",
+    "nw_1": "512253168",
+    "Imie": "Mykhailo",
+    "Nazwisko": "Shulha",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Swidnik",
+    "Ulica": "Mickiewicza 5",
+    "Adres Pocztowy": " apartament 12",
+    "Nr.Telefonu": "21-040",
+    "__parsed_extra": [
+      "696893512"
+    ]
+  },
+  {
+    "nw": "2063877",
+    "nw_1": "856432003",
+    "Imie": "Dominik",
+    "Nazwisko": "Portka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "swidnik",
+    "Ulica": "wesoła 15",
+    "Adres Pocztowy": "21-040",
+    "Nr.Telefonu": "537429312"
+  }
+]

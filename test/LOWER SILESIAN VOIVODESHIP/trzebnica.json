@@ -1,0 +1,97 @@
+[
+  {
+    "nw": "53222",
+    "nw_1": "720427513",
+    "Imie": "Mateusz",
+    "Nazwisko": "Roszko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Trzebnica",
+    "Ulica": "ul. Słowackiego 7",
+    "Adres Pocztowy": "55-100",
+    "Nr.Telefonu": "+48603352518"
+  },
+  {
+    "nw": "807293",
+    "nw_1": "597848098",
+    "Imie": "Patryk",
+    "Nazwisko": "Lichota",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Trzebnica",
+    "Ulica": "Leopolda Okulickiego 4B/6",
+    "Adres Pocztowy": "55-100",
+    "Nr.Telefonu": "726580612"
+  },
+  {
+    "nw": "1521520",
+    "nw_1": "741626198",
+    "Imie": "Dawid",
+    "Nazwisko": "Szewczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Trzebnica",
+    "Ulica": "Koniowo 9",
+    "Adres Pocztowy": "55-100",
+    "Nr.Telefonu": "608885167"
+  },
+  {
+    "nw": "1383834",
+    "nw_1": "337396454",
+    "Imie": "karol",
+    "Nazwisko": "krawiec",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Trzebnica",
+    "Ulica": "Slowackiego 8a",
+    "Adres Pocztowy": " 55-100",
+    "Nr.Telefonu": " Trzebnica",
+    "__parsed_extra": [
+      "55-100",
+      "609718409"
+    ]
+  },
+  {
+    "nw": "109837",
+    "nw_1": "481749432",
+    "Imie": "Jakub",
+    "Nazwisko": "Pruś",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Trzebnica",
+    "Ulica": "Bochenka 3/5",
+    "Adres Pocztowy": "55-100",
+    "Nr.Telefonu": "605596157"
+  },
+  {
+    "nw": "531473",
+    "nw_1": "853292363",
+    "Imie": "Oliwier",
+    "Nazwisko": "Kaczmarczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Trzebnica",
+    "Ulica": "Milicka 25H",
+    "Adres Pocztowy": "55-100",
+    "Nr.Telefonu": "733227115"
+  },
+  {
+    "nw": "874926",
+    "nw_1": "497537145",
+    "Imie": "jakub",
+    "Nazwisko": "bernacki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Trzebnica",
+    "Ulica": "Zielonego Dębu 13B/11",
+    "Adres Pocztowy": "55-100",
+    "Nr.Telefonu": "733700440"
+  }
+]

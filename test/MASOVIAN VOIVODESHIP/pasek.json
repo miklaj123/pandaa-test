@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "2297199",
+    "nw_1": "509307787",
+    "Imie": "Sylwia",
+    "Nazwisko": "Mrózek Mrózek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Pasek",
+    "Ulica": "Olszowa",
+    "Adres Pocztowy": " 6b",
+    "Nr.Telefonu": "05-205",
+    "__parsed_extra": [
+      "506406645"
+    ]
+  },
+  {
+    "nw": "1628533",
+    "nw_1": "979988957",
+    "Imie": "Hubert",
+    "Nazwisko": "Matejak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Pasek",
+    "Ulica": "wiśniowa 14a",
+    "Adres Pocztowy": "05205",
+    "Nr.Telefonu": "513780990"
+  }
+]

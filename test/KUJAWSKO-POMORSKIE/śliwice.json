@@ -1,0 +1,37 @@
+[
+  {
+    "nw": "2116905",
+    "nw_1": "411283066",
+    "Imie": "Paweł",
+    "Nazwisko": "Koziński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Śliwice",
+    "Ulica": "Główka 17 "
+  },
+  {
+    "nw": "1555244",
+    "nw_1": "444848893",
+    "Imie": "Tomasz",
+    "Nazwisko": "Kujawski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "śliwice",
+    "Ulica": "Śliwice  spotowa 4",
+    "Adres Pocztowy": "89-530",
+    "Nr.Telefonu": "539754560"
+  },
+  {
+    "nw": "1253450",
+    "nw_1": "445319308",
+    "Imie": "Adrian",
+    "Nazwisko": "Wysocki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Śliwice",
+    "Ulica": "Brzeźno"
+  }
+]

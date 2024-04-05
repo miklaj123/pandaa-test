@@ -1,0 +1,65 @@
+[
+  {
+    "nw": "724938",
+    "nw_1": "307398370",
+    "Imie": "Piotr",
+    "Nazwisko": "Rubinkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Stara Wieś",
+    "Ulica": "Nastrojowa 45",
+    "Adres Pocztowy": "05-830",
+    "Nr.Telefonu": "603407563"
+  },
+  {
+    "nw": "1581998",
+    "nw_1": "920323153",
+    "Imie": "Bartosz",
+    "Nazwisko": "Ziółkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Stara wieś",
+    "Ulica": "Stara Wieś południowa 44b"
+  },
+  {
+    "nw": "2307319",
+    "nw_1": "821102630",
+    "Imie": "Marceli",
+    "Nazwisko": "Waszkiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Stara Wieś",
+    "Ulica": "Słowika 18",
+    "Adres Pocztowy": "05-830",
+    "Nr.Telefonu": "880339540"
+  },
+  {
+    "nw": "1424013",
+    "nw_1": "480897452",
+    "Imie": "Patryk",
+    "Nazwisko": "Piątkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Stara Wieś",
+    "Ulica": "Szczygła 33",
+    "Adres Pocztowy": "05-830",
+    "Nr.Telefonu": "+48883843600"
+  },
+  {
+    "nw": "1948962",
+    "nw_1": "660884784",
+    "Imie": "Katarzyna",
+    "Nazwisko": "Bobocińska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Stara Wieś",
+    "Ulica": "Dąbrowiecka 14",
+    "Adres Pocztowy": "05-430",
+    "Nr.Telefonu": "502387224"
+  }
+]

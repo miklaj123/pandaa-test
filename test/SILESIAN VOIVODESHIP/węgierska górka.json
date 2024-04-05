@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "765886",
+    "nw_1": "501096179",
+    "Imie": "Aleksander",
+    "Nazwisko": "Barabasz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Węgierska Górka",
+    "Ulica": "street Stawowa 15",
+    "Adres Pocztowy": "34-350",
+    "Nr.Telefonu": "697999555"
+  },
+  {
+    "nw": "1783120",
+    "nw_1": "616040749",
+    "Imie": "Milosz",
+    "Nazwisko": "Biegun",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Węgierska Górka",
+    "Ulica": "3 Maja 12",
+    "Adres Pocztowy": "34-350",
+    "Nr.Telefonu": "+48513947707"
+  },
+  {
+    "nw": "2209382",
+    "nw_1": "240763635",
+    "Imie": "Wiktor",
+    "Nazwisko": "Majoch",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Węgierska Górka",
+    "Ulica": "Kamienna 70",
+    "Adres Pocztowy": "34-350",
+    "Nr.Telefonu": "798430915"
+  }
+]

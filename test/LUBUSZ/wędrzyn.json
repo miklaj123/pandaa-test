@@ -1,0 +1,28 @@
+[
+  {
+    "nw": "2146056",
+    "nw_1": "562005556",
+    "Imie": "Sebastian",
+    "Nazwisko": "Kruk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Wędrzyn",
+    "Ulica": "10a/9",
+    "Adres Pocztowy": "69-211",
+    "Nr.Telefonu": "603274343"
+  },
+  {
+    "nw": "2252044",
+    "nw_1": "940142911",
+    "Imie": "Kacper",
+    "Nazwisko": "Węgierski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Wędrzyn",
+    "Ulica": "Wędrzyn 48a/3",
+    "Adres Pocztowy": "69-211",
+    "Nr.Telefonu": "570245402"
+  }
+]

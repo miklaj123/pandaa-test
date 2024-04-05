@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1504533",
+    "nw_1": "183959232",
+    "Imie": "Karol",
+    "Nazwisko": "Łuc",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Przemysl",
+    "Ulica": "Ostrow 241",
+    "Adres Pocztowy": "37-700",
+    "Nr.Telefonu": "881320602"
+  },
+  {
+    "nw": "1237095",
+    "nw_1": "857999959",
+    "Imie": "Witold",
+    "Nazwisko": "Walczyszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Przemysl",
+    "Ulica": "Hurko 21",
+    "Adres Pocztowy": "37-705",
+    "Nr.Telefonu": "663757723"
+  },
+  {
+    "nw": "2233922",
+    "nw_1": "348918905",
+    "Imie": "Illia",
+    "Nazwisko": "Nesterenko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Przemysl",
+    "Ulica": "Aleksandra Dworskiego 18/9",
+    "Adres Pocztowy": "37-700",
+    "Nr.Telefonu": "+48883728960"
+  },
+  {
+    "nw": "304000",
+    "nw_1": "137946913",
+    "Imie": "Michał",
+    "Nazwisko": "Niedziółka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Przemysl",
+    "Ulica": "Medyka 146c",
+    "Adres Pocztowy": "37-732",
+    "Nr.Telefonu": "733403200"
+  }
+]

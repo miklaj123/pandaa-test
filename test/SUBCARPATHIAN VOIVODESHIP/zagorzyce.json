@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "1454620",
+    "nw_1": "530313058",
+    "Imie": "Dawid",
+    "Nazwisko": "Kosiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Zagorzyce",
+    "Ulica": "Zagorzyce 518",
+    "Adres Pocztowy": "39-126",
+    "Nr.Telefonu": "731647381"
+  },
+  {
+    "nw": "1289132",
+    "nw_1": "424682827",
+    "Imie": "kacper",
+    "Nazwisko": "kopala",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "zagorzyce",
+    "Ulica": "zagorzyce 45",
+    "Adres Pocztowy": "39-126",
+    "Nr.Telefonu": "722111147"
+  },
+  {
+    "nw": "1518833",
+    "nw_1": "510483172",
+    "Imie": "Mariusz",
+    "Nazwisko": "Gąsior",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Zagorzyce",
+    "Ulica": "Zagorzyce Dolne 590"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2353427",
+    "nw_1": "830950848",
+    "Imie": "Nikodem",
+    "Nazwisko": "Rózga",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Marklowice",
+    "Ulica": "Wiosny Ludów 63",
+    "Adres Pocztowy": "44-321",
+    "Nr.Telefonu": "+48795443617"
+  },
+  {
+    "nw": "1597270",
+    "nw_1": "481166084",
+    "Imie": "Tomasz",
+    "Nazwisko": "Marcol",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Marklowice",
+    "Ulica": "Środkowa 19",
+    "Adres Pocztowy": "44-321",
+    "Nr.Telefonu": "575491694"
+  },
+  {
+    "nw": "540381",
+    "nw_1": "554530788",
+    "Imie": "Damian",
+    "Nazwisko": "Strączek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Marklowice",
+    "Ulica": "Orla 4a",
+    "Adres Pocztowy": "44-321",
+    "Nr.Telefonu": "794236799"
+  }
+]

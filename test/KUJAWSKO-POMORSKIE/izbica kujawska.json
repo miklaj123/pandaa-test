@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1799222",
+    "nw_1": "574721819",
+    "Imie": "Hania",
+    "Nazwisko": "Saks",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Izbica kujawska",
+    "Ulica": "Warszawska 32",
+    "Adres Pocztowy": "87-865",
+    "Nr.Telefonu": "508949138"
+  },
+  {
+    "nw": "1363417",
+    "nw_1": "921701465",
+    "Imie": "Staś",
+    "Nazwisko": "Skowron",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "izbica Kujawska",
+    "Ulica": "Garbarska 7",
+    "Adres Pocztowy": "87-865",
+    "Nr.Telefonu": "572439633"
+  },
+  {
+    "nw": "1350091",
+    "nw_1": "817595754",
+    "Imie": "Szymon",
+    "Nazwisko": "Kubacki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Izbica Kujawska",
+    "Ulica": "Augustynowo 15",
+    "Adres Pocztowy": "87-865",
+    "Nr.Telefonu": "+48695973416"
+  }
+]

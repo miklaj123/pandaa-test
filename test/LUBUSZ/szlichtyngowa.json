@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1718738",
+    "nw_1": "240658716",
+    "Imie": "Robert",
+    "Nazwisko": "Kosakowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Szlichtyngowa",
+    "Ulica": "Stare Drzewce 41a/7",
+    "Adres Pocztowy": "67-407",
+    "Nr.Telefonu": "667161564"
+  },
+  {
+    "nw": "1030056",
+    "nw_1": "227527245",
+    "Imie": "Miłosz",
+    "Nazwisko": "Lachowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Szlichtyngowa",
+    "Ulica": "Wschowska 1/4",
+    "Adres Pocztowy": "67-407",
+    "Nr.Telefonu": "536585685"
+  },
+  {
+    "nw": "1051996",
+    "nw_1": "227527245",
+    "Imie": "Milosz",
+    "Nazwisko": "Lachowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Szlichtyngowa",
+    "Ulica": "Wschowska 1/4",
+    "Adres Pocztowy": "67-407",
+    "Nr.Telefonu": "536585685"
+  }
+]

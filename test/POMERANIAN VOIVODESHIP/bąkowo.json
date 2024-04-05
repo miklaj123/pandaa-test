@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "429712",
+    "nw_1": "123878949",
+    "Imie": "Fryderyk",
+    "Nazwisko": "Miszczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Bąkowo",
+    "Ulica": "ul. Dębowa 48/1",
+    "Adres Pocztowy": "83-050",
+    "Nr.Telefonu": "+48604880604"
+  },
+  {
+    "nw": "1272004",
+    "nw_1": "859155219",
+    "Imie": "Olek",
+    "Nazwisko": "Zwierello",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Bąkowo",
+    "Ulica": "Wieczornych Mgieł 12",
+    "Adres Pocztowy": "83-050",
+    "Nr.Telefonu": "606621064"
+  },
+  {
+    "nw": "1410782",
+    "nw_1": "326576212",
+    "Imie": "Dominik",
+    "Nazwisko": "Littwin",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Bąkowo",
+    "Ulica": "Rzemieślnicza 1",
+    "Adres Pocztowy": "83-050",
+    "Nr.Telefonu": "508810091"
+  },
+  {
+    "nw": "432588",
+    "nw_1": "535412758",
+    "Imie": "Bartłomiej",
+    "Nazwisko": "Piwowarczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Bąkowo",
+    "Ulica": "Sowia 8",
+    "Adres Pocztowy": "83-050",
+    "Nr.Telefonu": "736874767"
+  }
+]

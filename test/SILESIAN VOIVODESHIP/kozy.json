@@ -1,0 +1,91 @@
+[
+  {
+    "nw": "1858125",
+    "nw_1": "217082881",
+    "Imie": "Dominik",
+    "Nazwisko": "Tarka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Kozy",
+    "Ulica": "43-340 Kozy"
+  },
+  {
+    "nw": "316610",
+    "nw_1": "270598114",
+    "Imie": "Jakub",
+    "Nazwisko": "Jekielek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Kozy",
+    "Ulica": "Magnolii 5",
+    "Adres Pocztowy": "43-340",
+    "Nr.Telefonu": "519468705"
+  },
+  {
+    "nw": "312638",
+    "nw_1": "813895467",
+    "Imie": "Samuel",
+    "Nazwisko": "Fijak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Kozy",
+    "Ulica": "Południowa 16",
+    "Adres Pocztowy": "43-340",
+    "Nr.Telefonu": "504299553"
+  },
+  {
+    "nw": "1579607",
+    "nw_1": "839676726",
+    "Imie": "Adrian",
+    "Nazwisko": "Jura",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Kozy",
+    "Ulica": "5 Kalinowa Street",
+    "Adres Pocztowy": "43-340",
+    "Nr.Telefonu": "576655830"
+  },
+  {
+    "nw": "913381",
+    "nw_1": "507443352",
+    "Imie": "taw",
+    "Nazwisko": "na",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "kozy",
+    "Ulica": "Prze",
+    "Adres Pocztowy": "40",
+    "Nr.Telefonu": "265"
+  },
+  {
+    "nw": "2298412",
+    "nw_1": "506417653",
+    "Imie": "Dawid",
+    "Nazwisko": "Sztafa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Kozy",
+    "Ulica": "Topolowa 17",
+    "Adres Pocztowy": "43-340",
+    "Nr.Telefonu": "739046500"
+  },
+  {
+    "nw": "1610232",
+    "nw_1": "407300070",
+    "Imie": "Karol",
+    "Nazwisko": "Goliasz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Kozy",
+    "Ulica": "Dębowa 49",
+    "Adres Pocztowy": "43 340",
+    "Nr.Telefonu": "721900801"
+  }
+]

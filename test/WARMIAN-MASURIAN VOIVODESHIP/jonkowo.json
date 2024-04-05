@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "2339905",
+    "nw_1": "687247858",
+    "Imie": "Kamil",
+    "Nazwisko": "Rybak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Jonkowo",
+    "Ulica": "Ulica Rybaków 16",
+    "Adres Pocztowy": "16",
+    "Nr.Telefonu": "572079234"
+  },
+  {
+    "nw": "491431",
+    "nw_1": "245345863",
+    "Imie": "Szymon",
+    "Nazwisko": "Pawelecz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Jonkowo",
+    "Ulica": "Biała 12",
+    "Adres Pocztowy": "11-042",
+    "Nr.Telefonu": "733100641"
+  },
+  {
+    "nw": "1843601",
+    "nw_1": "356128414",
+    "Imie": "Mateusz",
+    "Nazwisko": "Mielczarek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Jonkowo",
+    "Ulica": "zygmunta starego 21",
+    "Adres Pocztowy": "11-042",
+    "Nr.Telefonu": "696239679"
+  },
+  {
+    "nw": "1068784",
+    "nw_1": "163066869",
+    "Imie": "maciek",
+    "Nazwisko": "Żuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "jonkowo",
+    "Ulica": "koralowa 8",
+    "Adres Pocztowy": "11-042",
+    "Nr.Telefonu": "507154721"
+  }
+]

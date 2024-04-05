@@ -1,0 +1,28 @@
+[
+  {
+    "nw": "380195",
+    "nw_1": "518903773",
+    "Imie": "Alex",
+    "Nazwisko": "Alex",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Rudnik Mały",
+    "Ulica": "Rudnik Mały ulica śląska 42",
+    "Adres Pocztowy": "42-261",
+    "Nr.Telefonu": "663702631"
+  },
+  {
+    "nw": "921944",
+    "nw_1": "885472015",
+    "Imie": "alex",
+    "Nazwisko": "alex",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "rudnik mały",
+    "Ulica": "Rudnik mały Śląska 42",
+    "Adres Pocztowy": "42-261",
+    "Nr.Telefonu": "663702631"
+  }
+]

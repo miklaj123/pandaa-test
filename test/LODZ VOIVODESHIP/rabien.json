@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1569807",
+    "nw_1": "543231827",
+    "Imie": "Agnieszka",
+    "Nazwisko": "Placzynska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Rabien",
+    "Ulica": "Dynamiczna 11",
+    "Adres Pocztowy": "95-070",
+    "Nr.Telefonu": "+48 600057767"
+  },
+  {
+    "nw": "1358701",
+    "nw_1": "684899610",
+    "Imie": "Maks",
+    "Nazwisko": "Koziarski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Rabien",
+    "Ulica": "Zamkowa 5",
+    "Adres Pocztowy": "95-070",
+    "Nr.Telefonu": "517409902"
+  },
+  {
+    "nw": "2168173",
+    "nw_1": "969735842",
+    "Imie": "Michał",
+    "Nazwisko": "olech",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "rabien",
+    "Ulica": "panska 39/41",
+    "Adres Pocztowy": "95-070",
+    "Nr.Telefonu": "513197271"
+  }
+]

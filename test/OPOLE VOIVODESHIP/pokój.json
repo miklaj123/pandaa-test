@@ -1,0 +1,71 @@
+[
+  {
+    "nw": "862851",
+    "nw_1": "885113961",
+    "Imie": "Ksawery",
+    "Nazwisko": "Pieszczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Pokój",
+    "Ulica": "Paryż 1A",
+    "Adres Pocztowy": "46-034",
+    "Nr.Telefonu": "665148698"
+  },
+  {
+    "nw": "1253282",
+    "nw_1": "371285695",
+    "Imie": "J",
+    "Nazwisko": "k",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Pokój",
+    "Ulica": "Polska",
+    "Adres Pocztowy": "46-034 Pokój Wojska Polskiego 33",
+    "Nr.Telefonu": "",
+    "__parsed_extra": [
+      "46-034",
+      "508840722"
+    ]
+  },
+  {
+    "nw": "44150",
+    "nw_1": "496270759",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Kozłowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Pokój",
+    "Ulica": "Opolska 10",
+    "Adres Pocztowy": "46-034",
+    "Nr.Telefonu": "792424865"
+  },
+  {
+    "nw": "1253286",
+    "nw_1": "371285695",
+    "Imie": "J",
+    "Nazwisko": "k",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Pokój",
+    "Ulica": "Wojska Polskiego 33",
+    "Adres Pocztowy": "46-034",
+    "Nr.Telefonu": "508840722"
+  },
+  {
+    "nw": "318539",
+    "nw_1": "562851258",
+    "Imie": "Filip",
+    "Nazwisko": "Stebnicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Opole Voivodeship",
+    "Miasto": "Pokój",
+    "Ulica": "Ul.Wojska Polskiego 63",
+    "Adres Pocztowy": "46-034",
+    "Nr.Telefonu": "667802361"
+  }
+]

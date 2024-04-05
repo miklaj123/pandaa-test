@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "2017235",
+    "nw_1": "527477730",
+    "Imie": "SERHII",
+    "Nazwisko": "SEMENOV",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Konskie",
+    "Ulica": "Warszawska 28A/74",
+    "Adres Pocztowy": "26-200",
+    "Nr.Telefonu": "+48780770409"
+  },
+  {
+    "nw": "1065644",
+    "nw_1": "203258287",
+    "Imie": "Bozena",
+    "Nazwisko": "Kozłowska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Konskie",
+    "Ulica": "Pilkarska 6",
+    "Adres Pocztowy": "26-200",
+    "Nr.Telefonu": "+48792542518"
+  },
+  {
+    "nw": "704576",
+    "nw_1": "644736103",
+    "Imie": "Rostislav",
+    "Nazwisko": "Lukianchenko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "konskie",
+    "Ulica": "Armii Krajowej 8/12",
+    "Adres Pocztowy": "26200",
+    "Nr.Telefonu": "+48792538612"
+  },
+  {
+    "nw": "1283602",
+    "nw_1": "203258287",
+    "Imie": "Beata",
+    "Nazwisko": "Ciszek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Konskie",
+    "Ulica": "Spóldzielcza 16A",
+    "Adres Pocztowy": "26-200",
+    "Nr.Telefonu": "+48 783024909"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1654282",
+    "nw_1": "127913959",
+    "Imie": "wiktor",
+    "Nazwisko": "Linek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "pawłów",
+    "Ulica": "szerzawy 101b",
+    "Adres Pocztowy": "27-225",
+    "Nr.Telefonu": "509557774"
+  },
+  {
+    "nw": "1315284",
+    "nw_1": "808670599",
+    "Imie": "Igor",
+    "Nazwisko": "Olesiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Pawłów",
+    "Ulica": "Krajków 29",
+    "Adres Pocztowy": "27-225",
+    "Nr.Telefonu": "785937265"
+  },
+  {
+    "nw": "2217656",
+    "nw_1": "979544171",
+    "Imie": "Katarzyna",
+    "Nazwisko": "Żelazna",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Pawłów",
+    "Ulica": "Szerzawy 121",
+    "Adres Pocztowy": "27-225",
+    "Nr.Telefonu": "511056146"
+  },
+  {
+    "nw": "1886652",
+    "nw_1": "354546152",
+    "Imie": "Piotr",
+    "Nazwisko": "Staszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Pawłów",
+    "Ulica": "Brzezie 8",
+    "Adres Pocztowy": "27-225",
+    "Nr.Telefonu": "798122612"
+  }
+]

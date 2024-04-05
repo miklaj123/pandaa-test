@@ -1,0 +1,80 @@
+[
+  {
+    "nw": "1158433",
+    "nw_1": "782631468",
+    "Imie": "Piotr",
+    "Nazwisko": "Szozda",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Krotoszyce",
+    "Ulica": "Winnica 5a",
+    "Adres Pocztowy": "59-223",
+    "Nr.Telefonu": "+48789133406"
+  },
+  {
+    "nw": "2238689",
+    "nw_1": "619667329",
+    "Imie": "Oliwier",
+    "Nazwisko": "Stojanowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Krotoszyce",
+    "Ulica": "Winnica 25E",
+    "Adres Pocztowy": "59-223",
+    "Nr.Telefonu": "603235621"
+  },
+  {
+    "nw": "1076718",
+    "nw_1": "363106039",
+    "Imie": "Tomasz",
+    "Nazwisko": "Kosik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Krotoszyce",
+    "Ulica": "Winnica 46",
+    "Adres Pocztowy": "59-223",
+    "Nr.Telefonu": "601804466"
+  },
+  {
+    "nw": "496918",
+    "nw_1": "793697560",
+    "Imie": "Bartłomiej",
+    "Nazwisko": "Michalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Krotoszyce",
+    "Ulica": "Polna 1",
+    "Adres Pocztowy": "59-223",
+    "Nr.Telefonu": "512745751"
+  },
+  {
+    "nw": "2129886",
+    "nw_1": "134996742",
+    "Imie": "Natanael",
+    "Nazwisko": "Choma",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Krotoszyce",
+    "Ulica": "Szymanowice 2b/2",
+    "Adres Pocztowy": "59-223",
+    "Nr.Telefonu": "697143562"
+  },
+  {
+    "nw": "587636",
+    "nw_1": "116106577",
+    "Imie": "Agnieszka",
+    "Nazwisko": "Lis",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Krotoszyce",
+    "Ulica": "Czerwony Kościół 7A",
+    "Adres Pocztowy": "59-223 Krotoszyce",
+    "Nr.Telefonu": "+48 606 755 251"
+  }
+]

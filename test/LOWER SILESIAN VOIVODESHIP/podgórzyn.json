@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "203980",
+    "nw_1": "964770188",
+    "Imie": "Szymon",
+    "Nazwisko": "Nielipowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Podgórzyn",
+    "Ulica": "Słoneczna 14A",
+    "Adres Pocztowy": "58-562",
+    "Nr.Telefonu": "+48 516648023"
+  },
+  {
+    "nw": "2162902",
+    "nw_1": "588958271",
+    "Imie": "Sandra",
+    "Nazwisko": "Kisły",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Podgórzyn",
+    "Ulica": "Jana Pawła II 16",
+    "Adres Pocztowy": "58-562",
+    "Nr.Telefonu": "+48502472622"
+  },
+  {
+    "nw": "1430111",
+    "nw_1": "360543724",
+    "Imie": "Natan",
+    "Nazwisko": "Szymajda",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Podgórzyn",
+    "Ulica": "Węglowa 3",
+    "Adres Pocztowy": "58-562",
+    "Nr.Telefonu": "517647047"
+  },
+  {
+    "nw": "157937",
+    "nw_1": "968718957",
+    "Imie": "Filip",
+    "Nazwisko": "Góralczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Podgórzyn",
+    "Ulica": "Nowa 3a/5",
+    "Adres Pocztowy": "58-562",
+    "Nr.Telefonu": "+48 606252735"
+  }
+]

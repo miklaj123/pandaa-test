@@ -1,0 +1,80 @@
+[
+  {
+    "nw": "1549329",
+    "nw_1": "200773536",
+    "Imie": "Filip",
+    "Nazwisko": "Michałek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Krajenka",
+    "Ulica": "rynek 10/7 77-430 Krajenka",
+    "Adres Pocztowy": "77-430",
+    "Nr.Telefonu": "537391149"
+  },
+  {
+    "nw": "2143334",
+    "nw_1": "983362322",
+    "Imie": "Adam",
+    "Nazwisko": "Kaczmarek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Krajenka",
+    "Ulica": "Toruńska 26",
+    "Adres Pocztowy": "77-430",
+    "Nr.Telefonu": "603750455"
+  },
+  {
+    "nw": "1455133",
+    "nw_1": "419095798",
+    "Imie": "Anna",
+    "Nazwisko": "Ciepluch",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Krajenka",
+    "Ulica": "Mickiewicza 1",
+    "Adres Pocztowy": "77-430",
+    "Nr.Telefonu": "602691107"
+  },
+  {
+    "nw": "707129",
+    "nw_1": "123403993",
+    "Imie": "Szymon",
+    "Nazwisko": "Ogórek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Krajenka",
+    "Ulica": "Śmiardowo Krajeńskie 5",
+    "Adres Pocztowy": "77-430",
+    "Nr.Telefonu": "790384790"
+  },
+  {
+    "nw": "1355992",
+    "nw_1": "711655211",
+    "Imie": "Oliwier",
+    "Nazwisko": "Długa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "krajenka",
+    "Ulica": "wąsoszki 22a",
+    "Adres Pocztowy": "77-430",
+    "Nr.Telefonu": "535998205"
+  },
+  {
+    "nw": "536516",
+    "nw_1": "827292418",
+    "Imie": "Filip",
+    "Nazwisko": "Michałek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Krajenka",
+    "Ulica": "Rynek 10/7",
+    "Adres Pocztowy": "77-430",
+    "Nr.Telefonu": "537391149"
+  }
+]

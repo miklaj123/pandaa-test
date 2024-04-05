@@ -1,0 +1,103 @@
+[
+  {
+    "nw": "41289",
+    "nw_1": "915303208",
+    "Imie": "marcin",
+    "Nazwisko": "kalinowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Kaźmierz",
+    "Ulica": "czereśniowa"
+  },
+  {
+    "nw": "1451126",
+    "nw_1": "854969516",
+    "Imie": "Dawid",
+    "Nazwisko": "Stańczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Kaźmierz",
+    "Ulica": "Piwoniowa"
+  },
+  {
+    "nw": "1152943",
+    "nw_1": "488856650",
+    "Imie": "Mateusz",
+    "Nazwisko": "Szczepaniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Kaźmierz",
+    "Ulica": "Gołębia 12"
+  },
+  {
+    "nw": "834304",
+    "nw_1": "211090350",
+    "Imie": "Sylwia",
+    "Nazwisko": "Kubala",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Kaźmierz",
+    "Ulica": "Pólko ul. Akacjowa 2",
+    "Adres Pocztowy": "64-530",
+    "Nr.Telefonu": "+48 609850810"
+  },
+  {
+    "nw": "1083506",
+    "nw_1": "165169295",
+    "Imie": "Szymon",
+    "Nazwisko": "Fortuniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "kaźmierz",
+    "Ulica": "kaźmierz",
+    "Adres Pocztowy": " Piwoniowa 12",
+    "Nr.Telefonu": "64-530",
+    "__parsed_extra": [
+      "+48 797 466 136"
+    ]
+  },
+  {
+    "nw": "1120903",
+    "nw_1": "269231178",
+    "Imie": "pawel",
+    "Nazwisko": "Kaz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "kaźmierz",
+    "Ulica": "dolna 25",
+    "Adres Pocztowy": "64-530",
+    "Nr.Telefonu": "697398113"
+  },
+  {
+    "nw": "1820452",
+    "nw_1": "754354287",
+    "Imie": "Antoni",
+    "Nazwisko": "Kudlak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Kaźmierz",
+    "Ulica": "Leśna 28c/1",
+    "Adres Pocztowy": "64-530",
+    "Nr.Telefonu": "789212371"
+  },
+  {
+    "nw": "1152954",
+    "nw_1": "488856650",
+    "Imie": "Mateusz",
+    "Nazwisko": "Szczepaniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Kaźmierz",
+    "Ulica": "Gołębia 12",
+    "Adres Pocztowy": "64-530",
+    "Nr.Telefonu": "537964259"
+  }
+]

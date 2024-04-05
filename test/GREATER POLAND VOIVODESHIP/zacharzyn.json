@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "1993973",
+    "nw_1": "696899174",
+    "Imie": "Adrian",
+    "Nazwisko": "Wysocki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Zacharzyn",
+    "Ulica": "Zacharzyn 56",
+    "Adres Pocztowy": "64-813",
+    "Nr.Telefonu": "725380608"
+  },
+  {
+    "nw": "1525504",
+    "nw_1": "952234894",
+    "Imie": "Ksawery",
+    "Nazwisko": "miazga",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "zacharzyn",
+    "Ulica": "zacharzyn 63",
+    "Adres Pocztowy": "64-813",
+    "Nr.Telefonu": "728966037"
+  },
+  {
+    "nw": "1357609",
+    "nw_1": "191459282",
+    "Imie": "Wojciech",
+    "Nazwisko": "Wiśniewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Zacharzyn",
+    "Ulica": "Zacharzyn 147 ",
+    "Adres Pocztowy": " Zacharzyn",
+    "Nr.Telefonu": "64-813",
+    "__parsed_extra": [
+      "728765136"
+    ]
+  }
+]

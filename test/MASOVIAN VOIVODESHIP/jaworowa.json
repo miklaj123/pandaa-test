@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "1333229",
+    "nw_1": "600995862",
+    "Imie": "tomasz",
+    "Nazwisko": "salvadori",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Jaworowa",
+    "Ulica": "osiedlowa 16",
+    "Adres Pocztowy": " jaworowa",
+    "Nr.Telefonu": "05-090",
+    "__parsed_extra": [
+      "+48 508 245 746"
+    ]
+  },
+  {
+    "nw": "130193",
+    "nw_1": "630297304",
+    "Imie": "Michal",
+    "Nazwisko": "Stolarski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Jaworowa",
+    "Ulica": "Warszawska 115",
+    "Adres Pocztowy": "05-090",
+    "Nr.Telefonu": "512808831"
+  }
+]

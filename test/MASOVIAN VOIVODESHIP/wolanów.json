@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "1757688",
+    "nw_1": "782069761",
+    "Imie": "Adam",
+    "Nazwisko": "Wąchalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Wolanów",
+    "Ulica": "Radomska 12",
+    "Adres Pocztowy": "26-625",
+    "Nr.Telefonu": "666698358"
+  },
+  {
+    "nw": "1275500",
+    "nw_1": "865365880",
+    "Imie": "Patryk",
+    "Nazwisko": "Gibała",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Wolanów",
+    "Ulica": "Kacprowice 14 d"
+  },
+  {
+    "nw": "2185106",
+    "nw_1": "915132395",
+    "Imie": "Kacper",
+    "Nazwisko": "Krawczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Wolanów",
+    "Ulica": "kolonia Wolanów 6a",
+    "Adres Pocztowy": "26-625",
+    "Nr.Telefonu": "699272731"
+  }
+]

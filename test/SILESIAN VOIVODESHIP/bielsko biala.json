@@ -1,0 +1,80 @@
+[
+  {
+    "nw": "794923",
+    "nw_1": "213135901",
+    "Imie": "filip",
+    "Nazwisko": "bilski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "bielsko biala",
+    "Ulica": "ks stanislawa brzoski 87a/2",
+    "Adres Pocztowy": "43-300",
+    "Nr.Telefonu": "536790598"
+  },
+  {
+    "nw": "1287723",
+    "nw_1": "485873491",
+    "Imie": "Michał",
+    "Nazwisko": "Skiba",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "BIELSKO BIALA",
+    "Ulica": "Kolista 48",
+    "Adres Pocztowy": "43-316",
+    "Nr.Telefonu": "+48662114389"
+  },
+  {
+    "nw": "2061006",
+    "nw_1": "462711155",
+    "Imie": "grzegorz",
+    "Nazwisko": "sukcik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "bielsko biala",
+    "Ulica": "ul. wajdeloty 17",
+    "Adres Pocztowy": "43-300",
+    "Nr.Telefonu": "887914005"
+  },
+  {
+    "nw": "1391378",
+    "nw_1": "603851116",
+    "Imie": "kacper",
+    "Nazwisko": "szczotka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "bielsko biala",
+    "Ulica": "cieszyńska 169",
+    "Adres Pocztowy": "43-300",
+    "Nr.Telefonu": "519525506"
+  },
+  {
+    "nw": "2277861",
+    "nw_1": "634423306",
+    "Imie": "Sophiko",
+    "Nazwisko": "Phailodze",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Bielsko Biala",
+    "Ulica": "Siewna 19/31",
+    "Adres Pocztowy": "43-318",
+    "Nr.Telefonu": "+48692067873"
+  },
+  {
+    "nw": "670071",
+    "nw_1": "404734588",
+    "Imie": "Aleksander",
+    "Nazwisko": "Rożek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Bielsko Biala",
+    "Ulica": "kupiecka 65",
+    "Adres Pocztowy": "43-300",
+    "Nr.Telefonu": "502860402"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "nw": "999633",
+    "nw_1": "714262598",
+    "Imie": "Jakub",
+    "Nazwisko": "Wisniewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Wrocław",
+    "Ulica": "Wagnera 1"
+  },
+  {
+    "nw": "1227408",
+    "nw_1": "887616781",
+    "Imie": "Artur",
+    "Nazwisko": "Sehn",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Wrocław",
+    "Ulica": "Australijska 2a",
+    "Adres Pocztowy": "54-402",
+    "Nr.Telefonu": "608 791 720"
+  },
+  {
+    "nw": "596105",
+    "nw_1": "795448224",
+    "Imie": "Agnieszka",
+    "Nazwisko": "Kozaczuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Wrocław",
+    "Ulica": "Litewska 4/99",
+    "Adres Pocztowy": "51-354",
+    "Nr.Telefonu": "501487086"
+  },
+  {
+    "nw": "2272080",
+    "nw_1": "877479796",
+    "Imie": "Dominik",
+    "Nazwisko": "Dominik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Wrocław",
+    "Ulica": "Krynicka 82/8",
+    "Adres Pocztowy": "50-555",
+    "Nr.Telefonu": "668092807"
+  }
+]

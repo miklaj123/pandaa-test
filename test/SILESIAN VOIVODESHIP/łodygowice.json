@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "942461",
+    "nw_1": "743387354",
+    "Imie": "Szymon",
+    "Nazwisko": "Rączka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Łodygowice",
+    "Ulica": "Piłsudskiego 256 szary dom czarna brama",
+    "Adres Pocztowy": "34-325",
+    "Nr.Telefonu": "739229138"
+  },
+  {
+    "nw": "529254",
+    "nw_1": "412569197",
+    "Imie": "Michał",
+    "Nazwisko": "Wysocki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Łodygowice",
+    "Ulica": "Muzyków 9",
+    "Adres Pocztowy": "43-325",
+    "Nr.Telefonu": "798644859"
+  },
+  {
+    "nw": "457433",
+    "nw_1": "965720887",
+    "Imie": "Julian",
+    "Nazwisko": "Maślanka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Łodygowice",
+    "Ulica": "Żywiecka 212A",
+    "Adres Pocztowy": "34-325",
+    "Nr.Telefonu": "501767770"
+  }
+]

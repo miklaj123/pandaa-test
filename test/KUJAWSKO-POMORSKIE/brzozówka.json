@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1208341",
+    "nw_1": "745381070",
+    "Imie": "Aleksander",
+    "Nazwisko": "Wachowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Brzozówka",
+    "Ulica": "Porzeczkowa 3",
+    "Adres Pocztowy": "87-123",
+    "Nr.Telefonu": "724557740"
+  },
+  {
+    "nw": "1472650",
+    "nw_1": "640273642",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Botkiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Brzozówka",
+    "Ulica": "Szkolna 5",
+    "Adres Pocztowy": "87-123",
+    "Nr.Telefonu": "508320178"
+  },
+  {
+    "nw": "823435",
+    "nw_1": "706089170",
+    "Imie": "Kacper",
+    "Nazwisko": "Meller",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Brzozówka",
+    "Ulica": "Poziomkowa 5",
+    "Adres Pocztowy": "87-123",
+    "Nr.Telefonu": "887807088"
+  },
+  {
+    "nw": "1576285",
+    "nw_1": "206512244",
+    "Imie": "Szymon",
+    "Nazwisko": "Gołkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Brzozówka",
+    "Ulica": "orzechowa 3 b",
+    "Adres Pocztowy": "87123",
+    "Nr.Telefonu": "575454030"
+  }
+]

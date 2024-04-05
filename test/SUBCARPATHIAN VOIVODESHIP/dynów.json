@@ -1,0 +1,70 @@
+[
+  {
+    "nw": "1616882",
+    "nw_1": "670622395",
+    "Imie": "Joanna",
+    "Nazwisko": "Piskorek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Dynów",
+    "Ulica": "Podgórska 3",
+    "Adres Pocztowy": "36-065",
+    "Nr.Telefonu": "788967097"
+  },
+  {
+    "nw": "1316450",
+    "nw_1": "970443648",
+    "Imie": "Jarek",
+    "Nazwisko": "Maciołek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Dynów",
+    "Ulica": "Łubno",
+    "Adres Pocztowy": " 288",
+    "Nr.Telefonu": "36-065",
+    "__parsed_extra": [
+      "575254495"
+    ]
+  },
+  {
+    "nw": "373543",
+    "nw_1": "376526755",
+    "Imie": "Patryk",
+    "Nazwisko": "Toczek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Dynów",
+    "Ulica": "ul. Bartkówka 139",
+    "Adres Pocztowy": "36-065",
+    "Nr.Telefonu": "660930248"
+  },
+  {
+    "nw": "2351741",
+    "nw_1": "869867432",
+    "Imie": "Joanna",
+    "Nazwisko": "Karnas",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Dynów",
+    "Ulica": "dynów bławatkowa 21",
+    "Adres Pocztowy": "36-065",
+    "Nr.Telefonu": "669441633"
+  },
+  {
+    "nw": "1282039",
+    "nw_1": "784617241",
+    "Imie": "Adrian",
+    "Nazwisko": "Bielec",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Dynów",
+    "Ulica": "Dynów Grunwaldzka 25B-1",
+    "Adres Pocztowy": "36-065",
+    "Nr.Telefonu": "536034924"
+  }
+]

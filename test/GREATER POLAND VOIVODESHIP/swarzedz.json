@@ -1,0 +1,78 @@
+[
+  {
+    "nw": "140016",
+    "nw_1": "202128098",
+    "Imie": "Lukasz",
+    "Nazwisko": "Brzoza",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Swarzedz",
+    "Ulica": "15/7  Teofila Kaczorowskiego Swarzedz",
+    "Adres Pocztowy": "62-020",
+    "Nr.Telefonu": "794 430 448"
+  },
+  {
+    "nw": "2302749",
+    "nw_1": "314949215",
+    "Imie": "mikolaj",
+    "Nazwisko": "druba",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "swarzedz",
+    "Ulica": "os.raczyńskiego 27/13"
+  },
+  {
+    "nw": "790381",
+    "nw_1": "833424912",
+    "Imie": "Mateusz",
+    "Nazwisko": "Świstek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "swarzedz",
+    "Ulica": "grudzińskiego 18a/21",
+    "Adres Pocztowy": "62020",
+    "Nr.Telefonu": "504174669"
+  },
+  {
+    "nw": "1091961",
+    "nw_1": "220873790",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Surkow",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Swarzedz",
+    "Ulica": "Os. Czwartaków 19/23",
+    "Adres Pocztowy": "62-020",
+    "Nr.Telefonu": "794-090-331"
+  },
+  {
+    "nw": "632227",
+    "nw_1": "521436691",
+    "Imie": "Filip",
+    "Nazwisko": "Wojdat",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Swarzedz",
+    "Ulica": "os. Edwarda Raczynskiego 14/19",
+    "Adres Pocztowy": "62-020",
+    "Nr.Telefonu": "513156606"
+  },
+  {
+    "nw": "1241650",
+    "nw_1": "425810903",
+    "Imie": "Gracjan",
+    "Nazwisko": "Darmosz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Swarzedz",
+    "Ulica": "Ul.Zamkowa 8/2",
+    "Adres Pocztowy": "62-020",
+    "Nr.Telefonu": "796991059"
+  }
+]

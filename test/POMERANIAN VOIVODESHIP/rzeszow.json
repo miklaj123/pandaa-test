@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "2227420",
+    "nw_1": "804222725",
+    "Imie": "Igor",
+    "Nazwisko": "Psykała ",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Rzeszow ",
+    "Ulica": "Warneńczyka 66 "
+  },
+  {
+    "nw": "651238",
+    "nw_1": "757516606",
+    "Imie": "Stefan",
+    "Nazwisko": "Uliasz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Rzeszow",
+    "Ulica": "Mrowla250b",
+    "Adres Pocztowy": "36-054",
+    "Nr.Telefonu": "534 161 317"
+  },
+  {
+    "nw": "648014",
+    "nw_1": "708254154",
+    "Imie": "Mateusz",
+    "Nazwisko": "Folta",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Rzeszow",
+    "Ulica": "Lanowa 60F/1",
+    "Adres Pocztowy": "35-213",
+    "Nr.Telefonu": "+48 723329100"
+  }
+]

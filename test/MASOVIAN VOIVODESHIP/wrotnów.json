@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "2079626",
+    "nw_1": "281513168",
+    "Imie": "Przemysław",
+    "Nazwisko": "Kluz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Wrotnów",
+    "Ulica": "07-106 Miedzna",
+    "Adres Pocztowy": " Wrotnów 95",
+    "Nr.Telefonu": "07-106",
+    "__parsed_extra": [
+      "690 566 419"
+    ]
+  },
+  {
+    "nw": "911444",
+    "nw_1": "940816743",
+    "Imie": "Bartosz",
+    "Nazwisko": "Skrzeszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Wrotnów",
+    "Ulica": "Wrotnów 68",
+    "Adres Pocztowy": "07-106",
+    "Nr.Telefonu": "881525572"
+  },
+  {
+    "nw": "2186692",
+    "nw_1": "879224036",
+    "Imie": "Bartosz",
+    "Nazwisko": "Skrzeszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Wrotnów",
+    "Ulica": "Wrotnów 68",
+    "Adres Pocztowy": "07-106",
+    "Nr.Telefonu": "881525572"
+  }
+]

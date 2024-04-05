@@ -1,0 +1,66 @@
+[
+  {
+    "nw": "1606414",
+    "nw_1": "514259876",
+    "Imie": "Dorota",
+    "Nazwisko": "Woźnicka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Kruszyn",
+    "Ulica": "Kruszynek"
+  },
+  {
+    "nw": "1291313",
+    "nw_1": "762714275",
+    "Imie": "Szymon",
+    "Nazwisko": "Koszowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Kruszyn",
+    "Ulica": "Świerkowa"
+  },
+  {
+    "nw": "1530508",
+    "nw_1": "182917114",
+    "Imie": "Jakub",
+    "Nazwisko": "Ostrowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Kruszyn",
+    "Ulica": "Topolowa 4",
+    "Adres Pocztowy": "87-853",
+    "Nr.Telefonu": "539691635"
+  },
+  {
+    "nw": "1530507",
+    "nw_1": "182917114",
+    "Imie": "Jakub",
+    "Nazwisko": "Ostrowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Kruszyn",
+    "Ulica": "Topolowa 4",
+    "Adres Pocztowy": "87-853",
+    "Nr.Telefonu": "539691635"
+  },
+  {
+    "nw": "858863",
+    "nw_1": "841283102",
+    "Imie": "Jakub",
+    "Nazwisko": "Ostrowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Kruszyn",
+    "Ulica": "Kruszyn",
+    "Adres Pocztowy": " Topolowa 4",
+    "Nr.Telefonu": "87-853",
+    "__parsed_extra": [
+      "539691635"
+    ]
+  }
+]

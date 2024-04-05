@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1527324",
+    "nw_1": "737153516",
+    "Imie": "Tomasz",
+    "Nazwisko": "Saracen",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Międzybrodzie Bialskie",
+    "Ulica": "Wczasowa 21",
+    "Adres Pocztowy": "34-322",
+    "Nr.Telefonu": "508261115"
+  },
+  {
+    "nw": "823794",
+    "nw_1": "559947315",
+    "Imie": "Olivier",
+    "Nazwisko": "Babula",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Międzybrodzie Bialskie",
+    "Ulica": "Kasperków 10A",
+    "Adres Pocztowy": "34-312",
+    "Nr.Telefonu": "796158878"
+  },
+  {
+    "nw": "1357520",
+    "nw_1": "352346343",
+    "Imie": "Kacper",
+    "Nazwisko": "Dudziak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Międzybrodzie Bialskie",
+    "Ulica": "14 Pod Lasy",
+    "Adres Pocztowy": "34-312",
+    "Nr.Telefonu": "517446206"
+  }
+]

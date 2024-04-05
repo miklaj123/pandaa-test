@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "1481246",
+    "nw_1": "425256273",
+    "Imie": "Szymon",
+    "Nazwisko": "Jarmułowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Krasnopol",
+    "Ulica": "13",
+    "Adres Pocztowy": " Linówek",
+    "Nr.Telefonu": "16-503",
+    "__parsed_extra": [
+      "784 482 158"
+    ]
+  },
+  {
+    "nw": "148723",
+    "nw_1": "874037500",
+    "Imie": "Paweł",
+    "Nazwisko": "Dębski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Podlasie",
+    "Miasto": "Krasnopol",
+    "Ulica": "Aleksandrowo 7a",
+    "Adres Pocztowy": "16-503",
+    "Nr.Telefonu": "531594245"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "832974",
+    "nw_1": "813210233",
+    "Imie": "katarzyna",
+    "Nazwisko": "szlufcik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Dąbrowa gornicza",
+    "Ulica": "górnicza 12 ",
+    "Adres Pocztowy": " studio fryzur i paznokci",
+    "Nr.Telefonu": "4–300",
+    "__parsed_extra": [
+      "789299309"
+    ]
+  },
+  {
+    "nw": "463150",
+    "nw_1": "355451153",
+    "Imie": "dominik",
+    "Nazwisko": "janosik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "dąbrowa gornicza",
+    "Ulica": "129:24",
+    "Adres Pocztowy": "41310",
+    "Nr.Telefonu": "602116158"
+  }
+]

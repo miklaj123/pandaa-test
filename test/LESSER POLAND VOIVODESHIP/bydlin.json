@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2222088",
+    "nw_1": "552674787",
+    "Imie": "Olgierd",
+    "Nazwisko": "Wyrodek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Bydlin",
+    "Ulica": "średnia 15",
+    "Adres Pocztowy": "32-310",
+    "Nr.Telefonu": "795051108"
+  },
+  {
+    "nw": "2222092",
+    "nw_1": "552674787",
+    "Imie": "Olgierd",
+    "Nazwisko": "Wyrodek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "bydlin",
+    "Ulica": "średnia 15",
+    "Adres Pocztowy": "32-310",
+    "Nr.Telefonu": "795051108"
+  },
+  {
+    "nw": "973986",
+    "nw_1": "700961681",
+    "Imie": "Emilia",
+    "Nazwisko": "Kalarus",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Bydlin",
+    "Ulica": "Bydlin Topolowa 5",
+    "Adres Pocztowy": "32-310",
+    "Nr.Telefonu": "573312520"
+  }
+]

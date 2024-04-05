@@ -1,0 +1,57 @@
+[
+  {
+    "nw": "1173486",
+    "nw_1": "486606298",
+    "Imie": "Marcel",
+    "Nazwisko": "Łopuszański",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Sosnowiec",
+    "Ulica": "Hubala Dobrzańskiego 142/29",
+    "Adres Pocztowy": "41-200",
+    "Nr.Telefonu": "+48516686332"
+  },
+  {
+    "nw": "2352039",
+    "nw_1": "673426426",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Dusza",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "sosnowiec",
+    "Ulica": "słoneczna 17a",
+    "Adres Pocztowy": "41-203",
+    "Nr.Telefonu": "+48724555278"
+  },
+  {
+    "nw": "536987",
+    "nw_1": "377760392",
+    "Imie": "Nikolas",
+    "Nazwisko": "Kuciel",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Sosnowiec",
+    "Ulica": "Klimontowska 47g/4",
+    "Adres Pocztowy": "41-200",
+    "Nr.Telefonu": "48+  731444605"
+  },
+  {
+    "nw": "1349923",
+    "nw_1": "262329891",
+    "Imie": "Artem",
+    "Nazwisko": "Kovalenko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Sosnowiec",
+    "Ulica": "Mościckiego 20",
+    "Adres Pocztowy": " 41-200 Sosnowiec",
+    "Nr.Telefonu": "41-200",
+    "__parsed_extra": [
+      "+48730532964"
+    ]
+  }
+]

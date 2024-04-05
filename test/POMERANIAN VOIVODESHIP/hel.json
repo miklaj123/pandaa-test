@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2339831",
+    "nw_1": "516843834",
+    "Imie": "Nikodem",
+    "Nazwisko": "Gadziński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Hel",
+    "Ulica": "Przybyszewskiego 2b/8",
+    "Adres Pocztowy": "85-150",
+    "Nr.Telefonu": "534211515"
+  },
+  {
+    "nw": "2240991",
+    "nw_1": "841603253",
+    "Imie": "Kamil",
+    "Nazwisko": "Kita",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Hel",
+    "Ulica": "Komandorska 5/2",
+    "Adres Pocztowy": "84-150",
+    "Nr.Telefonu": "602434676"
+  },
+  {
+    "nw": "1846159",
+    "nw_1": "294952257",
+    "Imie": "Adam",
+    "Nazwisko": "Ciscoń",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "hel",
+    "Ulica": "ul przybyszewskiego 6b/5",
+    "Adres Pocztowy": "84-150",
+    "Nr.Telefonu": "504175992"
+  }
+]

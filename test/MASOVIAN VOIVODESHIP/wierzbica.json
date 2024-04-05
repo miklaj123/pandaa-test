@@ -1,0 +1,70 @@
+[
+  {
+    "nw": "2265524",
+    "nw_1": "488944742",
+    "Imie": "Grzegorz",
+    "Nazwisko": "Kopycki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Wierzbica",
+    "Ulica": "Radomska 7B",
+    "Adres Pocztowy": "26-680",
+    "Nr.Telefonu": "516711764"
+  },
+  {
+    "nw": "2060767",
+    "nw_1": "523945961",
+    "Imie": "Monika",
+    "Nazwisko": "dudzinska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Wierzbica",
+    "Ulica": "Ignacego Krasickiego 2/13",
+    "Adres Pocztowy": "26-680",
+    "Nr.Telefonu": "513965212"
+  },
+  {
+    "nw": "2329853",
+    "nw_1": "322832633",
+    "Imie": "Antoni",
+    "Nazwisko": "Różalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "wierzbica",
+    "Ulica": "ul. Ignacego Krasickiego 5/9",
+    "Adres Pocztowy": "26-680",
+    "Nr.Telefonu": "+48573098484"
+  },
+  {
+    "nw": "466748",
+    "nw_1": "583823615",
+    "Imie": "Oskar ",
+    "Nazwisko": "Gołuch",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Wierzbica",
+    "Ulica": "Wierzbica",
+    "Adres Pocztowy": "Łączany 6a",
+    "Nr.Telefonu": "26-680",
+    "__parsed_extra": [
+      "570914527"
+    ]
+  },
+  {
+    "nw": "992845",
+    "nw_1": "714233880",
+    "Imie": "ksawery",
+    "Nazwisko": "banaczek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Wierzbica",
+    "Ulica": "ul. Piaskowa 11",
+    "Adres Pocztowy": "26-680",
+    "Nr.Telefonu": "530094869"
+  }
+]

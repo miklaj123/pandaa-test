@@ -1,0 +1,85 @@
+[
+  {
+    "nw": "2244184",
+    "nw_1": "380331087",
+    "Imie": "Michal",
+    "Nazwisko": "Wylupek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Szczebrzeszyn",
+    "Ulica": "Nadrzeczna 73"
+  },
+  {
+    "nw": "343108",
+    "nw_1": "836889451",
+    "Imie": "Jakub",
+    "Nazwisko": "Ciurysek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Szczebrzeszyn",
+    "Ulica": "Wielącza"
+  },
+  {
+    "nw": "243611",
+    "nw_1": "742385718",
+    "Imie": "Sebastian",
+    "Nazwisko": "Dumała",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Szczebrzeszyn",
+    "Ulica": "Osiedlowa 5A"
+  },
+  {
+    "nw": "243610",
+    "nw_1": "742385718",
+    "Imie": "Sebastian",
+    "Nazwisko": "Dumała",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Szczebrzeszyn",
+    "Ulica": "Osiedlowa 5A"
+  },
+  {
+    "nw": "2317099",
+    "nw_1": "185324187",
+    "Imie": "Marcel",
+    "Nazwisko": "Hałasa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Szczebrzeszyn",
+    "Ulica": "Szkolna 17/23",
+    "Adres Pocztowy": "22-460",
+    "Nr.Telefonu": "662545801"
+  },
+  {
+    "nw": "175355",
+    "nw_1": "984064371",
+    "Imie": "Marcin",
+    "Nazwisko": "Sikora",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Szczebrzeszyn",
+    "Ulica": "Niedzieliska 128",
+    "Adres Pocztowy": "22-460",
+    "Nr.Telefonu": "+48784701777"
+  },
+  {
+    "nw": "2125181",
+    "nw_1": "612793308",
+    "Imie": "Antoni",
+    "Nazwisko": "Harkot",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Szczebrzeszyn",
+    "Ulica": "Słoneczna 4",
+    "Adres Pocztowy": "22-460",
+    "Nr.Telefonu": "516344346"
+  }
+]

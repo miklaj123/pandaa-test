@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "442964",
+    "nw_1": "175333084",
+    "Imie": "Michał",
+    "Nazwisko": "Merchel",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Strzegowo",
+    "Ulica": "Łąkowa 3",
+    "Adres Pocztowy": "06-445",
+    "Nr.Telefonu": "606288199"
+  },
+  {
+    "nw": "1973273",
+    "nw_1": "106723297",
+    "Imie": "Bartosz",
+    "Nazwisko": "Skrzynecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Strzegowo",
+    "Ulica": "szkolna 12",
+    "Adres Pocztowy": "06-445",
+    "Nr.Telefonu": "+48797164054"
+  },
+  {
+    "nw": "172659",
+    "nw_1": "723978597",
+    "Imie": "Szymon",
+    "Nazwisko": "Besser",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Strzegowo",
+    "Ulica": "Wyzwolenia 60",
+    "Adres Pocztowy": "06-445",
+    "Nr.Telefonu": "+48572637769"
+  }
+]

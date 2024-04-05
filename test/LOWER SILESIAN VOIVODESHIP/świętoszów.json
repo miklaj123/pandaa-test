@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "1981128",
+    "nw_1": "445197090",
+    "Imie": "Oskar",
+    "Nazwisko": "Zabłocki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Świętoszów",
+    "Ulica": "husarska"
+  },
+  {
+    "nw": "441498",
+    "nw_1": "668885089",
+    "Imie": "Kornel",
+    "Nazwisko": "Pędzisz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Świętoszów",
+    "Ulica": "Sosnowa 1",
+    "Adres Pocztowy": "59-726",
+    "Nr.Telefonu": "+48 535708842"
+  },
+  {
+    "nw": "755872",
+    "nw_1": "566939227",
+    "Imie": "Dawid",
+    "Nazwisko": "Przybylski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Świętoszów",
+    "Ulica": "Świętoszów Klonowa 22a",
+    "Adres Pocztowy": "59-726",
+    "Nr.Telefonu": "784460057"
+  }
+]

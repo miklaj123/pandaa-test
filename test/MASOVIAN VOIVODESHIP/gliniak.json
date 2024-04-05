@@ -1,0 +1,32 @@
+[
+  {
+    "nw": "1252258",
+    "nw_1": "858884278",
+    "Imie": "Maciej",
+    "Nazwisko": "Książek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Gliniak",
+    "Ulica": " Graniczna  17",
+    "Adres Pocztowy": "Gliniak",
+    "Nr.Telefonu": " Graniczna 17",
+    "__parsed_extra": [
+      "05-300",
+      "532613016"
+    ]
+  },
+  {
+    "nw": "1239918",
+    "nw_1": "713585118",
+    "Imie": "Maciej",
+    "Nazwisko": "Chrust",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Gliniak",
+    "Ulica": "Mazowiecka 87",
+    "Adres Pocztowy": "05-300",
+    "Nr.Telefonu": "57727253"
+  }
+]

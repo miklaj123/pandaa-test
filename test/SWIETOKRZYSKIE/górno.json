@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "842161",
+    "nw_1": "820826723",
+    "Imie": "Antoni",
+    "Nazwisko": "Ozga",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Górno",
+    "Ulica": "Skorzeszyce 21A",
+    "Adres Pocztowy": "26-008",
+    "Nr.Telefonu": "663427193"
+  },
+  {
+    "nw": "1744124",
+    "nw_1": "406364439",
+    "Imie": "Maciej",
+    "Nazwisko": "Nowak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Górno",
+    "Ulica": "Górno",
+    "Adres Pocztowy": " Radlin 172a",
+    "Nr.Telefonu": "26-008",
+    "__parsed_extra": [
+      "571865435"
+    ]
+  }
+]

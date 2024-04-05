@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "486631",
+    "nw_1": "545224679",
+    "Imie": "Kacper",
+    "Nazwisko": "Pietrak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Miedzna",
+    "Ulica": "Kolonie Budziska 5",
+    "Adres Pocztowy": "07-106",
+    "Nr.Telefonu": "+48786118136"
+  },
+  {
+    "nw": "1349785",
+    "nw_1": "602670560",
+    "Imie": "Bartosz",
+    "Nazwisko": "Sobolewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Miedzna",
+    "Ulica": "Plac Wolności 1",
+    "Adres Pocztowy": "07-106",
+    "Nr.Telefonu": "882109110"
+  },
+  {
+    "nw": "2248927",
+    "nw_1": "543167609",
+    "Imie": "Maciek",
+    "Nazwisko": "Gontarz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Miedzna",
+    "Ulica": "Kościuszki 1",
+    "Adres Pocztowy": "07-106",
+    "Nr.Telefonu": "538430731"
+  }
+]

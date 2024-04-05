@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2306590",
+    "nw_1": "890584887",
+    "Imie": "Oliwier",
+    "Nazwisko": "Romańczuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Miłoszyce",
+    "Ulica": "Konopnickiej 36",
+    "Adres Pocztowy": "55-220",
+    "Nr.Telefonu": "692932761"
+  },
+  {
+    "nw": "2179121",
+    "nw_1": "484155078",
+    "Imie": "Anna",
+    "Nazwisko": "Horosiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Miłoszyce",
+    "Ulica": "ul. Michałowskigo 4",
+    "Adres Pocztowy": "55-520",
+    "Nr.Telefonu": "725274707"
+  },
+  {
+    "nw": "1105500",
+    "nw_1": "344095025",
+    "Imie": "Oliwier",
+    "Nazwisko": "Romańczuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "miłoszyce",
+    "Ulica": "konopnickiej 36",
+    "Adres Pocztowy": "55-220",
+    "Nr.Telefonu": "692932761"
+  }
+]

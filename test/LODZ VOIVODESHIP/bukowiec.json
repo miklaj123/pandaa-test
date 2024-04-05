@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1423534",
+    "nw_1": "464074689",
+    "Imie": "Jakub",
+    "Nazwisko": "Wypchło",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Bukowiec",
+    "Ulica": "Osiedlowa 8",
+    "Adres Pocztowy": "95-006",
+    "Nr.Telefonu": "883441946"
+  },
+  {
+    "nw": "339803",
+    "nw_1": "517300235",
+    "Imie": "Mateusz",
+    "Nazwisko": "Zielonka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Bukowiec",
+    "Ulica": "Koralowa 24",
+    "Adres Pocztowy": "95-006",
+    "Nr.Telefonu": "607372921"
+  },
+  {
+    "nw": "1125576",
+    "nw_1": "190224483",
+    "Imie": "Bartosz",
+    "Nazwisko": "Kowalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Bukowiec",
+    "Ulica": "Bukowiec Górna 116a",
+    "Adres Pocztowy": "95-006",
+    "Nr.Telefonu": "722043035"
+  }
+]

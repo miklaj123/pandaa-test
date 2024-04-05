@@ -1,0 +1,70 @@
+[
+  {
+    "nw": "1979491",
+    "nw_1": "208294082",
+    "Imie": "Agnieszka",
+    "Nazwisko": "Bujak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Kłodzko",
+    "Ulica": "Kłodzko ulica krasińskiego 12/3",
+    "Adres Pocztowy": "57-300",
+    "Nr.Telefonu": "534687616"
+  },
+  {
+    "nw": "2316124",
+    "nw_1": "994878616",
+    "Imie": "Tim",
+    "Nazwisko": "Hytel",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Kłodzko",
+    "Ulica": "Stefana Czarnieckiego 18",
+    "Adres Pocztowy": "57-300",
+    "Nr.Telefonu": "509227247"
+  },
+  {
+    "nw": "2204122",
+    "nw_1": "801910196",
+    "Imie": "Milosz",
+    "Nazwisko": "Siekaniec",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Kłodzko",
+    "Ulica": "Jaszkowa Dolna 9c",
+    "Adres Pocztowy": "57-312",
+    "Nr.Telefonu": "536162009"
+  },
+  {
+    "nw": "1480712",
+    "nw_1": "647452499",
+    "Imie": "Patryk",
+    "Nazwisko": "Baran",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Kłodzko",
+    "Ulica": "Wojciechowice 44",
+    "Adres Pocztowy": " Kłodzko Dolnośląskie 57-300",
+    "Nr.Telefonu": "57-300",
+    "__parsed_extra": [
+      "536002942"
+    ]
+  },
+  {
+    "nw": "1970077",
+    "nw_1": "546485060",
+    "Imie": "Łukasz",
+    "Nazwisko": "Trejderowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Kłodzko",
+    "Ulica": "Bierkowice 28a",
+    "Adres Pocztowy": "57-300",
+    "Nr.Telefonu": "692115785"
+  }
+]

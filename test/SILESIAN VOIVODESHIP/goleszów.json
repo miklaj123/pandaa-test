@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1150480",
+    "nw_1": "309416198",
+    "Imie": "dawid",
+    "Nazwisko": "Białożyt",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "goleszów",
+    "Ulica": "wałowa 22",
+    "Adres Pocztowy": "43-440",
+    "Nr.Telefonu": "+48726040608"
+  },
+  {
+    "nw": "920297",
+    "nw_1": "103922163",
+    "Imie": "Joanna",
+    "Nazwisko": "Kepinska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Goleszów",
+    "Ulica": "Wolnosci 20A",
+    "Adres Pocztowy": "43-440",
+    "Nr.Telefonu": "+48570148600"
+  },
+  {
+    "nw": "1018362",
+    "nw_1": "384509226",
+    "Imie": "Danuta",
+    "Nazwisko": "Sładeczek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Goleszów",
+    "Ulica": "Słoneczna 15",
+    "Adres Pocztowy": "43-440",
+    "Nr.Telefonu": "504394058"
+  },
+  {
+    "nw": "2350867",
+    "nw_1": "698957256",
+    "Imie": "Adam",
+    "Nazwisko": "Mizia",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Goleszów",
+    "Ulica": "Górska 13a Goleszów",
+    "Adres Pocztowy": "43-440",
+    "Nr.Telefonu": "508016063"
+  }
+]

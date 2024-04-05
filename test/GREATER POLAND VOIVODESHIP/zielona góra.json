@@ -1,0 +1,80 @@
+[
+  {
+    "nw": "522740",
+    "nw_1": "771337833",
+    "Imie": "Krzysztof",
+    "Nazwisko": "Jakub",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Zielona Góra",
+    "Ulica": "Racula Ciepła 2",
+    "Adres Pocztowy": "66-004",
+    "Nr.Telefonu": "669910061"
+  },
+  {
+    "nw": "1219544",
+    "nw_1": "773833599",
+    "Imie": "Amadeusz",
+    "Nazwisko": "Łupiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Zielona Góra",
+    "Ulica": "ogrodowa 3b/80",
+    "Adres Pocztowy": "65001",
+    "Nr.Telefonu": "48733257660"
+  },
+  {
+    "nw": "2345610",
+    "nw_1": "986801752",
+    "Imie": "Wiktor",
+    "Nazwisko": "Kowalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Zielona Góra",
+    "Ulica": "Jędrzychowska 3",
+    "Adres Pocztowy": "65-385",
+    "Nr.Telefonu": "536037958"
+  },
+  {
+    "nw": "2345611",
+    "nw_1": "986801752",
+    "Imie": "Wiktor",
+    "Nazwisko": "Kowalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Zielona Góra",
+    "Ulica": "Jędrzychowska 3",
+    "Adres Pocztowy": "65-385",
+    "Nr.Telefonu": "536037958"
+  },
+  {
+    "nw": "359941",
+    "nw_1": "238076052",
+    "Imie": "Wiktor",
+    "Nazwisko": "Michalewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Zielona Góra",
+    "Ulica": "Anny Jagiellonki 19F/12",
+    "Adres Pocztowy": "65-155",
+    "Nr.Telefonu": "532173220"
+  },
+  {
+    "nw": "2205077",
+    "nw_1": "106654704",
+    "Imie": "Krzysztof",
+    "Nazwisko": "Lizurek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Zielona Góra",
+    "Ulica": "Wyszyńskiego 95/2 Zielona Góra",
+    "Adres Pocztowy": "65-536",
+    "Nr.Telefonu": "691884371"
+  }
+]

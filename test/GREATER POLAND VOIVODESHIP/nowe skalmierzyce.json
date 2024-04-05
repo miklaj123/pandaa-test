@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1270390",
+    "nw_1": "270582275",
+    "Imie": "Marcin",
+    "Nazwisko": "Szymczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Nowe Skalmierzyce",
+    "Ulica": "Nowe Skalmierzyce Kaliska 6b mieszkanie 12 63-460",
+    "Adres Pocztowy": "63-460",
+    "Nr.Telefonu": "733520022"
+  },
+  {
+    "nw": "1426220",
+    "nw_1": "403109423",
+    "Imie": "Igor",
+    "Nazwisko": "Koper",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Nowe Skalmierzyce",
+    "Ulica": "Strzegowa 40",
+    "Adres Pocztowy": "63-460",
+    "Nr.Telefonu": "605 886 315"
+  },
+  {
+    "nw": "82423",
+    "nw_1": "858247506",
+    "Imie": "Aleksander",
+    "Nazwisko": "Stępniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Nowe Skalmierzyce",
+    "Ulica": "Kościuszki 16/4",
+    "Adres Pocztowy": "63460",
+    "Nr.Telefonu": "661139275"
+  }
+]

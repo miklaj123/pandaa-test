@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "2323885",
+    "nw_1": "635291723",
+    "Imie": "Patryk",
+    "Nazwisko": "Adamus",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Brzezinka",
+    "Ulica": "Dolna 32",
+    "Adres Pocztowy": "34-114",
+    "Nr.Telefonu": "+48 575732271"
+  },
+  {
+    "nw": "1573603",
+    "nw_1": "955557287",
+    "Imie": "Dominik",
+    "Nazwisko": "Mikolajek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Brzezinka",
+    "Ulica": "Niwy 14B",
+    "Adres Pocztowy": "32-600",
+    "Nr.Telefonu": "782282360"
+  },
+  {
+    "nw": "1760964",
+    "nw_1": "295750868",
+    "Imie": "Dominik",
+    "Nazwisko": "Ryszka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Brzezinka",
+    "Ulica": "Górnicza 7a",
+    "Adres Pocztowy": "32-600",
+    "Nr.Telefonu": "604791256"
+  },
+  {
+    "nw": "1300472",
+    "nw_1": "997916440",
+    "Imie": "Michał",
+    "Nazwisko": "Szejna",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Brzezinka",
+    "Ulica": "Łubinowa 3",
+    "Adres Pocztowy": "32-600",
+    "Nr.Telefonu": "511633020"
+  }
+]

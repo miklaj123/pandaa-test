@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1581774",
+    "nw_1": "626230732",
+    "Imie": "jakub",
+    "Nazwisko": "gwarek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Brzeźnica",
+    "Ulica": "62",
+    "Adres Pocztowy": "32-700",
+    "Nr.Telefonu": "692601702"
+  },
+  {
+    "nw": "1475915",
+    "nw_1": "262068106",
+    "Imie": "Patryk",
+    "Nazwisko": "Pieniążek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Brzeźnica",
+    "Ulica": "Krakowska 116",
+    "Adres Pocztowy": "34-114",
+    "Nr.Telefonu": "797 409 377"
+  },
+  {
+    "nw": "2299175",
+    "nw_1": "334599386",
+    "Imie": "Samuel",
+    "Nazwisko": "Tomski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Brzeźnica",
+    "Ulica": "Brzeźnica  ul. krakowska 120",
+    "Adres Pocztowy": "34-114",
+    "Nr.Telefonu": "600291976"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "nw": "269855",
+    "nw_1": "895818843",
+    "Imie": "Michał",
+    "Nazwisko": "Olszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Zaborów",
+    "Ulica": "ul. Trakt Królewski 168 Zalesie",
+    "Adres Pocztowy": "05-083",
+    "Nr.Telefonu": "690121850"
+  },
+  {
+    "nw": "1450099",
+    "nw_1": "212788944",
+    "Imie": "Jakub",
+    "Nazwisko": "Juchniewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Zaborów",
+    "Ulica": "Feliksów Stołeczna 139",
+    "Adres Pocztowy": "05-083",
+    "Nr.Telefonu": "504 290 643"
+  },
+  {
+    "nw": "762393",
+    "nw_1": "784146353",
+    "Imie": "Szymon",
+    "Nazwisko": "Regulski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Zaborów",
+    "Ulica": "Stołeczna",
+    "Adres Pocztowy": " 164",
+    "Nr.Telefonu": "05-083",
+    "__parsed_extra": [
+      "504602689"
+    ]
+  },
+  {
+    "nw": "1912667",
+    "nw_1": "926631305",
+    "Imie": "Jakub",
+    "Nazwisko": "Klepacki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Zaborów",
+    "Ulica": "Środkowa 38",
+    "Adres Pocztowy": "05-083",
+    "Nr.Telefonu": "791187777"
+  },
+  {
+    "nw": "491337",
+    "nw_1": "886492869",
+    "Imie": "Filip",
+    "Nazwisko": "Kepka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Zaborów",
+    "Ulica": "Ziołowa 10",
+    "Adres Pocztowy": "05-083",
+    "Nr.Telefonu": "+48537582112"
+  },
+  {
+    "nw": "1521140",
+    "nw_1": "129205455",
+    "Imie": "Dawid",
+    "Nazwisko": "Jaskulski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Zaborów",
+    "Ulica": "Środkowa  40a",
+    "Adres Pocztowy": "05-083",
+    "Nr.Telefonu": "600582909"
+  }
+]

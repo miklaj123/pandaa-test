@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "253005",
+    "nw_1": "987636373",
+    "Imie": "Olaf",
+    "Nazwisko": "Stawiarz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Mielec",
+    "Ulica": "Raciborskiego 2/18",
+    "Adres Pocztowy": "39-300",
+    "Nr.Telefonu": "505640886"
+  },
+  {
+    "nw": "906646",
+    "nw_1": "842622187",
+    "Imie": "igor",
+    "Nazwisko": "Zieliński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "mielec",
+    "Ulica": "Majowa 3A",
+    "Adres Pocztowy": "39-300",
+    "Nr.Telefonu": "577765521"
+  },
+  {
+    "nw": "2319531",
+    "nw_1": "346700336",
+    "Imie": "Sylwia",
+    "Nazwisko": "Kamińska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Mielec",
+    "Ulica": "Brzozowa 25",
+    "Adres Pocztowy": "39-300",
+    "Nr.Telefonu": "+48796630600"
+  }
+]

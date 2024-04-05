@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "1127054",
+    "nw_1": "708773973",
+    "Imie": "Szymon",
+    "Nazwisko": "Piesio",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Cegielnia",
+    "Ulica": "Przejazdowa 7",
+    "Adres Pocztowy": "05-250",
+    "Nr.Telefonu": "+48666527642"
+  },
+  {
+    "nw": "712788",
+    "nw_1": "402732636",
+    "Imie": "Magdalena",
+    "Nazwisko": "Piesio",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Cegielnia",
+    "Ulica": "Przejazdowa 7",
+    "Adres Pocztowy": " Cegielnia",
+    "Nr.Telefonu": "05-250",
+    "__parsed_extra": [
+      "728996372"
+    ]
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "nw": "1845531",
+    "nw_1": "762447588",
+    "Imie": "Mateusz",
+    "Nazwisko": "Ruda",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Miłakowo",
+    "Ulica": "Ogrodowa 2",
+    "Adres Pocztowy": "14-310",
+    "Nr.Telefonu": "780009694"
+  },
+  {
+    "nw": "1810605",
+    "nw_1": "599459531",
+    "Imie": "Weronika",
+    "Nazwisko": "Kipiel",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Miłakowo",
+    "Ulica": "Olsztyńska 9B/6",
+    "Adres Pocztowy": "14-310",
+    "Nr.Telefonu": "734198343"
+  },
+  {
+    "nw": "1921013",
+    "nw_1": "262038024",
+    "Imie": "Dominik",
+    "Nazwisko": "Figlant",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Miłakowo",
+    "Ulica": "Tadeusza Kościuszki",
+    "Adres Pocztowy": " 9",
+    "Nr.Telefonu": "14-310",
+    "__parsed_extra": [
+      "+48 728516007"
+    ]
+  },
+  {
+    "nw": "1715074",
+    "nw_1": "913627555",
+    "Imie": "Igor",
+    "Nazwisko": "Roman",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Miłakowo",
+    "Ulica": "Książnik 34/5",
+    "Adres Pocztowy": "14-310",
+    "Nr.Telefonu": "667047161"
+  },
+  {
+    "nw": "2295795",
+    "nw_1": "170492304",
+    "Imie": "Weronika",
+    "Nazwisko": "Kipiel",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Miłakowo",
+    "Ulica": "Olsztyńska 9B/6",
+    "Adres Pocztowy": "14-310",
+    "Nr.Telefonu": "734189343"
+  },
+  {
+    "nw": "1159971",
+    "nw_1": "668704785",
+    "Imie": "Weronika",
+    "Nazwisko": "Kipiel",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Miłakowo",
+    "Ulica": "Olsztyńska"
+  },
+  {
+    "nw": "1715773",
+    "nw_1": "484834061",
+    "Imie": "Marta",
+    "Nazwisko": "Gromek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Warmian-Masurian Voivodeship",
+    "Miasto": "Miłakowo",
+    "Ulica": "Książnik 22",
+    "Adres Pocztowy": "14-310",
+    "Nr.Telefonu": "693316797"
+  }
+]

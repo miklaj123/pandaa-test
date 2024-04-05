@@ -1,0 +1,67 @@
+[
+  {
+    "nw": "885131",
+    "nw_1": "415072849",
+    "Imie": "Antoni",
+    "Nazwisko": "Kowalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Gierałtowice",
+    "Ulica": "ul. Ogrodowa 117",
+    "Adres Pocztowy": "44-186",
+    "Nr.Telefonu": "+48 579 658 687"
+  },
+  {
+    "nw": "1673685",
+    "nw_1": "719384191",
+    "Imie": "Dominik",
+    "Nazwisko": "Marek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Gierałtowice",
+    "Ulica": "Graniczna 27",
+    "Adres Pocztowy": "44-186",
+    "Nr.Telefonu": "+48660946513"
+  },
+  {
+    "nw": "1726810",
+    "nw_1": "319243018",
+    "Imie": "Dawid",
+    "Nazwisko": "Makselon",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Gierałtowice",
+    "Ulica": "Księdza Roboty 140",
+    "Adres Pocztowy": "44-186",
+    "Nr.Telefonu": "609379363"
+  },
+  {
+    "nw": "2195875",
+    "nw_1": "546024010",
+    "Imie": "Sebastian",
+    "Nazwisko": "Kaźmierczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Gierałtowice",
+    "Ulica": "Paderewskiego 14",
+    "Adres Pocztowy": "44-186",
+    "Nr.Telefonu": "+48577285185"
+  },
+  {
+    "nw": "2103041",
+    "nw_1": "863370242",
+    "Imie": "Filip",
+    "Nazwisko": "Czerwiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Gierałtowice",
+    "Ulica": "Paderewskiego 49",
+    "Adres Pocztowy": "44-186",
+    "Nr.Telefonu": "+510027437"
+  }
+]

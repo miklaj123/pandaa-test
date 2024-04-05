@@ -1,0 +1,80 @@
+[
+  {
+    "nw": "745239",
+    "nw_1": "287956620",
+    "Imie": "Kacper",
+    "Nazwisko": "Stolarek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Gruszczyn",
+    "Ulica": "ul. Grabowa 6",
+    "Adres Pocztowy": "62-006",
+    "Nr.Telefonu": "694185174"
+  },
+  {
+    "nw": "402303",
+    "nw_1": "465989245",
+    "Imie": "Jan",
+    "Nazwisko": "Nowakowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Gruszczyn",
+    "Ulica": "Katarzyńska 6a",
+    "Adres Pocztowy": "62-006",
+    "Nr.Telefonu": "533428262"
+  },
+  {
+    "nw": "2364586",
+    "nw_1": "825291853",
+    "Imie": "Denis",
+    "Nazwisko": "Kadirov",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Gruszczyn",
+    "Ulica": "Leśna 18",
+    "Adres Pocztowy": "62–006",
+    "Nr.Telefonu": "608168732"
+  },
+  {
+    "nw": "143964",
+    "nw_1": "426367102",
+    "Imie": "kuba ",
+    "Nazwisko": "dolatowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Gruszczyn",
+    "Ulica": "Wielkopolskie 62-006 Gruszczyn Zielińska",
+    "Adres Pocztowy": "62-006",
+    "Nr.Telefonu": "535016996"
+  },
+  {
+    "nw": "1051858",
+    "nw_1": "588688165",
+    "Imie": "Maksymilian",
+    "Nazwisko": "Nowak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Gruszczyn",
+    "Ulica": "Adama asnyka 1",
+    "Adres Pocztowy": "62-006",
+    "Nr.Telefonu": "577070526"
+  },
+  {
+    "nw": "410117",
+    "nw_1": "932144630",
+    "Imie": "Kuba",
+    "Nazwisko": "Chmiel",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Gruszczyn",
+    "Ulica": "Nowowiejskiego 16",
+    "Adres Pocztowy": "62-006",
+    "Nr.Telefonu": "534810279"
+  }
+]

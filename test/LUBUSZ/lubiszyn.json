@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "517017",
+    "nw_1": "936053755",
+    "Imie": "Michał",
+    "Nazwisko": "Stachurski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Lubiszyn",
+    "Ulica": "Staw 28",
+    "Adres Pocztowy": "66-433",
+    "Nr.Telefonu": "782448980"
+  },
+  {
+    "nw": "2263295",
+    "nw_1": "850566612",
+    "Imie": "Paweł",
+    "Nazwisko": "Marczewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Lubiszyn",
+    "Ulica": "Kozin 13",
+    "Adres Pocztowy": " 66-433 lubiszyn",
+    "Nr.Telefonu": "66-433",
+    "__parsed_extra": [
+      "+48 660525924"
+    ]
+  },
+  {
+    "nw": "884582",
+    "nw_1": "837171020",
+    "Imie": "Gabriel",
+    "Nazwisko": "Marchwiński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Lubiszyn",
+    "Ulica": "Dworcowa 10",
+    "Adres Pocztowy": "66-433",
+    "Nr.Telefonu": "531367906"
+  }
+]

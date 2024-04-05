@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "910762",
+    "nw_1": "207109754",
+    "Imie": "NIKODEM",
+    "Nazwisko": "SZCZEPANCZYK",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "ŻARKI",
+    "Ulica": "MONIUSZKI 1",
+    "Adres Pocztowy": "42-310 ŻARKI",
+    "Nr.Telefonu": "602727351"
+  },
+  {
+    "nw": "525105",
+    "nw_1": "702204097",
+    "Imie": "Jakub",
+    "Nazwisko": "Jurek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Żarki",
+    "Ulica": "Moniuszki 19",
+    "Adres Pocztowy": "42-310",
+    "Nr.Telefonu": "795696119"
+  },
+  {
+    "nw": "995013",
+    "nw_1": "359154623",
+    "Imie": "Brajan",
+    "Nazwisko": "Bieniek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Żarki",
+    "Ulica": "Łąkowa"
+  }
+]

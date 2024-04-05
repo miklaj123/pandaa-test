@@ -1,0 +1,71 @@
+[
+  {
+    "nw": "2011603",
+    "nw_1": "856840250",
+    "Imie": "Krystian",
+    "Nazwisko": "piróg",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "krasnobród",
+    "Ulica": "hutki 13",
+    "Adres Pocztowy": "22-440",
+    "Nr.Telefonu": "576890169"
+  },
+  {
+    "nw": "2269087",
+    "nw_1": "862827443",
+    "Imie": "Agnieszka",
+    "Nazwisko": "Nizio",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Krasnobród",
+    "Ulica": "Majdan Wielki 214",
+    "Adres Pocztowy": "22-440",
+    "Nr.Telefonu": "+48507358232"
+  },
+  {
+    "nw": "1660930",
+    "nw_1": "328637592",
+    "Imie": "Bartłomiej",
+    "Nazwisko": "Wasiura",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Krasnobród",
+    "Ulica": "Sobieskiego 38a",
+    "Adres Pocztowy": " 22-440 Krasnobród",
+    "Nr.Telefonu": " PL",
+    "__parsed_extra": [
+      "22-440",
+      "790780345"
+    ]
+  },
+  {
+    "nw": "2326438",
+    "nw_1": "958190299",
+    "Imie": "Kacper",
+    "Nazwisko": "Chwedorowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "krasnobród",
+    "Ulica": "ul. Tadeusza Kościuszki 62",
+    "Adres Pocztowy": "22-440",
+    "Nr.Telefonu": "693637537"
+  },
+  {
+    "nw": "1203466",
+    "nw_1": "839145250",
+    "Imie": "Łukasz",
+    "Nazwisko": "Seńko",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Krasnobród",
+    "Ulica": "Aleja Najświętszej Maryi Panny 47",
+    "Adres Pocztowy": "22-440",
+    "Nr.Telefonu": "660853990"
+  }
+]

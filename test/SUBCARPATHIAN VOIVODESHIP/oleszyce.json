@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1903807",
+    "nw_1": "687521479",
+    "Imie": "Lucyna",
+    "Nazwisko": "Demska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Oleszyce",
+    "Ulica": "Kustronia 3",
+    "Adres Pocztowy": "37-630",
+    "Nr.Telefonu": "669004207"
+  },
+  {
+    "nw": "1214996",
+    "nw_1": "155854463",
+    "Imie": "Jakub",
+    "Nazwisko": "Lorenc",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Oleszyce",
+    "Ulica": "Osiedle Świętego Jana 18",
+    "Adres Pocztowy": "37-630",
+    "Nr.Telefonu": "605394799"
+  },
+  {
+    "nw": "1527435",
+    "nw_1": "999272769",
+    "Imie": "Gabriel",
+    "Nazwisko": "Chrystyna",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Oleszyce",
+    "Ulica": "Futory 6A",
+    "Adres Pocztowy": "37-630",
+    "Nr.Telefonu": "532421562"
+  }
+]

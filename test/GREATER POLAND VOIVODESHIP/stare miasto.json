@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1042173",
+    "nw_1": "492494174",
+    "Imie": "Adam",
+    "Nazwisko": "Stolarek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Stare Miasto",
+    "Ulica": "Żdżary ul.Borówkowa 2",
+    "Adres Pocztowy": "62-571",
+    "Nr.Telefonu": "601248241"
+  },
+  {
+    "nw": "1538200",
+    "nw_1": "240066843",
+    "Imie": "Andrzej",
+    "Nazwisko": "Gradecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Stare Miasto",
+    "Ulica": "Osiedle Lecha 54B",
+    "Adres Pocztowy": "62-571",
+    "Nr.Telefonu": "730708560"
+  },
+  {
+    "nw": "1791210",
+    "nw_1": "945601203",
+    "Imie": "Mikołaj",
+    "Nazwisko": "Maciejewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Stare Miasto",
+    "Ulica": "Lisiec Mały 29B",
+    "Adres Pocztowy": "62-571",
+    "Nr.Telefonu": "+48 533 688 502"
+  }
+]

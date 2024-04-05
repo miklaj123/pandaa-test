@@ -1,0 +1,28 @@
+[
+  {
+    "nw": "2004000",
+    "nw_1": "610150555",
+    "Imie": "Agata",
+    "Nazwisko": "Petyniak-Kusnierz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Gwoźnica Górna",
+    "Ulica": "Gwoźnica Górna 282",
+    "Adres Pocztowy": "38-116",
+    "Nr.Telefonu": "721581752"
+  },
+  {
+    "nw": "551805",
+    "nw_1": "952455673",
+    "Imie": "Tomasz",
+    "Nazwisko": "Koza",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Gwoźnica Górna",
+    "Ulica": "Gwoźnica Dolna 99",
+    "Adres Pocztowy": "38-116",
+    "Nr.Telefonu": "506247359"
+  }
+]

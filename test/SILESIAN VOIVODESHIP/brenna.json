@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "2293530",
+    "nw_1": "838695629",
+    "Imie": "Magdalena",
+    "Nazwisko": "Gorla",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Brenna",
+    "Ulica": "Lachy Dolne 38",
+    "Adres Pocztowy": "43-438",
+    "Nr.Telefonu": "574283206"
+  },
+  {
+    "nw": "22325",
+    "nw_1": "88143473",
+    "Imie": "Jakub",
+    "Nazwisko": "Gil",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Brenna",
+    "Ulica": "Słoneczna 9",
+    "Adres Pocztowy": "43438",
+    "Nr.Telefonu": "+48577550558"
+  },
+  {
+    "nw": "1987508",
+    "nw_1": "987515597",
+    "Imie": "Aleksander",
+    "Nazwisko": "Dziadek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Brenna",
+    "Ulica": "ul.Leśna 54",
+    "Adres Pocztowy": "43-438",
+    "Nr.Telefonu": "780050999"
+  }
+]

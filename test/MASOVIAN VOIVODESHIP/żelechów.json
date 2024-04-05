@@ -1,0 +1,52 @@
+[
+  {
+    "nw": "2029611",
+    "nw_1": "116661699",
+    "Imie": "Monika",
+    "Nazwisko": "Zawadzka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Żelechów",
+    "Ulica": "Piłsudskiego 22",
+    "Adres Pocztowy": "08-430",
+    "Nr.Telefonu": "784179467"
+  },
+  {
+    "nw": "1130336",
+    "nw_1": "627325382",
+    "Imie": "Michał",
+    "Nazwisko": "Włodarczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "żelechów",
+    "Ulica": "stefanów 2k",
+    "Adres Pocztowy": "08-430",
+    "Nr.Telefonu": "664603082"
+  },
+  {
+    "nw": "1581174",
+    "nw_1": "994026058",
+    "Imie": "Adrian",
+    "Nazwisko": "Nowak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Żelechów",
+    "Ulica": "Lasek sosnowy"
+  },
+  {
+    "nw": "1685832",
+    "nw_1": "336076860",
+    "Imie": "Adam",
+    "Nazwisko": "Kiliszek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Żelechów",
+    "Ulica": "Długa 136 E",
+    "Adres Pocztowy": "08-430",
+    "Nr.Telefonu": "530-379-049"
+  }
+]

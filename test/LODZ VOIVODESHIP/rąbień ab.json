@@ -1,0 +1,47 @@
+[
+  {
+    "nw": "1312653",
+    "nw_1": "824128858",
+    "Imie": "Aleksander",
+    "Nazwisko": "Miłosz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Rąbień AB",
+    "Ulica": "Rąbień AB",
+    "Adres Pocztowy": " Cytrusowa 8a",
+    "Nr.Telefonu": "95-070",
+    "__parsed_extra": [
+      "665179429"
+    ]
+  },
+  {
+    "nw": "1248241",
+    "nw_1": "824128858",
+    "Imie": "Aleksander",
+    "Nazwisko": "Goat",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Rąbień AB",
+    "Ulica": "Rąbień AB",
+    "Adres Pocztowy": " Cytrusowa 8a",
+    "Nr.Telefonu": "95-070",
+    "__parsed_extra": [
+      "665179429"
+    ]
+  },
+  {
+    "nw": "2208747",
+    "nw_1": "224450562",
+    "Imie": "igor",
+    "Nazwisko": "greber",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Rąbień AB",
+    "Ulica": "zagajnikowa 27 ",
+    "Adres Pocztowy": "95-070",
+    "Nr.Telefonu": "669445541"
+  }
+]

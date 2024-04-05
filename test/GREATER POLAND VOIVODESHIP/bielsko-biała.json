@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "277831",
+    "nw_1": "291334594",
+    "Imie": "Jakub",
+    "Nazwisko": "Komędera",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Bielsko-Biała",
+    "Ulica": "Deszczowa 89",
+    "Adres Pocztowy": "43-300",
+    "Nr.Telefonu": "605 383 500"
+  },
+  {
+    "nw": "2265265",
+    "nw_1": "846787279",
+    "Imie": "Sebastian",
+    "Nazwisko": "Środa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Bielsko-Biała",
+    "Ulica": "Bielsko-Biała 11-ego Listopada 21/2",
+    "Adres Pocztowy": "43-300",
+    "Nr.Telefonu": "575011209"
+  },
+  {
+    "nw": "635571",
+    "nw_1": "990467612",
+    "Imie": "Mariusz",
+    "Nazwisko": "Jakubiec",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Bielsko-Biała",
+    "Ulica": "Jeździecka 43",
+    "Adres Pocztowy": "43-300",
+    "Nr.Telefonu": "784456893"
+  }
+]

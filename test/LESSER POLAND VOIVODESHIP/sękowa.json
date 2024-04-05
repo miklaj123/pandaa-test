@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1240868",
+    "nw_1": "539862687",
+    "Imie": "Maria",
+    "Nazwisko": "Żełem",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Sękowa",
+    "Ulica": "Bodaki 4a",
+    "Adres Pocztowy": "38-307",
+    "Nr.Telefonu": "512 850 142"
+  },
+  {
+    "nw": "2215480",
+    "nw_1": "866904924",
+    "Imie": "Piotr",
+    "Nazwisko": "Sowa",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Sękowa",
+    "Ulica": "Sękowa 322",
+    "Adres Pocztowy": "38-307",
+    "Nr.Telefonu": "697883450"
+  },
+  {
+    "nw": "2176203",
+    "nw_1": "643408323",
+    "Imie": "Adrian",
+    "Nazwisko": "Drzymała",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Sękowa",
+    "Ulica": "Sękowa 184",
+    "Adres Pocztowy": "38-307",
+    "Nr.Telefonu": "607441364"
+  }
+]

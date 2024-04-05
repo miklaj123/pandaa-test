@@ -1,0 +1,42 @@
+[
+  {
+    "nw": "1953822",
+    "nw_1": "879539275",
+    "Imie": "Krzysztof",
+    "Nazwisko": "Szypula",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Rudnik",
+    "Ulica": "Rudnik Centralna"
+  },
+  {
+    "nw": "2303567",
+    "nw_1": "884431036",
+    "Imie": "Max",
+    "Nazwisko": "kozera",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Rudnik",
+    "Ulica": "Centralna 105",
+    "Adres Pocztowy": "32-440",
+    "Nr.Telefonu": "51420831"
+  },
+  {
+    "nw": "207221",
+    "nw_1": "350759019",
+    "Imie": "Tomasz",
+    "Nazwisko": "Leksander",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Rudnik",
+    "Ulica": "Centralna",
+    "Adres Pocztowy": "549",
+    "Nr.Telefonu": "32-440",
+    "__parsed_extra": [
+      "575700768"
+    ]
+  }
+]

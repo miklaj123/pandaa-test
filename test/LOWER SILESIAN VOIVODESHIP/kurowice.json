@@ -1,0 +1,28 @@
+[
+  {
+    "nw": "1826476",
+    "nw_1": "764080400",
+    "Imie": "Aleksander",
+    "Nazwisko": "mróz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "kurowice",
+    "Ulica": "kurowice 31",
+    "Adres Pocztowy": "67 210",
+    "Nr.Telefonu": "604280342"
+  },
+  {
+    "nw": "1826452",
+    "nw_1": "764080400",
+    "Imie": "Aleksander",
+    "Nazwisko": "mróz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "kurowice",
+    "Ulica": "kurowice 31",
+    "Adres Pocztowy": "67-210",
+    "Nr.Telefonu": "604280342"
+  }
+]

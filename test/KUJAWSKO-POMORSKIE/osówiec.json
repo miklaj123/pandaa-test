@@ -1,0 +1,70 @@
+[
+  {
+    "nw": "804402",
+    "nw_1": "574810789",
+    "Imie": "Fabian",
+    "Nazwisko": "Waliszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Osówiec",
+    "Ulica": "Starowiejska 5",
+    "Adres Pocztowy": "86-014",
+    "Nr.Telefonu": "+48739629545"
+  },
+  {
+    "nw": "1542592",
+    "nw_1": "937165814",
+    "Imie": "Fabian",
+    "Nazwisko": "Waliszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Osówiec",
+    "Ulica": "Osówiec",
+    "Adres Pocztowy": "starowiejska 5",
+    "Nr.Telefonu": "86-014",
+    "__parsed_extra": [
+      "739629545"
+    ]
+  },
+  {
+    "nw": "1759717",
+    "nw_1": "575608020",
+    "Imie": "Fabian",
+    "Nazwisko": "Waliszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Osówiec",
+    "Ulica": "starowiejska 5",
+    "Adres Pocztowy": "86-014",
+    "Nr.Telefonu": "739629545"
+  },
+  {
+    "nw": "314901",
+    "nw_1": "328172431",
+    "Imie": "igor",
+    "Nazwisko": "wandowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Osówiec",
+    "Ulica": "Spokojna 3",
+    "Adres Pocztowy": "86-014",
+    "Nr.Telefonu": "512736443"
+  },
+  {
+    "nw": "1795808",
+    "nw_1": "967002807",
+    "Imie": "Norbert",
+    "Nazwisko": "Klajbor",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Osówiec",
+    "Ulica": "Polna 3",
+    "Adres Pocztowy": "86-014",
+    "Nr.Telefonu": "880290621"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "990080",
+    "nw_1": "542817413",
+    "Imie": "Dominik",
+    "Nazwisko": "Tokarczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Bierutów",
+    "Ulica": "Towarowa 7/6",
+    "Adres Pocztowy": "56-420",
+    "Nr.Telefonu": "577169714"
+  },
+  {
+    "nw": "2241807",
+    "nw_1": "713152060",
+    "Imie": "Amelia ",
+    "Nazwisko": "Rejak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Bierutów ",
+    "Ulica": "Ul.Osiedle 8"
+  },
+  {
+    "nw": "1853372",
+    "nw_1": "537582638",
+    "Imie": "Jakub",
+    "Nazwisko": "Koźma",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Bierutów",
+    "Ulica": "Browarna 5/4",
+    "Adres Pocztowy": "56-420",
+    "Nr.Telefonu": "607962107"
+  }
+]

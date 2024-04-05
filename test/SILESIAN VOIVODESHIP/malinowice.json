@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1795620",
+    "nw_1": "608710746",
+    "Imie": "Tomasz",
+    "Nazwisko": "Bochenek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Malinowice",
+    "Ulica": "Modrzewiowa 4",
+    "Adres Pocztowy": "42-512",
+    "Nr.Telefonu": "737516151"
+  },
+  {
+    "nw": "949302",
+    "nw_1": "771610839",
+    "Imie": "Jan",
+    "Nazwisko": "Bochenek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Malinowice",
+    "Ulica": "Modrzewiowa 4",
+    "Adres Pocztowy": "42-512",
+    "Nr.Telefonu": "736037897"
+  },
+  {
+    "nw": "1662856",
+    "nw_1": "983217403",
+    "Imie": "Aleksander",
+    "Nazwisko": "Śmiejka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Malinowice",
+    "Ulica": "Bukowa 27",
+    "Adres Pocztowy": "42-512",
+    "Nr.Telefonu": "702764893"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "225331",
+    "nw_1": "367050043",
+    "Imie": "Juliusz",
+    "Nazwisko": "Olenicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Rząska",
+    "Ulica": "ul.Strugi 28D",
+    "Adres Pocztowy": "30-199",
+    "Nr.Telefonu": "+48 787 927 605"
+  },
+  {
+    "nw": "2273131",
+    "nw_1": "736256097",
+    "Imie": "Maciej ",
+    "Nazwisko": "Piekulski ",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Rząska ",
+    "Ulica": "Balicka 53c",
+    "Adres Pocztowy": "30-199",
+    "Nr.Telefonu": "518819825"
+  },
+  {
+    "nw": "1480804",
+    "nw_1": "804365014",
+    "Imie": "Aleksandra",
+    "Nazwisko": "Bankiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Rząska",
+    "Ulica": "ks. kard. Adama Sapiehy 134",
+    "Adres Pocztowy": "30-199",
+    "Nr.Telefonu": "+48694722733"
+  }
+]

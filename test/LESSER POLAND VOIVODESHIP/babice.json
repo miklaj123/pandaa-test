@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "229740",
+    "nw_1": "131302194",
+    "Imie": "Jakub",
+    "Nazwisko": "Nycz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Babice",
+    "Ulica": "Cicha 4",
+    "Adres Pocztowy": "32-551",
+    "Nr.Telefonu": "+48690509602"
+  },
+  {
+    "nw": "2140070",
+    "nw_1": "491732349",
+    "Imie": "Szymon",
+    "Nazwisko": "Mastalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Babice",
+    "Ulica": "Babice Jagiellońska 13",
+    "Adres Pocztowy": "32-551",
+    "Nr.Telefonu": "735414421"
+  },
+  {
+    "nw": "66707",
+    "nw_1": "33347811",
+    "Imie": "Jakub",
+    "Nazwisko": "Nycz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Babice",
+    "Ulica": "Cicha 4",
+    "Adres Pocztowy": "32-551",
+    "Nr.Telefonu": "690 509 602"
+  },
+  {
+    "nw": "1152246",
+    "nw_1": "148133782",
+    "Imie": "Konrad",
+    "Nazwisko": "Makowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lesser Poland Voivodeship",
+    "Miasto": "Babice",
+    "Ulica": "Trzupki 4A",
+    "Adres Pocztowy": "32-551",
+    "Nr.Telefonu": "887525001"
+  }
+]

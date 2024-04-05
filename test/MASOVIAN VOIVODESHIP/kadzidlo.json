@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "43840",
+    "nw_1": "761137633",
+    "Imie": "Dominik",
+    "Nazwisko": "Stolarczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Kadzidlo",
+    "Ulica": "Pilsudskiego 33",
+    "Adres Pocztowy": "07-420",
+    "Nr.Telefonu": "734840305"
+  },
+  {
+    "nw": "2242893",
+    "nw_1": "323231582",
+    "Imie": "Bartosz",
+    "Nazwisko": "Chojnowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Kadzidlo",
+    "Ulica": "Kalinowa 8",
+    "Adres Pocztowy": "07-420",
+    "Nr.Telefonu": "516173772"
+  },
+  {
+    "nw": "1781539",
+    "nw_1": "582204262",
+    "Imie": "Antoni",
+    "Nazwisko": "Marzewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Kadzidlo",
+    "Ulica": "Szkolna 6",
+    "Adres Pocztowy": "07-420",
+    "Nr.Telefonu": "+48 502 370 487"
+  }
+]

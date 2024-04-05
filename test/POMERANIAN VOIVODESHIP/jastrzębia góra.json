@@ -1,0 +1,83 @@
+[
+  {
+    "nw": "1659727",
+    "nw_1": "932263485",
+    "Imie": "Magdalena",
+    "Nazwisko": "Prokopowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Jastrzębia Góra",
+    "Ulica": "ul. Wilków Morskich 4",
+    "Adres Pocztowy": " willa AQUA",
+    "Nr.Telefonu": "84-104",
+    "__parsed_extra": [
+      "695203077"
+    ]
+  },
+  {
+    "nw": "2277648",
+    "nw_1": "239868111",
+    "Imie": "Tomasz",
+    "Nazwisko": "Redlin",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Jastrzębia Góra",
+    "Ulica": "Wilków Morskich 8",
+    "Adres Pocztowy": "84-104",
+    "Nr.Telefonu": "513180043"
+  },
+  {
+    "nw": "851971",
+    "nw_1": "932263485",
+    "Imie": "Mateusz",
+    "Nazwisko": "Redlin",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Jastrzębia Góra",
+    "Ulica": "Wilków Morskich 4",
+    "Adres Pocztowy": "84-104",
+    "Nr.Telefonu": "+48667483655"
+  },
+  {
+    "nw": "1676535",
+    "nw_1": "241686621",
+    "Imie": "Paweł",
+    "Nazwisko": "Kucharski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Jastrzębia Góra",
+    "Ulica": "Uzdrowiskowa 5",
+    "Adres Pocztowy": "84-104",
+    "Nr.Telefonu": "517947077"
+  },
+  {
+    "nw": "1315691",
+    "nw_1": "218429144",
+    "Imie": "Wojciech",
+    "Nazwisko": "Pestilenz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Jastrzębia Góra",
+    "Ulica": "Droga Rybacka 54 Szafir Hotel",
+    "Adres Pocztowy": "84-104",
+    "Nr.Telefonu": "731823595"
+  },
+  {
+    "nw": "1027853",
+    "nw_1": "229515956",
+    "Imie": "Szymon",
+    "Nazwisko": "Redlin",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Jastrzębia Góra",
+    "Ulica": "ul. Wilków Morskich 4",
+    "Adres Pocztowy": "84-104",
+    "Nr.Telefonu": "+48695203077"
+  }
+]

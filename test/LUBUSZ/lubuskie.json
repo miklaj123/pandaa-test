@@ -1,0 +1,78 @@
+[
+  {
+    "nw": "371185",
+    "nw_1": "709369842",
+    "Imie": "Igor",
+    "Nazwisko": "Lulkiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "lubuskie",
+    "Ulica": "Zawadzkiego 34",
+    "Adres Pocztowy": "66-300",
+    "Nr.Telefonu": "730628534"
+  },
+  {
+    "nw": "240478",
+    "nw_1": "419467095",
+    "Imie": "Nikodem",
+    "Nazwisko": "Zawisza",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "lubuskie",
+    "Ulica": "Syrkiewicza 7c Zielona Góra",
+    "Adres Pocztowy": "66-002",
+    "Nr.Telefonu": "789177954"
+  },
+  {
+    "nw": "2125521",
+    "nw_1": "623934476",
+    "Imie": "Natalia",
+    "Nazwisko": "Krajewska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "lubuskie",
+    "Ulica": "Kuźnik"
+  },
+  {
+    "nw": "1812762",
+    "nw_1": "897241192",
+    "Imie": "Dawid",
+    "Nazwisko": "Janicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Lubuskie",
+    "Ulica": "Kożuchów pl.Ewangelicki 6/3",
+    "Adres Pocztowy": "67-120",
+    "Nr.Telefonu": "534496948"
+  },
+  {
+    "nw": "778147",
+    "nw_1": "224489776",
+    "Imie": "Mateusz",
+    "Nazwisko": "Wysocki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Lubuskie",
+    "Ulica": "Długa 47",
+    "Adres Pocztowy": "66-008",
+    "Nr.Telefonu": "517712247"
+  },
+  {
+    "nw": "1436371",
+    "nw_1": "792653253",
+    "Imie": "Jakub",
+    "Nazwisko": "Środecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Lubuskie",
+    "Ulica": "Chociszewo 14/1",
+    "Adres Pocztowy": "66-304",
+    "Nr.Telefonu": "795185697"
+  }
+]

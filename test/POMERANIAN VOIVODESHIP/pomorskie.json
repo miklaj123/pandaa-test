@@ -1,0 +1,61 @@
+[
+  {
+    "nw": "83880",
+    "nw_1": "247924037",
+    "Imie": "Konrad",
+    "Nazwisko": "Kreft",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Pomorskie",
+    "Ulica": "Cieplewo",
+    "Adres Pocztowy": " ul.plenerowa",
+    "Nr.Telefonu": " 16/3",
+    "__parsed_extra": [
+      "83-031",
+      "506928546"
+    ]
+  },
+  {
+    "nw": "933932",
+    "nw_1": "910126304",
+    "Imie": "Artur",
+    "Nazwisko": "Gawrisz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Pomorskie",
+    "Ulica": "Częstochowska 18/8 80-180 3rd floor",
+    "Adres Pocztowy": "80-180",
+    "Nr.Telefonu": "733686888"
+  },
+  {
+    "nw": "216485",
+    "nw_1": "125047477",
+    "Imie": "Łukasz",
+    "Nazwisko": "Rudziński",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Pomorskie",
+    "Ulica": "Fryderyka Chopina 7",
+    "Adres Pocztowy": " 80-268 Gdańsk",
+    "Nr.Telefonu": "80-268",
+    "__parsed_extra": [
+      "537953781"
+    ]
+  },
+  {
+    "nw": "1388298",
+    "nw_1": "212651025",
+    "Imie": "Magda",
+    "Nazwisko": "Prątnicka",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Pomorskie",
+    "Ulica": "Ignacego szpunara 1b/10",
+    "Adres Pocztowy": "81-185",
+    "Nr.Telefonu": "508939502"
+  }
+]

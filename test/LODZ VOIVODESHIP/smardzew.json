@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "766039",
+    "nw_1": "467445859",
+    "Imie": "Michał",
+    "Nazwisko": "Cebulski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Smardzew",
+    "Ulica": "Janów 8b",
+    "Adres Pocztowy": "95-002",
+    "Nr.Telefonu": "793233197"
+  },
+  {
+    "nw": "505650",
+    "nw_1": "222163078",
+    "Imie": "Wiktor",
+    "Nazwisko": "Jaszczak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Smardzew",
+    "Ulica": "Podole 39",
+    "Adres Pocztowy": "95-002",
+    "Nr.Telefonu": "+48  518655561"
+  },
+  {
+    "nw": "970912",
+    "nw_1": "391034690",
+    "Imie": "Julian",
+    "Nazwisko": "Cebulski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Smardzew",
+    "Ulica": "Janów 8B"
+  }
+]

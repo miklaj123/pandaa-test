@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "905410",
+    "nw_1": "880929753",
+    "Imie": "Kuba",
+    "Nazwisko": "Michałowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Nur",
+    "Ulica": "Brokowska 6",
+    "Adres Pocztowy": "07-322",
+    "Nr.Telefonu": "506852642"
+  },
+  {
+    "nw": "1033327",
+    "nw_1": "477621692",
+    "Imie": "Jakub",
+    "Nazwisko": "Dymek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Nur",
+    "Ulica": "Ślepowrony 5A",
+    "Adres Pocztowy": "07-322",
+    "Nr.Telefonu": "664-086-949"
+  },
+  {
+    "nw": "918708",
+    "nw_1": "573039021",
+    "Imie": "Adrian",
+    "Nazwisko": "Dobrowolski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Nur",
+    "Ulica": "Łęg Nurski 5",
+    "Adres Pocztowy": "07-322 Nur",
+    "Nr.Telefonu": "514564820"
+  },
+  {
+    "nw": "531399",
+    "nw_1": "732363752",
+    "Imie": "Wiktor",
+    "Nazwisko": "Olszak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "NUR",
+    "Ulica": "Godlewo Mierniki 9",
+    "Adres Pocztowy": "07-322",
+    "Nr.Telefonu": "533720003"
+  }
+]

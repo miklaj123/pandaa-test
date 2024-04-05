@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1462112",
+    "nw_1": "272864211",
+    "Imie": "Julian",
+    "Nazwisko": "Baran",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Nowa Wieś Malborska",
+    "Ulica": "Zwierzyniecka 8",
+    "Adres Pocztowy": "82-200",
+    "Nr.Telefonu": "573014347"
+  },
+  {
+    "nw": "1067273",
+    "nw_1": "217596652",
+    "Imie": "Oliwier",
+    "Nazwisko": "Grykin",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Nowa Wieś Malborska",
+    "Ulica": "Spacerowa 12",
+    "Adres Pocztowy": "82-200",
+    "Nr.Telefonu": "795147662"
+  },
+  {
+    "nw": "1555036",
+    "nw_1": "204452452",
+    "Imie": "Jan",
+    "Nazwisko": "Wohlert",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Pomeranian Voivodeship",
+    "Miasto": "Nowa wieś Malborska",
+    "Ulica": "Działdowska 14",
+    "Adres Pocztowy": "82-200",
+    "Nr.Telefonu": "512090570"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "842897",
+    "nw_1": "874888295",
+    "Imie": "michał",
+    "Nazwisko": "wieczorek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Sosnówka",
+    "Ulica": "Kolonia",
+    "Adres Pocztowy": " 31",
+    "Nr.Telefonu": "56-416",
+    "__parsed_extra": [
+      "531973888"
+    ]
+  },
+  {
+    "nw": "1986055",
+    "nw_1": "278019082",
+    "Imie": "Dawid",
+    "Nazwisko": "tymczyszyn",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Sosnówka",
+    "Ulica": "leśna 3",
+    "Adres Pocztowy": "58-564",
+    "Nr.Telefonu": "536114378"
+  }
+]

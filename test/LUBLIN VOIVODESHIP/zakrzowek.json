@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1372221",
+    "nw_1": "322282325",
+    "Imie": "Marcel",
+    "Nazwisko": "Nowak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Zakrzowek",
+    "Ulica": "zakrzowek wies 98",
+    "Adres Pocztowy": "23-213",
+    "Nr.Telefonu": "781367597"
+  },
+  {
+    "nw": "677624",
+    "nw_1": "561244897",
+    "Imie": "Patryk",
+    "Nazwisko": "Dziubak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Zakrzowek",
+    "Ulica": "Bystrzyca 235",
+    "Adres Pocztowy": "23-213",
+    "Nr.Telefonu": "+48790610912"
+  },
+  {
+    "nw": "677622",
+    "nw_1": "561244897",
+    "Imie": "Patryk",
+    "Nazwisko": "Dziubak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Zakrzowek",
+    "Ulica": "Bystrzyca 235",
+    "Adres Pocztowy": "23-213",
+    "Nr.Telefonu": "+48790610912"
+  }
+]

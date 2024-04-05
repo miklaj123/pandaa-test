@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "609428",
+    "nw_1": "532507258",
+    "Imie": "Adam",
+    "Nazwisko": "Szadkowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Piotrków Kujawski",
+    "Ulica": "Piastowska 1/14",
+    "Adres Pocztowy": "88-230",
+    "Nr.Telefonu": "796783810"
+  },
+  {
+    "nw": "2341678",
+    "nw_1": "976055514",
+    "Imie": "Marcel",
+    "Nazwisko": "Rzepecki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Piotrków Kujawski",
+    "Ulica": "Włocławska 43",
+    "Adres Pocztowy": "88-230",
+    "Nr.Telefonu": "724069643"
+  },
+  {
+    "nw": "238705",
+    "nw_1": "912144270",
+    "Imie": "Adrian",
+    "Nazwisko": "Rosiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Piotrków Kujawski",
+    "Ulica": "Zielona 9",
+    "Adres Pocztowy": "88-230",
+    "Nr.Telefonu": "519473744"
+  }
+]

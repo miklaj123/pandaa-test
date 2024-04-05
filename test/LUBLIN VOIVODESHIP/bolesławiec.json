@@ -1,0 +1,57 @@
+[
+  {
+    "nw": "2342312",
+    "nw_1": "161213350",
+    "Imie": "Oliwier",
+    "Nazwisko": "Jaskot",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Bolesławiec ",
+    "Ulica": "Garncarska 2A/7",
+    "Adres Pocztowy": "59-700",
+    "Nr.Telefonu": "880848771"
+  },
+  {
+    "nw": "1239676",
+    "nw_1": "677064980",
+    "Imie": "Mateusz",
+    "Nazwisko": "Czekaj",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Bolesławiec",
+    "Ulica": "Bolesławiec",
+    "Adres Pocztowy": " Śluzowa 7/10",
+    "Nr.Telefonu": "59-700",
+    "__parsed_extra": [
+      "730017842"
+    ]
+  },
+  {
+    "nw": "1232464",
+    "nw_1": "677064980",
+    "Imie": "Mateusz",
+    "Nazwisko": "Korek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Bolesławiec",
+    "Ulica": "Śluzowa 7/10",
+    "Adres Pocztowy": "59-700",
+    "Nr.Telefonu": "730017842"
+  },
+  {
+    "nw": "1520038",
+    "nw_1": "118123465",
+    "Imie": "Piotr",
+    "Nazwisko": "Szymański",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Bolesławiec",
+    "Ulica": "Jezierskiego 40/10 Bolesławiec",
+    "Adres Pocztowy": "59-700",
+    "Nr.Telefonu": "791 270 186"
+  }
+]

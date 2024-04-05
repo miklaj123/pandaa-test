@@ -1,0 +1,44 @@
+[
+  {
+    "nw": "1556810",
+    "nw_1": "481410306",
+    "Imie": "Jan",
+    "Nazwisko": "Mianowicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Sadowne",
+    "Ulica": "Płatkownica 39A",
+    "Adres Pocztowy": "07-140",
+    "Nr.Telefonu": "536333642"
+  },
+  {
+    "nw": "1399482",
+    "nw_1": "378259456",
+    "Imie": "Szymon",
+    "Nazwisko": "Robak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Sadowne",
+    "Ulica": "Zalesie",
+    "Adres Pocztowy": " 40",
+    "Nr.Telefonu": "07-140 Sadowne",
+    "__parsed_extra": [
+      "799021774"
+    ]
+  },
+  {
+    "nw": "2237860",
+    "nw_1": "428975941",
+    "Imie": "Katarzyna",
+    "Nazwisko": "Katarzyna",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "sadowne",
+    "Ulica": "Sadowne sosnowa 6",
+    "Adres Pocztowy": "07-140",
+    "Nr.Telefonu": "786825185"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "nw": "30994",
+    "nw_1": "695261418",
+    "Imie": "Julia",
+    "Nazwisko": "Koral",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Czosnów",
+    "Ulica": "Lercha 26",
+    "Adres Pocztowy": "05-152",
+    "Nr.Telefonu": "517844939"
+  },
+  {
+    "nw": "740768",
+    "nw_1": "778753478",
+    "Imie": "Bartosz",
+    "Nazwisko": "Jurga",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Czosnów",
+    "Ulica": "Łomna-Las 8/2",
+    "Adres Pocztowy": "05-152",
+    "Nr.Telefonu": "790461090"
+  },
+  {
+    "nw": "2056327",
+    "nw_1": "439187064",
+    "Imie": "Jakub",
+    "Nazwisko": "Pietrzak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Czosnów",
+    "Ulica": "Warszawska"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "nw": "1376352",
+    "nw_1": "892769799",
+    "Imie": "Igor",
+    "Nazwisko": "Malinowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Bogdaniec",
+    "Ulica": "Polna 23",
+    "Adres Pocztowy": "66-450",
+    "Nr.Telefonu": "506724211"
+  },
+  {
+    "nw": "1308293",
+    "nw_1": "175648567",
+    "Imie": "Adam",
+    "Nazwisko": "Pawlicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Bogdaniec",
+    "Ulica": "Różana 4c",
+    "Adres Pocztowy": "66-450",
+    "Nr.Telefonu": "536860782"
+  },
+  {
+    "nw": "1932364",
+    "nw_1": "565978550",
+    "Imie": "Alan",
+    "Nazwisko": "Marciniak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Bogdaniec",
+    "Ulica": "Chwałowice20",
+    "Adres Pocztowy": "66-450",
+    "Nr.Telefonu": "577310006"
+  },
+  {
+    "nw": "1447964",
+    "nw_1": "171233373",
+    "Imie": "Michał",
+    "Nazwisko": "Wysoczański",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lubusz",
+    "Miasto": "Bogdaniec",
+    "Ulica": "Stanowice 33B/7",
+    "Adres Pocztowy": "66-450",
+    "Nr.Telefonu": "+48 535330221"
+  }
+]

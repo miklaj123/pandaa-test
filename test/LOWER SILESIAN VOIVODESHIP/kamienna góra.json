@@ -1,0 +1,94 @@
+[
+  {
+    "nw": "1325723",
+    "nw_1": "881977949",
+    "Imie": "Sebastian",
+    "Nazwisko": "Jusiewicz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kamienna Góra",
+    "Ulica": "Cicha 11/8",
+    "Adres Pocztowy": "58-400",
+    "Nr.Telefonu": "578180907"
+  },
+  {
+    "nw": "346002",
+    "nw_1": "234514972",
+    "Imie": "Jan",
+    "Nazwisko": "Domin",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kamienna Góra",
+    "Ulica": "Bohaterów Getta 12",
+    "Adres Pocztowy": "58-400",
+    "Nr.Telefonu": "+48 531490426"
+  },
+  {
+    "nw": "1674278",
+    "nw_1": "629347262",
+    "Imie": "michał",
+    "Nazwisko": "Pacak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kamienna Góra",
+    "Ulica": "Jeleniogórska 59/61",
+    "Adres Pocztowy": "58-400",
+    "Nr.Telefonu": "884320427"
+  },
+  {
+    "nw": "70476",
+    "nw_1": "195827517",
+    "Imie": "Marcel",
+    "Nazwisko": "Godlewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kamienna Góra",
+    "Ulica": "Polna 6 / 8",
+    "Adres Pocztowy": "58-400",
+    "Nr.Telefonu": "723256057"
+  },
+  {
+    "nw": "2256824",
+    "nw_1": "980027239",
+    "Imie": "Krzysztof",
+    "Nazwisko": "Wasilewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kamienna Góra",
+    "Ulica": "ul. Henryka Sienkiewicza 10/3",
+    "Adres Pocztowy": "",
+    "Nr.Telefonu": "58-400",
+    "__parsed_extra": [
+      "+48 608475863"
+    ]
+  },
+  {
+    "nw": "61800",
+    "nw_1": "158653005",
+    "Imie": "Kamil",
+    "Nazwisko": "Stech",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kamienna Góra",
+    "Ulica": "Karola Miarki"
+  },
+  {
+    "nw": "609405",
+    "nw_1": "779386737",
+    "Imie": "Bartosz ",
+    "Nazwisko": "Twardowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Kamienna Góra",
+    "Ulica": "Plac Wolnośći 20",
+    "Adres Pocztowy": "50-400",
+    "Nr.Telefonu": "517672122"
+  }
+]

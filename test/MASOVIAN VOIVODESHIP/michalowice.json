@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "540311",
+    "nw_1": "308294644",
+    "Imie": "Dominik",
+    "Nazwisko": "Maliszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Michalowice",
+    "Ulica": "Spacerowa 28a",
+    "Adres Pocztowy": "05-816",
+    "Nr.Telefonu": "511787454"
+  },
+  {
+    "nw": "849654",
+    "nw_1": "899893544",
+    "Imie": "Szymon",
+    "Nazwisko": "Gruda",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Michalowice",
+    "Ulica": "Wesola 30",
+    "Adres Pocztowy": "05-816",
+    "Nr.Telefonu": "505675028"
+  },
+  {
+    "nw": "1547111",
+    "nw_1": "886151322",
+    "Imie": "Piotr",
+    "Nazwisko": "Zareba",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Michalowice",
+    "Ulica": "Palacowa 23/e/23",
+    "Adres Pocztowy": "05-816",
+    "Nr.Telefonu": "48514455341"
+  }
+]

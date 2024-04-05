@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "2232637",
+    "nw_1": "546368986",
+    "Imie": "Jarosław",
+    "Nazwisko": "Podyma",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Ruszów",
+    "Ulica": "59-950 Ruszów ",
+    "Adres Pocztowy": " ul. Akacjowa 7",
+    "Nr.Telefonu": "59-950",
+    "__parsed_extra": [
+      "+48501054774"
+    ]
+  },
+  {
+    "nw": "437118",
+    "nw_1": "893486418",
+    "Imie": "Igor",
+    "Nazwisko": "Drozdek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Ruszów",
+    "Ulica": "Zgorzelecka 9 numer mieszkania 7",
+    "Adres Pocztowy": "59-950",
+    "Nr.Telefonu": "696445463"
+  }
+]

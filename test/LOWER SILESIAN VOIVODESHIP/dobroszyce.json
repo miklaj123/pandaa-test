@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "515835",
+    "nw_1": "827023646",
+    "Imie": "Szymon",
+    "Nazwisko": "Sniezek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Dobroszyce",
+    "Ulica": "Wroclawska 36",
+    "Adres Pocztowy": "56-410",
+    "Nr.Telefonu": "+48519669388"
+  },
+  {
+    "nw": "565001",
+    "nw_1": "562997224",
+    "Imie": "Mikolaj",
+    "Nazwisko": "Mielcarek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Dobroszyce",
+    "Ulica": "azaliowa 2",
+    "Adres Pocztowy": "56-410",
+    "Nr.Telefonu": "883788382"
+  },
+  {
+    "nw": "2083933",
+    "nw_1": "417892155",
+    "Imie": "Kamil",
+    "Nazwisko": "Drelichowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Dobroszyce",
+    "Ulica": "Dobroszyce ulica sportowa 14",
+    "Adres Pocztowy": "56-410",
+    "Nr.Telefonu": "536858166"
+  }
+]

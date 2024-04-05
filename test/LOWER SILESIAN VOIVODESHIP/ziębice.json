@@ -1,0 +1,80 @@
+[
+  {
+    "nw": "1481931",
+    "nw_1": "233640642",
+    "Imie": "Filip",
+    "Nazwisko": "Kwartnik",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Ziębice",
+    "Ulica": "Ul. Kolejowa 2a/1",
+    "Adres Pocztowy": "57-220",
+    "Nr.Telefonu": "536 895 577"
+  },
+  {
+    "nw": "1029924",
+    "nw_1": "387712798",
+    "Imie": "Robert",
+    "Nazwisko": "Syrek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Ziębice",
+    "Ulica": "Niedźwiednik 93",
+    "Adres Pocztowy": "57-220",
+    "Nr.Telefonu": "518024764"
+  },
+  {
+    "nw": "1593503",
+    "nw_1": "976396887",
+    "Imie": "Jakub",
+    "Nazwisko": "Żukowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Ziębice",
+    "Ulica": "Graniczna 20",
+    "Adres Pocztowy": "57-220",
+    "Nr.Telefonu": "724604493"
+  },
+  {
+    "nw": "2230699",
+    "nw_1": "469522028",
+    "Imie": "Maciej",
+    "Nazwisko": "Polaszek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Ziębice",
+    "Ulica": "Osiedle Mikołaja Kopernika 2/6",
+    "Adres Pocztowy": "57-220",
+    "Nr.Telefonu": "697 340 274"
+  },
+  {
+    "nw": "2106338",
+    "nw_1": "800950002",
+    "Imie": "Kuba",
+    "Nazwisko": "Witek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Ziębice",
+    "Ulica": "Wojska polskiego 25",
+    "Adres Pocztowy": "57-220",
+    "Nr.Telefonu": "+48730227117"
+  },
+  {
+    "nw": "563259",
+    "nw_1": "637671665",
+    "Imie": "Kacper",
+    "Nazwisko": "Witos",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lower Silesian Voivodeship",
+    "Miasto": "Ziębice",
+    "Ulica": "Tadeusza Kościuszki 16a/1",
+    "Adres Pocztowy": "57-220",
+    "Nr.Telefonu": "692841673"
+  }
+]

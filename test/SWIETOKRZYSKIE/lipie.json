@@ -1,0 +1,45 @@
+[
+  {
+    "nw": "2173183",
+    "nw_1": "994152096",
+    "Imie": "Antoni",
+    "Nazwisko": "Łącki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Lipie",
+    "Ulica": "12",
+    "Adres Pocztowy": " Podłaziska",
+    "Nr.Telefonu": " Lipie",
+    "__parsed_extra": [
+      "27-230",
+      "+48 735038535"
+    ]
+  },
+  {
+    "nw": "116610",
+    "nw_1": "988885470",
+    "Imie": "MAKSYMILIAN",
+    "Nazwisko": "CIESLAK",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Lipie",
+    "Ulica": "STARACHOWICKA 58A",
+    "Adres Pocztowy": "27-230",
+    "Nr.Telefonu": "530411666"
+  },
+  {
+    "nw": "888085",
+    "nw_1": "13687090",
+    "Imie": "Dominik",
+    "Nazwisko": "Wilkosz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Lipie",
+    "Ulica": "ul. Starachowicka 3",
+    "Adres Pocztowy": "27-230 Lipie",
+    "Nr.Telefonu": "669328811"
+  }
+]

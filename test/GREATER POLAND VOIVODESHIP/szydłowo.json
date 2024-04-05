@@ -1,0 +1,84 @@
+[
+  {
+    "nw": "1392747",
+    "nw_1": "910449277",
+    "Imie": "Jacek",
+    "Nazwisko": "Kaniewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Szydłowo",
+    "Ulica": "Osiadle Zacisze 1 ",
+    "Adres Pocztowy": " Szydłowo ",
+    "Nr.Telefonu": " 64-930",
+    "__parsed_extra": [
+      "64-930",
+      "881447810"
+    ]
+  },
+  {
+    "nw": "114754",
+    "nw_1": "147810402",
+    "Imie": "Dawid",
+    "Nazwisko": "Adamczewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Szydłowo",
+    "Ulica": "Zawada 43",
+    "Adres Pocztowy": "64-930",
+    "Nr.Telefonu": "603075028"
+  },
+  {
+    "nw": "248576",
+    "nw_1": "403376597",
+    "Imie": "Michał",
+    "Nazwisko": "Zawisza",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Szydłowo",
+    "Ulica": "5/2",
+    "Adres Pocztowy": "64-930",
+    "Nr.Telefonu": "535581859"
+  },
+  {
+    "nw": "1481718",
+    "nw_1": "503986654",
+    "Imie": "Dawid",
+    "Nazwisko": "Adamczewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "szydłowo",
+    "Ulica": "Zawada 43",
+    "Adres Pocztowy": "64-930",
+    "Nr.Telefonu": "+48 603075028"
+  },
+  {
+    "nw": "1373081",
+    "nw_1": "910449277",
+    "Imie": "Jacek",
+    "Nazwisko": "Kaniewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Szydłowo",
+    "Ulica": "Zacisze 1 Szydłowo 64-930",
+    "Adres Pocztowy": "64-930",
+    "Nr.Telefonu": "+48 881447810"
+  },
+  {
+    "nw": "389056",
+    "nw_1": "803661733",
+    "Imie": "Dawid",
+    "Nazwisko": "Adamczewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Szydłowo",
+    "Ulica": "Zawada 43",
+    "Adres Pocztowy": "64-930",
+    "Nr.Telefonu": "603075028"
+  }
+]

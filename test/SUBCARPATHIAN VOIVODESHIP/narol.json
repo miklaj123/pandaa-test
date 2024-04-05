@@ -1,0 +1,73 @@
+[
+  {
+    "nw": "2326918",
+    "nw_1": "892668353",
+    "Imie": "Kacper",
+    "Nazwisko": "Belz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Narol",
+    "Ulica": "Cicha 6",
+    "Adres Pocztowy": "37-610",
+    "Nr.Telefonu": "+48 547 450 242"
+  },
+  {
+    "nw": "202321",
+    "nw_1": "680330088",
+    "Imie": "Alex",
+    "Nazwisko": "Wolańczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Narol",
+    "Ulica": "Narol",
+    "Adres Pocztowy": " Kościelna 4",
+    "Nr.Telefonu": "37-610",
+    "__parsed_extra": [
+      "881533888"
+    ]
+  },
+  {
+    "nw": "202322",
+    "nw_1": "680330088",
+    "Imie": "Alex",
+    "Nazwisko": "Wolańczyk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Narol",
+    "Ulica": "Narol",
+    "Adres Pocztowy": " Kościelna 4",
+    "Nr.Telefonu": "37-610",
+    "__parsed_extra": [
+      "881533888"
+    ]
+  },
+  {
+    "nw": "2265895",
+    "nw_1": "892668353",
+    "Imie": "Dawid",
+    "Nazwisko": "Nowak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Narol",
+    "Ulica": "Jedrzejowka 94",
+    "Adres Pocztowy": "37-610",
+    "Nr.Telefonu": "+48 530 520 556"
+  },
+  {
+    "nw": "272921",
+    "nw_1": "874893255",
+    "Imie": "Hubert",
+    "Nazwisko": "Mazurek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Subcarpathian Voivodeship",
+    "Miasto": "Narol",
+    "Ulica": "Kadłubiska 51",
+    "Adres Pocztowy": "37-610",
+    "Nr.Telefonu": "+48 517 223 164"
+  }
+]

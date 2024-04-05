@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1914923",
+    "nw_1": "704889959",
+    "Imie": "Artur",
+    "Nazwisko": "Piwowarski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Szydlowiec",
+    "Ulica": "Narutowicza 175",
+    "Adres Pocztowy": "26-500",
+    "Nr.Telefonu": "0048-600516516"
+  },
+  {
+    "nw": "1904324",
+    "nw_1": "839982868",
+    "Imie": "Paulina",
+    "Nazwisko": "Figarska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Szydlowiec",
+    "Ulica": "Kopernika 6",
+    "Adres Pocztowy": "26-500",
+    "Nr.Telefonu": "533035779"
+  },
+  {
+    "nw": "1908005",
+    "nw_1": "841666729",
+    "Imie": "Pawel",
+    "Nazwisko": "Sokolowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "szydlowiec",
+    "Ulica": "ciechostowice",
+    "Adres Pocztowy": "26-500",
+    "Nr.Telefonu": "+48 605 405 792"
+  }
+]

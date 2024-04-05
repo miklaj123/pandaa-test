@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1512701",
+    "nw_1": "422239607",
+    "Imie": "wiktor",
+    "Nazwisko": "dulemba",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "Kamionki",
+    "Ulica": "Wiklinowa 15",
+    "Adres Pocztowy": "62-023",
+    "Nr.Telefonu": "608159693"
+  },
+  {
+    "nw": "1918514",
+    "nw_1": "758032777",
+    "Imie": "kuba",
+    "Nazwisko": "bajerlein",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "kamionki",
+    "Ulica": "Kamionki Wodna19b",
+    "Adres Pocztowy": "62-023",
+    "Nr.Telefonu": "536576786"
+  },
+  {
+    "nw": "586261",
+    "nw_1": "284995292",
+    "Imie": "gabriel",
+    "Nazwisko": "lipiec",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Greater Poland Voivodeship",
+    "Miasto": "kamionki",
+    "Ulica": "modzewiowa 5",
+    "Adres Pocztowy": "62023",
+    "Nr.Telefonu": "695875112"
+  }
+]

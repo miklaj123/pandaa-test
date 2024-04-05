@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1650613",
+    "nw_1": "524434078",
+    "Imie": "Sylwester",
+    "Nazwisko": "Bartol",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Widawa",
+    "Ulica": "Lipowa 7",
+    "Adres Pocztowy": "98-170",
+    "Nr.Telefonu": "+48507013837"
+  },
+  {
+    "nw": "23755",
+    "nw_1": "11195569",
+    "Imie": "Alan ",
+    "Nazwisko": "Kozłowski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Widawa",
+    "Ulica": "Leśna 20",
+    "Adres Pocztowy": "98-170",
+    "Nr.Telefonu": "+48797953071"
+  },
+  {
+    "nw": "1033591",
+    "nw_1": "499681170",
+    "Imie": "Sylwia",
+    "Nazwisko": "Lisowska",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Widawa",
+    "Ulica": "Rogóźno 141",
+    "Adres Pocztowy": "98-170",
+    "Nr.Telefonu": "+48793481792"
+  }
+]

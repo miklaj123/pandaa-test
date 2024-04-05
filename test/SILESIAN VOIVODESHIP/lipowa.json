@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1683454",
+    "nw_1": "672055090",
+    "Imie": "Dagmar",
+    "Nazwisko": "Mika",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Lipowa",
+    "Ulica": "mysłówek 34",
+    "Adres Pocztowy": "34-324",
+    "Nr.Telefonu": "537737230"
+  },
+  {
+    "nw": "1739326",
+    "nw_1": "305076136",
+    "Imie": "Marlena",
+    "Nazwisko": "Wiewióra-Błachut",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Lipowa",
+    "Ulica": "ul.Lipowska 246",
+    "Adres Pocztowy": "34-324",
+    "Nr.Telefonu": "505624288"
+  },
+  {
+    "nw": "766708",
+    "nw_1": "416168902",
+    "Imie": "Jakub",
+    "Nazwisko": "Mrowiec",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Silesian Voivodeship",
+    "Miasto": "Lipowa",
+    "Ulica": "Podlas 57",
+    "Adres Pocztowy": "34-324",
+    "Nr.Telefonu": "786150607"
+  }
+]

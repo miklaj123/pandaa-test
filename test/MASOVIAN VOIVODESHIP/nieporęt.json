@@ -1,0 +1,80 @@
+[
+  {
+    "nw": "1345913",
+    "nw_1": "253284627",
+    "Imie": "Piotr",
+    "Nazwisko": "Stawski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Nieporęt",
+    "Ulica": "street zegrzyńska 1 nieporęt 05-126",
+    "Adres Pocztowy": "05-126",
+    "Nr.Telefonu": "784552551"
+  },
+  {
+    "nw": "1958187",
+    "nw_1": "933142580",
+    "Imie": "Mateusz",
+    "Nazwisko": "Rembelski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Nieporęt",
+    "Ulica": "Jana Kazimierza 226",
+    "Adres Pocztowy": "05-126",
+    "Nr.Telefonu": "790841651"
+  },
+  {
+    "nw": "1665547",
+    "nw_1": "543841659",
+    "Imie": "julian",
+    "Nazwisko": "fusiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "nieporęt",
+    "Ulica": "brukowa 13",
+    "Adres Pocztowy": "05-126",
+    "Nr.Telefonu": "511-608-883"
+  },
+  {
+    "nw": "2153330",
+    "nw_1": "383300575",
+    "Imie": "Patryk",
+    "Nazwisko": "Skwarek",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Nieporęt",
+    "Ulica": "Ptasia 14",
+    "Adres Pocztowy": "05-126",
+    "Nr.Telefonu": "+48607108700"
+  },
+  {
+    "nw": "937525",
+    "nw_1": "847199039",
+    "Imie": "Maks",
+    "Nazwisko": "Kowalski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Nieporęt",
+    "Ulica": "Małołęcka 15K",
+    "Adres Pocztowy": "05-126",
+    "Nr.Telefonu": "507293044"
+  },
+  {
+    "nw": "1547265",
+    "nw_1": "846353051",
+    "Imie": "Kacper",
+    "Nazwisko": "Eisenmann",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Masovian Voivodeship",
+    "Miasto": "Nieporęt",
+    "Ulica": "Jana Kazimierza 17",
+    "Adres Pocztowy": "05-126",
+    "Nr.Telefonu": "798062788"
+  }
+]

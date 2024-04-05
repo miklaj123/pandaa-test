@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1695903",
+    "nw_1": "679480845",
+    "Imie": "Filip",
+    "Nazwisko": "Kos",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Koprzywnica",
+    "Ulica": "Koprzywnica ul. Jasińskiego 31",
+    "Adres Pocztowy": "27-660",
+    "Nr.Telefonu": "+48 883 968 702"
+  },
+  {
+    "nw": "410708",
+    "nw_1": "358099958",
+    "Imie": "Kacper",
+    "Nazwisko": "Gach",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "Koprzywnica",
+    "Ulica": "Niedźwice 40",
+    "Adres Pocztowy": "27-660",
+    "Nr.Telefonu": "575390267"
+  },
+  {
+    "nw": "356222",
+    "nw_1": "149477945",
+    "Imie": "kacper",
+    "Nazwisko": "lasota",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Swietokrzyskie",
+    "Miasto": "koprzywnica",
+    "Ulica": "błonie 41a",
+    "Adres Pocztowy": "27-660",
+    "Nr.Telefonu": "781117219"
+  }
+]

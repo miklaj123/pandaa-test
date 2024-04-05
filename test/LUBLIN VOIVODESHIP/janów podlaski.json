@@ -1,0 +1,31 @@
+[
+  {
+    "nw": "1685318",
+    "nw_1": "431866634",
+    "Imie": "Aneta",
+    "Nazwisko": "Chalimoniuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Janów podlaski",
+    "Ulica": "Juliusza Słowackiego 6",
+    "Adres Pocztowy": "21-505",
+    "Nr.Telefonu": "600101944"
+  },
+  {
+    "nw": "2019682",
+    "nw_1": "431866634",
+    "Imie": "Aneta",
+    "Nazwisko": "Chalimoniuk",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lublin Voivodeship",
+    "Miasto": "Janów Podlaski",
+    "Ulica": "Juliusz Słowackiego 6",
+    "Adres Pocztowy": "",
+    "Nr.Telefonu": "21-505",
+    "__parsed_extra": [
+      "600101944"
+    ]
+  }
+]

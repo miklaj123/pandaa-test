@@ -1,0 +1,52 @@
+[
+  {
+    "nw": "1122116",
+    "nw_1": "241029723",
+    "Imie": "michal",
+    "Nazwisko": "nowinski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Lowicz",
+    "Ulica": "Zagrodowa"
+  },
+  {
+    "nw": "2037111",
+    "nw_1": "394494314",
+    "Imie": "Rafał",
+    "Nazwisko": "Tadeusiak",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Lowicz",
+    "Ulica": "Lowicz Malszyce 9",
+    "Adres Pocztowy": "99-400",
+    "Nr.Telefonu": "+48605416541"
+  },
+  {
+    "nw": "2065073",
+    "nw_1": "344028092",
+    "Imie": "Igor",
+    "Nazwisko": "Sawicki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Lowicz",
+    "Ulica": "Wieś Wygoda 14a",
+    "Adres Pocztowy": "99-400",
+    "Nr.Telefonu": "797703701"
+  },
+  {
+    "nw": "2361758",
+    "nw_1": "361494989",
+    "Imie": "Kacper",
+    "Nazwisko": "Aniszewski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Lodz Voivodeship",
+    "Miasto": "Lowicz",
+    "Ulica": "topolowa 16",
+    "Adres Pocztowy": "99-400",
+    "Nr.Telefonu": "668609160"
+  }
+]

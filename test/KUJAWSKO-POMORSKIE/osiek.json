@@ -1,0 +1,41 @@
+[
+  {
+    "nw": "1382588",
+    "nw_1": "834237117",
+    "Imie": "Cezary",
+    "Nazwisko": "Agacki",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Osiek",
+    "Ulica": "Jeżewnica 9",
+    "Adres Pocztowy": "83-221",
+    "Nr.Telefonu": "507399081"
+  },
+  {
+    "nw": "1863708",
+    "nw_1": "496327347",
+    "Imie": "Kamil",
+    "Nazwisko": "Migacz",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "osiek",
+    "Ulica": "Szynkowizna 3",
+    "Adres Pocztowy": "87-340",
+    "Nr.Telefonu": "513051918"
+  },
+  {
+    "nw": "233060",
+    "nw_1": "329267166",
+    "Imie": "Piotr",
+    "Nazwisko": "Dębski",
+    "nw_2": "39959",
+    "Kraj": "Poland",
+    "Wojewodztwo": "Kujawsko-Pomorskie",
+    "Miasto": "Osiek",
+    "Ulica": "Osiek 16",
+    "Adres Pocztowy": "87-340",
+    "Nr.Telefonu": "573297222"
+  }
+]
