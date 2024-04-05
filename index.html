@@ -19,6 +19,7 @@
             background-color: rgba(255, 255, 255, 0.8);
             border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            position: relative; /* Dodajemy pozycję względną, aby móc pozycjonować rozwijalną listę */
         }
         h1 {
             text-align: center;
@@ -72,17 +73,33 @@
             position: absolute;
             top: 10px;
             left: 10px;
-            z-index: 1;
             background-color: #fff;
+            padding: 5px 10px;
             border-radius: 4px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            display: none;
+            cursor: pointer;
         }
         .updates-dropdown-content {
-            padding: 10px;
+            display: none;
+            position: absolute;
+            background-color: #fff;
+            min-width: 160px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            z-index: 1;
         }
         .updates-dropdown:hover .updates-dropdown-content {
             display: block;
+        }
+        .updates-dropdown-content ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+        .updates-dropdown-content ul li {
+            padding: 8px 12px;
+            cursor: pointer;
+        }
+        .updates-dropdown-content ul li:hover {
+            background-color: #f2f2f2;
         }
     </style>
 </head>
@@ -90,7 +107,7 @@
     <div class="beta-tag">BETA</div>
     <div class="container">
         <div class="updates-dropdown">
-            <span>Aktualizacje</span>
+            Aktualizacje
             <div class="updates-dropdown-content">
                 <ul>
                     <li>Aktualizacja 1 - Dodano funkcję XYZ</li>
