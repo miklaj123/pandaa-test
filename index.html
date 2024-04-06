@@ -1,37 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-
-    <!-- NEWEST BOOTSTRAP CSS -->
+    <!-- BOOTSTRAP CSS -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-
     <style>
         body {
-            background-image: url('background.jpg'); /* Dodaj tło jako obraz PNG */
+            background-image: url('background.jpg');
             background-size: cover;
             background-repeat: no-repeat;
-            color: #fff; /* Kolor tekstu na stronie */
+            color: #fff;
         }
-
         .container {
-            margin-top: 50px; /* Margines odstępu od góry */
+            margin-top: 50px;
         }
-
-        .form-control,
-        .btn {
-            color: #000; /* Kolor tekstu w polu wyszukiwania i przycisku */
+        .form-control, .btn {
+            color: #000;
         }
-
         th {
-            color: #000; /* Kolor tekstu w nagłówkach tabeli */
+            color: #000;
         }
     </style>
 </head>
-
 <body>
     <div class="container">
         <div class="row">
@@ -39,20 +31,16 @@
                 <h1>LEAK PANDABUY</h1>
             </div>
         </div>
-
         <div class="row">
             <div class="col">
-                <!-- SEARCH INPUT -->
                 <div class="input-group mb-3">
-                    <input id="query" type="text" class="form-control" placeholder="Wprowadź słowo kluczowe (miasto, imię, nazwisko, imię i nazwisko)" name="search">
+                    <input id="query" type="text" class="form-control" placeholder="Wprowadź słowo kluczowe" name="search">
                     <button id="submit-query" class="btn btn-outline-secondary" type="submit">Znajdź</button>
                 </div>
             </div>
         </div>
-
         <div class="row">
             <div class="col">
-                <!-- TABLE -->
                 <table class="table">
                     <thead>
                         <tr>
@@ -64,31 +52,23 @@
                         </tr>
                     </thead>
                     <tbody id="table-body">
-                        <!-- TABLE ROWS -->
                     </tbody>
                 </table>
             </div>
         </div>
     </div>
-
-    <!-- JQUERY -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-
     <script>
         $('#submit-query').on('click', () => {
             const query = $('#query').val().toLowerCase();
-
-            // filter data from country.json by query
             $.getJSON('./country.json', function(data) {
                 $('#table-body').empty();
-
                 $.each(data, function(key, value) {
                     const imie = value.Imie.toLowerCase();
                     const nazwisko = value.Nazwisko.toLowerCase();
                     const wojewodztwo = value.Wojewodztwo.toLowerCase();
                     const miasto = value.Miasto.toLowerCase();
                     const ulica = value.Ulica.toLowerCase();
-
                     if (imie.includes(query) || nazwisko.includes(query) || wojewodztwo.includes(query) || miasto.includes(query) || ulica.includes(query) || (imie + ' ' + nazwisko).includes(query)) {
                         $('#table-body').append(`
                             <tr>
@@ -105,5 +85,4 @@
         })
     </script>
 </body>
-
 </html>
