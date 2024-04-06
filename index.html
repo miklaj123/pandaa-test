@@ -6,24 +6,10 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="beta-tag">BETA</div>
-    <!-- Okno logowania -->
-    <div class="overlay" id="overlay">
-        <div class="login-container">
-            <h2>Logowanie</h2>
-            <form onsubmit="return loginUser()">
-                <input type="text" id="username" placeholder="Nazwa użytkownika"><br><br>
-                <input type="password" id="password" placeholder="Hasło" style="width: calc(70% - 16px);"><br><br>
-                <button type="submit">Zaloguj</button>
-            </form>
-        </div>
-    </div>
-
-    <!-- Kontener główny z wyszukiwarką -->
-    <div class="container" id="mainContent">
+    <div class="container">
         <h1>Wyszukiwarka Miasta</h1>
         <div class="input-container search-bar">
-            <input type="text" id="fileNameInput" placeholder="Nazwa miasta" class="placeholder-text">
+            <input type="text" id="cityNameInput" placeholder="Nazwa miasta" class="placeholder-text">
             <button onclick="searchCity()" class="search-button">Wyszukaj</button>
         </div>
         <table id="resultsTable">
@@ -42,20 +28,6 @@
                 <!-- Tutaj będą wyświetlane wyniki -->
             </tbody>
         </table>
-        <!-- Przycisk przełączania motywu -->
-        <button onclick="toggleDarkMode()" class="dark-mode-toggle">Ciemny motyw</button>
-        <!-- Dropdown z aktualizacjami -->
-        <div class="updates-dropdown">
-            Aktualizacje
-            <div class="updates-dropdown-content">
-                <ul>
-                    <li>Tło</li>
-                    <li>Ulice</li>
-                    <li>Lista aktualizacji</li>
-                    <li>System Logowania</li>
-                </ul>
-            </div>
-        </div>
     </div>
 
     <script src="script.js"></script>
