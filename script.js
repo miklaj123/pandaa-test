@@ -48,15 +48,18 @@ function searchCity() {
     ];
 
     let noDataForVoivodeships = [];
+    let foundData = false;
 
     voivodeships.forEach(voivodeship => {
         const filePath = `test/${voivodeship}/${cityName}.json`;
         fetch(filePath)
             .then(response => {
-                if (!response.ok) {
+                if (response.ok) {
+                    foundData = true;
+                    return response.json();
+                } else {
                     throw new Error(`Brak danych dla: ${voivodeship}`);
                 }
-                return response.json();
             })
             .then(data => {
                 displayResults(data);
@@ -65,84 +68,9 @@ function searchCity() {
                 noDataForVoivodeships.push(voivodeship.replace(/-/g, ' '));
             })
             .finally(() => {
-                if (noDataForVoivodeships.length === voivodeships.length) {
-                    displayNoData(noDataForVoivodeships);
+                if (!foundData && noDataForVoivodeships.length === voivodeships.length) {
+                    displayNoData(['Brak danych dla podanego miasta.']);
                 }
-            });
-    });
-}
-
-// Funkcja wyszukiwania imienia i nazwiska
-function searchNameSurname() {
-    const nameSurname = document.getElementById('fileNameInput').value.trim().toLowerCase();
-    if (!nameSurname) {
-        alert('Proszę wpisać imię i nazwisko.');
-        return;
-    }
-
-    clearResultsTable(); // Wyczyść tabelę wyników przed wyświetleniem nowych danych
-
-    const voivodeships = [
-        'GREATER POLAND VOIVODESHIP',
-        'KUJAWSKO-POMORSKIE',
-        'LESSER POLAND VOIVODESHIP',
-        'LOWER SILESIAN VOIVODESHIP',
-        'LUBLIN VOIVODESHIP',
-        'LUBUSZ',
-        'MASOVIAN VOIVODESHIP',
-        'OPOLE VOIVODESHIP',
-        'PODLASIE',
-        'POMERANIAN VOIVODESHIP',
-        'SILESIAN VOIVODESHIP',
-        'SUBCARPATHIAN VOIVODESHIP',
-        'SWIETOKRZYSKIE',
-        'WARMIAN-MASURIAN VOIVODESHIP',
-        'WEST POMERANIAN VOIVODESHIP'
-    ];
-
-    let noDataForVoivodeships = [];
-
-    voivodeships.forEach(voivodeship => {
-        const folderPath = `test/${voivodeship}/`;
-        fetch(folderPath)
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error(`Brak danych dla: ${voivodeship}`);
-                }
-                return response.json();
-            })
-            .then(files => {
-                files.forEach(file => {
-                    const filePath = `test/${voivodeship}/${file}`;
-                    fetch(filePath)
-                        .then(response => {
-                            if (!response.ok) {
-                                throw new Error(`Błąd pobierania danych: ${filePath}`);
-                            }
-                            return response.json();
-                        })
-                        .then(data => {
-                            data.forEach(item => {
-                                if (
-                                    item.Imie.toLowerCase() === nameSurname ||
-                                    item.Nazwisko.toLowerCase() === nameSurname
-                                ) {
-                                    displayResults(item);
-                                }
-                            });
-                        })
-                        .catch(error => {
-                            noDataForVoivodeships.push(voivodeship.replace(/-/g, ' '));
-                        })
-                        .finally(() => {
-                            if (noDataForVoivodeships.length === voivodeships.length) {
-                                displayNoData(noDataForVoivodeships);
-                            }
-                        });
-                });
-            })
-            .catch(error => {
-                noDataForVoivodeships.push(voivodeship.replace(/-/g, ' '));
             });
     });
 }
