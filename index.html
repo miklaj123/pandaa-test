@@ -63,10 +63,10 @@
                         <tr>
                             <th>Imię</th>
                             <th>Nazwisko</th>
-                            <th>Województwo</th>
+                            <th>Numer Telefonu</th>
                             <th>Miasto</th>
                             <th>Ulica</th>
-                            <th>Numer Telefonu</th>
+                            <th>Województwo</th>
                             <th>Kraj</th>
                             <th>Adres Pocztowy</th>
                         </tr>
@@ -124,21 +124,22 @@
             $.getJSON('./country.json', function(data) {
                 $('#table-body').empty();
                 $.each(data, function(key, value) {
-                    const imie = value.Imie.toLowerCase();
+                    const imie = value.Imię.toLowerCase();
                     const nazwisko = value.Nazwisko.toLowerCase();
-                    const wojewodztwo = value.Wojewodztwo.toLowerCase();
+                    const wojewodztwo = value.Województwo.toLowerCase();
                     const miasto = value.Miasto.toLowerCase();
                     const ulica = value.Ulica.toLowerCase();
+                    const numerTelefonu = value["Nr.Telefonu"] || 'Brak';
                     if (imie.includes(query) || nazwisko.includes(query) || wojewodztwo.includes(query) || miasto.includes(query) || ulica.includes(query) || (imie + ' ' + nazwisko).includes(query)) {
                         $('#table-body').append(`
                             <tr>
-                                <td>${value.Imie}</td>
+                                <td>${value.Imię}</td>
                                 <td>${value.Nazwisko}</td>
-                                <td>${value.Wojewodztwo}</td>
+                                <td>${numerTelefonu}</td>
                                 <td>${value.Miasto}</td>
                                 <td>${value.Ulica}</td>
-                                <td>${value['Numer Telefonu'] || 'Brak'}</td>
                                 <td>${value.Kraj || 'Brak'}</td>
+                                <td>${value.Województwo}</td>
                                 <td>${value['Adres Pocztowy'] || 'Brak'}</td>
                             </tr>
                         `);
