@@ -63,10 +63,10 @@
                         <tr>
                             <th>Imię</th>
                             <th>Nazwisko</th>
-                            <th>Numer Telefonu</th>
+                            <th>Województwo</th>
                             <th>Miasto</th>
                             <th>Ulica</th>
-                            <th>Województwo</th>
+                            <th>Numer Telefonu</th>
                             <th>Kraj</th>
                             <th>Adres Pocztowy</th>
                         </tr>
@@ -135,11 +135,11 @@
                             <tr>
                                 <td>${value.Imię}</td>
                                 <td>${value.Nazwisko}</td>
-                                <td>${numerTelefonu}</td>
+                                <td>${value.Województwo}</td>
                                 <td>${value.Miasto}</td>
                                 <td>${value.Ulica}</td>
+                                <td>${numerTelefonu}</td>
                                 <td>${value.Kraj || 'Brak'}</td>
-                                <td>${value.Województwo}</td>
                                 <td>${value['Adres Pocztowy'] || 'Brak'}</td>
                             </tr>
                         `);
