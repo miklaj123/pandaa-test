@@ -14,6 +14,20 @@
             background-image: url('background.jpg'); /* Dodaj tło jako obraz PNG */
             background-size: cover;
             background-repeat: no-repeat;
+            color: #fff; /* Kolor tekstu na stronie */
+        }
+
+        .container {
+            margin-top: 50px; /* Margines odstępu od góry */
+        }
+
+        .form-control,
+        .btn {
+            color: #000; /* Kolor tekstu w polu wyszukiwania i przycisku */
+        }
+
+        th {
+            color: #000; /* Kolor tekstu w nagłówkach tabeli */
         }
     </style>
 </head>
@@ -61,36 +75,6 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
     <script>
-        let dataLoaded = false;
-
-        // LOAD JSON DATA
-        function loadData() {
-            $.getJSON('./country.json', function(data) {
-                console.log(data);
-                $('#table-body').empty();
-
-                $.each(data, function(key, value) {
-                    $('#table-body').append(`
-                        <tr>
-                            <td>${value.Imie}</td>
-                            <td>${value.Nazwisko}</td>
-                            <td>${value.Wojewodztwo}</td>
-                            <td>${value.Miasto}</td>
-                            <td>${value.Ulica}</td>
-                        </tr>
-                    `);
-                });
-
-                dataLoaded = true; // Oznacz, że dane zostały załadowane
-            });
-        }
-
-        $('#query').on('focus', function() {
-            if (!dataLoaded) {
-                setTimeout(loadData, 500); // Opóźnienie ładowania danych
-            }
-        });
-
         $('#submit-query').on('click', () => {
             const query = $('#query').val().toLowerCase();
 
