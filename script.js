@@ -1,24 +1,3 @@
-// Funkcja otwierająca okno logowania
-function openLogin() {
-    document.getElementById("overlay").style.display = "flex";
-}
-
-// Funkcja logowania użytkownika
-function loginUser() {
-    const username = document.getElementById("username").value;
-    const password = document.getElementById("password").value;
-
-    // Sprawdzanie poprawności danych logowania
-    if (username === "PandaSearch" && password === "Panda-Leak") {
-        document.getElementById("overlay").style.display = "none"; // Ukrycie okna logowania
-        document.getElementById("mainContent").style.display = "block"; // Wyświetlenie głównego kontenera
-        return false; // Zapobieganie domyślnej akcji formularza
-    } else {
-        alert("Niepoprawna nazwa użytkownika lub hasło.");
-        return false; // Zapobieganie domyślnej akcji formularza
-    }
-}
-
 // Funkcja wyszukiwania miasta
 function searchCity() {
     const cityName = document.getElementById('fileNameInput').value.trim().toLowerCase();
@@ -29,66 +8,43 @@ function searchCity() {
 
     clearResultsTable(); // Wyczyść tabelę wyników przed wyświetleniem nowych danych
 
-    const voivodeships = [
-        'GREATER POLAND VOIVODESHIP',
-        'KUJAWSKO-POMORSKIE',
-        'LESSER POLAND VOIVODESHIP',
-        'LOWER SILESIAN VOIVODESHIP',
-        'LUBLIN VOIVODESHIP',
-        'LUBUSZ',
-        'MASOVIAN VOIVODESHIP',
-        'OPOLE VOIVODESHIP',
-        'PODLASIE',
-        'POMERANIAN VOIVODESHIP',
-        'SILESIAN VOIVODESHIP',
-        'SUBCARPATHIAN VOIVODESHIP',
-        'SWIETOKRZYSKIE',
-        'WARMIAN-MASURIAN VOIVODESHIP',
-        'WEST POMERANIAN VOIVODESHIP'
-    ];
-
-    let noDataForVoivodeships = [];
-    let foundData = false;
-
-    voivodeships.forEach(voivodeship => {
-        const filePath = `test/${voivodeship}/${cityName}.json`;
-        fetch(filePath)
-            .then(response => {
-                if (response.ok) {
-                    foundData = true;
-                    return response.json();
-                } else {
-                    throw new Error(`Brak danych dla: ${voivodeship}`);
-                }
-            })
-            .then(data => {
-                displayResults(data);
-            })
-            .catch(error => {
-                noDataForVoivodeships.push(voivodeship.replace(/-/g, ' '));
-            })
-            .finally(() => {
-                if (!foundData && noDataForVoivodeships.length === voivodeships.length) {
-                    displayNoData(['Brak danych dla podanego miasta.']);
-                }
-            });
-    });
+    const filePath = `test/country.json`; // Ścieżka do pliku JSON zawierającego dane miast
+    fetch(filePath)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error(`Brak danych dla: ${cityName}`);
+            }
+            return response.json();
+        })
+        .then(data => {
+            const filteredData = data.filter(item => item.Miasto.toLowerCase() === cityName);
+            if (filteredData.length > 0) {
+                displayResults(filteredData);
+            } else {
+                displayNoData([cityName]);
+            }
+        })
+        .catch(error => {
+            alert(`Wystąpił błąd podczas pobierania danych: ${error.message}`);
+        });
 }
 
 // Funkcja wyświetlająca wyniki wyszukiwania
 function displayResults(data) {
     const resultsTable = document.getElementById('resultsBody');
-    const row = document.createElement('tr');
-    row.innerHTML = `<td>${data.Imie || 'Brak'}</td><td>${data.Nazwisko || 'Brak'}</td><td>${data['Nr.Telefonu'] || 'Brak'}</td><td>${data.Miasto || 'Brak'}</td><td>${data.Ulica || 'Brak'}</td><td>${data.Kraj || 'Brak'}</td><td>${data['Adres Pocztowy'] || 'Brak'}</td>`;
-    resultsTable.appendChild(row);
+    data.forEach(item => {
+        const row = document.createElement('tr');
+        row.innerHTML = `<td>${item.Imie || 'Brak'}</td><td>${item.Nazwisko || 'Brak'}</td><td>${item['Nr.Telefonu'] || 'Brak'}</td><td>${item.Miasto || 'Brak'}</td><td>${item.Ulica || 'Brak'}</td><td>${item.Kraj || 'Brak'}</td><td>${item['Adres Pocztowy'] || 'Brak'}</td>`;
+        resultsTable.appendChild(row);
+    });
 }
 
 // Funkcja wyświetlająca informację o braku danych
-function displayNoData(noDataForVoivodeships) {
-    if (noDataForVoivodeships.length > 0) {
+function displayNoData(noDataForCity) {
+    if (noDataForCity.length > 0) {
         const resultsTable = document.getElementById('resultsBody');
         const row = document.createElement('tr');
-        row.innerHTML = `<td colspan="7">Brak danych dla większości województw.</td>`;
+        row.innerHTML = `<td colspan="7">Brak danych dla miasta: ${noDataForCity.join(', ')}</td>`;
         resultsTable.appendChild(row);
     }
 }
@@ -113,4 +69,20 @@ function toggleDarkMode() {
     searchBar.classList.toggle('dark-mode');
     const searchInput = document.getElementById('fileNameInput');
     searchInput.classList.toggle('dark-mode');
+}
+
+// Funkcja logowania użytkownika
+function loginUser() {
+    const username = document.getElementById("username").value;
+    const password = document.getElementById("password").value;
+
+    // Sprawdzanie poprawności danych logowania
+    if (username === "PandaSearch" && password === "Panda-Leak") {
+        document.getElementById("overlay").style.display = "none"; // Ukrycie okna logowania
+        document.getElementById("mainContent").style.display = "block"; // Wyświetlenie głównego kontenera
+        return false; // Zapobieganie domyślnej akcji formularza
+    } else {
+        alert("Niepoprawna nazwa użytkownika lub hasło.");
+        return false; // Zapobieganie domyślnej akcji formularza
+    }
 }
