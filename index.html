@@ -23,15 +23,15 @@
     <div class="container" id="mainContent">
         <h1>Wyszukiwarka Miasta</h1>
         <div class="input-container search-bar">
-            <select id="searchOptions">
+            <input type="text" id="fileNameInput" placeholder="Wyszukaj" class="placeholder-text">
+            <select id="searchCategory">
                 <option value="city">Miasto</option>
                 <option value="nameSurname">Imię i Nazwisko</option>
                 <option value="name">Imię</option>
                 <option value="surname">Nazwisko</option>
                 <option value="street">Ulica</option>
             </select>
-            <input type="text" id="fileNameInput" placeholder="Wpisz wyszukiwaną frazę" class="placeholder-text">
-            <button onclick="searchCity()" class="search-button">Wyszukaj</button>
+            <button onclick="search()" class="search-button">Szukaj</button>
         </div>
         <table id="resultsTable">
             <thead>

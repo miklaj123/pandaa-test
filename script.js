@@ -19,32 +19,13 @@ function loginUser() {
     }
 }
 
-// Funkcja wyszukiwania miasta, imienia i nazwiska
-function searchCity() {
-    const searchOption = document.getElementById('searchOptions').value;
-    let searchString;
-    switch(searchOption) {
-        case 'city':
-            searchString = document.getElementById('fileNameInput').value.trim().toLowerCase();
-            break;
-        case 'nameSurname':
-            searchString = document.getElementById('fileNameInput').value.trim().toLowerCase();
-            break;
-        case 'name':
-            searchString = document.getElementById('fileNameInput').value.trim().toLowerCase();
-            break;
-        case 'surname':
-            searchString = document.getElementById('fileNameInput').value.trim().toLowerCase();
-            break;
-        case 'street':
-            searchString = document.getElementById('fileNameInput').value.trim().toLowerCase();
-            break;
-        default:
-            return;
-    }
+// Funkcja wyszukiwania miasta
+function search() {
+    const searchCategory = document.getElementById('searchCategory').value;
+    const searchQuery = document.getElementById('fileNameInput').value.trim().toLowerCase();
 
-    if (!searchString) {
-        alert('Proszę wpisać nazwę miasta lub imię i nazwisko.');
+    if (!searchQuery) {
+        alert('Proszę wpisać frazę do wyszukania.');
         return;
     }
 
@@ -71,7 +52,7 @@ function searchCity() {
     let noDataForVoivodeships = [];
 
     voivodeships.forEach(voivodeship => {
-        const filePath = `test/${voivodeship}/`;
+        const filePath = `test/${voivodeship}/${searchQuery}.json`;
         fetch(filePath)
             .then(response => {
                 if (!response.ok) {
@@ -80,22 +61,16 @@ function searchCity() {
                 return response.json();
             })
             .then(data => {
-                switch(searchOption) {
-                    case 'city':
-                        displayResultsByCity(data, searchString);
-                        break;
-                    case 'nameSurname':
-                        displayResultsByNameSurname(data, searchString);
-                        break;
-                    case 'name':
-                        displayResultsByName(data, searchString, 'Imie');
-                        break;
-                    case 'surname':
-                        displayResultsByName(data, searchString, 'Nazwisko');
-                        break;
-                    case 'street':
-                        displayResultsByName(data, searchString, 'Ulica');
-                        break;
+                if (searchCategory === 'city') {
+                    displayResultsByCity(data);
+                } else if (searchCategory === 'nameSurname') {
+                    displayResultsByNameSurname(data);
+                } else if (searchCategory === 'name') {
+                    displayResultsByName(data);
+                } else if (searchCategory === 'surname') {
+                    displayResultsBySurname(data);
+                } else if (searchCategory === 'street') {
+                    displayResultsByStreet(data);
                 }
             })
             .catch(error => {
@@ -109,29 +84,19 @@ function searchCity() {
     });
 }
 
-// Funkcja wyświetlająca wyniki wyszukiwania po imieniu i nazwisku
-function displayResultsByNameSurname(data, searchString) {
+// Funkcja wyświetlająca wyniki dla kategorii "Miasto"
+function displayResultsByCity(data) {
     const resultsTable = document.getElementById('resultsBody');
     data.forEach(item => {
-        if ((item['Imie'] && item['Imie'].toLowerCase() === searchString) || (item['Nazwisko'] && item['Nazwisko'].toLowerCase() === searchString)) {
-            const row = document.createElement('tr');
-            row.innerHTML = `<td>${item.Imie || 'Brak'}</td><td>${item.Nazwisko || 'Brak'}</td><td>${item['Nr.Telefonu'] || 'Brak'}</td><td>${item.Miasto || 'Brak'}</td><td>${item.Ulica || 'Brak'}</td><td>${item.Kraj || 'Brak'}</td><td>${item['Adres Pocztowy'] || 'Brak'}</td>`;
-            resultsTable.appendChild(row);
-        }
+        const row = document.createElement('tr');
+        row.innerHTML = `<td>${item.Imie || 'Brak'}</td><td>${item.Nazwisko || 'Brak'}</td><td>${item['Nr.Telefonu'] || 'Brak'}</td><td>${item.Miasto || 'Brak'}</td><td>${item.Ulica || 'Brak'}</td><td>${item.Kraj || 'Brak'}</td><td>${item['Adres Pocztowy'] || 'Brak'}</td>`;
+        resultsTable.appendChild(row);
     });
 }
 
-// Funkcja wyświetlająca wyniki wyszukiwania po imieniu, nazwisku lub ulicy
-function displayResultsByName(data, searchString, propertyName) {
-    const resultsTable = document.getElementById('resultsBody');
-    data.forEach(item => {
-        if (item[propertyName] && item[propertyName].toLowerCase().includes(searchString)) {
-            const row = document.createElement('tr');
-            row.innerHTML = `<td>${item.Imie || 'Brak'}</td><td>${item.Nazwisko || 'Brak'}</td><td>${item['Nr.Telefonu'] || 'Brak'}</td><td>${item.Miasto || 'Brak'}</td><td>${item.Ulica || 'Brak'}</td><td>${item.Kraj || 'Brak'}</td><td>${item['Adres Pocztowy'] || 'Brak'}</td>`;
-            resultsTable.appendChild(row);
-        }
-    });
-}
+// Funkcje displayResultsByNameSurname, displayResultsByName, displayResultsBySurname, displayResultsByStreet
+// i inne funkcje wyświetlające wyniki dla różnych kategorii wyszukiwania będą podobne do funkcji displayResultsByCity(data).
+// Jednak będą różnić się sposobem wyświetlania danych w tabeli.
 
 // Funkcja wyświetlająca informację o braku danych
 function displayNoData(noDataForVoivodeships) {
