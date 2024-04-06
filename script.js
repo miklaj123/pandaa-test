@@ -19,11 +19,32 @@ function loginUser() {
     }
 }
 
-// Funkcja wyszukiwania miasta
+// Funkcja wyszukiwania miasta, imienia i nazwiska
 function searchCity() {
-    const cityName = document.getElementById('fileNameInput').value.trim().toLowerCase();
-    if (!cityName) {
-        alert('Proszę wpisać nazwę miasta.');
+    const searchOption = document.getElementById('searchOptions').value;
+    let searchString;
+    switch(searchOption) {
+        case 'city':
+            searchString = document.getElementById('fileNameInput').value.trim().toLowerCase();
+            break;
+        case 'nameSurname':
+            searchString = document.getElementById('fileNameInput').value.trim().toLowerCase();
+            break;
+        case 'name':
+            searchString = document.getElementById('fileNameInput').value.trim().toLowerCase();
+            break;
+        case 'surname':
+            searchString = document.getElementById('fileNameInput').value.trim().toLowerCase();
+            break;
+        case 'street':
+            searchString = document.getElementById('fileNameInput').value.trim().toLowerCase();
+            break;
+        default:
+            return;
+    }
+
+    if (!searchString) {
+        alert('Proszę wpisać nazwę miasta lub imię i nazwisko.');
         return;
     }
 
@@ -50,7 +71,7 @@ function searchCity() {
     let noDataForVoivodeships = [];
 
     voivodeships.forEach(voivodeship => {
-        const filePath = `test/${voivodeship}/${cityName}.json`;
+        const filePath = `test/${voivodeship}/`;
         fetch(filePath)
             .then(response => {
                 if (!response.ok) {
@@ -59,7 +80,23 @@ function searchCity() {
                 return response.json();
             })
             .then(data => {
-                displayResults(data);
+                switch(searchOption) {
+                    case 'city':
+                        displayResultsByCity(data, searchString);
+                        break;
+                    case 'nameSurname':
+                        displayResultsByNameSurname(data, searchString);
+                        break;
+                    case 'name':
+                        displayResultsByName(data, searchString, 'Imie');
+                        break;
+                    case 'surname':
+                        displayResultsByName(data, searchString, 'Nazwisko');
+                        break;
+                    case 'street':
+                        displayResultsByName(data, searchString, 'Ulica');
+                        break;
+                }
             })
             .catch(error => {
                 noDataForVoivodeships.push(voivodeship.replace(/-/g, ' '));
@@ -72,13 +109,27 @@ function searchCity() {
     });
 }
 
-// Funkcja wyświetlająca wyniki wyszukiwania
-function displayResults(data) {
+// Funkcja wyświetlająca wyniki wyszukiwania po imieniu i nazwisku
+function displayResultsByNameSurname(data, searchString) {
     const resultsTable = document.getElementById('resultsBody');
     data.forEach(item => {
-        const row = document.createElement('tr');
-        row.innerHTML = `<td>${item.Imie || 'Brak'}</td><td>${item.Nazwisko || 'Brak'}</td><td>${item['Nr.Telefonu'] || 'Brak'}</td><td>${item.Miasto || 'Brak'}</td><td>${item.Ulica || 'Brak'}</td><td>${item.Kraj || 'Brak'}</td><td>${item['Adres Pocztowy'] || 'Brak'}</td>`;
-        resultsTable.appendChild(row);
+        if ((item['Imie'] && item['Imie'].toLowerCase() === searchString) || (item['Nazwisko'] && item['Nazwisko'].toLowerCase() === searchString)) {
+            const row = document.createElement('tr');
+            row.innerHTML = `<td>${item.Imie || 'Brak'}</td><td>${item.Nazwisko || 'Brak'}</td><td>${item['Nr.Telefonu'] || 'Brak'}</td><td>${item.Miasto || 'Brak'}</td><td>${item.Ulica || 'Brak'}</td><td>${item.Kraj || 'Brak'}</td><td>${item['Adres Pocztowy'] || 'Brak'}</td>`;
+            resultsTable.appendChild(row);
+        }
+    });
+}
+
+// Funkcja wyświetlająca wyniki wyszukiwania po imieniu, nazwisku lub ulicy
+function displayResultsByName(data, searchString, propertyName) {
+    const resultsTable = document.getElementById('resultsBody');
+    data.forEach(item => {
+        if (item[propertyName] && item[propertyName].toLowerCase().includes(searchString)) {
+            const row = document.createElement('tr');
+            row.innerHTML = `<td>${item.Imie || 'Brak'}</td><td>${item.Nazwisko || 'Brak'}</td><td>${item['Nr.Telefonu'] || 'Brak'}</td><td>${item.Miasto || 'Brak'}</td><td>${item.Ulica || 'Brak'}</td><td>${item.Kraj || 'Brak'}</td><td>${item['Adres Pocztowy'] || 'Brak'}</td>`;
+            resultsTable.appendChild(row);
+        }
     });
 }
 
