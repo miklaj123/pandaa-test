@@ -15,11 +15,21 @@
         .container {
             margin-top: 50px;
         }
-        .form-control, .btn {
+        .form-control {
             color: #000;
+        }
+        th, td {
+            border: 1px solid #000;
         }
         th {
             color: #000;
+        }
+        #submit-query {
+            background-color: #4caf50;
+            color: #fff;
+        }
+        #submit-query:hover {
+            background-color: #15da1f;
         }
     </style>
 </head>
@@ -27,7 +37,7 @@
     <div class="container">
         <div class="row">
             <div class="col">
-                <h1>LEAK PANDABUY</h1>
+                <h1>WYSZUKIWARKA PANDABUY</h1>
             </div>
         </div>
         <div class="row">
@@ -48,6 +58,9 @@
                             <th>Województwo</th>
                             <th>Miasto</th>
                             <th>Ulica</th>
+                            <th>Numer Telefonu</th>
+                            <th>Kraj</th>
+                            <th>Adres Pocztowy</th>
                         </tr>
                     </thead>
                     <tbody id="table-body">
@@ -56,9 +69,49 @@
             </div>
         </div>
     </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="loginModal" tabindex="-1" aria-labelledby="loginModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="loginModalLabel">Logowanie</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <form id="login-form">
+                        <div class="mb-3">
+                            <input type="text" class="form-control" id="login" placeholder="Login">
+                        </div>
+                        <div class="mb-3">
+                            <input type="password" class="form-control" id="password" placeholder="Hasło">
+                        </div>
+                        <button type="submit" class="btn btn-primary">Zaloguj</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <button id="logout-button" class="btn btn-danger d-none">Wyloguj</button> <!-- Przycisk wylogowania ukryty na początku -->
+
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"></script>
     <script>
+        $(document).ready(function() {
+            $('#loginModal').modal('show');
+        });
+
+        let isUserLoggedIn = false;
+
+        // Funkcja do obsługi kliknięcia przycisku wyszukiwania
         $('#submit-query').on('click', () => {
+            if (!isUserLoggedIn) {
+                showLoginModal(); // Wyświetl okno logowania jeśli użytkownik nie jest zalogowany
+                return;
+            }
+            
             const query = $('#query').val().toLowerCase();
             $.getJSON('./country.json', function(data) {
                 $('#table-body').empty();
@@ -76,12 +129,41 @@
                                 <td>${value.Wojewodztwo}</td>
                                 <td>${value.Miasto}</td>
                                 <td>${value.Ulica}</td>
+                                <td>${value['Numer Telefonu'] || 'Brak'}</td>
+                                <td>${value.Kraj || 'Brak'}</td>
+                                <td>${value['Adres Pocztowy'] || 'Brak'}</td>
                             </tr>
                         `);
                     }
                 });
             });
-        })
+        });
+
+        // Logowanie
+        $('#login-form').submit(function(event) {
+            event.preventDefault();
+            const login = $('#login').val();
+            const password = $('#password').val();
+            if (login === "PandaSearch" && password === "Panda-Leak") {
+                $('#loginModal').modal('hide');
+                isUserLoggedIn = true;
+                $('#logout-button').removeClass('d-none'); // Pokaż przycisk wylogowania
+            } else {
+                alert('Niepoprawny login lub hasło.');
+            }
+        });
+
+        // Wylogowanie
+        $('#logout-button').click(function() {
+            isUserLoggedIn = false;
+            showLoginModal(); // Wyświetl okno logowania po wylogowaniu
+            $('#logout-button').addClass('d-none'); // Ukryj przycisk wylogowania
+        });
+
+        // Funkcja do wyświetlania okna logowania
+        function showLoginModal() {
+            $('#loginModal').modal('show');
+        }
     </script>
 </body>
 </html>
