@@ -1,55 +1,34 @@
 <!DOCTYPE html>
-<html lang="pl">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Wyszukiwarka Miasta</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="beta-tag">BETA</div>
-    <!-- Overlay for Login -->
-    <div class="overlay" id="overlay">
-        <div class="login-container">
-            <h2>Logowanie</h2>
-            <form onsubmit="return loginUser()">
-                <input type="text" id="username" placeholder="Nazwa użytkownika" class="form-control"><br><br>
-                <input type="password" id="password" placeholder="Hasło" class="form-control"><br><br>
-                <button type="submit" class="btn btn-primary">Zaloguj</button>
-            </form>
+    <div class="container">
+        <h1>LEAK PANDABUY</h1>
+        <div class="search-box">
+            <input id="query" type="text" placeholder="Wprowadź słowo kluczowe (miasto, imię, nazwisko)">
+            <button id="submit-query">Znajdź</button>
         </div>
-    </div>
-
-    <!-- Main Container -->
-    <div class="container mt-5" id="mainContent" style="display: none;">
-        <div class="row">
-            <div class="col">
-                <h1>Wyszukiwarka Miasta</h1>
-                <div class="input-group mb-3">
-                    <input type="text" id="query" class="form-control" placeholder="Wprowadź słowo kluczowe (miasto, imię, nazwisko, imię i nazwisko)">
-                    <button onclick="searchCity()" class="btn btn-outline-secondary" type="button">Znajdź</button>
-                </div>
-            </div>
-        </div>
-        <table class="table" id="resultsTable">
+        <table id="results-table">
             <thead>
                 <tr>
                     <th>Imię</th>
                     <th>Nazwisko</th>
-                    <th>Numer Telefonu</th>
                     <th>Miasto</th>
                     <th>Ulica</th>
                     <th>Kraj</th>
                     <th>Adres Pocztowy</th>
                 </tr>
             </thead>
-            <tbody id="resultsBody">
-                <!-- Results will be displayed here -->
+            <tbody id="table-body">
+                <!-- Wyniki zostaną tu wstawione -->
             </tbody>
         </table>
-        <button onclick="toggleDarkMode()" class="btn btn-secondary dark-mode-toggle">Ciemny motyw</button>
     </div>
-
     <script src="script.js"></script>
 </body>
 </html>
