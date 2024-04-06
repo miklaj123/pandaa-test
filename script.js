@@ -19,43 +19,57 @@ function loginUser() {
     }
 }
 
-// Funkcja wyszukiwania danych (imię, nazwisko, miasto, itp.) z nowego pliku JSON
-function search() {
-    const searchTerm = document.getElementById('fileNameInput').value.trim().toLowerCase();
-    if (!searchTerm) {
-        alert('Proszę wpisać imię, nazwisko lub miasto.');
+// Funkcja wyszukiwania miasta
+function searchCity() {
+    const cityName = document.getElementById('fileNameInput').value.trim().toLowerCase();
+    if (!cityName) {
+        alert('Proszę wpisać nazwę miasta.');
         return;
     }
 
     clearResultsTable(); // Wyczyść tabelę wyników przed wyświetleniem nowych danych
 
-    // Ścieżka do pliku JSON z danymi
-    const filePath = `test/country.json`;
+    const voivodeships = [
+        'GREATER POLAND VOIVODESHIP',
+        'KUJAWSKO-POMORSKIE',
+        'LESSER POLAND VOIVODESHIP',
+        'LOWER SILESIAN VOIVODESHIP',
+        'LUBLIN VOIVODESHIP',
+        'LUBUSZ',
+        'MASOVIAN VOIVODESHIP',
+        'OPOLE VOIVODESHIP',
+        'PODLASIE',
+        'POMERANIAN VOIVODESHIP',
+        'SILESIAN VOIVODESHIP',
+        'SUBCARPATHIAN VOIVODESHIP',
+        'SWIETOKRZYSKIE',
+        'WARMIAN-MASURIAN VOIVODESHIP',
+        'WEST POMERANIAN VOIVODESHIP'
+    ];
 
-    fetch(filePath)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error(`Błąd pobierania danych.`);
-            }
-            return response.json();
-        })
-        .then(data => {
-            // Sprawdzanie, czy dane pasują do wyszukiwanego terminu (imię, nazwisko, miasto)
-            const filteredData = data.filter(item => {
-                return Object.values(item).some(value =>
-                    typeof value === 'string' && value.toLowerCase().includes(searchTerm)
-                );
+    let noDataForVoivodeships = [];
+
+    voivodeships.forEach(voivodeship => {
+        const filePath = `test/${voivodeship}/${cityName}.json`;
+        fetch(filePath)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Brak danych dla: ${voivodeship}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                displayResults(data);
+            })
+            .catch(error => {
+                noDataForVoivodeships.push(voivodeship.replace(/-/g, ' '));
+            })
+            .finally(() => {
+                if (noDataForVoivodeships.length === voivodeships.length) {
+                    displayNoData(noDataForVoivodeships);
+                }
             });
-            if (filteredData.length > 0) {
-                displayResults(filteredData);
-            } else {
-                displayNoData(["Dane"]);
-            }
-        })
-        .catch(error => {
-            console.error('Błąd pobierania danych:', error);
-            displayNoData(["Dane"]);
-        });
+    });
 }
 
 // Funkcja wyświetlająca wyniki wyszukiwania
