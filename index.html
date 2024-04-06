@@ -30,7 +30,7 @@
             <div class="col">
                 <!-- SEARCH INPUT -->
                 <div class="input-group mb-3">
-                    <input id="query" type="text" class="form-control" placeholder="Wprowadz słowo kluczowe (miasto, imię, nazwisko, imię i nazwisko)" name="search">
+                    <input id="query" type="text" class="form-control" placeholder="Wprowadź słowo kluczowe (miasto, imię, nazwisko, imię i nazwisko)" name="search">
                     <button id="submit-query" class="btn btn-outline-secondary" type="submit">Znajdź</button>
                 </div>
             </div>
@@ -61,6 +61,8 @@
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 
     <script>
+        let dataLoaded = false;
+
         // LOAD JSON DATA
         function loadData() {
             $.getJSON('./country.json', function(data) {
@@ -78,8 +80,16 @@
                         </tr>
                     `);
                 });
+
+                dataLoaded = true; // Oznacz, że dane zostały załadowane
             });
         }
+
+        $('#query').on('focus', function() {
+            if (!dataLoaded) {
+                setTimeout(loadData, 500); // Opóźnienie ładowania danych
+            }
+        });
 
         $('#submit-query').on('click', () => {
             const query = $('#query').val().toLowerCase();
@@ -99,8 +109,6 @@
                 }
             });
         })
-
-        loadData();
     </script>
 </body>
 
