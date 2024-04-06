@@ -107,20 +107,26 @@ function search(query, category) {
                             })
                             .then(data => {
                                 data.forEach(item => {
-                                    if (item.Imie.toLowerCase() === query || item.Nazwisko.toLowerCase() === query) {
+                                    if (
+                                        item.Imie.toLowerCase() === query ||
+                                        item.Nazwisko.toLowerCase() === query
+                                    ) {
                                         displayResults(item);
                                     }
                                 });
                             })
                             .catch(error => {
                                 noDataForVoivodeships.push(voivodeship.replace(/-/g, ' '));
+                            })
+                            .finally(() => {
+                                if (noDataForVoivodeships.length === voivodeships.length) {
+                                    displayNoData(noDataForVoivodeships);
+                                }
                             });
                     });
                 })
-                .finally(() => {
-                    if (noDataForVoivodeships.length === voivodeships.length) {
-                        displayNoData(noDataForVoivodeships);
-                    }
+                .catch(error => {
+                    noDataForVoivodeships.push(voivodeship.replace(/-/g, ' '));
                 });
         }
     });
