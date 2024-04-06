@@ -19,16 +19,30 @@ function loginUser() {
     }
 }
 
-// Funkcja wyszukiwania miasta lub imienia i nazwiska
-function search() {
-    const searchCategory = document.getElementById('searchCategory').value;
-    const searchQuery = document.getElementById('fileNameInput').value.trim().toLowerCase();
-
-    if (!searchQuery) {
-        alert('Proszę wpisać frazę do wyszukania.');
+// Funkcja wyszukiwania miasta
+function searchCity() {
+    const cityName = document.getElementById('fileNameInput').value.trim().toLowerCase();
+    if (!cityName) {
+        alert('Proszę wpisać nazwę miasta.');
         return;
     }
 
+    search(cityName, 'city');
+}
+
+// Funkcja wyszukiwania imienia i nazwiska
+function searchNameSurname() {
+    const nameSurname = document.getElementById('fileNameInput').value.trim().toLowerCase();
+    if (!nameSurname) {
+        alert('Proszę wpisać imię i nazwisko.');
+        return;
+    }
+
+    search(nameSurname, 'nameSurname');
+}
+
+// Funkcja wyszukiwania
+function search(query, category) {
     clearResultsTable(); // Wyczyść tabelę wyników przed wyświetleniem nowych danych
 
     const voivodeships = [
@@ -52,8 +66,8 @@ function search() {
     let noDataForVoivodeships = [];
 
     voivodeships.forEach(voivodeship => {
-        if (searchCategory === 'city') {
-            const filePath = `test/${voivodeship}/${searchQuery}.json`;
+        if (category === 'city') {
+            const filePath = `test/${voivodeship}/${query}.json`;
             fetch(filePath)
                 .then(response => {
                     if (!response.ok) {
@@ -62,7 +76,7 @@ function search() {
                     return response.json();
                 })
                 .then(data => {
-                    displayResultsByCity(data);
+                    displayResults(data);
                 })
                 .catch(error => {
                     noDataForVoivodeships.push(voivodeship.replace(/-/g, ' '));
@@ -72,7 +86,7 @@ function search() {
                         displayNoData(noDataForVoivodeships);
                     }
                 });
-        } else if (searchCategory === 'nameSurname') {
+        } else if (category === 'nameSurname') {
             const folderPath = `test/${voivodeship}/`;
             fetch(folderPath)
                 .then(response => {
@@ -93,18 +107,15 @@ function search() {
                             })
                             .then(data => {
                                 data.forEach(item => {
-                                    if (item.Imie.toLowerCase() === searchQuery || item.Nazwisko.toLowerCase() === searchQuery) {
-                                        displayResultsByNameSurname(item);
+                                    if (item.Imie.toLowerCase() === query || item.Nazwisko.toLowerCase() === query) {
+                                        displayResults(item);
                                     }
                                 });
                             })
                             .catch(error => {
-                                console.error(error);
+                                noDataForVoivodeships.push(voivodeship.replace(/-/g, ' '));
                             });
                     });
-                })
-                .catch(error => {
-                    noDataForVoivodeships.push(voivodeship.replace(/-/g, ' '));
                 })
                 .finally(() => {
                     if (noDataForVoivodeships.length === voivodeships.length) {
@@ -115,18 +126,8 @@ function search() {
     });
 }
 
-// Funkcja wyświetlająca wyniki dla wyszukiwania według miasta
-function displayResultsByCity(data) {
-    const resultsTable = document.getElementById('resultsBody');
-    data.forEach(item => {
-        const row = document.createElement('tr');
-        row.innerHTML = `<td>${item.Imie || 'Brak'}</td><td>${item.Nazwisko || 'Brak'}</td><td>${item['Nr.Telefonu'] || 'Brak'}</td><td>${item.Miasto || 'Brak'}</td><td>${item.Ulica || 'Brak'}</td><td>${item.Kraj || 'Brak'}</td><td>${item['Adres Pocztowy'] || 'Brak'}</td>`;
-        resultsTable.appendChild(row);
-    });
-}
-
-// Funkcja wyświetlająca wyniki dla wyszukiwania według imienia i nazwiska
-function displayResultsByNameSurname(data) {
+// Funkcja wyświetlająca wyniki wyszukiwania
+function displayResults(data) {
     const resultsTable = document.getElementById('resultsBody');
     const row = document.createElement('tr');
     row.innerHTML = `<td>${data.Imie || 'Brak'}</td><td>${data.Nazwisko || 'Brak'}</td><td>${data['Nr.Telefonu'] || 'Brak'}</td><td>${data.Miasto || 'Brak'}</td><td>${data.Ulica || 'Brak'}</td><td>${data.Kraj || 'Brak'}</td><td>${data['Adres Pocztowy'] || 'Brak'}</td>`;
