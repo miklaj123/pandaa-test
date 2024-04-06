@@ -27,22 +27,6 @@ function searchCity() {
         return;
     }
 
-    search(cityName, 'city');
-}
-
-// Funkcja wyszukiwania imienia i nazwiska
-function searchNameSurname() {
-    const nameSurname = document.getElementById('fileNameInput').value.trim().toLowerCase();
-    if (!nameSurname) {
-        alert('Proszę wpisać imię i nazwisko.');
-        return;
-    }
-
-    search(nameSurname, 'nameSurname');
-}
-
-// Funkcja wyszukiwania
-function search(query, category) {
     clearResultsTable(); // Wyczyść tabelę wyników przed wyświetleniem nowych danych
 
     const voivodeships = [
@@ -66,69 +50,100 @@ function search(query, category) {
     let noDataForVoivodeships = [];
 
     voivodeships.forEach(voivodeship => {
-        if (category === 'city') {
-            const filePath = `test/${voivodeship}/${query}.json`;
-            fetch(filePath)
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error(`Brak danych dla: ${voivodeship}`);
-                    }
-                    return response.json();
-                })
-                .then(data => {
-                    displayResults(data);
-                })
-                .catch(error => {
-                    noDataForVoivodeships.push(voivodeship.replace(/-/g, ' '));
-                })
-                .finally(() => {
-                    if (noDataForVoivodeships.length === voivodeships.length) {
-                        displayNoData(noDataForVoivodeships);
-                    }
-                });
-        } else if (category === 'nameSurname') {
-            const folderPath = `test/${voivodeship}/`;
-            fetch(folderPath)
-                .then(response => {
-                    if (!response.ok) {
-                        throw new Error(`Brak danych dla: ${voivodeship}`);
-                    }
-                    return response.json();
-                })
-                .then(files => {
-                    files.forEach(file => {
-                        const filePath = `test/${voivodeship}/${file}`;
-                        fetch(filePath)
-                            .then(response => {
-                                if (!response.ok) {
-                                    throw new Error(`Błąd pobierania danych: ${filePath}`);
-                                }
-                                return response.json();
-                            })
-                            .then(data => {
-                                data.forEach(item => {
-                                    if (
-                                        item.Imie.toLowerCase() === query ||
-                                        item.Nazwisko.toLowerCase() === query
-                                    ) {
-                                        displayResults(item);
-                                    }
-                                });
-                            })
-                            .catch(error => {
-                                noDataForVoivodeships.push(voivodeship.replace(/-/g, ' '));
-                            })
-                            .finally(() => {
-                                if (noDataForVoivodeships.length === voivodeships.length) {
-                                    displayNoData(noDataForVoivodeships);
+        const filePath = `test/${voivodeship}/${cityName}.json`;
+        fetch(filePath)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Brak danych dla: ${voivodeship}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                displayResults(data);
+            })
+            .catch(error => {
+                noDataForVoivodeships.push(voivodeship.replace(/-/g, ' '));
+            })
+            .finally(() => {
+                if (noDataForVoivodeships.length === voivodeships.length) {
+                    displayNoData(noDataForVoivodeships);
+                }
+            });
+    });
+}
+
+// Funkcja wyszukiwania imienia i nazwiska
+function searchNameSurname() {
+    const nameSurname = document.getElementById('fileNameInput').value.trim().toLowerCase();
+    if (!nameSurname) {
+        alert('Proszę wpisać imię i nazwisko.');
+        return;
+    }
+
+    clearResultsTable(); // Wyczyść tabelę wyników przed wyświetleniem nowych danych
+
+    const voivodeships = [
+        'GREATER POLAND VOIVODESHIP',
+        'KUJAWSKO-POMORSKIE',
+        'LESSER POLAND VOIVODESHIP',
+        'LOWER SILESIAN VOIVODESHIP',
+        'LUBLIN VOIVODESHIP',
+        'LUBUSZ',
+        'MASOVIAN VOIVODESHIP',
+        'OPOLE VOIVODESHIP',
+        'PODLASIE',
+        'POMERANIAN VOIVODESHIP',
+        'SILESIAN VOIVODESHIP',
+        'SUBCARPATHIAN VOIVODESHIP',
+        'SWIETOKRZYSKIE',
+        'WARMIAN-MASURIAN VOIVODESHIP',
+        'WEST POMERANIAN VOIVODESHIP'
+    ];
+
+    let noDataForVoivodeships = [];
+
+    voivodeships.forEach(voivodeship => {
+        const folderPath = `test/${voivodeship}/`;
+        fetch(folderPath)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`Brak danych dla: ${voivodeship}`);
+                }
+                return response.json();
+            })
+            .then(files => {
+                files.forEach(file => {
+                    const filePath = `test/${voivodeship}/${file}`;
+                    fetch(filePath)
+                        .then(response => {
+                            if (!response.ok) {
+                                throw new Error(`Błąd pobierania danych: ${filePath}`);
+                            }
+                            return response.json();
+                        })
+                        .then(data => {
+                            data.forEach(item => {
+                                if (
+                                    item.Imie.toLowerCase() === nameSurname ||
+                                    item.Nazwisko.toLowerCase() === nameSurname
+                                ) {
+                                    displayResults(item);
                                 }
                             });
-                    });
-                })
-                .catch(error => {
-                    noDataForVoivodeships.push(voivodeship.replace(/-/g, ' '));
+                        })
+                        .catch(error => {
+                            noDataForVoivodeships.push(voivodeship.replace(/-/g, ' '));
+                        })
+                        .finally(() => {
+                            if (noDataForVoivodeships.length === voivodeships.length) {
+                                displayNoData(noDataForVoivodeships);
+                            }
+                        });
                 });
-        }
+            })
+            .catch(error => {
+                noDataForVoivodeships.push(voivodeship.replace(/-/g, ' '));
+            });
     });
 }
 
