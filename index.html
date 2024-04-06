@@ -78,19 +78,29 @@
         $('#submit-query').on('click', () => {
             const query = $('#query').val().toLowerCase();
 
-            // filter data from table $('#table-body') by query without getJson
-            $('#table-body tr').each(function() {
-                const imie = $(this).find('td').eq(0).text().toLowerCase();
-                const nazwisko = $(this).find('td').eq(1).text().toLowerCase();
-                const wojewodztwo = $(this).find('td').eq(2).text().toLowerCase();
-                const miasto = $(this).find('td').eq(3).text().toLowerCase();
-                const ulica = $(this).find('td').eq(4).text().toLowerCase();
+            // filter data from country.json by query
+            $.getJSON('./country.json', function(data) {
+                $('#table-body').empty();
 
-                if (imie.includes(query) || nazwisko.includes(query) || wojewodztwo.includes(query) || miasto.includes(query) || ulica.includes(query) || (imie + ' ' + nazwisko).includes(query)) {
-                    $(this).show();
-                } else {
-                    $(this).hide();
-                }
+                $.each(data, function(key, value) {
+                    const imie = value.Imie.toLowerCase();
+                    const nazwisko = value.Nazwisko.toLowerCase();
+                    const wojewodztwo = value.Wojewodztwo.toLowerCase();
+                    const miasto = value.Miasto.toLowerCase();
+                    const ulica = value.Ulica.toLowerCase();
+
+                    if (imie.includes(query) || nazwisko.includes(query) || wojewodztwo.includes(query) || miasto.includes(query) || ulica.includes(query) || (imie + ' ' + nazwisko).includes(query)) {
+                        $('#table-body').append(`
+                            <tr>
+                                <td>${value.Imie}</td>
+                                <td>${value.Nazwisko}</td>
+                                <td>${value.Wojewodztwo}</td>
+                                <td>${value.Miasto}</td>
+                                <td>${value.Ulica}</td>
+                            </tr>
+                        `);
+                    }
+                });
             });
         })
     </script>
