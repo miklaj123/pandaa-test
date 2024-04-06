@@ -1,4 +1,3 @@
-// Funkcja wyszukiwania miasta
 function searchCity() {
     const cityName = document.getElementById('fileNameInput').value.trim().toLowerCase();
     if (!cityName) {
@@ -21,7 +20,7 @@ function searchCity() {
             if (filteredData.length > 0) {
                 displayResults(filteredData);
             } else {
-                displayNoData([cityName]);
+                displayNoData(cityName);
             }
         })
         .catch(error => {
@@ -29,25 +28,24 @@ function searchCity() {
         });
 }
 
-// Funkcja wyświetlająca wyniki wyszukiwania
+// Aktualizacja funkcji displayResults() do obsługi nowych danych
 function displayResults(data) {
     const resultsTable = document.getElementById('resultsBody');
     data.forEach(item => {
         const row = document.createElement('tr');
-        row.innerHTML = `<td>${item.Imie || 'Brak'}</td><td>${item.Nazwisko || 'Brak'}</td><td>${item['Nr.Telefonu'] || 'Brak'}</td><td>${item.Miasto || 'Brak'}</td><td>${item.Ulica || 'Brak'}</td><td>${item.Kraj || 'Brak'}</td><td>${item['Adres Pocztowy'] || 'Brak'}</td>`;
+        row.innerHTML = `<td>${item.Imie}</td><td>${item.Nazwisko}</td><td>${item['Nr.Telefonu']}</td><td>${item.Miasto}</td><td>${item.Ulica}</td><td>${item.Kraj}</td><td>${item['Adres Pocztowy']}</td>`;
         resultsTable.appendChild(row);
     });
 }
 
-// Funkcja wyświetlająca informację o braku danych
-function displayNoData(noDataForCity) {
-    if (noDataForCity.length > 0) {
-        const resultsTable = document.getElementById('resultsBody');
-        const row = document.createElement('tr');
-        row.innerHTML = `<td colspan="7">Brak danych dla miasta: ${noDataForCity.join(', ')}</td>`;
-        resultsTable.appendChild(row);
-    }
+// Funkcja wyświetlająca komunikat o braku danych dla wybranego miasta
+function displayNoData(cityName) {
+    const resultsTable = document.getElementById('resultsBody');
+    const row = document.createElement('tr');
+    row.innerHTML = `<td colspan="7">Brak danych dla miasta: ${cityName}</td>`;
+    resultsTable.appendChild(row);
 }
+
 
 // Funkcja czyszcząca tabelę wyników
 function clearResultsTable() {
