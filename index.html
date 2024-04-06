@@ -3,176 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <title>Wyszukiwarka Miasta</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-image: url('background.jpg'); /* Dodanie obrazu JPG jako tła */
-            background-size: cover; /* Zapewnienie, że obraz będzie wypełniał całe tło */
-            background-position: center; /* Wyśrodkowanie obrazu na tle */
-            position: relative; /* Dodajemy pozycję względną, aby móc umieścić napis BETA */
-        }
-        .container {
-            max-width: 80%;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: rgba(211, 209, 209, 0.8);
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            position: relative; /* Dodajemy pozycję względną, aby móc pozycjonować rozwijalną listę */
-        }
-        .beta-tag {
-            position: absolute;
-            top: 10px;
-            right: 10px;
-            background-color: orange;
-            color: #fff;
-            padding: 5px 10px;
-            border-radius: 4px;
-            font-size: 12px;
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-        }
-        .input-container {
-            position: relative;
-            margin-bottom: 20px;
-        }
-        input[type="text"] {
-            padding: 8px;
-            width: 70%;
-            border-radius: 4px;
-            border: 1px solid #ccc;
-            font-size: 16px;
-            color: #333;
-        }
-        .placeholder-text {
-            color: #999;
-        }
-        .search-button {
-            padding: 8px 16px;
-            border-radius: 4px;
-            border: none;
-            background-color: #4caf50;
-            color: #fff;
-            font-size: 16px;
-            cursor: pointer;
-            float: right; /* Dodajemy styl float:right, aby przesunąć przycisk na prawą stronę */
-        }
-        .search-button:hover {
-            background-color: #15da1f;
-        }
-        .dark-mode-toggle {
-            padding: 8px 16px;
-            border-radius: 4px;
-            border: none;
-            background-color: #333;
-            color: #fff;
-            font-size: 16px;
-            cursor: pointer;
-            position: absolute;
-            top: 10px;
-            right: 10px;
-        }
-        .dark-mode-toggle:hover {
-            background-color: #555;
-        }
-        table {
-            border-collapse: collapse;
-            width: 100%;
-            margin-top: 20px;
-            background-color: #fff; /* Domyślne tło kolumn */
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 10px;
-            text-align: left;
-            color: #333; /* Domyślny kolor tekstu */
-        }
-        th {
-            background-color: #f2f2f2;
-            font-weight: bold;
-        }
-        .beta-tag {
-            position: absolute;
-            top: 10px;
-            right: 10px;
-            background-color: orange;
-            color: #fff;
-            padding: 5px 10px;
-            border-radius: 4px;
-            font-size: 12px;
-        }
-        .updates-dropdown {
-            position: absolute;
-            top: 10px;
-            left: 10px;
-            background-color: #d6211b;
-            padding: 5px 10px;
-            border-radius: 4px;
-            cursor: pointer;
-        }
-        .updates-dropdown-content {
-            display: none;
-            position: absolute;
-            background-color: #15beb6;
-            min-width: 160px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-            z-index: 1;
-        }
-        .updates-dropdown:hover .updates-dropdown-content {
-            display: block;
-        }
-        .updates-dropdown-content ul {
-            list-style-type: none;
-            padding: 0;
-            margin: 0;
-        }
-        .updates-dropdown-content ul li {
-            padding: 8px 12px;
-            cursor: pointer;
-        }
-        .updates-dropdown span {
-            color: blue;
-        }
-        .updates-dropdown-content ul li:hover {
-            background-color: #1f969e;
-        }
-
-        /* Dodajemy styl dla ciemnego motywu */
-        .container.dark-mode {
-            background-color: rgba(63, 61, 61, 0.8); /* zmiana na ciemny kolor */
-            color: #fff; /* zmiana koloru tekstu na biały */
-        }
-        .dark-mode th,
-        .dark-mode td {
-            background-color: #333; /* Kolor tła kolumn w ciemnym motywie */
-            color: #fff; /* Kolor tekstu w kolumnach w ciemnym motywie */
-        }
-        .dark-mode th {
-            color: #fff; /* Kolor tekstu nagłówków w ciemnym motywie */
-        }
-        .dark-mode h1 {
-            color: #fff; /* Kolor tekstu w nagłówku "Wyszukiwarka Miasta" w ciemnym motywie */
-        }
-        .dark-mode .placeholder-text {
-            color: #fff; /* Kolor tekstu w placeholderze */
-        }
-        .search-bar.dark-mode {
-            background-color: #333; /* Kolor tła paska wyszukiwania w ciemnym motywie */
-        }
-        .search-bar.dark-mode input[type="text"] {
-            color: #252424; /* Kolor tekstu w pasku wyszukiwania w ciemnym motywie */
-        }
-    </style>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="beta-tag">BETA</div>
-<body>
-    <div class="container">
-        <h1 class="search-title">Wyszukiwarka Miasta</h1>
+    <!-- Okno logowania -->
+    <div class="overlay" id="overlay">
+        <div class="login-container">
+            <h2>Logowanie</h2>
+            <form onsubmit="return loginUser()">
+                <input type="text" id="username" placeholder="Nazwa użytkownika"><br><br>
+                <input type="password" id="password" placeholder="Hasło" style="width: calc(70% - 16px);"><br><br>
+                <button type="submit">Zaloguj</button>
+            </form>
+        </div>
+    </div>
+
+    <!-- Kontener główny z wyszukiwarką -->
+    <div class="container" id="mainContent">
+        <h1>Wyszukiwarka Miasta</h1>
         <div class="input-container search-bar">
             <input type="text" id="fileNameInput" placeholder="Nazwa miasta" class="placeholder-text">
             <button onclick="searchCity()" class="search-button">Wyszukaj</button>
@@ -184,7 +33,7 @@
                     <th>Nazwisko</th>
                     <th>Numer Telefonu</th>
                     <th>Miasto</th>
-                    <th>Ulica</th> <!-- Kolumna Ulica pojawi się tutaj -->
+                    <th>Ulica</th>
                     <th>Kraj</th>
                     <th>Adres Pocztowy</th>
                 </tr>
@@ -193,7 +42,9 @@
                 <!-- Tutaj będą wyświetlane wyniki -->
             </tbody>
         </table>
+        <!-- Przycisk przełączania motywu -->
         <button onclick="toggleDarkMode()" class="dark-mode-toggle">Ciemny motyw</button>
+        <!-- Dropdown z aktualizacjami -->
         <div class="updates-dropdown">
             Aktualizacje
             <div class="updates-dropdown-content">
@@ -206,97 +57,6 @@
         </div>
     </div>
 
-    <script>
-        function searchCity() {
-            const cityName = document.getElementById('fileNameInput').value.trim().toLowerCase();
-            if (!cityName) {
-                document.getElementById('resultsBody').innerHTML = `<tr><td colspan="7">Proszę wpisać nazwę miasta.</td></tr>`;
-                return;
-            }
-
-            clearResultsTable();
-
-            const voivodeships = [
-                'GREATER POLAND VOIVODESHIP',
-                'KUJAWSKO-POMORSKIE',
-                'LESSER POLAND VOIVODESHIP',
-                'LOWER SILESIAN VOIVODESHIP',
-                'LUBLIN VOIVODESHIP',
-                'LUBUSZ',
-                'MASOVIAN VOIVODESHIP',
-                'OPOLE VOIVODESHIP',
-                'PODLASIE',
-                'POMERANIAN VOIVODESHIP',
-                'SILESIAN VOIVODESHIP',
-                'SUBCARPATHIAN VOIVODESHIP',
-                'SWIETOKRZYSKIE',
-                'WARMIAN-MASURIAN VOIVODESHIP',
-                'WEST POMERANIAN VOIVODESHIP'
-            ];
-
-            let noDataForVoivodeships = [];
-
-            voivodeships.forEach(voivodeship => {
-                const filePath = `test/${voivodeship}/${cityName}.json`;
-                fetch(filePath)
-                    .then(response => {
-                        if (!response.ok) {
-                            throw new Error(`Brak danych dla: ${voivodeship}`);
-                        }
-                        return response.json();
-                    })
-                    .then(data => {
-                        displayResults(data);
-                    })
-                    .catch(error => {
-                        noDataForVoivodeships.push(voivodeship.replace(/-/g, ' ')); // Usuwamy myślniki dla lepszej czytelności
-                    })
-                    .finally(() => {
-                        if (noDataForVoivodeships.length === voivodeships.length) {
-                            displayNoData(noDataForVoivodeships);
-                        }
-                    });
-            });
-        }
-
-        function displayResults(data) {
-            const resultsTable = document.getElementById('resultsBody');
-            data.forEach(item => {
-                const row = document.createElement('tr');
-                row.innerHTML = `<td>${item.Imie || 'Brak'}</td><td>${item.Nazwisko || 'Brak'}</td><td>${item['Nr.Telefonu'] || 'Brak'}</td><td>${item.Miasto || 'Brak'}</td><td>${item.Ulica || 'Brak'}</td><td>${item.Kraj || 'Brak'}</td><td>${item['Adres Pocztowy'] || 'Brak'}</td>`;
-                resultsTable.appendChild(row);
-            });
-        }
-
-        function displayNoData(noDataForVoivodeships) {
-            if (noDataForVoivodeships.length > 0) {
-                const resultsTable = document.getElementById('resultsBody');
-                const row = document.createElement('tr');
-                row.innerHTML = `<td colspan="7">Brak danych dla większości województw.</td>`;
-                resultsTable.appendChild(row);
-            }
-        }
-
-        function clearResultsTable() {
-            const resultsTable = document.getElementById('resultsBody');
-            resultsTable.innerHTML = ''; // Wyczyść zawartość tabeli przed dodaniem nowych danych
-        }
-
-        // Dodajemy funkcję do obsługi zmiany koloru prostokąta
-        function toggleDarkMode() {
-            const container = document.querySelector('.container');
-            container.classList.toggle('dark-mode');
-            const table = document.getElementById('resultsTable');
-            table.classList.toggle('dark-mode');
-            const h1 = document.querySelector('.search-title');
-            h1.classList.toggle('dark-mode');
-            const placeholderText = document.querySelector('.placeholder-text');
-            placeholderText.classList.toggle('dark-mode');
-            const searchBar = document.querySelector('.search-bar');
-            searchBar.classList.toggle('dark-mode');
-            const searchInput = document.getElementById('fileNameInput');
-            searchInput.classList.toggle('dark-mode');
-        }
-    </script>
+    <script src="script.js"></script>
 </body>
 </html>
