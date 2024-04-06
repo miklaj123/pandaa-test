@@ -3,30 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <title>Wyszukiwarka Miasta</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="beta-tag">BETA</div>
-    <!-- Okno logowania -->
+    <!-- Overlay for Login -->
     <div class="overlay" id="overlay">
         <div class="login-container">
             <h2>Logowanie</h2>
             <form onsubmit="return loginUser()">
-                <input type="text" id="username" placeholder="Nazwa użytkownika"><br><br>
-                <input type="password" id="password" placeholder="Hasło" style="width: calc(70% - 16px);"><br><br>
-                <button type="submit">Zaloguj</button>
+                <input type="text" id="username" placeholder="Nazwa użytkownika" class="form-control"><br><br>
+                <input type="password" id="password" placeholder="Hasło" class="form-control"><br><br>
+                <button type="submit" class="btn btn-primary">Zaloguj</button>
             </form>
         </div>
     </div>
 
-    <!-- Kontener główny z wyszukiwarką -->
-    <div class="container" id="mainContent">
-        <h1>Wyszukiwarka Miasta</h1>
-        <div class="input-container search-bar">
-            <input type="text" id="fileNameInput" placeholder="Nazwa miasta" class="placeholder-text">
-            <button onclick="searchCity()" class="search-button">Wyszukaj</button>
+    <!-- Main Container -->
+    <div class="container mt-5" id="mainContent" style="display: none;">
+        <div class="row">
+            <div class="col">
+                <h1>Wyszukiwarka Miasta</h1>
+                <div class="input-group mb-3">
+                    <input type="text" id="query" class="form-control" placeholder="Wprowadź słowo kluczowe (miasto, imię, nazwisko, imię i nazwisko)">
+                    <button onclick="searchCity()" class="btn btn-outline-secondary" type="button">Znajdź</button>
+                </div>
+            </div>
         </div>
-        <table id="resultsTable">
+        <table class="table" id="resultsTable">
             <thead>
                 <tr>
                     <th>Imię</th>
@@ -39,23 +44,10 @@
                 </tr>
             </thead>
             <tbody id="resultsBody">
-                <!-- Tutaj będą wyświetlane wyniki -->
+                <!-- Results will be displayed here -->
             </tbody>
         </table>
-        <!-- Przycisk przełączania motywu -->
-        <button onclick="toggleDarkMode()" class="dark-mode-toggle">Ciemny motyw</button>
-        <!-- Dropdown z aktualizacjami -->
-        <div class="updates-dropdown">
-            Aktualizacje
-            <div class="updates-dropdown-content">
-                <ul>
-                    <li>Tło</li>
-                    <li>Ulice</li>
-                    <li>Lista aktualizacji</li>
-                    <li>System Logowania</li>
-                </ul>
-            </div>
-        </div>
+        <button onclick="toggleDarkMode()" class="btn btn-secondary dark-mode-toggle">Ciemny motyw</button>
     </div>
 
     <script src="script.js"></script>
