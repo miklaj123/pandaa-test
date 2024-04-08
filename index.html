@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Wyszukiwarka PandaBuy</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <style>
         body {
@@ -32,12 +32,15 @@
             background-color: #15da1f;
         }
         .modal-title {
-            color: #000 !important; /* Ustawienie koloru czarnego dla napisu "Zaloguj się" */
+            color: #000 !important;
         }
         #logout-button {
             position: absolute;
             top: 10px;
             right: 10px;
+        }
+        #loading-spinner {
+            display: none;
         }
     </style>
 </head>
@@ -54,6 +57,12 @@
                     <input id="query" type="text" class="form-control" placeholder="Wprowadź słowo kluczowe" name="search">
                     <button id="submit-query" class="btn btn-outline-secondary" type="submit">Znajdź</button>
                 </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col text-center" id="loading-spinner">
+                <div class="spinner-border text-light" role="status"></div>
+                <div class="text-light mt-2">Ładowanie...</div>
             </div>
         </div>
         <div class="row">
@@ -101,7 +110,7 @@
         </div>
     </div>
 
-    <button id="logout-button" class="btn btn-danger d-none">Wyloguj</button> <!-- Przycisk wylogowania ukryty na początku -->
+    <button id="logout-button" class="btn btn-danger d-none">Wyloguj</button>
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
@@ -113,14 +122,13 @@
 
         let isUserLoggedIn = false;
 
-        // Funkcja do obsługi kliknięcia przycisku wyszukiwania
         $('#submit-query').on('click', () => {
             if (!isUserLoggedIn) {
-                showLoginModal(); // Wyświetl okno logowania jeśli użytkownik nie jest zalogowany
+                showLoginModal();
                 return;
             }
-            
             const query = $('#query').val().toLowerCase();
+            $('#loading-spinner').show(); // Pokaż spinner
             $.getJSON('./country.json', function(data) {
                 $('#table-body').empty();
                 $.each(data, function(key, value) {
@@ -145,34 +153,50 @@
                         `);
                     }
                 });
+                $('#loading-spinner').hide(); // Ukryj spinner po załadowaniu danych
             });
         });
 
-        // Logowanie
-        $('#login-form').submit(function(event) {
-            event.preventDefault();
-            const login = $('#login').val();
-            const password = $('#password').val();
-            if (login === "PandaSearch" && password === "Panda-Leak") {
-                $('#loginModal').modal('hide');
-                isUserLoggedIn = true;
-                $('#logout-button').removeClass('d-none'); // Pokaż przycisk wylogowania
-            } else {
-                alert('Niepoprawny login lub hasło.');
-            }
-        });
-
-        // Wylogowanie
-        $('#logout-button').click(function() {
-            isUserLoggedIn = false;
-            showLoginModal(); // Wyświetl okno logowania po wylogowaniu
-            $('#logout-button').addClass('d-none'); // Ukryj przycisk wylogowania
-        });
-
-        // Funkcja do wyświetlania okna logowania
-        function showLoginModal() {
-            $('#loginModal').modal('show');
+        // Logowanie z hashem hasła
+        async function hashPassword(password) {
+            const encoder = new TextEncoder();
+            const data = encoder.encode(password);
+            const hash = await crypto.subtle.digest('SHA-256', data);
+            return Array.from(new Uint8Array(hash)).map(b => b.toString(16).padStart(2, '0')).join('');
         }
-    </script>
+
+                return Array.from(new Uint8Array(hash)).map(b => b.toString(16).padStart(2, '0')).join('');
+    }
+
+    $('#login-form').submit(async function(event) {
+        event.preventDefault();
+        const login = $('#login').val();
+        const password = $('#password').val();
+        const hashedPassword = await hashPassword(password);
+
+        // Przykład: zahashowane hasło dla "admin" (użyj rzeczywistego zahashowanego hasła w swojej aplikacji)
+        const expectedPasswordHash = '5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8'; // przykład hash SHA-256 dla "password"
+        const expectedLogin = 'admin';
+
+        if (login === expectedLogin && hashedPassword === expectedPasswordHash) {
+            $('#loginModal').modal('hide');
+            isUserLoggedIn = true;
+            $('#logout-button').removeClass('d-none');
+        } else {
+            alert('Nieprawidłowy login lub hasło');
+        }
+    });
+
+    $('#logout-button').click(function() {
+        isUserLoggedIn = false;
+        $(this).addClass('d-none');
+        $('#loginModal').modal('show');
+    });
+
+    function showLoginModal() {
+        $('#loginModal').modal('show');
+    }
+</script>
 </body>
 </html>
+
