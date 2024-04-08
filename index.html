@@ -39,14 +39,6 @@
             top: 10px;
             right: 10px;
         }
-        /* Dodany styl dla kółka ładowania */
-        .loading-spinner {
-            display: none;
-            color: #fff;
-        }
-        .loading-spinner.active {
-            display: inline-block;
-        }
     </style>
 </head>
 <body>
@@ -60,9 +52,7 @@
             <div class="col">
                 <div class="input-group mb-3">
                     <input id="query" type="text" class="form-control" placeholder="Wprowadź słowo kluczowe" name="search">
-                    <button id="submit-query" class="btn btn-outline-secondary" type="submit">
-                        <span class="loading-spinner" id="loading-spinner" role="status" aria-hidden="true"></span> Znajdź
-                    </button>
+                    <button id="submit-query" class="btn btn-outline-secondary" type="submit">Znajdź</button>
                 </div>
             </div>
         </div>
@@ -114,7 +104,6 @@
     <button id="logout-button" class="btn btn-danger d-none">Wyloguj</button> <!-- Przycisk wylogowania ukryty na początku -->
 
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"></script>
     <script>
@@ -130,12 +119,9 @@
                 showLoginModal(); // Wyświetl okno logowania jeśli użytkownik nie jest zalogowany
                 return;
             }
-
+            
             const query = $('#query').val().toLowerCase();
-            const spinner = $('#loading-spinner');
-            spinner.addClass('active'); // Aktywuj kółko ładowania
             $.getJSON('./country.json', function(data) {
-                spinner.removeClass('active'); // Deaktywuj kółko ładowania po zakończeniu pobierania danych
                 $('#table-body').empty();
                 $.each(data, function(key, value) {
                     const imie = value.Imie.toLowerCase();
@@ -162,23 +148,12 @@
             });
         });
 
-        // Zakoduj hasło za pomocą funkcji skrótu SHA-256
-        function hashPassword(password) {
-            return CryptoJS.SHA256(password).toString();
-        }
-
-        // Zakodowane hasło w pliku HTML
-        const storedHashedPassword = "d2d893bf1c17165cc087af0d1ee22990a5fc2d15fe4fd1d97149fc78f68d0622"; // Zakodowane hasło "Panda-Leak"
-
         // Logowanie
         $('#login-form').submit(function(event) {
             event.preventDefault();
             const login = $('#login').val();
             const password = $('#password').val();
-            const hashedPassword = hashPassword(password); // Zakoduj wprowadzone hasło
-
-            // Sprawdź zakodowane hasło
-            if (login === "PandaSearch" && hashedPassword === storedHashedPassword) {
+            if (login === "PandaSearch" && password === "Panda-Leak") {
                 $('#loginModal').modal('hide');
                 isUserLoggedIn = true;
                 $('#logout-button').removeClass('d-none'); // Pokaż przycisk wylogowania
