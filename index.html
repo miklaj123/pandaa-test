@@ -162,15 +162,22 @@
             });
         });
 
+        // Zakoduj hasło za pomocą funkcji skrótu SHA-256
+        function hashPassword(password) {
+            return CryptoJS.SHA256(password).toString();
+        }
+
+        // Zakodowane hasło w pliku HTML
+        const storedHashedPassword = "d2d893bf1c17165cc087af0d1ee22990a5fc2d15fe4fd1d97149fc78f68d0622"; // Zakodowane hasło "Panda-Leak"
+
         // Logowanie
         $('#login-form').submit(function(event) {
             event.preventDefault();
             const login = $('#login').val();
             const password = $('#password').val();
-            const hashedPassword = CryptoJS.SHA256(password).toString(); // Zakoduj hasło za pomocą SHA-256
+            const hashedPassword = hashPassword(password); // Zakoduj wprowadzone hasło
 
             // Sprawdź zakodowane hasło
-            const storedHashedPassword = "sha256_hashed_password"; // Zapisane zakodowane hasło
             if (login === "PandaSearch" && hashedPassword === storedHashedPassword) {
                 $('#loginModal').modal('hide');
                 isUserLoggedIn = true;
